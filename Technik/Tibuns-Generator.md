@@ -20,7 +20,7 @@ Ein **Rad**, dessen Lauffläche ein Reibekörper aus Bernstein ist. Kein Kondukt
   <tbody>
     <tr><td><strong>Reibekörper</strong></td><td>Bernsteinkranz auf einer Holzfelge, Segmente mit Birkenpech gefügt/verfugt, Stoßkanten poliert → durchgehende Reibfläche (~20 kg Bernstein bei 2 m Rad-Ø)</td></tr>
     <tr><td><strong>Reibung</strong></td><td>angedrücktes Kissen aus Fell/Wolle/Leder am Umfang (wie eine Bremse) lädt den Kranz kontinuierlich</td></tr>
-    <tr><td><strong>Antrieb</strong></td><td>Wasserrad (große Anlage) bzw. Handkurbel (Tisch-Modell/Prototyp). <strong>Das Wasserrad ist Tibuns eigene Idee</strong> (Autor, 14.09.2026) - im Norden ist um 550 keines belegt</td></tr>
+    <tr><td><strong>Antrieb</strong></td><td>Wasserrad (große Anlage) bzw. Handkurbel (Tisch-Modell/Prototyp). <strong>Das Wasserrad ist Tibuns eigene Idee</strong> (Autor, 14.09.2026) - im Norden ist um 550 keines belegt. Es steht <strong>direkt beim Ring im Skir</strong>; Tibun <strong>verengt dort einen kleinen Teil des Flusses</strong> für schnellere Strömung und baut iterativ (Autor, 14.09.2026). Wie die Drehung vom Wasserrad unten zum Bernsteinrad in der Werkstatt oben kommt: ???</td></tr>
     <tr><td><strong>Material-Regel</strong></td><td><strong>kein Eisen in der Reibzone</strong> - Metall würde die Ladung sofort ableiten; Strukturmetall isoliert von der geladenen Fläche halten</td></tr>
   </tbody>
 </table>

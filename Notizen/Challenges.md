@@ -48,7 +48,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-069: Prolog - Fridas Familie und Stiefvater ○](#c-069-prolog---fridas-familie-und-stiefvater-)
 - [C-071: Prolog - Tibuns Alter und Heiratsantrag ○](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
 - [C-079: Tibuns Alpträume - und der Traum als Ideenquelle ○](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
-- [C-083: Zitate als Kapitel-Motti ○](#c-083-zitate-als-kapitel-motti-)
 - [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
@@ -60,13 +59,11 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
-- [C-139: Erzählreihenfolge - verschränkt oder blockweise ○](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
-- [C-140: Wo der Anfang endet ○](#c-140-wo-der-anfang-endet-)
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
-- [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-182: Was Tibun in den Kaupvik-Jahren verliert ○](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
+- [C-185: Vom Wasserrad zum Bernsteinrad ○](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -114,6 +111,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
+- [C-083: Kapitel-Motti - Ideen, später ✓](#c-083-zitate-als-kapitel-motti-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
 - [C-087: Zeitrechnung im Erzähltext ✓](#c-087-zeitrechnung-im-erzähltext-)
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
@@ -158,6 +156,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
+- [C-139: Erzählreihenfolge - verschränkt ✓](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
+- [C-140: Der Anfang endet mit dem Blitz aus Tibuns Sicht ✓](#c-140-wo-der-anfang-endet-)
 - [C-141: Der Auftakt ist jetzt sehr dicht ✓](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)
 - [C-144: Das Feld „Will" ist uneinheitlich belegt ✓](#c-144-das-feld-will-ist-uneinheitlich-belegt-)
 - [C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
@@ -184,6 +184,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
+- [C-169: Das Wasserrad am Skir - verengter Lauf, iterativ ✓](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 - [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
@@ -1351,7 +1352,7 @@ Die Frage war falsch gestellt. Nach zehn Jahren gibt Girlin die Rückkehr auf: S
 
 ---
 
-### C-083: Zitate als Kapitel-Motti ○
+### C-083: Zitate als Kapitel-Motti ✓
 
 Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.md](Zitate.md). Noch nicht entschieden, ob überhaupt.
 
@@ -1367,6 +1368,10 @@ Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.
 **Stand:** Der Autor tendiert zu **weltinternen Motti**. Vorschläge gesammelt in [Zitate.md](Zitate.md) - Nordvolk (Weberin/Wanderer/Donnerer, Heide & Moor, Thing), Kel Aman (vorläufig, hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-)) und eine Gruppe verdeckter Kreislauf-Sprüche. Dort auch die Formregeln, darunter zwei harte: **Stabreim statt Endreim** (Endreim ist um 550 ein Anachronismus) und **keine Sprichwörter über Ringe** ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
 
 **Zusätzlich offen:** ob die beiden Stränge **getrennte Quellen** bekommen (Tibun-Kapitel = Nordvolk, Girlin-Kapitel = Kel Aman) - das würde die Strangzugehörigkeit vor dem ersten Satz signalisieren. Auswahl trifft der Autor.
+
+**Geschlossen (Autor, 14.09.2026):** Nichts wird jetzt entschieden, die Szenen gehen vor. Der Autor entscheidet später, **vielleicht fallen die Motti ganz weg**. Als Ideen notiert sind: weltintern, eine Quelle je Strang, durchgängig über jedem Kapitel. Die Challenge wird dafür nicht offen gehalten.
+
+Notiert in [Zitate.md](Zitate.md).
 
 ---
 
@@ -2730,7 +2735,7 @@ Damit **entfällt Jahr −1 vollständig.** Der Bernstein-Effekt lag bisher ein 
 
 ---
 
-### C-139: Erzählreihenfolge - verschränkt oder blockweise ○
+### C-139: Erzählreihenfolge - verschränkt oder blockweise ✓
 
 Bisher nirgends als Frage geführt, obwohl sie das Buch stärker prägt als die meisten offenen Punkte.
 
@@ -2743,11 +2748,13 @@ Die [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil---zwei-parallel
 
 **Zu bedenken:** Die Zählung der Szenenkandidaten (Stand 04.09.2026) ergibt insgesamt fast Gleichstand, aber eine sehr ungleiche Verteilung über die Zeit: In Jahr 0 stehen sieben Tibun-Einheiten gegen zwei bei Girlin, zwischen +5 und +8 acht Girlin-Einheiten gegen eine. Ein gleichmäßiger Wechsel ist damit nicht möglich - entweder wird er unregelmäßig, oder der Nordstrang bekommt zwischen +5 und +9 Inhalt, den er heute nicht hat ([C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)).
 
-**Offen · ???**
+**Entschieden (Autor, 14.09.2026): verschränkt.** Die Stränge wechseln sich ab, der Wechsel darf unregelmäßig sein.
+
+Nachgezogen in [Szenen.md](../Plots/Plot-1/Szenen.md#gliederung). Folge für [C-140](#c-140-wo-der-anfang-endet-): Es gibt einen Anfang, nicht zwei.
 
 ---
 
-### C-140: Wo der Anfang endet ○
+### C-140: Wo der Anfang endet ✓
 
 Aus den Entscheidungen vom 04.09.2026: Der **Prolog** besteht aus dem Beben, der **Anfang** setzt mit dem Bernstein-Effekt ein - wenige Tage später, ebenfalls in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Der **Schluss** ist der gemeinsame Block ab Zündung 1.
 
@@ -2755,7 +2762,11 @@ Aus den Entscheidungen vom 04.09.2026: Der **Prolog** besteht aus dem Beben, der
 
 Als Richtung notiert, **nicht beschlossen:** das Ende von Jahr +1 - dort sind beide Figuren in ihrer neuen Lage angekommen (Tibun in Kaupvik, Girlin bei den Kel Aman mit Bellbrim) und haben ihr Ziel gefasst.
 
-Hängt an [C-139](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-): Bei blockweiser Erzählung hat **jeder Strang** seinen eigenen Anfang, dann gibt es zwei davon statt einem.
+Hängt an [C-139](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-): Bei blockweiser Erzählung hat **jeder Strang** seinen eigenen Anfang, dann gibt es zwei davon statt einem. *(Nachtrag 14.09.2026: Der Autor hat verschränkt gewählt - [C-139 ✓](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-). Es gibt also **einen** Anfang. Wo er endet, bleibt offen.)*
+
+**Entschieden (Autor, 14.09.2026): Der Anfang endet mit Szene 4, *Der Blitz - Tibun*** - nach Girlins Verschwinden, aus Tibuns Sicht. Die oben notierte Richtung (Ende von Jahr +1) ist damit nicht gewählt. Der Anfang umfasst nur wenige Tage in Jahr 0; der Hauptteil beginnt mit Szene 5, *Der Suchtrupp*.
+
+Nachgezogen in [Szenen.md](../Plots/Plot-1/Szenen.md#gliederung). Der Generator der Szenenliste liest die Grenze jetzt dort aus.
 
 ---
 
@@ -3279,7 +3290,7 @@ Gegenrichtung: was der Norden verliert → [C-102](#c-102-was-bei-zündung-1-aus
 
 ---
 
-### C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○
+### C-169: Reicht der Durchfluss des Skir für das Wasserrad? ✓
 
 Aus [C-155 ✓](#c-155-breite-und-tiefe-des-skir-) ausgelagert (08.09.2026).
 
@@ -3289,6 +3300,19 @@ Entschieden ist die Geometrie an der Furt: **4-6 Schritt breit, knietief** - ein
 - Trägt dieser Durchfluss [Tibuns Wasserrad](#c-002-tibuns-elektrizitätsquelle-)? Ein knietiefer Lauf gibt wenig Fallhöhe her; ohne Stauwehr oder ein unterschlächtiges Rad an einer Engstelle wird es dünn.
 - Wie stark schwankt der Skir über das Jahr - führt er im Sommer weniger, friert er im Winter?
 - Falls ein **Wehr** nötig ist: Das wäre ein sichtbarer Eingriff am Fluss und damit ein Punkt für [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-) - das Dorf müsste darauf reagieren.
+
+**Teilentscheidung (Autor, 14.09.2026):**
+- **Das Rad steht direkt beim Ring im Wasser.**
+- **Tibun verengt einen kleinen Teil des Flusses**, um dort eine schnellere Strömung zu bekommen. Ein Wehr ist damit nicht gesetzt.
+- **Er baut iterativ:** Er probiert verschiedene Dinge aus, bis es trägt.
+
+Die Reaktion des Dorfes auf den Eingriff ist über [C-160 ✓](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-) beantwortet: nichts über die erneute Verhärtung durch die Wala hinaus.
+
+**Befund (Claude):** Der Ring liegt oben auf der Uferböschung, ein paar Meter über dem Wasser ([C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-)); das Bernsteinrad steht in der Werkstatt daneben. Das Wasserrad liegt also tiefer als das Rad, das es antreibt → [C-185](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-).
+
+**Jahresschwankung (Autor, 14.09.2026): unwichtig.** Damit ist die Autorenebene geklärt, die Challenge ist geschlossen. Die Übertragung zum Bernsteinrad bleibt in [C-185](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-).
+
+Nachgezogen: [Skirraa](../Orte/Skirraa.md), [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 
 ---
 
@@ -3571,10 +3595,31 @@ Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für
 
 Quellen: [Danish Journal of Archaeology - Early watermills](https://tidsskrift.dk/dja/article/view/124837), [Dendroarchaeological evidence of early medieval water mill technology](https://www.sciencedirect.com/science/article/abs/pii/S0305440318300438)
 
-**Entschieden (Autor, 14.09.2026): Das Wasserrad ist Tibuns eigene Idee.** Er hat es nicht aus Kaupvik und nicht von Händlern. Ein einfaches Rad in der Strömung, ohne Getriebe, liegt für einen Erfinder im Bereich des Möglichen - belegt ist es im Norden damit nicht, aber auch nicht unmöglich.
+**Entschieden (Autor, 14.09.2026): Das Wasserrad ist Tibuns eigene Idee.** Er hat es nicht aus Kaupvik und nicht von Händlern. Ein einfaches Rad in der Strömung, ohne Getriebe, liegt für einen Erfinder im Bereich des Möglichen - belegt ist es im Norden damit nicht, aber auch nicht unmöglich. *(Nachtrag 14.09.2026: „ohne Getriebe" ist nicht gedeckt. Ob zwischen Wasserrad und Bernsteinrad eine Übertragung nötig ist, fragt [C-185](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-).)*
 
 **Anmerkung (Claude):** Für [Bellbrims](../Menschen/Andere/Bellbrim.md) Wasserrad in der Wüste stellt sich die Frage schwächer: Das römische Nordafrika, aus dessen Erbe das Vandalenreich kam, kannte Wassermühlen. Nicht vom Autor entschieden, nur Befund.
 
 Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md).
+
+---
+
+### C-185: Wie die Drehung vom Wasserrad zum Bernsteinrad kommt ○
+
+Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-).
+
+**Was steht:**
+- Das Wasserrad steht **direkt beim Ring im Wasser** (Autor, 14.09.2026).
+- Der Ring liegt **oben auf der Uferböschung**, ein paar Meter über dem Skir ([C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-)).
+- Das **Bernsteinrad** steht in der Werkstatt über der Tabustelle; die Kette fällt aus deren Dachstuhl ([Tibuns Generator](../Technik/Tibuns-Generator.md)).
+- Im Zündablauf **dreht das Bernsteinrad schnell** bis zur Sättigung.
+
+**Befund (Claude):** Bezugsebene ist der Wasserspiegel des Skir. Das Wasserrad liegt auf seiner Höhe, das Bernsteinrad ein paar Meter darüber. Ein Wasserrad in der Strömung dreht außerdem eher langsam. Beides zusammen spricht dafür, dass zwischen den Rädern etwas vermitteln muss. Wie viele Umdrehungen das Bernsteinrad braucht, steht nirgends; eine Zahl gibt es dafür nicht.
+
+**Zu klären · ???**
+- **Wie** kommt die Drehung nach oben - lange Welle, Seil über Rollen, etwas anderes?
+- **Braucht es eine Übersetzung** ins Schnelle, oder reicht die Drehzahl des Wasserrads?
+- **Oder steht das Bernsteinrad unten** am Wasser? Dann müsste die Kette trotzdem zum Ring reichen.
+
+**Anmerkung (Claude):** Seil und Rolle kennt Tibun aus Kaupvik - der Erkenntnismoment an der Bootsziehwinde hängt daran. Nur ein Anknüpfungspunkt, keine Entscheidung.
 
 ---

@@ -40,13 +40,6 @@ QUELLE = wiki.SZENEN
 TEMPLATE = Path(__file__).resolve().parent / "szenenliste.template.html"
 ZIEL = wiki.WURZEL / "Notizen" / "Schaubilder" / "Szenenliste.html"
 
-# Wo der Anfang endet und der Hauptteil beginnt -- Grenze der Baender.
-# KEINE Festlegung: Das ist offen. Der Wert steht bewusst hier und nicht in
-# Szenen.md, damit im Wiki keine Entscheidung behauptet wird, die der Autor
-# nicht getroffen hat. Bis 05.09.2026 war er im Auswahlfeld der Seite
-# verstellbar; das Feld ist auf Wunsch des Autors entfallen.
-ANFANG_ENDET_NACH = "Der Blitz - Tibun"
-
 # Branchenrichtwerte fuer die Groessenordnung, keine Festlegung.
 WOERTER_MIN, WOERTER_MAX = 1200, 2000
 
@@ -118,7 +111,15 @@ def nummerieren(md):
     def zeile(m):
         teil, text, rest = m.group(1), m.group(2), m.group(3)
         if teil == "Anfang":
+            # "ab Szene N bis Szene M (Titel)": N folgt dem Prolog, M ist die
+            # Szene mit dem Titel in Klammern (Grenze entschieden 14.09.2026)
             p = prolog_pos + 1 if prolog_pos else None
+            klammer = re.search(r"\(([^)]+)\)", text)
+            ende = pos_von_titel.get(klammer.group(1).strip()) if klammer else None
+            if p is not None and ende is not None and re.search(r"bis Szene \d+", text):
+                text = re.sub(r"bis Szene \d+", "bis Szene %d" % ende, text)
+                text = re.sub(r"ab Szene \d+", "ab Szene %d" % p, text)
+                return "| %s | %s |%s" % (teil, text, rest)
         else:
             klammer = re.search(r"\(([^)]+)\)", text)
             p = pos_von_titel.get(klammer.group(1).strip()) if klammer else None
@@ -159,8 +160,8 @@ def main():
 
     prolog_titel, prolog_nr = lies_grenze(md, "Prolog")
     schluss_titel, schluss_nr = lies_grenze(md, "Schluss")
-    _, anfang_nr = lies_grenze(md, "Anfang")
-    for teil, t in (("Prolog", prolog_titel), ("Schluss", schluss_titel)):
+    anfang_titel, anfang_nr = lies_grenze(md, "Anfang")
+    for teil, t in (("Prolog", prolog_titel), ("Anfang", anfang_titel), ("Schluss", schluss_titel)):
         if not t:
             fehler(
                 "in der Gliederungszeile %r von Szenen.md steht kein Szenentitel in Klammern. "
@@ -180,11 +181,17 @@ def main():
                 "Gliederungstabelle in Szenen.md: %s nennt Szene %d, tatsaechlich ist es Szene %d. "
                 "Mit --nummerieren nachziehen." % (teil, genannt, tatsaechlich)
             )
-    anf_ende = position_von(szenen, ANFANG_ENDET_NACH, "Grenze Anfang/Hauptteil")
+    anf_ende = position_von(szenen, anfang_titel, "Grenze Anfang/Hauptteil")
     if not 2 <= anf_ende < schluss_pos:
         fehler(
-            "ANFANG_ENDET_NACH (%r, Position %d) liegt ausserhalb des Anfangs -- "
-            "Wert in %s anpassen." % (ANFANG_ENDET_NACH, anf_ende, Path(__file__).name)
+            "das Ende des Anfangs (%r, Position %d) liegt nicht zwischen Prolog und Schluss"
+            % (anfang_titel, anf_ende)
+        )
+    bis = re.search(r"bis Szene (\d+)", re.search(r"^\| Anfang \| (.+?) \|", md, re.M).group(1))
+    if bis and int(bis.group(1)) != anf_ende:
+        fehler(
+            "Gliederungstabelle in Szenen.md: Anfang endet laut Tabelle mit Szene %s, "
+            "tatsaechlich ist es Szene %d. Mit --nummerieren nachziehen." % (bis.group(1), anf_ende)
         )
 
     werte = kennzahlen(szenen)
@@ -211,7 +218,7 @@ def main():
            werte["OHNE_H"], werte["ZUSTAND"], werte["KEIN_W"])
     )
     print("Prolog: 1 %s · Anfang bis: %d %s · Schluss ab: %d %s"
-          % (prolog_titel, anf_ende, ANFANG_ENDET_NACH, schluss_pos, schluss_titel))
+          % (prolog_titel, anf_ende, anfang_titel, schluss_pos, schluss_titel))
     print("Umfang: %s-%s Woerter" % (werte["WORT_MIN"], werte["WORT_MAX"]))
 
     wiki.schreibe(ZIEL, html, sys.argv)

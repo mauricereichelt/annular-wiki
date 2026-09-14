@@ -2,6 +2,13 @@
 
 > **Status:** ??? - Sammlung. Verwendung noch offen: möglicherweise als **Motto zu Kapitelanfängen**.
 
+**Stand (Autor, 14.09.2026):** Die Szenen gehen vor. Ob es Motti gibt, entscheidet der Autor später - **vielleicht fallen sie ganz weg**. Als Ideen notiert, nichts davon entschieden:
+- **weltintern** statt Fremdzitaten
+- **eine Quelle je Strang** (Nordvolk über Tibuns, Kel Aman über Girlins Kapiteln)
+- **durchgängig über jedem Kapitel** - Motti sind ein Versprechen, Aussetzer wirken wie Versehen
+
+**Hinweise (Claude):** Fremdzitate aus geschützten Werken brauchen für eine Veröffentlichung meist eine Genehmigung. Ein Tolkien-Motto würde über einem Buch über geheimnisvolle Ringe einen Vergleich sichtbar machen, den es nicht gewinnen kann.
+
 ---
 
 ## Fremdzitate (gesammelt)

@@ -44,16 +44,16 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 | Teil | Umfang | Herkunft |
 |---|---|---|
 | Prolog | Szene 1 (Das Beben) | entschieden 04.09.2026 |
-| Anfang | ab Szene 2 bis **???** | wo der Anfang endet, ist offen |
+| Anfang | ab Szene 2 bis Szene 4 (Der Blitz - Tibun) | entschieden 14.09.2026 - endet nach Girlins Verschwinden, aus Tibuns Sicht |
 | Hauptteil | dazwischen | ergibt sich aus den beiden Grenzen |
 | Schluss | ab Szene 43 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
-Die Erzählreihenfolge - verschränkt oder blockweise - ist offen. Die Liste unten steht chronologisch.
+**Erzählt wird verschränkt** (Autor, 14.09.2026): Die Stränge wechseln sich ab, der Wechsel darf unregelmäßig sein. Die Liste unten steht chronologisch.
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **46 Szenen** (24 Tibun · 22 Girlin) · **19 vollständig** (Will, Hindernis und Ausgang gesetzt) · **17 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **46 Szenen** (24 Tibun · 22 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
 
 ---
 

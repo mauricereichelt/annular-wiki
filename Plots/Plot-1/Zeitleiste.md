@@ -106,6 +106,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
 - Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Fluss
 - Bau der **großen Wasseranlage** (Bernsteinrad, wasserradgetrieben) unter einer **überdachten Werkstatt über der Tabustelle**
+- **Das Wasserrad steht direkt beim Ring im Skir** (Autor, 14.09.2026): Tibun verengt einen kleinen Teil des Flusses für schnellere Strömung. Er baut **iterativ** und probiert verschiedene Dinge aus
 - **Womit er das bezahlt** (Autor, 08.09.2026): aus **Ersparnissen aus [Kaupvik](../../Orte/Kaupvik.md)** (acht Jahre Hafenarbeit und Handel - er kommt nicht mittellos zurück) und aus **dem, was der Wald am Skir hergibt** (Holz schlägt er selbst). Beides zusammen; nichts davon kommt aus dem Weiler, der ihn meidet. Was in einem Winter ohne Helfer davon zu schaffen ist: **???**
 - **Der Konflikt mit dem Weiler** (entschieden 02.09.2026):
   - Die Dorfbewohner **warnen** ihn, sind ängstlich und ärgerlich. **Niemand hilft ihm, er wird gemieden**
