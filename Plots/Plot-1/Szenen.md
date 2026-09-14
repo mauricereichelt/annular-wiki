@@ -53,7 +53,7 @@ Die Erzählreihenfolge - verschränkt oder blockweise - ist offen. Die Liste unt
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **46 Szenen** (24 Tibun · 22 Girlin) · **19 vollständig** (Will, Hindernis und Ausgang gesetzt) · **16 mit offenem Hindernis** (`???`), davon **10 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **46 Szenen** (24 Tibun · 22 Girlin) · **19 vollständig** (Will, Hindernis und Ausgang gesetzt) · **17 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -283,20 +283,7 @@ Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffe
 - **Ausgang:** Sie kommen zusammen. Seine Frau war zuvor mit einem anderen durchgebrannt.
 
 
-### 20 · Azzim, Auftritt 1
-
-> **POV:** Girlin · **Jahr +3** · **Offen:** Azzim u-Tawan - Herkunft & Hintergrund
-
-Auf dem Basar greift ein Sklavenhändler nach ihr.
-
-- **Will:** ???
-- **Hindernis:** Der Clan wehrt den Zugriff ab
-- **Ausgang:** Der Zugriff scheitert. Ab hier kennen sich beide als Feind; zum Wert kommt die Demütigung.
-
-> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie als Ware - sie ist selten" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
-
-
-### 21 · Der Erkenntnismoment
+### 20 · Der Erkenntnismoment
 
 > **POV:** Tibun · **Jahr +4** · **Offen:** Tibuns Elektrizitätsquelle
 
@@ -307,7 +294,7 @@ Ein Seil rutscht unter Last, wird heiß, raucht.
 - **Ausgang:** Die Einsicht: schnelle, kontinuierliche Reibung. Was er mit 15 sah, versteht er jetzt.
 
 
-### 22 · Das dritte Kind
+### 21 · Das dritte Kind
 
 > **POV:** Girlin · **Jahr +4** · **Offen:** -
 
@@ -318,7 +305,7 @@ Girlins Tochter **Tamant ult-Sekkan** wird in der Wüste geboren - **als eigene 
 - **Ausgang:** Das Kind ist da. Im Finale wird sie sechs sein.
 
 
-### 23 · Das Ziel kippt
+### 22 · Das Ziel kippt
 
 > **POV:** Girlin · **Jahr +4** · **Offen:** -
 
@@ -329,7 +316,7 @@ Mit der Geburt verschiebt sich, was sie will.
 - **Ausgang:** Aus „nach Hause gehen“ wird „ich bleibe“. Sechs Jahre vor dem Finale - und der Entschluss wackelt noch.
 
 
-### 24 · Der Ring bekommt einen neuen Zweck
+### 23 · Der Ring bekommt einen neuen Zweck
 
 > **POV:** Girlin · **Jahr +4** · **Offen:** -
 
@@ -340,7 +327,7 @@ Nicht mehr ihre Heimreise.
 - **Ausgang:** Der Ring wird ab jetzt für eine Nachricht geholt, nicht für sie selbst.
 
 
-### 25 · Die Bitte
+### 24 · Die Bitte
 
 > **POV:** Girlin · **Jahr +5** · **Offen:** -
 
@@ -351,9 +338,9 @@ Sie bittet den Clan, den Ring zu holen - **vor [Ishman](../../Menschen/Kel-Aman/
 - **Ausgang:** Der Clan sagt zu - aus Sippenpflicht gegenüber Sekkan, nicht ihretwegen.
 
 
-### 26 · Die Trennung vom Clan
+### 25 · Die Trennung vom Clan
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5
+> **POV:** Girlin · **Jahr +5** · **Offen:** -
 
 Die drei lösen sich und ziehen zu Bellbrim.
 
@@ -362,7 +349,7 @@ Die drei lösen sich und ziehen zu Bellbrim.
 - **Ausgang:** Sie ziehen in die Schlucht - im Guten. Ab hier ist Girlin ohne Sippenschutz: nicht ausgestoßen, nur zu weit weg, um zu rufen.
 
 
-### 27 · Das Tischmodell
+### 26 · Das Tischmodell
 
 > **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts
 
@@ -373,7 +360,7 @@ Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 - **Ausgang:** Das Modell läuft. Der Strang verliert in diesen Jahren nichts - kein Rückschlag, kein Gegenspieler.
 
 
-### 28 · Arbeit am Generator
+### 27 · Arbeit am Generator
 
 > **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen
 
@@ -386,7 +373,7 @@ Experimente mit Wasserfall und Wasserrad.
 > **Ohne Ring** (Autor, 14.09.2026): Prüfbar ist nur, dass Entladungen entstehen - sichtbar, hörbar, ihre Länge, der Schlag am eigenen Leib. Maßstab ist Girlins Blitz. Getragen werden die Jahre vom Alltag und von sichtbaren Fortschritten.
 
 
-### 29 · Der Basar
+### 28 · Der Basar
 
 > **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen
 
@@ -395,6 +382,27 @@ Der Generatorbau verlangt Material, das die Schlucht nicht hergibt. [Der Basar](
 - **Will:** Material beschaffen
 - **Hindernis:** Sie müssen dafür das Versteck verlassen - der einzige Weg, auf dem Azzim sie finden kann
 - **Ausgang:** ???
+
+
+### 29 · Azzim, Auftritt 1
+
+> **POV:** Girlin · **Jahr +5** · **Offen:** Azzim u-Tawan - Herkunft & Hintergrund
+
+Auf dem Basar spricht ein Sklavenhändler Girlin an, Bellbrim ist dabei - erst mit Angeboten und Versprechungen, dann mit Drohungen.
+
+- **Will:** ???
+- **Hindernis:** ???
+- **Ausgang:** Kein Zugriff. Die beiden entkommen durch Menge und Gedränge. Ab hier kennen sich Girlin und Azzim als Feind.
+
+> **Harmlos, nach der Trennung** (Autor, 14.09.2026): Der erste Auftritt liegt in +5 nach der Trennung vom Clan. Bellbrim ist dabei, nicht Sekkan.
+
+> **Ideen des Autors (14.09.2026), nicht beschlossen - beim Schreiben entscheiden:**
+> - **Er verfolgt sie**, aber sie entkommen durch die Menge und das Gedränge.
+> - **Er versucht es gar nicht** - er weiß, dass Bellbrim den Basar manchmal besucht, und vermutet, dass auch Girlin wiederkommt.
+
+> **Überholt (Autor, 14.09.2026):** Bisher lag die Szene in +3, vor der Geburt: ein Zugriff auf dem Basar, den der Clan abwehrt.
+
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie als Ware - sie ist selten" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 30 · Der Transport

@@ -38,6 +38,10 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 
 **Wie er auf Girlin kommt** (Autor, 08.09.2026): über **Gerede auf [dem Basar](../../Orte/Basar.md)**. Er hört von der Fremden und sucht sie dort auf - kein Zufallsblick, kein Dritter, der ihn hinschickt. Warum ausgerechnet sie und was das Gerede an ihr betont: **???**
 
+**Erster Auftritt** (Autor, 14.09.2026): in Jahr +5 auf dem Basar, nach Girlins Trennung vom Clan; [Bellbrim](../Andere/Bellbrim.md) ist dabei. Er läuft harmlos ab - ein Gespräch, Angebote und Versprechungen, dann Drohungen, **kein Zugriff**. Girlin entkommt. Er weiß, dass Bellbrim den Basar manchmal besucht, und vermutet, dass auch Girlin wiederkommt.
+
+**Temperament** (Autor, 14.09.2026): **sehr temperamentvoll und leicht aufbrausend.** Deshalb trifft ihn die Demütigung: Girlins Abweisung, ihr Entkommen und in +7/+8 der Handel, den der Clan ablehnt.
+
 > **Harte Regel - der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort, gestrandet, kommt er selbst auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde - als Schlusspointe und Aufhänger für spätere Geschichten, nicht als Antrieb in Plot 1.
 
 **Seine Leute** (Autor, 10.09.2026): Für den Angriff auf [die Schlucht](../../Orte/Bellbrims-Werkstatt.md) in Jahr +10 bringt er **drei bis vier Männer** mit - **eigene Leute**, die ohnehin für ihn arbeiten. Er muss keinen dingen und keinen bezahlen: **der Zug kostet ihn nichts** außer Zeit. Aus dem Angriff entsteht damit kein wirtschaftlicher Druck auf ihn - was ihn treibt, bleibt der Wert der Frau und die Demütigung der Fehlschläge. Drei bis vier genügen, weil der enge Fels sie ohnehin einzeln stellt; [Girlin](../Nordvolk/Girlin.md) und [Sekkan](Nebenfiguren/Sekkan.md) können darin bestehen.

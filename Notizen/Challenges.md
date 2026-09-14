@@ -63,7 +63,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 - [C-125: Das Transportverfahren ist offen ○](#c-125-das-transportverfahren-ist-offen-)
 - [C-126: Der Postring - was passt hinein? ○](#c-126-der-postring---was-passt-hinein-)
-- [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -151,6 +150,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-124: Die Zwischenstation - Ort und Gruppe ✓](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 - [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
+- [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ✓](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
 - [C-131: Generatorarbeit ohne Ring ✓](#c-131-generatorarbeit-ohne-ring-)
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-133: Azzims Leute für den Angriff ✓](#c-133-azzims-leute-für-den-angriff-)
@@ -2371,6 +2371,8 @@ Der Rahmen steht: Solange der Clan sie schützt (bis +8), scheitert jeder Zugrif
 | 3 | +9 | Basar → Schlucht | Zugriff, sie entkommt, **er folgt ihr und findet die Schlucht** | Sie ist schneller; er hat keine Leute |
 | 4 | +10 | Schlucht | Der Angriff - zugleich das Finale | - |
 
+> **Überholt (Autor, 14.09.2026):** Auftritt 1 liegt in **+5 nach der Trennung**, mit Bellbrim, ohne Zugriff - Gespräch, Angebote, Drohungen; Girlin entkommt ([C-129 ✓](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)).
+
 - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware, und ab dem ersten Fehlschlag die **Demütigung**. Das eine erklärt den Anfang, das andere die Hartnäckigkeit über sieben Jahre. Berührt [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-): In Auftritt 2 **redet** er und bietet einen Handel an - er ist nicht nur Räuber.
 - **Er sieht beim Transport nicht, wohin der Ring gebracht wird.** Deshalb muss er die Schlucht in +9 erst finden.
 - **Die Formulierung des Autors gilt - aber nur für Auftritt 3.** Fliehen, verstecken, verfolgt werden: ein Vorgang in +9, nicht mehrere.
@@ -2480,7 +2482,7 @@ Nachgezogen in [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund) und [sonsti
 
 ---
 
-### C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○
+### C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ✓
 
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Trennung vom Clan liegt in **Jahr +5**, nicht +8. Damit fällt die Begründung weg, die [C-116](#c-116-azzim-tritt-zu-spät-auf-) und [C-061](#c-061-navigationswissen-des-häuptlings-) für Azzims Zögern trugen - *„ab +8 ist sie ungeschützt"* stimmt nicht mehr.
 
@@ -2492,6 +2494,21 @@ Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Trenn
 - Er sieht beim Transport **nicht**, wohin der Ring gebracht wird ([C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)).
 
 **Zu prüfen beim Kapitelraster · ???** Ob das über fünf Jahre trägt oder ob der Leser fragt, warum ein Mann mit offener Rechnung so lange nichts unternimmt. Die vier Jahre zwischen Auftritt 1 und 2 sind der dünnste Teil.
+
+---
+
+**Beantwortet (Autor, 14.09.2026): Die Lage trägt - und Azzims erster Auftritt rückt hinter die Trennung.**
+
+- **Es reicht so**, ergänzt um einen Punkt: **Auf dem Basar meiden sie ihn.** Wie, ist offen · **???**
+- **Auftritt 1 liegt in +5, nach der Trennung vom Clan** - nicht mehr in +3 bis +5 als Zugriff, den der Clan abwehrt. Eigene Szene nach *Der Basar*.
+- **Er läuft harmlos ab:** *„Mit einem Gespräch und Angeboten und Versprechungen und dann Drohungen usw."* **Kein Zugriff**, Girlin entkommt.
+- **Bellbrim ist dabei, nicht Sekkan.** *„Azzim weiß, dass Bellbrim den Basar manchmal besucht, vermutet also, dass auch Girlin wieder kommen wird. Er verfolgt sie vielleicht, aber sie entkommen durch die Menge und das Gedränge."* Ob er ihnen folgt, entscheidet der Autor beim Schreiben: Beide Fassungen („vielleicht" verfolgt, „er versucht es nicht") stehen als Ideen bei der Szene *Azzim, Auftritt 1*.
+- **Die Demütigung** hat jetzt keinen gescheiterten Zugriff mehr als Auslöser. Stattdessen: *„Er ist sehr temperamentvoll und leicht aufbrausend."* Gedemütigt wird er durch ihre **Abweisung**, ihr **Entkommen** und in +7/+8 durch den **abgelehnten Handel**.
+- **+9 bleibt:** Beim Ringtransport wird sein Handel abgelehnt, **und der Clan schützt sie dort**. In +9 fällt das weg.
+
+Die Lücke zwischen Auftritt 1 und 2 schrumpft damit auf +5 bis +7/+8.
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Auftritt 1 in den Abschnitt *Die Jahre in der Schlucht* verschoben, Schutzlücke, Transport, +9, Überblickstabelle; dabei auch die Herkunft über Gerede nach [C-165 ✓](#c-165-wie-azzim-von-girlin-erfährt-) nachgezogen), [Szenen](../Plots/Plot-1/Szenen.md) (*Azzim, Auftritt 1* hinter *Der Basar*, neu nummeriert; Verweise auf Szenennummern in dieser Datei auf Titel umgestellt), [Der Basar](../Orte/Basar.md), [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Bellbrim](../Menschen/Andere/Bellbrim.md). Die Tabelle in [C-123 ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) trägt einen Überholt-Vermerk.
 
 ---
 
@@ -2540,7 +2557,7 @@ Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Der Basar
 - **Der Basar liegt einen Tagesmarsch entfernt.** Er ist kein Unternehmen, sondern ein Nachbar. Das stützt zugleich +9: Azzim kann ihr von dort bis zur Schlucht folgen.
 - **Wer geht, wechselt.** Meist gehen **zwei**, und **mindestens einer bleibt beim Kind**. Feste Rollen gibt es nicht - deshalb ist es kein Bruch, dass Girlin in +9 dabei ist.
 
-Eingetragen in die neue Ortsdatei [Der Basar](../Orte/Basar.md) (angelegt 09.09.2026 auf Wunsch des Autors), dazu [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 29).
+Eingetragen in die neue Ortsdatei [Der Basar](../Orte/Basar.md) (angelegt 09.09.2026 auf Wunsch des Autors), dazu [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene *Der Basar*).
 
 **Offen bleibt · ???** **Welches Material** der Generator überhaupt braucht - das hängt an seiner Bauart → [C-135](#c-135-der-wüstengenerator---bauart-offen-).
 
@@ -3019,7 +3036,7 @@ Das Hindernis vor dem Transport hat drei Phasen - **Zugehörigkeit → Wissen �
 - **Offiziell binden sich die beiden, als [Girlin](../Menschen/Nordvolk/Girlin.md) die Schwangerschaft bemerkt** - im Lauf von +3/+4, vor Tamants Geburt. Das Kind ist der **Anlass**, nicht die Bedingung. Damit ist auch die offene Frage aus [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-) beantwortet, ob die beiden sich binden.
 - **Die Bitte ergeht vor [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) und dem Ältestenrat** - förmlich vor der Versammlung, nicht unter vier Augen. Der Häuptling entscheidet nicht allein ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat), festgelegt am selben Tag).
 
-**Was das für [Szene 25](../Plots/Plot-1/Szenen.md) heißt:** Das Hindernis ist nicht mehr ihre Zugehörigkeit - die steht seit +3. Es ist die Versammlung selbst: Sie bittet um einen Zug, der den Clan enormen Aufwand kostet ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)).
+**Was das für [Szene *Die Bitte*](../Plots/Plot-1/Szenen.md) heißt:** Das Hindernis ist nicht mehr ihre Zugehörigkeit - die steht seit +3. Es ist die Versammlung selbst: Sie bittet um einen Zug, der den Clan enormen Aufwand kostet ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)).
 
 Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Szenen](../Plots/Plot-1/Szenen.md) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
@@ -3322,7 +3339,7 @@ Aus [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) ausgelagert (09.09.2
 - **Es helfen die erfahrenen Frauen des Clans.** Keine Rolle, kein Amt, kein besonderer Stand - die Älteren, die es können.
 - **Der Stand der Gebärenden spielt keine Rolle.** Die Hilfe hängt **nicht** daran, ob [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Girlin schon aufgenommen hat: Bei einer Geburt fragt niemand danach. Damit ist dieser Punkt von [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-) entkoppelt.
 - **[Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) ist nicht da** - er ist mit einer Karawane unterwegs. Girlin bekommt das Kind ohne ihn, unter Frauen eines fremden Volkes.
-- **Die Geburt ist eine eigene Szene**, nicht hinter dem Schnitt. [Szene 22](../Plots/Plot-1/Szenen.md) hat damit ein Hindernis: Sie ist allein unter Fremden.
+- **Die Geburt ist eine eigene Szene**, nicht hinter dem Schnitt. [Szene *Das dritte Kind*](../Plots/Plot-1/Szenen.md) hat damit ein Hindernis: Sie ist allein unter Fremden.
 
 Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#geburt), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin](../Menschen/Nordvolk/Girlin.md).
 
@@ -3354,7 +3371,7 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots
 
 **Der Autor hat klargestellt:** Der Preis bleibt. **Fortzuziehen ist bei den Kel Aman extrem unüblich und selten** - Sekkan tut etwas, das kaum jemand tut. Es ist nur keine Strafe, sondern **Entzug**: Er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun.
 
-Damit trägt sein Beitrag zum dritten Konflikt weiterhin ([C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)), und Szene 26 in [Szenen.md](../Plots/Plot-1/Szenen.md) hat wieder ein Hindernis. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#weggang-aus-der-sippe) und [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md).
+Damit trägt sein Beitrag zum dritten Konflikt weiterhin ([C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)), und die Szene *Die Trennung vom Clan* in [Szenen.md](../Plots/Plot-1/Szenen.md) hat wieder ein Hindernis. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#weggang-aus-der-sippe) und [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md).
 
 ---
 

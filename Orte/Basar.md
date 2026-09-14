@@ -16,10 +16,12 @@ Handelsplatz in der Wüste, **einen Tagesmarsch** von [Bellbrims Schlucht](Bellb
 
 | Jahr | Was geschieht |
 |---|---|
-| **+3 bis +5** | Erster Auftritt - Zugriffsversuch, den der Clan abwehrt |
+| **+5**, nach der Trennung | Erster Auftritt - **Bellbrim ist dabei**. Gespräch, Angebote und Versprechungen, dann Drohungen; **kein Zugriff**, Girlin entkommt (Autor, 14.09.2026). Er weiß, dass Bellbrim den Basar manchmal besucht, und vermutet, dass auch Girlin wiederkommt |
 | **+9** | Er erkennt Girlin, greift zu; sie entkommt und flieht heim - **er folgt ihr und findet die Schlucht** |
 
 Der zweite Auftritt (Verhandlung mit dem Clan) liegt beim **Transport** in +7/+8, nicht auf dem Basar.
+
+**Zwischen +5 und +9 meiden sie ihn** auf dem Basar (Autor, 14.09.2026); wie, ist offen · **???**
 
 ---
 

@@ -135,13 +135,10 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 **Umgebaut am 03.09.2026**. Die frühere Fassung setzte Girlins Entschluss zu bleiben ans Ende (Jahr +8/+10) und den Transport über drei Jahre. Beides ist ersetzt.
 
-- **Jahr +3 bis +5: [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) erster Auftritt** - auf dem **Basar**. Ein **Zugriffsversuch, den der Clan abwehrt**. Ab hier kennen sich beide als Feind
-  - Wie er von ihr erfährt, ist offen. Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf · **???**
-  - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware - und ab dem gescheiterten Zugriff die **Demütigung**. Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
 - **Jahr +4: Girlins drittes Kind wird geboren** - **Tamant ult-Sekkan**, ein Mädchen (Girlin 38, Kind im Finale 6)
   - **Geholfen wird ihr von erfahrenen Frauen des Clans** (Autor, 09.09.2026) - keine Rolle, kein Amt, die Älteren, die das können. Ihr Stand spielt dabei keine Rolle: Bei einer Geburt fragt niemand danach
   - **[Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) ist nicht da** (Autor, 09.09.2026) - er ist mit einer Karawane unterwegs. Girlin bekommt das Kind ohne ihn, unter Frauen eines fremden Volkes
-  - **Die Geburt ist eine eigene Szene** (Autor, 09.09.2026), nicht hinter dem Schnitt ([Szene 22](Szenen.md))
+  - **Die Geburt ist eine eigene Szene** (Autor, 09.09.2026), nicht hinter dem Schnitt ([Szene *Das dritte Kind*](Szenen.md))
 - **Mit der Geburt kippt ihr Ziel** (entschieden 03.09.2026): aus *nach Hause gehen* wird *ich bleibe in meinem neuen Zuhause*. Der Entschluss zur Rückreise fällt damit **sechs Jahre vor dem Finale**, nicht am Ende
 - **Er ist nicht endgültig.** Er **wackelt und wird bestätigt** - mehrfach, und jedes Mal teurer
 - **Damit ändert sich der Zweck des Rings.** Sie will nicht mehr selbst zurück. Sie will **eine Nachricht schicken**, damit ihre Familie weiß, dass sie lebt. **Dafür** wird der Ring geholt - nicht mehr für ihre Heimreise
@@ -154,7 +151,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, Sekkan und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. **Ohne Streit, aber nicht ohne Preis** (Autor, 09.09.2026): Niemand wird verstoßen, der Clan hat Verständnis. Fortzuziehen ist bei den Kel Aman jedoch **extrem unüblich und selten** - Sekkan vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun
   - **Seine Mutter [Tanast](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) trägt den Wegzug schwer** (Autor, 10.09.2026). Beide Eltern leben; sie widerspricht nicht und hält ihn nicht fest, aber sie leidet sichtbar. Der Preis ist damit nicht nur Entzug von Aufgaben und Nähe, sondern eine Mutter, die zurückbleibt
   - **Girlin nehmen die Eltern an** (Autor, 10.09.2026) - sie ist die Frau ihres Sohnes und die Mutter ihrer Enkelin
-- **Folge:** Girlin ist **ab +5 ohne Sippenschutz**, nicht erst ab +8. Nicht weil man sie ausgestoßen hätte - die Zugehörigkeit bleibt -, sondern weil **die Sippe nicht vor Ort und nicht schnell erreichbar ist** (Autor, 09.09.2026). Ein Schutz, den man nicht rechtzeitig rufen kann, schützt nicht. Was sie trotzdem vier Jahre lang trägt, ist **kein Schutz, sondern Lage**: Die **Schlucht kennen sehr wenige**, und **Azzim ist eine Weile unterwegs** (entschieden 03.09.2026)
+- **Folge:** Girlin ist **ab +5 ohne Sippenschutz**, nicht erst ab +8. Nicht weil man sie ausgestoßen hätte - die Zugehörigkeit bleibt -, sondern weil **die Sippe nicht vor Ort und nicht schnell erreichbar ist** (Autor, 09.09.2026). Ein Schutz, den man nicht rechtzeitig rufen kann, schützt nicht. Was sie trotzdem vier Jahre lang trägt, ist **kein Schutz, sondern Lage**: Die **Schlucht kennen sehr wenige**, und **Azzim ist eine Weile unterwegs** (entschieden 03.09.2026). Auf dem Basar **meiden sie ihn** (Autor, 14.09.2026); wie, ist offen · **???**
   > **Korrigiert:** Die Begründung *„ab Jahr +8 ist sie ungeschützt"* aus ist damit überholt
 
 ### Die Jahre in der Schlucht (Jahr +5 → +7)
@@ -170,6 +167,12 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Bezahlt wird mit allem, was die Schlucht hergibt** (Autor, 09.09.2026): Gewebtes aus Girlins Hand, Jagdbeute und Häute von Sekkan, Feldfrüchte - und **Bellbrims Wissen** als Dienstleistung. Einzelheiten: [Der Basar](../../Orte/Basar.md)
 - **Wer geht, wechselt** (Autor, 09.09.2026): meist **zwei**, und **mindestens einer bleibt beim Kind**. Feste Rollen gibt es nicht
   - **Offen:** welches Material der Generator überhaupt braucht - hängt an seiner Bauart · **???**
+- **Jahr +5, nach der Trennung: [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) erster Auftritt** - auf dem **Basar** (Autor, 14.09.2026). **Bellbrim ist dabei, nicht Sekkan.** Ab hier kennen sich beide als Feind
+  - **Er läuft harmlos ab** (Autor, 14.09.2026): ein Gespräch, Angebote und Versprechungen, dann Drohungen. **Kein Zugriff** - Girlin entkommt
+  - **Warum er ihr nicht bis zur Schlucht folgt** (Autor, 14.09.2026): Er weiß, dass Bellbrim den Basar manchmal besucht, und vermutet, dass auch Girlin wiederkommt. Ob er sie verfolgt und sie im Gedränge entkommen oder ob er es gar nicht versucht, ist als **Idee** bei der [Szene](Szenen.md) notiert - beim Schreiben zu entscheiden
+  - Er erfährt von ihr über **Gerede auf dem Basar** und sucht sie dort auf (Autor, 08.09.2026). Was das Gerede an ihr betont, ist offen · **???**
+  - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware - und die **Demütigung**. Er ist **sehr temperamentvoll und leicht aufbrausend**; gedemütigt wird er durch ihre **Abweisung**, ihr **Entkommen** und in +7/+8 durch den **abgelehnten Handel** (Autor, 14.09.2026). Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
+  > **Überholt (Autor, 14.09.2026):** Bisher lag der erste Auftritt in +3 bis +5, vor der Trennung, als Zugriffsversuch, den der Clan abwehrt
 
 ### Der Transport (Jahr +7 → +8)
 - **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** - Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf
@@ -178,7 +181,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor
 - Der 3-m-Ring wiegt rund **5,7 t**. Er wird bewegt - **wie**, ist offen · **???**
   > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor
-- **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** - er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
+- **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** - er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Der Clan schützt sie dort** (Autor, 14.09.2026). **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
   - **Er verliert den Zug** und sieht **nicht**, wohin der Ring gebracht wird (entschieden 03.09.2026). Deshalb muss er die Schlucht später erst finden
   - **Offen:** Verlauf und Einzelheiten der Verhandlung - für das Gerüst ohne Belang · **???**
 - **Ziel:** die **Schlucht** bei Bellbrim - Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem
@@ -190,7 +193,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **+8 bis +10:** Bellbrim und Girlin **vollenden den Generator**. Fertig wird er erst **in +10, kurz vor dem Angriff** (entschieden 03.09.2026)
   - **Er zündet den Ring vorher nicht** (Autor, 14.09.2026): Generator und Ring sind **bis zum Schluss getrennt**, und sie **testen nicht am Ring**
 - **Jahr +9: Azzims dritter Auftritt** - **auf dem Basar**, wo sie Material holen. Er erkennt sie, greift zu, **sie entkommt und flieht heim - und er folgt ihr**. So findet er die Schlucht (entschieden 03.09.2026)
-  - Das ist der erste Zugriff **ohne Clan**. Er begreift dabei zweierlei: dass der Schutz weg ist, und wo sie lebt
+  - Das ist der erste Zugriff **ohne Clan**. Er begreift dabei zweierlei: dass der Schutz weg ist, und wo sie lebt. Beim Transport hat der Clan sie noch geschützt; das fällt jetzt weg (Autor, 14.09.2026)
   - **Danach holt er Leute.** Eine Schlucht mit Fels nimmt man nicht allein - das kostet die Zeit bis +10
   - **Offen:** woher die Leute kommen, wie viele, was ihn das kostet · **???**
 - **Girlins Nachricht liegt fertig und wetterfest verpackt bereit** (entschieden 03.09.2026). Der Leser sieht sie, bevor sie liegen bleibt
@@ -207,12 +210,12 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### Azzim - die vier Auftritte im Überblick (entschieden 03.09.2026)
 - **Azzim weiß nichts vom Ring** - nicht vorher, nicht beim Transport, nicht im Finale. Er erfährt es **nie** in der Wüste
-- **Sein Motiv sind Menschen:** Sklaverei. Girlin ist für ihn Ware - dazu ab dem ersten Fehlschlag die **Demütigung**
+- **Sein Motiv sind Menschen:** Sklaverei. Girlin ist für ihn Ware - dazu die **Demütigung**: Er ist aufbrausend, sie weist ihn ab und entkommt, der Clan lehnt seinen Handel ab (Autor, 14.09.2026)
   > **Gestrichen:** Wasser als Azzims Motiv war nicht vom Autor gedeckt
 
 <table>
 <tr><th>#</th><th>Jahr</th><th>Ort</th><th>Was geschieht</th><th>Was ihn aufhält</th></tr>
-<tr><td>1</td><td>+3 bis +5</td><td>Basar</td><td>Zugriffsversuch</td><td>Der Clan wehrt ab</td></tr>
+<tr><td>1</td><td>+5, nach der Trennung</td><td>Basar</td><td>Gespräch, Angebote, Versprechungen, dann Drohungen - kein Zugriff</td><td>Girlin entkommt; er vermutet, dass sie wiederkommt</td></tr>
 <tr><td>2</td><td>+7/+8</td><td>Transport</td><td>Er verhandelt offen mit dem Clan</td><td>Sippenpflicht schlägt Handel; er verliert den Zug</td></tr>
 <tr><td>3</td><td>+9</td><td>Basar → Schlucht</td><td>Zugriff, sie entkommt, er folgt ihr und findet die Schlucht</td><td>Sie ist schneller; er hat keine Leute</td></tr>
 <tr><td>4</td><td>+10</td><td>Schlucht</td><td>Der Angriff - zugleich das Finale</td><td>-</td></tr>
