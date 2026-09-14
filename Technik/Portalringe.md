@@ -19,7 +19,8 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene)
 ---
 
 ## Funktionsweise
-- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel - das Ziel bestimmen die Runen). Der elektrische Funke ist nur der Zünder; die eigentliche Energie kommt aus dem Ringsystem selbst. Siehe [Generator](Tibuns-Generator.md) und [Elektrizität](Elektrizitaet.md).
+- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel - das Ziel bestimmen die Runen). Die elektrische Entladung ist nur der Zünder; die eigentliche Energie kommt aus dem Ringsystem selbst. Siehe [Generator](Tibuns-Generator.md) und [Elektrizität](Elektrizitaet.md).
+- **Schon eine kleine Menge Ladung zündet einen Ring** - die Menge ist relativ unwichtig. Das weiß aber niemand (Autor, 14.09.2026). **Zu wenig darf es aber nicht sein: Alltagsladungen reichen nicht** - eine Berührung löst keinen Ring aus (Autor, 14.09.2026).
 - Ein Ring verbindet **immer genau zwei** Ringe, niemals mehr. Welche zwei, regelt die Kopplung (siehe unten)
 
 ---

@@ -50,10 +50,10 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### 2. Der Bernstein-Effekt
 - Tibun entdeckt zufällig die elektrischen Eigenschaften von Bernstein
-  - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Funke an der Schafschere im Wollstall
+  - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Blitz an der Schafschere im Wollstall
 - Er versteht das Prinzip noch **nicht** - die Einsicht kommt erst Jahre später in Kaupvik
 - **Die Kette ist nicht neu** - Tibun hat sie schon lange (Autor, 04.09.2026)
-- **Er verschenkt sie nicht: Frida nimmt sie nicht an.** Wie es dann zum Funken kommt · **???**
+- **Er verschenkt sie nicht: Frida nimmt sie nicht an.** Wie es dann zur Entladung kommt · **???**
 - Der Bernstein selbst stammt von seiner Mutter - **wenige Tage, bevor sie verschwindet**
 
 ### 3. Der Blitz - Girlins Verschwinden
@@ -161,7 +161,9 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Die vier leben zusammen.** [Bellbrim](../../Menschen/Andere/Bellbrim.md) lebt dort seit Jahren und war versorgt; die drei Neuen **helfen ihr** - Jagd, Weben, Landwirtschaft, Handel (entschieden 03.09.2026). Sekkan **hält die vier am Leben** - eine seiner vier eigenen Handlungen
 - **Die Arbeit am Generator beginnt hier** - Jahre bevor der Ring da ist. Experimente mit **Wasserfall und Wasserrad** (Skizzen-Beat 12). Der Wasserfall fällt von oben durch den Fels und durch ein Loch im Boden weiter in die Tiefe; **stehendes Wasser gibt es dort nicht** (Autor, 10.09.2026)
   - **Wie der Generator in der Wüste aussieht und funktioniert, ist offen** · **???**. Er ist **nicht** als dasselbe Gerät wie Tibuns Bernsteinrad festgelegt
-  - **Offen:** was daran ohne Ring überhaupt prüfbar ist · **???**
+  - **Ohne Ring prüfbar** (Autor, 14.09.2026): dass Entladungen entstehen - sie sehen und hören sie; die **Länge der Entladung** als Maß; der **Schlag am eigenen Leib**
+  - **Wie viel genug ist, wissen sie nicht.** Maßstab ist Girlins Blitz - so viel wie möglich. Tatsächlich reicht schon wenig; das weiß niemand (Autor, 14.09.2026)
+  - **Was die Jahre trägt:** der Alltag - Jagd, Weben, das Kind - und sichtbare Fortschritte: Das Wasserrad läuft, die Entladungen werden länger (Autor, 14.09.2026)
 - **Das Kind wächst auf.** Diese Jahre sind das, was Girlin später nicht aufgibt
 - **Der Basar bleibt ein wiederkehrender Ort:** Der Generatorbau verlangt Material, das die Schlucht nicht hergibt (entschieden 03.09.2026, aus Skizzen-Beat 13). Das ist der **einzige Grund, warum sie ihr Versteck verlassen** - und damit der einzige Weg, auf dem Azzim sie wiederfinden kann
 - **[Der Basar](../../Orte/Basar.md) liegt einen Tagesmarsch entfernt** (Autor, 09.09.2026). Er ist kein Unternehmen, sondern ein Nachbar - deshalb kann Azzim ihr in +9 auch bis zur Schlucht folgen
@@ -186,6 +188,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### Vollendung, Zweifel und Angriff (Jahr +8 → +10)
 - **+8 bis +10:** Bellbrim und Girlin **vollenden den Generator**. Fertig wird er erst **in +10, kurz vor dem Angriff** (entschieden 03.09.2026)
+  - **Er zündet den Ring vorher nicht** (Autor, 14.09.2026): Generator und Ring sind **bis zum Schluss getrennt**, und sie **testen nicht am Ring**
 - **Jahr +9: Azzims dritter Auftritt** - **auf dem Basar**, wo sie Material holen. Er erkennt sie, greift zu, **sie entkommt und flieht heim - und er folgt ihr**. So findet er die Schlucht (entschieden 03.09.2026)
   - Das ist der erste Zugriff **ohne Clan**. Er begreift dabei zweierlei: dass der Schutz weg ist, und wo sie lebt
   - **Danach holt er Leute.** Eine Schlucht mit Fels nimmt man nicht allein - das kostet die Zeit bis +10

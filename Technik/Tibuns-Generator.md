@@ -31,7 +31,7 @@ Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, gestrichen).
 
 ## Zünder-Prinzip
 
-Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungselektrizität liefert hohe Spannung, aber winzige Energie - real niemals genug für einen Teleport. Die eigentliche Energie kommt aus dem Ring bzw. dem Ringsystem selbst (mystisch). Die reale Physik bleibt damit exakt auf *Reibung → Funke* beschränkt.
+Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungselektrizität liefert hohe Spannung, aber winzige Energie - real niemals genug für einen Teleport. Die eigentliche Energie kommt aus dem Ring bzw. dem Ringsystem selbst (mystisch). Die reale Physik bleibt damit exakt auf *Reibung → Entladung* beschränkt.
 
 - **Kein gebauter Speicher.** Eine Leidener Flasche (Kondensator) wäre ein Anachronismus (Prinzip erst 1745) und ist verworfen. Die Ladung wird erzeugt und sofort genutzt, sonst verfliegt sie binnen Minuten.
 - **Die Ladung sammelt sich auf dem Rad selbst** (Autor, 11.09.2026). Es gibt **keinen** eigenen Konduktor, und der **Ring ist kein Ladungsspeicher**.
@@ -43,6 +43,8 @@ Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungs
 ## Ladezeit - sie gehört dem Rad, nicht dem Ring
 
 **Der Ring hat keine Ladezeit.** Er ist **jederzeit startklar** und wartet auf nichts (Autor, 08.09.2026). Die **rund 30 Minuten** sind ausschließlich die Zeit, die **Tibuns Aufbau** braucht, um auf dem Bernsteinrad genug Ladung zu erzeugen.
+
+**Nötig wäre das nicht:** Schon eine kleine Menge zündet den Ring. Tibun weiß das nicht und lädt bis zum blauen Glimmen - die 30 Minuten bleiben (Autor, 14.09.2026).
 
 Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze seines Geräts**. Für den Erzähltext heißt das: Wer einen Ring zündet, wartet auf die Maschine, nie auf den Ring.
 
@@ -78,13 +80,13 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 
 ## Grenzen & Gefahr (Authentizität)
 
-Eine statische Entladung gibt einen schmerzhaften, im Dunkeln sichtbaren Funken - aber **keine Brandwunden**, dafür ist die Energie um Größenordnungen zu klein. Die reale Gefahr am Generator kommt aus dem **mechanischen** Teil: heißes durchrutschendes Seil, schnell laufende Rollen.
+Eine statische Entladung ist schmerzhaft und im Dunkeln als blau-weißer Blitz sichtbar - aber **keine Brandwunden**, dafür ist die Energie um Größenordnungen zu klein. Die reale Gefahr am Generator kommt aus dem **mechanischen** Teil: heißes durchrutschendes Seil, schnell laufende Rollen.
 
 ---
 
 ## Bau-Chronologie (Erzählangebot)
 
-Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **wassergetriebene Anlage** (zündet den Ring). Erkenntnis → Prototyp → Werk.
+Handgekurbeltes **Tisch-Modell** (Prototyp, beweist die Entladung) → große **wassergetriebene Anlage** (zündet den Ring). Erkenntnis → Prototyp → Werk.
 
 ---
 
@@ -96,4 +98,4 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **was
 
 **Feuchtigkeit** (Autor, 11.09.2026): **Die Werkstatt genügt** - Dach und Wände halten den Regen ab.
 
-**Ein Funke oder eine Folge** (Autor, 11.09.2026): **wird im Text nicht erklärt.** Bernstein ist ein Isolator, die Kette nimmt nur die Ladung an der Berührstelle ab - der Leser sieht nur den Schlag.
+**Eine Entladung oder eine Folge** (Autor, 11.09.2026): **wird im Text nicht erklärt.** Bernstein ist ein Isolator, die Kette nimmt nur die Ladung an der Berührstelle ab - der Leser sieht nur den Schlag.

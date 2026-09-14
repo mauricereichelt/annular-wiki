@@ -65,7 +65,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-126: Der Postring - was passt hinein? ○](#c-126-der-postring---was-passt-hinein-)
 - [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
-- [C-131: Generatorarbeit ohne Ring ○](#c-131-generatorarbeit-ohne-ring-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-139: Erzählreihenfolge - verschränkt oder blockweise ○](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
@@ -152,6 +151,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-124: Die Zwischenstation - Ort und Gruppe ✓](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 - [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
+- [C-131: Generatorarbeit ohne Ring ✓](#c-131-generatorarbeit-ohne-ring-)
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-133: Azzims Leute für den Angriff ✓](#c-133-azzims-leute-für-den-angriff-)
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
@@ -191,6 +191,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
 - [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
 - [C-178: Was die Anlage im Norden nach Zündung 2 tut ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)
+- [C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓](#c-179-wenig-ladung-reicht---warum-löst-nicht-jede-berührung-aus-)
 
 ---
 
@@ -2504,7 +2505,7 @@ Berührt [C-103](#c-103-transportlogistik-des-wüstenrings-) und [C-125](#c-125-
 
 ---
 
-### C-131: Generatorarbeit ohne Ring ○
+### C-131: Generatorarbeit ohne Ring ✓
 
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): [Bellbrim](../Menschen/Andere/Bellbrim.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) beginnen die Arbeit am Generator in **+5** - der Ring liegt aber erst ab **+8** in der Schlucht. Drei Jahre lang bauen sie also an etwas, das sie nicht ausprobieren können.
 
@@ -2514,6 +2515,18 @@ Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): [Bellbrim
 - **Wie hält man drei Jahre Arbeit ohne Rückmeldung durch?** Dramaturgisch ist das eine lange Strecke ohne Erfolgserlebnis.
 
 Berührt [C-135](#c-135-der-wüstengenerator---bauart-offen-).
+
+**Beantwortet (Autor, 14.09.2026).**
+
+- **Prüfbar ohne Ring:** dass Entladungen entstehen - sie **sehen und hören** sie. Die **Länge der Entladung** dient als Maß, dazu der **Schlag am eigenen Leib**.
+- **Wie viel genug ist, wissen sie nicht.** Ihr Maßstab ist **Girlins Blitz** - also so viel wie möglich. Tatsächlich zündet schon **eine kleine Menge** den Ring: *„Tatsächlich reicht eine kleine Menge um den Ring zu zünden, aber das weiß niemand. Die Erbauer haben den Strom nur als Trigger benutzt. Die Menge an Strom ist relativ unwichtig."*
+- **Was die Jahre trägt:** der **Alltag** - Jagd, Weben, das Kind; der Generator läuft nebenher. Dazu **sichtbare Fortschritte**: Das Wasserrad läuft, die Entladungen werden länger.
+- **Tibuns 30 Minuten bleiben.** Er lädt bis zum blauen Glimmen, weil er es nicht besser weiß - nötig wäre es nicht.
+- **Wortwahl:** *„Funke"* wird vermieden - das Wort ruft gelbe Lagerfeuerfunken auf. Gemeint ist die elektrostatische Entladung, ein **blau-weißer Blitz**. Im Wiki und in den Szenen steht dafür **Entladung** oder **Blitz**. Zitate, Streichvermerke und ältere Challenge-Einträge bleiben im Wortlaut.
+
+Neu daraus: [C-179](#c-179-wenig-ladung-reicht---warum-löst-nicht-jede-berührung-aus-).
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Arbeit am Generator*, *Der Bernstein-Effekt*, *Der Kampf - Zündung 2*), [Portalringe](../Technik/Portalringe.md), [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md).
 
 ---
 
@@ -3378,5 +3391,30 @@ Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) führt als Zustand nach dem Fina
 **Entschieden (Autor, 11.09.2026): kein Aufladen - fester Kontakt.** Die gefallene Kette hält festen Kontakt zwischen Rad und Ring. Die Ladung fließt laufend ab, und der Ring zündet **nicht** von selbst erneut - es gibt nach dem Finale keine weiteren Tausche an der Tabustelle. Die Formulierung *„ein Ring, der sich von allein wieder auflädt"* ist aus der Zeitleiste gestrichen. Die Frage nach einer Rückreise beantwortet [C-110 ✓](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-): Der Schlusssatz passt.
 
 Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Tibuns Generator](../Technik/Tibuns-Generator.md).
+
+---
+
+### C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓
+
+Aus [C-131 ✓](#c-131-generatorarbeit-ohne-ring-) (Autor, 14.09.2026): **Schon eine kleine Menge Ladung zündet einen Ring** - das weiß nur niemand.
+
+**Die Lücke:** Menschen laden sich selbst auf - durch Gehen, Wolle, Fell, Leder, besonders in trockener Luft. Fasst so jemand einen Ring an, entlädt er sich an ihm.
+- **Wüste:** Beim Transport ([C-125](#c-125-das-transportverfahren-ist-offen-)) haben viele Menschen wochenlang mit dem Ring zu tun, in sehr trockener Luft.
+- **Norden:** Dasselbe gilt für den Ring bei Skirraa, sobald Menschen an ihn herankommen.
+- **Vor Jahr 0:** Warum hat bis zu Girlins Blitz nie etwas ausgelöst? Berührt [C-019](#c-019-ursache-von-erwachen-und-zusammenbruch-).
+
+**Zu klären · ???** Löst eine solche Berührung aus? Wenn nicht: warum nicht?
+
+**Anmerkung (Claude):** Dass sich ein Mensch in trockener Luft auf mehrere Tausend Volt auflädt und die Entladung an einer Türklinke spürt und hört, ist Alltagsphysik. Ob die Ringe darauf ansprechen, entscheidet die Welt, nicht die Physik.
+
+**Beantwortet (Autor, 14.09.2026): Alltagsladungen reichen nicht.** *„Wenig Ladung reicht, ja, aber eben nicht zu wenig."*
+
+- **Berührung:** löst nicht aus - weder beim Transport in der Wüste noch am Ring bei Skirraa.
+- **Vor Jahr 0:** *„Er hat nie ausgelöst, da er vergraben war."*
+- **Der Wüstengenerator zwischen +8 und +10:** Er zündet den Ring vorher nicht, weil **Generator und Ring bis zum Schluss getrennt** sind und Bellbrim und Girlin **bewusst nicht am Ring testen**.
+
+**Anmerkung (Claude):** Eine Zahl braucht es nicht - keine Figur kann Ladung messen. Es genügt die Rangfolge *Alltagsladung: nein · Blitz und Maschine: ja*. Von Hand geriebener Bernstein zählt nach meiner Lesart zur Alltagsladung. Tibuns Tischmodell steht nie in der Nähe eines Rings und ist deshalb kein Grenzfall. Beides nicht vom Autor bestätigt.
+
+Nachgezogen: [Portalringe](../Technik/Portalringe.md), [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Vollendung des Generators*).
 
 ---

@@ -77,11 +77,11 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk · Prolog - Tibuns Alter und Heiratsantrag
 
-Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt der Funke an der Schafschere über.
+Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt ein Blitz an der Schafschere über.
 
 - **Will:** Frida für sich gewinnen - die Kette hat er schon lange
 - **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Herik verlobt, der besseren Partie
-- **Ausgang:** Abgewiesen. Der Funke sengt Flusen an; er versteht nichts davon. Wie es dazu kommt: ??? - die alte Szene gilt nicht als Kanon.
+- **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Wie es dazu kommt: ??? - die alte Szene gilt nicht als Kanon.
 
 
 ### 3 · Der Blitz - Girlin
@@ -375,13 +375,15 @@ Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
 ### 28 · Arbeit am Generator
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen · Generatorarbeit ohne Ring
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen
 
 Experimente mit Wasserfall und Wasserrad.
 
 - **Will:** Den Ring auslösen können
-- **Hindernis:** Der Ring ist noch gar nicht da - was ohne ihn prüfbar ist, ist offen
+- **Hindernis:** Der Ring ist noch gar nicht da, und wie viel Ladung genug ist, weiß niemand
 - **Ausgang:** ???
+
+> **Ohne Ring** (Autor, 14.09.2026): Prüfbar ist nur, dass Entladungen entstehen - sichtbar, hörbar, ihre Länge, der Schlag am eigenen Leib. Maßstab ist Girlins Blitz. Getragen werden die Jahre vom Alltag und von sichtbaren Fortschritten.
 
 
 ### 29 · Der Basar
@@ -439,6 +441,8 @@ Bellbrim und Girlin bauen weiter.
 - **Will:** Den Generator fertigstellen
 - **Hindernis:** Bauart und Wirkprinzip sind offen
 - **Ausgang:** Fertig wird er erst in +10, kurz vor dem Angriff.
+
+> **Nicht am Ring** (Autor, 14.09.2026): Generator und Ring bleiben bis zum Schluss getrennt; Bellbrim und Girlin testen nicht am Ring.
 
 
 ### 34 · Aufbruch aus Kaupvik
@@ -586,7 +590,7 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 - **Hindernis:** Azzim ist der Stärkere
 - **Ausgang:** Die Kette fällt aus dem Dachstuhl. Azzim wird von der Kugelgrenze zerteilt, Tibun reist. Notwehr, kein Plan.
 
-> **Der Griff nach draußen** (Autor, 11.09.2026): Die Zugschnur hängt knapp außerhalb der Kugel. Tibun muss hinausgreifen, während Azzim ihn würgt, und hat Hand und Fuß knapp wieder drin, bevor die Kette unten ist. Ob ein Funke genügt oder eine Folge, erklärt der Text nicht - der Leser sieht nur den Schlag.
+> **Der Griff nach draußen** (Autor, 11.09.2026): Die Zugschnur hängt knapp außerhalb der Kugel. Tibun muss hinausgreifen, während Azzim ihn würgt, und hat Hand und Fuß knapp wieder drin, bevor die Kette unten ist. Ob eine Entladung genügt oder eine Folge, erklärt der Text nicht - der Leser sieht nur den Schlag.
 
 
 ### 46 · Wiedersehen und Schluss

@@ -8,7 +8,7 @@ Alle elektrischen Effekte folgen dem in der Epoche real Möglichen - ausschließ
 
 ## Reibungselektrizität (Bernstein-Effekt)
 
-- Bernstein zieht nach dem Reiben leichte Dinge an (Haare, Wolle, Staub) und gibt im Dunkeln einen sichtbaren, knisternden Funken.
+- Bernstein zieht nach dem Reiben leichte Dinge an (Haare, Wolle, Staub) und gibt im Dunkeln eine sichtbare, knisternde Entladung - ein blau-weißer Blitz (Autor, 14.09.2026).
 - Bernstein ist ein **Isolator** - gerade deshalb hält er die Reibungsladung an der Oberfläche fest.
 - **Schnelle, kontinuierliche** Reibung erzeugt viel mehr Ladung als einmaliges Reiben. Das ist die Grundlage von [Tibuns Generator](Tibuns-Generator.md).
 - Die Ladung verfliegt binnen Minuten (Lecken über Luftfeuchte/Berührung). Es gibt kein dauerhaftes Speichern.
@@ -21,7 +21,7 @@ Ein Gewitterblitz kann einen Ring aktivieren - ein sehr starker, aber unkontroll
 
 ## Zünder-Prinzip
 
-Die elektrische Ladung ist nur der **Auslöser** der Aktivierung, nicht ihre Energiequelle. Sie liefert hohe Spannung, aber winzige Energie - real niemals genug für einen Teleport. Die eigentliche Energie kommt aus dem Ring bzw. dem Ringsystem selbst (mystisch). Damit bleibt die reale Physik auf *Reibung/Blitz → Funke* beschränkt. Details siehe [Generator](Tibuns-Generator.md) und [Portalringe](Portalringe.md).
+Die elektrische Ladung ist nur der **Auslöser** der Aktivierung, nicht ihre Energiequelle. Sie liefert hohe Spannung, aber winzige Energie - real niemals genug für einen Teleport. Die eigentliche Energie kommt aus dem Ring bzw. dem Ringsystem selbst (mystisch). Damit bleibt die reale Physik auf *Reibung/Blitz → Entladung* beschränkt. Details siehe [Generator](Tibuns-Generator.md) und [Portalringe](Portalringe.md).
 
 ---
 
