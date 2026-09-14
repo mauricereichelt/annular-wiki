@@ -14,7 +14,9 @@
 | **Alter** | ~40 (Kennenlernen mit Girlin) / 50 (Finale) - siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md) |
 | **Herkunft** | **Vandalin** - Ostgermanin aus dem 534 von Byzanz zerschlagenen Vandalenreich in Nordafrika. Keine Kel Aman, wie Girlin eine Fremde in der Wüste. Weg in den Fezzan und Alter bei der Flucht: ??? |
 | **Erscheinung** | **Blasse Haut** - fällt unter den Kel Aman auf, erklärt sich aus der germanischen Herkunft. Übrige Merkmale: ??? |
-| **Sprachen** | **Mehrsprachig** - Vandalisch (ostgermanisch) und Latein aus der Herkunft, dazu Berberisch und Handelssprachen aus den Wüstenjahren. Deshalb wandert die Karawane gezielt zu ihr. **Vandalisch ist mit [Girlins](../Nordvolk/Girlin.md) proto-nordischer Sprache verwandt, aber nicht gleich** - die Verständigung ist mühsam und braucht Monate, sie wird nicht weggeräumt, sondern erzählt. Genauer Ablauf: ??? |
+| **Sprachen** | **Mehrsprachig** - Vandalisch (ostgermanisch) und Latein aus der Herkunft, dazu Berberisch und Handelssprachen aus den Wüstenjahren. Deshalb wandert die Karawane gezielt zu ihr. **Ihre Sprache ist der von [Girlin](../Nordvolk/Girlin.md) ähnlich:** Die beiden verstehen sich nicht sofort vollständig, können aber vom ersten Treffen an kommunizieren. Ein Konflikt zwischen ihnen entsteht daraus nicht (Autor, 14.09.2026). |
+
+> **Überholt (14.09.2026):** Hier stand, die Verständigung sei mühsam, brauche Monate und werde erzählt. Vom Autor ersetzt.
 
 **Familie**
 
@@ -30,7 +32,7 @@
 
 ## Besondere Fähigkeiten
 
-- **Mehrsprachigkeit** - sie ist die Einzige, die zwischen [Girlin](../Nordvolk/Girlin.md) und den Nomaden vermitteln kann; Grundlage ist die entfernte Sprachverwandtschaft (ostgermanisch ↔ nordgermanisch), nicht ein gemeinsamer Wortschatz. Erzählerisch der Grund ihrer Einführung ([Kapitelstruktur](../../Plots/Plot-1/Kapitelstruktur.md), Girlin 6+8).
+- **Mehrsprachigkeit** - sie ist die Einzige, die zwischen [Girlin](../Nordvolk/Girlin.md) und den Nomaden vermitteln kann; mit Girlin kann sie sich verständigen, weil ihre Sprachen ähnlich sind (Autor, 14.09.2026). Erzählerisch der Grund ihrer Einführung ([Kapitelstruktur](../../Plots/Plot-1/Kapitelstruktur.md), Girlin 6+8).
 - **Lesekundig** - das Vandalenreich war zweisprachig und hatte römisches Erbe; Schrift und technisches Wissen sind damit erklärt, ohne eine „Wissenschaftlerin" von 550 erfinden zu müssen.
 - Übrige Fähigkeiten (Mechanik, Naturkunde): ???
 

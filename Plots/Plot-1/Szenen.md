@@ -211,12 +211,12 @@ Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Run
 
 ### 14 · Bellbrim
 
-> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim - historische Plausibilität & Herkunft · Bellbrims Sprache
+> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim - historische Plausibilität & Herkunft
 
-Begegnung mit der Vandalin, die mehrere Sprachen spricht.
+Begegnung mit der Vandalin, die mehrere Sprachen spricht. Die Sprachen sind ähnlich: Die beiden verstehen sich nicht vollständig, können aber vom ersten Treffen an kommunizieren - ohne Konflikt zwischen ihnen (Autor, 14.09.2026).
 
 - **Will:** Verstehen, was der Ring ist
-- **Hindernis:** Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich - die Verständigung braucht Monate
+- **Hindernis:** ??? *(Überholt 14.09.2026: Hier stand, Vandalisch sei nur verwandt und die Verständigung brauche Monate.)*
 - **Ausgang:** Bellbrim versteht als Erste, was der Ring ist.
 
 

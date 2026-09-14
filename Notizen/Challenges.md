@@ -56,7 +56,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
-- [C-113: Bellbrims Sprache - Verhältnis zu C-026 ○](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
 - [C-116: Azzim tritt zu spät auf ○](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
@@ -72,6 +71,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
+- [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -141,6 +141,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ✓](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
 - [C-111: Kopplung ist nicht ortsgebunden ✓](#c-111-wiederaufstellung-des-rings-nach-dem-transport-kernfrage-)
 - [C-112: Das Wüstenkind während des Finales ✓](#c-112-das-wüstenkind-während-des-finales-)
+- [C-113: Bellbrims Sprache - ähnlich, kein Konflikt ✓](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
@@ -192,6 +193,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
 - [C-178: Was die Anlage im Norden nach Zündung 2 tut ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)
 - [C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓](#c-179-wenig-ladung-reicht---warum-löst-nicht-jede-berührung-aus-)
+- [C-180: Bellbrims Sprache - Prämisse zurückgezogen ✗](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)
 
 ---
 
@@ -573,12 +575,12 @@ Was dadurch **neu** offen wird:
 Was das löst:
 - **Blasse Haut** - erklärt, ohne Sonderfall zu sein.
 - **Mehrsprachigkeit** - Vandalisch, Latein, dazu Berberisch und Handelssprachen aus den Jahren in der Wüste. Kein Zufall, sondern Biografie: Das Vandalenreich war zweisprachig (germanisch/lateinisch), seine Oberschicht lesekundig.
-- **Die Sprachbarriere bleibt erhalten.** Vandalisch ist *ost*germanisch, [Girlins](../Menschen/Nordvolk/Girlin.md) Sprache proto-nordisch - verwandt, aber rund 500 Jahre auseinander. Verständigung ist mühsam und braucht Monate; sie wird nicht weggeräumt, sondern erzählt. Berührt die Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).
+- **Die Sprachbarriere bleibt erhalten.** Vandalisch ist *ost*germanisch, [Girlins](../Menschen/Nordvolk/Girlin.md) Sprache proto-nordisch - verwandt, aber rund 500 Jahre auseinander. Verständigung ist mühsam und braucht Monate; sie wird nicht weggeräumt, sondern erzählt. Berührt die Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md). *(Überholt 14.09.2026: Die Sprachen sind ähnlich; die beiden können vom ersten Treffen an kommunizieren, ohne sich vollständig zu verstehen, und daraus entsteht kein Konflikt - Autor, [C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-).)*
 - **Gelehrsamkeit** - ein untergegangenes Reich mit römischem Erbe erklärt Schrift und technisches Wissen, ohne eine „Wissenschaftlerin" von 550 erfinden zu müssen.
 
 **Weiterhin offen:** Alter bei der Flucht, wie genau sie in den Fezzan kam (verschleppt? mit einem Händlerzug? freiwillig?), und was aus ihrer Familie wurde → [C-027](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-). Ebenso, was „Gelehrte" bei ihr konkret heißt - Mechanik, Heilkunde, Schrift.
 - **Wie viele Jahre** lebt sie schon dort? Sie ist beim Kennenlernen ~40 ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
-- **Spricht sie ausgerechnet Girlins Sprache?** Mehrsprachigkeit allein genügt nicht - Girlins proto-skandinavische Mundart ist selten. Entweder stammt Bellbrim aus dem nordischen Raum, oder es braucht eine Brückensprache. Wenn Ersteres: Warum? Ein zweiter Mensch aus dem Norden in derselben Wüste ist ein starker Zufall.
+- **Spricht sie ausgerechnet Girlins Sprache?** Mehrsprachigkeit allein genügt nicht - Girlins proto-skandinavische Mundart ist selten. Entweder stammt Bellbrim aus dem nordischen Raum, oder es braucht eine Brückensprache. Wenn Ersteres: Warum? Ein zweiter Mensch aus dem Norden in derselben Wüste ist ein starker Zufall. *(Beantwortet 14.09.2026: Die Sprachen sind ähnlich genug, dass die beiden kommunizieren können - Autor, [C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-).)*
 
 Der letzte Punkt ist der kritische - er entscheidet, ob die Übersetzung glaubwürdig ist oder nach Bequemlichkeit riecht.
 
@@ -1134,6 +1136,10 @@ Die Szene begann mit einer Textzeile statt einer Markdown-Überschrift; Versions
 In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)?
 
 > **Aktualisiert am 04.09.2026:** Tibun ist in dieser Szene **16**, nicht 15 - Bernstein-Effekt und Verschwinden liegen beide in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Die Frage bleibt, das Alter ändert sich.
+
+**Historischer Befund (Claude, 14.09.2026):** Ein eigener Antrag passt nicht. In den frühen germanischen Rechten wird die Ehe zwischen den Familien geschlossen: Der Vormund der Braut, meist der Vater, gibt sie, und der Bräutigam oder seine Sippe verhandelt und zahlt den Brautpreis. Ein Sechzehnjähriger ohne eigenen Hof wird dabei nicht ernst genommen. Genau so läuft es im Prolog bei Lanke, der für seinen Sohn anfragt. **Einschränkung:** Die Quellen sind jünger als 550 (festländische Volksrechte ab dem 6. Jh., nordische Rechte erst 12./13. Jh.). Für Jütland um 550 gibt es keine direkte Überlieferung, nur den gemeinsamen Grundzug.
+
+**Autor (14.09.2026):** Wenn der Antrag historisch nicht passt, ändert er die Szene. **Vielleicht will Tibun Frida nur seine Liebe gestehen** - noch nicht festgelegt · ???
 
 ---
 
@@ -2090,7 +2096,7 @@ Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes
 
 ---
 
-### C-113: Bellbrims Sprache - Verhältnis zu C-026 ○
+### C-113: Bellbrims Sprache - Verhältnis zu C-026 ✓
 
 Der Autor hat am 31.08.2026 zu [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) festgelegt: **[Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) sprechen beide die Sprache des Nordens und können sich verständigen**; Bellbrim bringt Girlin die Sprache der Wüste bei.
 
@@ -2101,6 +2107,14 @@ Der Autor hat am 31.08.2026 zu [C-108](#c-108-der-kampf-in-der-schlucht-während
 - **(b) Verwandte Sprachen, mühsame Verständigung** - dann verstehen sie sich zunehmend, nicht sofort, und die Barriere bleibt als Konflikt erhalten.
 
 Beides ist mit dem Satz „beide sprechen die Sprache des Nordens" vereinbar; **entschieden ist es nicht.** Betrifft unmittelbar, **wie lange Girlin ohne Sprache lebt** - die Spanne zwischen Jahr 0 und Bellbrims Auftritt - und damit einen der härtesten Abschnitte ihres Strangs.
+
+**Entschieden (Autor, 14.09.2026): Die Sprachen sind ähnlich.** Girlin und Bellbrim verstehen sich nicht sofort vollständig, **können aber vom ersten Treffen an kommunizieren**. **Daraus entsteht kein Konflikt zwischen ihnen.**
+
+> **Korrigiert (14.09.2026):** Zuerst stand hier Lesart (a), volle Verständigung, und daraus abgeleitet [C-180](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-). Der Autor hat präzisiert: nicht vollständig, aber ausreichend. C-180 ist damit zurückgezogen.
+
+**Folge:** Die Aussage in [C-026](#c-026-bellbrim---historische-plausibilität--herkunft-), die Verständigung sei mühsam, brauche Monate und werde als Konflikt erzählt, ist überholt.
+
+Nachgezogen: [Bellbrim](../Menschen/Andere/Bellbrim.md), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Bellbrim*), C-026.
 
 ---
 
@@ -2647,6 +2661,8 @@ Gerechnet mit R_flip = 1,6649 m und einer halben Umdrehung (π) in der jeweilige
 - Oder bleibt die Spanne, und die abgeleiteten Werte werden als Spanne geführt (21-31 rad/s, 126-188 km/h)?
 
 Beides ist eine Festlegung des Autors. Bis dahin bleibt die Zahl im Wiki unverändert stehen - sie wird hier nur als ungeprüft markiert.
+
+**Nachtrag (14.09.2026):** Der Autor will die Frage nicht isoliert entscheiden. Sie hängt an seiner Idee, dass die rotierende Schnittfläche den Tausch Schicht für Schicht ausführt → [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-). Dann ist die Flipdauer zugleich die Dauer des Tauschs.
 
 ---
 
@@ -3433,5 +3449,50 @@ Aus [C-131 ✓](#c-131-generatorarbeit-ohne-ring-) (Autor, 14.09.2026): **Schon 
 **Anmerkung (Claude):** Eine Zahl braucht es nicht - keine Figur kann Ladung messen. Es genügt die Rangfolge *Alltagsladung: nein · Blitz und Maschine: ja*. Von Hand geriebener Bernstein zählt nach meiner Lesart zur Alltagsladung. Tibuns Tischmodell steht nie in der Nähe eines Rings und ist deshalb kein Grenzfall. Beides nicht vom Autor bestätigt.
 
 Nachgezogen: [Portalringe](../Technik/Portalringe.md), [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Vollendung des Generators*).
+
+---
+
+### C-180: Warum Bellbrim die Sprache des Nordens spricht ✗
+
+> **Zurückgezogen (14.09.2026):** Die Prämisse „volle, fließende Verständigung" stammte aus meiner ersten Fassung von [C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-), nicht vom Autor. Der Autor hat präzisiert: **Die Sprachen sind ähnlich**, die beiden verstehen sich nicht vollständig, können aber kommunizieren. Eine Erklärung, warum Bellbrim Girlins Sprache spricht, braucht es damit nicht. Der Text unten bleibt als Dokumentation stehen.
+>
+> **Historisch vertretbar:** Ost- und Nordgermanisch teilen um 550 noch viel Grundwortschatz; eine Verständigung mit Lücken ist plausibel. Einschränkung: Vandalisch ist kaum überliefert.
+
+Aus [C-113 ✓](#c-113-bellbrims-sprache---verhältnis-zu-c-026-) und [C-026](#c-026-bellbrim---historische-plausibilität--herkunft-) ausgelagert (14.09.2026).
+
+Entschieden ist: [Bellbrim](../Menschen/Andere/Bellbrim.md) ist **Vandalin**, und sie versteht sich mit [Girlin](../Menschen/Nordvolk/Girlin.md) **ab dem ersten Treffen voll** in der Sprache des Nordens.
+
+**Das Problem (Authentizität):** Vandalisch ist ostgermanisch, Girlins Sprache nordgermanisch. Verwandtschaft allein erklärt keine sofortige, fließende Verständigung. Vandalisch ist zudem kaum überliefert - wie nah es dem Nordischen um 550 stand, lässt sich nicht genau sagen, eine volle Verständlichkeit belegt aber nichts.
+
+**Zu klären · ???**
+- Hat Bellbrim die Sprache des Nordens **gelernt**? Dann von wem, und wo?
+- Oder braucht ihre Herkunft einen **nordischen Anteil** (Familie, Gefolge, Dienstleute)? Dann: Wie verträgt sich das mit „Vandalin"?
+- Ein zweiter Mensch mit nordischer Sprache in derselben Wüste bleibt ein Zufall - wie groß darf er sein?
+
+---
+
+### C-181: Tausch Schicht für Schicht - was geschieht mit Bewegung in der Kugel? ○
+
+**Idee des Autors (14.09.2026):** Nicht die ganze Kugel wird auf einmal getauscht. **Die rotierende Schnittfläche führt den Transport aus**, Schicht für Schicht, wie bei einem CT oder MRT. Der Autor sieht selbst das Problem: **Was geschieht, wenn sich etwas innerhalb der Kugel bewegt?** Er will das ausführlicher besprechen. Nichts ist entschieden.
+
+**Befunde (Claude, geprüft):**
+
+1. **Die Geometrie passt.** Die Kreisfläche innerhalb der Innenkante dreht sich bei einer halben Umdrehung um ihren Durchmesser genau einmal durch jeden Punkt der Tauschkugel. Ausnahme ist nur die Drehachse selbst, die die ganze Zeit in der Fläche liegt.
+2. **Der Wiki-Stand muss dazu geklärt werden.** [Portalringe](../Technik/Portalringe.md#aktivierung--tausch): *„Drehung und Tausch sind ein einziger Vorgang - es gibt keinen Zwischenzustand, in dem der Reif schon dreht und der Inhalt noch da ist"* (Autor, 09.09.2026). Schicht für Schicht bleibt ein einziger Vorgang, erzeugt aber einen Zwischenzustand: Ein Teil der Kugel ist schon getauscht, der Rest noch nicht.
+3. **Nahe der Drehachse bewegt sich die Schnittfläche langsam.** Geschwindigkeit = Abstand von der Drehachse × Winkelgeschwindigkeit, Winkelgeschwindigkeit = π / Flipdauer. Gerechnet für beide Enden der Spanne aus [C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-):
+
+```
+Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
+150 ms  (20,9 rad/s)          1,0 m/s   2,1 m/s   10,5 m/s  31,4 m/s
+100 ms  (31,4 rad/s)          1,6 m/s   3,1 m/s   15,7 m/s  47,1 m/s
+```
+
+   Nahe der Achse kann normale Bewegung (eine Hand, rieselnder Sand, fallendes Wasser) mit der Fläche mithalten oder sie überholen. Was aus einer schon getauschten Schicht in eine noch nicht getauschte gerät, würde **zurückgetauscht** - was in die umgekehrte Richtung gerät, **gar nicht**.
+4. **Auch Ruhendes ist betroffen.** Ein stillstehender Mensch wird zu verschiedenen Zeitpunkten getauscht und ist für die Dauer des Flips teils hier, teils dort. [C-012 ✓](#c-012-aktivierungsverhalten-des-rings-) sagt, wer ganz in der Öffnung steht, reist unverletzt.
+
+**Zu klären · ???**
+- Gilt der Tausch Schicht für Schicht?
+- Wenn ja: Was geschieht mit Bewegtem - und mit einem Körper, der einen Lidschlag lang geteilt ist?
+- Bestimmt das die Flipdauer mit ([C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-))?
 
 ---
