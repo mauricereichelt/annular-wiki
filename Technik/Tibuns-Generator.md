@@ -20,7 +20,7 @@ Ein **Rad**, dessen Lauffläche ein Reibekörper aus Bernstein ist. Kein Kondukt
   <tbody>
     <tr><td><strong>Reibekörper</strong></td><td>Bernsteinkranz auf einer Holzfelge, Segmente mit Birkenpech gefügt/verfugt, Stoßkanten poliert → durchgehende Reibfläche (~20 kg Bernstein bei 2 m Rad-Ø)</td></tr>
     <tr><td><strong>Reibung</strong></td><td>angedrücktes Kissen aus Fell/Wolle/Leder am Umfang (wie eine Bremse) lädt den Kranz kontinuierlich</td></tr>
-    <tr><td><strong>Antrieb</strong></td><td>Wasserrad (große Anlage) bzw. Handkurbel (Tisch-Modell/Prototyp)</td></tr>
+    <tr><td><strong>Antrieb</strong></td><td>Wasserrad (große Anlage) bzw. Handkurbel (Tisch-Modell/Prototyp). <strong>Das Wasserrad ist Tibuns eigene Idee</strong> (Autor, 14.09.2026) - im Norden ist um 550 keines belegt</td></tr>
     <tr><td><strong>Material-Regel</strong></td><td><strong>kein Eisen in der Reibzone</strong> - Metall würde die Ladung sofort ableiten; Strukturmetall isoliert von der geladenen Fläche halten</td></tr>
   </tbody>
 </table>
@@ -48,7 +48,7 @@ Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungs
 
 Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze seines Geräts**. Für den Erzähltext heißt das: Wer einen Ring zündet, wartet auf die Maschine, nie auf den Ring.
 
-> Ob sich die 30 Minuten durch einen besseren Antrieb oder eine größere Reibfläche verkürzen lassen, ist **nicht entschieden** · **???** (Streichvermerk 08.09.2026, siehe [C-119](../Notizen/Challenges.md#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-))
+> Ob sich die 30 Minuten durch einen besseren Antrieb oder eine größere Reibfläche verkürzen lassen, ist **nicht entschieden** · **???** (Streichvermerk 08.09.2026)
 
 ---
 

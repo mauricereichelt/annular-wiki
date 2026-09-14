@@ -74,7 +74,8 @@ Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 **Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser - der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stürzt über den Ring** und **liegt** darin (Autor, 07.09.2026); dabei zieht sie sich eine **Kopfwunde** zu und ist bewusstlos. Stehend hätte sie der Ring geköpft.
 
 **Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb mitgetauscht. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt** - und drüben entsteht eine. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt. Für die Erbauer selbstverständlich; für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich.
-- **Aus dem Ring tritt nichts aus** - kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif schwingt zwar mit ~126 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst **Teil der Tauschkugel** ist.
+- **Aus dem Ring tritt nichts aus** - kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif durchläuft sie wie alles andere **wie ein Geist** (Autor, 14.09.2026) - trotz ~126 km/h Kantengeschwindigkeit kein Luftstoß.
+  > **Korrigiert (14.09.2026):** Hier stand als Begründung, der Reif verdränge nur Luft, die selbst Teil der Tauschkugel ist. Das widersprach der Geometrie oben: Der Reif läuft **außerhalb** der Kugel.
 
 ### Dauer des Flips
 

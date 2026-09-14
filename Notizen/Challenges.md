@@ -67,7 +67,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-182: Was Tibun in den Kaupvik-Jahren verliert ○](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
-- [C-183: Verdrängt der Reif Luft der Tauschkugel? ○](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -196,6 +195,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-178: Was die Anlage im Norden nach Zündung 2 tut ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)
 - [C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓](#c-179-wenig-ladung-reicht---warum-löst-nicht-jede-berührung-aus-)
 - [C-180: Bellbrims Sprache - Prämisse zurückgezogen ✗](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)
+- [C-183: Verdrängt der Reif Luft? ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
+- [C-184: Das Wasserrad ist Tibuns eigene Idee ✓](#c-184-wasserräder-sind-im-norden-um-550-nicht-belegt-)
 
 ---
 
@@ -2679,7 +2680,7 @@ Diese Werte gehören zum **langsamen Rand** der Spanne:
 
 Gerechnet mit R_flip = 1,6649 m und einer halben Umdrehung (π) in der jeweiligen Zeit.
 
-**Warum das zählt:** Die 126 km/h stehen auch in [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch) als Begründung dafür, dass der Reif nur Luft verdrängt, die selbst zur Tauschkugel gehört. Solange die Spanne offen ist, ist diese Zahl nicht belastbar - sie kann um die Hälfte danebenliegen.
+**Warum das zählt:** Die 126 km/h stehen auch in [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch) als Begründung dafür, dass der Reif nur Luft verdrängt, die selbst zur Tauschkugel gehört. Solange die Spanne offen ist, ist diese Zahl nicht belastbar - sie kann um die Hälfte danebenliegen. *(Nachtrag 14.09.2026: Diese Begründung ist entfallen, die Geist-Eigenschaft gilt auch für Luft - [C-183 ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-). Die 126 km/h tragen dort kein Argument mehr.)*
 
 **Zu klären · ???**
 - Gilt eine **feste** Dauer statt einer Spanne? Welche?
@@ -3542,7 +3543,7 @@ Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.
 
 ---
 
-### C-183: Verdrängt der Reif Luft der Tauschkugel? ○
+### C-183: Verdrängt der Reif Luft der Tauschkugel? ✓
 
 Aufgefallen am 14.09.2026. [Portalringe](../Technik/Portalringe.md#aktivierung--tausch) sagt an zwei Stellen Verschiedenes:
 
@@ -3554,5 +3555,26 @@ Die zweite Begründung passt nicht zur ersten: Die Luft, durch die der Reif läu
 **Die Aussage selbst hält** - keine Druckwelle -, nur ihre Begründung nicht. Mit der Geist-Eigenschaft wäre sie schon erklärt.
 
 **Zu klären · ???** Gilt die Geist-Eigenschaft auch für Luft? Dann wird die Begründung ersetzt. Berührt [C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-), das sich auf dieselbe Stelle stützt.
+
+**Entschieden (Autor, 14.09.2026): Ja, die Geist-Eigenschaft gilt auch für Luft.** Kein Luftstoß. Die falsche Begründung ist ersetzt. Nachgezogen: [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-mulde).
+
+---
+
+### C-184: Wasserräder sind im Norden um 550 nicht belegt ✓
+
+Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-). [Tibuns Generator](../Technik/Tibuns-Generator.md) wird in der großen Anlage von einem **Wasserrad** angetrieben.
+
+**Historischer Befund (Claude):**
+- In Dänemark sind die frühesten Wassermühlen **wikingerzeitlich** (Omgård, Westjütland) - Jahrhunderte nach 550. Früher im Norden: nichts belegt.
+- Im **Frankenreich** waren Mühlen Anfang des 6. Jh. bekannt; das fränkische Volksrecht (Lex Salica) erwähnt sie.
+- In Irland setzen die dendrodatierten Horizontalmühlen im 7. Jh. ein, in England (Tamworth) im 9. Jh.
+
+Quellen: [Danish Journal of Archaeology - Early watermills](https://tidsskrift.dk/dja/article/view/124837), [Dendroarchaeological evidence of early medieval water mill technology](https://www.sciencedirect.com/science/article/abs/pii/S0305440318300438)
+
+**Entschieden (Autor, 14.09.2026): Das Wasserrad ist Tibuns eigene Idee.** Er hat es nicht aus Kaupvik und nicht von Händlern. Ein einfaches Rad in der Strömung, ohne Getriebe, liegt für einen Erfinder im Bereich des Möglichen - belegt ist es im Norden damit nicht, aber auch nicht unmöglich.
+
+**Anmerkung (Claude):** Für [Bellbrims](../Menschen/Andere/Bellbrim.md) Wasserrad in der Wüste stellt sich die Frage schwächer: Das römische Nordafrika, aus dessen Erbe das Vandalenreich kam, kannte Wassermühlen. Nicht vom Autor entschieden, nur Befund.
+
+Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md).
 
 ---
