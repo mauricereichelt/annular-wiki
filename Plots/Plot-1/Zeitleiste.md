@@ -53,6 +53,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Blitz an der Schafschere im Wollstall
 - Er versteht das Prinzip noch **nicht** - die Einsicht kommt erst Jahre später in Kaupvik
 - **Die Kette ist nicht neu** - Tibun hat sie schon lange (Autor, 04.09.2026)
+- **Die Verlobungsfeier liegt bewusst nur Tage nach dem Beben** (Autor, 14.09.2026) - ein Fest gegen die Angst
 - **Er verschenkt sie nicht: Frida nimmt sie nicht an.** Wie es dann zur Entladung kommt · **???**
 - Der Bernstein selbst stammt von seiner Mutter - **wenige Tage, bevor sie verschwindet**
 

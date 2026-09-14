@@ -146,7 +146,7 @@ Das Material ist mystisch und nicht identifizierbar. Für die Bearbeitung gilt:
 
 ### Haptik
 
-**Die Oberfläche fühlt sich an wie gebürstetes Aluminium** - fein gerichtet, nicht glatt poliert, nicht rau. Die Hand spürt die Richtung der Struktur.
+**Die Oberfläche fühlt sich an wie gebürstetes Aluminium** - fein gerichtet, nicht glatt poliert, nicht rau. Die Hand spürt die Richtung der Struktur. **Sie läuft umlaufend**, der Ringform folgend (Autor, 14.09.2026).
 
 **Der Ring ist temperaturlos.** Er nimmt weder Handwärme noch Umgebungskälte an und gibt keine ab: Er fühlt sich nie kalt und nie warm an, in der Sonne so wenig wie im Boden. Das Unheimliche liegt nicht in der Textur, sondern in dem, was fehlt.
 

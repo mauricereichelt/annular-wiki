@@ -85,7 +85,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
 - **Gegenrichtung `sharp edges` → scharfkantiger Bord.** Die Kanten sind *gebrochen*, nicht scharf: `softly chamfered edges`, `small edge radius`.
 - `brushed aluminium` zieht Richtung Sci-Fi - nötigenfalls `no sci-fi, no industrial` verstärken.
 
-**Noch offen, in den Prompts vorläufig gesetzt:** Bürstrichtung umlaufend statt axial; Runenform bewusst vage.
+**Entschieden:** Bürstrichtung umlaufend (Autor, 14.09.2026). **Noch offen, in den Prompts vorläufig gesetzt:** Runenform bewusst vage.
 
 **Nutzung:** Midjourney `--ar 3:2` anhängen, NEGATIVE-Block in `--no` umbauen. DALL·E/Imagen: Fließtext unverändert.
 

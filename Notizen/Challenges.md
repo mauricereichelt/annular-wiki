@@ -25,7 +25,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
-- [C-037: Ringoptik im Erzähltext ohne Anachronismus ○](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-)
 - [C-041: Prolog - Bernstein-Fundort ○](#c-041-prolog---bernstein-fundort-)
 - [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
 - [C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ○](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
@@ -55,7 +54,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
-- [C-116: Azzim tritt zu spät auf ○](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 - [C-125: Das Transportverfahren ist offen ○](#c-125-das-transportverfahren-ist-offen-)
@@ -64,12 +62,12 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-139: Erzählreihenfolge - verschränkt oder blockweise ○](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
 - [C-140: Wo der Anfang endet ○](#c-140-wo-der-anfang-endet-)
-- [C-141: Der Auftakt ist jetzt sehr dicht ○](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-182: Was Tibun in den Kaupvik-Jahren verliert ○](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
+- [C-183: Verdrängt der Reif Luft der Tauschkugel? ○](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -94,6 +92,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-034: Tibuns Lebensgrundlage ✓](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-)
 - [C-035: Aussehen der Ringoberfläche ✓](#c-035-aussehen-der-ringoberfläche-)
 - [C-036: Altert der Ring? Patina, Moos, Ablagerungen ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-)
+- [C-037: Ringoptik im Erzähltext ✓](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-)
 - [C-038: Prolog - Ortsmaßstab in Skirraa ✓](#c-038-prolog---ortsmaßstab-in-skirraa-)
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
@@ -143,6 +142,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-113: Bellbrims Sprache - ähnlich, kein Konflikt ✓](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)
+- [C-116: Azzim tritt zu spät auf ✓](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
 - [C-118: Der Nordstrang bekommt einen Verlust ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
 - [C-121: Zwei Generatoren, ungleiche Bauzeiten ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-)
@@ -159,6 +159,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
+- [C-141: Der Auftakt ist jetzt sehr dicht ✓](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)
 - [C-144: Das Feld „Will" ist uneinheitlich belegt ✓](#c-144-das-feld-will-ist-uneinheitlich-belegt-)
 - [C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
 - [C-146: Was Girlin vom Flip wahrnimmt ✓](#c-146-was-girlin-vom-flip-wahrnimmt-)
@@ -678,7 +679,7 @@ Der Begriff darf **nie im Erzähltext** stehen → [C-037](#c-037-ringoptik-im-e
 
 ---
 
-### C-037: Ringoptik im Erzähltext ohne Anachronismus ○
+### C-037: Ringoptik im Erzähltext ohne Anachronismus ✓
 
 [C-035](#c-035-aussehen-der-ringoberfläche-) legt die Optik fest: **matt silbrig-grau, fein gerichtet, wie gebürstetes Aluminium**. Das ist Autorenebene. Offen ist, **womit eine Figur von 550 das vergleicht** - „Aluminium" ist im Erzähltext ein harter Anachronismus.
 
@@ -695,6 +696,10 @@ Der Begriff darf **nie im Erzähltext** stehen → [C-037](#c-037-ringoptik-im-e
 Berührt [C-013](#c-013-runen---anordnung-anzahl-aussehen-). Wird spätestens bei der Fundszene akut.
 
 **Klein & offen (Autorenebene):** Läuft die feine Bürstrichtung **umlaufend** (der Ringform folgend) oder **axial**? Umlaufend ist die naheliegende Lesart, festgelegt ist nichts.
+
+**Entschieden (Autor, 14.09.2026): umlaufend.** Nachgezogen: [Portalringe](../Technik/Portalringe.md#haptik), [Bild-Prompts](Bild-Prompts.md). 
+
+**Geschlossen (Autor, 14.09.2026):** Auf Autorenebene ist die Optik vollständig geklärt. **Wie sie im Erzähltext beschrieben wird, entscheidet der Autor beim Schreiben** - dafür wird keine Challenge geführt.
 
 ---
 
@@ -2178,11 +2183,13 @@ Betrifft [C-059](#c-059-tibuns-zieheltern-in-kaupvik-) (Zieheltern als Endpunkt)
 
 ---
 
-### C-116: Azzim tritt zu spät auf ○
+### C-116: Azzim tritt zu spät auf ✓
 
 Bisher erscheint [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) erst auf dem **Basar in Jahr +10** ([Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), Girlin 13). Ein Antagonist, der im letzten Zehntel auftaucht, ist ein **Zwischenfall, kein Gegenspieler.**
 
 **Entschieden (Autor, 02.09.2026): Es kommen frühere Auftritte hinein.**
+
+> **Überholt (14.09.2026):** Der folgende Absatz trägt nicht mehr. Das Wassermotiv ist gestrichen, und Azzim weiß bis zum Ende nichts vom Ring (harte Regel, [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)). Er bleibt als Dokumentation stehen.
 
 **Der Anlass liegt bereit:** Mit dem Wassermotiv ([C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-), [C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-)) hat Azzim allen Grund, sich lange vor dem Finale für den Ring zu interessieren - spätestens, wenn ein ganzes Volk rund 5,7 t Metall sichtbar durch die Wüste schleppt ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)). *(Korrigiert 11.09.2026: hier stand „acht Tonnen" und „vier Jahre lang"; der Ring wiegt rund 5,7 t ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)), der Zug liegt in +7/+8 und dauert ein paar Wochen.)* **Ein Transport dieser Größe ist nicht geheim zu halten.** Das ist die natürliche Stelle für seinen ersten Auftritt.
 
@@ -2191,6 +2198,13 @@ Bisher erscheint [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) erst auf
 - **Weiß er von Anfang an vom Ring, oder erfährt er davon?**
 - **Begegnet er Girlin persönlich** vor dem Finale - oder ist er lange nur ein Name und ein Schatten?
 - **Was hindert ihn, früher zuzugreifen?** Ohne Antwort wirkt jedes Zögern wie Autorenwille.
+
+
+**Geschlossen (Autor, 14.09.2026).** Alle Teilfragen sind beantwortet:
+- Zahl und Zeitpunkte der Auftritte → [C-123 ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
+- Er weiß bis zum Ende nichts vom Ring → harte Regel in [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)
+- Er begegnet Girlin persönlich, erfährt von ihr über Gerede auf dem Basar → [C-165 ✓](#c-165-wie-azzim-von-girlin-erfährt-)
+- Früher zugreifen kann er nicht, solange der Clan sie schützt → [C-123 ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
 
 ---
 
@@ -2744,16 +2758,21 @@ Hängt an [C-139](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-): Be
 
 ---
 
-### C-141: Der Auftakt ist jetzt sehr dicht ○
+### C-141: Der Auftakt ist jetzt sehr dicht ✓
 
 Folge aus [C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-) (04.09.2026): Beben, Bernstein-Effekt und Blitz liegen alle in Jahr 0, jeweils nur wenige Tage auseinander. Der gesamte Auftakt umfasst damit **ein bis zwei Wochen** statt gut einem Jahr.
 
 **Zu prüfen · ???** Zwei Stellen werden dadurch enger, als sie es vorher waren:
 
-1. **Die Verlobung folgt dicht auf das Beben.** Das Beben ist *wie noch nie erlebt*, die Menschen haben Angst, womöglich ist jemand vermisst ([C-056](#c-056-prolog---folgen-des-bebens-im-dorf-)). Wenige Tage später richtet derselbe Weiler eine Verlobungsfeier aus. Das kann tragen - ein Fest gegen die Angst ist glaubwürdig -, sollte aber bewusst so gebaut sein und nicht unbemerkt bleiben.
+1. **Die Verlobung folgt dicht auf das Beben.** Das Beben ist *wie noch nie erlebt*, die Menschen haben Angst, womöglich ist jemand vermisst ([C-056](#c-056-prolog---folgen-des-bebens-im-dorf-)). *(Korrigiert 14.09.2026: Niemand wird vermisst - Autor; so steht es bereits in C-056.)* Wenige Tage später richtet derselbe Weiler eine Verlobungsfeier aus. Das kann tragen - ein Fest gegen die Angst ist glaubwürdig -, sollte aber bewusst so gebaut sein und nicht unbemerkt bleiben.
 2. **Der Ring liegt nur Tage frei.** Falls das Beben ihn zugänglich macht ([C-128](#c-128-fundort-und-freilegung-des-skir-rings-)), bleibt kaum Zeit, dass ihn jemand entdeckt. Das ist eher ein Vorteil: Es erklärt zwanglos, warum niemand außer Tibun etwas von ihm weiß.
 
 Kein Widerspruch, nur eine Enge, die vorher nicht bestand.
+
+
+**Punkt 1 entschieden (Autor, 14.09.2026): bewusst so.** Die Verlobungsfeier wenige Tage nach dem Beben ist ein Fest gegen die Angst. Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt).
+
+**Punkt 2 bestätigt (Autor, 14.09.2026):** Das Beben macht den Ring zugänglich - wie in [C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-) entschieden. Damit ist nichts mehr offen.
 
 ---
 
@@ -3520,5 +3539,20 @@ Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.
 - **Was** verliert er - einen Menschen, etwas Gebautes, Bernstein, Ansehen, eine Hoffnung?
 - **Wann** - vor oder nach dem Erkenntnismoment an der Winde (+4/+5)?
 - Braucht es dafür eine **eigene Szene** in [Szenen.md](../Plots/Plot-1/Szenen.md)?
+
+---
+
+### C-183: Verdrängt der Reif Luft der Tauschkugel? ○
+
+Aufgefallen am 14.09.2026. [Portalringe](../Technik/Portalringe.md#aktivierung--tausch) sagt an zwei Stellen Verschiedenes:
+
+- **Geist-Eigenschaft:** Der rotierende Reif überstreicht die Schale **zwischen 1,50 m und 1,665 m** (Abstand vom Kugelzentrum) - also **außerhalb** der Tauschkugel. Er durchdringt dort alles, **ohne es anzutasten**.
+- **Keine Druckwelle:** *„Der Reif schwingt zwar mit ~126 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst Teil der Tauschkugel ist."*
+
+Die zweite Begründung passt nicht zur ersten: Die Luft, durch die der Reif läuft, liegt **außerhalb** der Kugel. Nach der Geist-Eigenschaft verdrängt er sie gar nicht.
+
+**Die Aussage selbst hält** - keine Druckwelle -, nur ihre Begründung nicht. Mit der Geist-Eigenschaft wäre sie schon erklärt.
+
+**Zu klären · ???** Gilt die Geist-Eigenschaft auch für Luft? Dann wird die Begründung ersetzt. Berührt [C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-), das sich auf dieselbe Stelle stützt.
 
 ---
