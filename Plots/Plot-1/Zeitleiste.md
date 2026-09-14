@@ -96,6 +96,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **+1 bis +4:** Hafenarbeit, die Zieheltern, Sammeln und Handeln - noch ohne zu wissen, wie es geht
   - **+4/+5: Arbeitsunfall an einer Bootsziehwinde** → **Erkenntnismoment**: schnelle, kontinuierliche Reibung = viel Ladung
   - **+5 bis +9:** Bau des **Tischmodells** (Prototyp des Bernsteinrad-Generators), weiter Bernstein
+- **In den Kaupvik-Jahren verliert Tibun etwas** (Autor, 14.09.2026). Was und wann: **???**
 - **Aufbruch in Jahr +9:** Das Tischmodell **läuft**, und er hält Wissen und Bernstein für ausreichend - **er hat damit recht**. Kein Irrtum, kein Scheitern im Maßstab
 - **Die Zieheltern bleiben zurück** - lebend, im Guten. Ein Abschied, kein Verlust
 - **In Skirraa hält das Tabu** (Autor, 10.09.2026): Die [Sandstelle](../../Orte/Skirraa.md) wird die ganzen acht Jahre **gemieden wie am ersten Tag**, und **man erzählt davon** - Kindern zur Warnung. Der Ort bleibt präsent, ohne dass ihn jemand betritt

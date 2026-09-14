@@ -130,7 +130,7 @@ Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln 
 | **3,00 m** | ~5,7 t | schwer, aber bewegbar | Menschen & Waren. Skir- und Wüstenring. |
 | **0,30 m** | ~5,7 kg | tragbar | Kleine Pakete & Briefe - ein Postsystem. |
 
-Weitere Größen: **???**. Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen - niemand in der Welt von 550 kennt das System.
+**Es gibt weitere Größen** (Autor, 14.09.2026). Welche und wofür: **???**. Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen - niemand in der Welt von 550 kennt das System.
 
 ---
 

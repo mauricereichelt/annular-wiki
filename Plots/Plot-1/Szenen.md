@@ -216,7 +216,7 @@ Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Run
 Begegnung mit der Vandalin, die mehrere Sprachen spricht. Die Sprachen sind ähnlich: Die beiden verstehen sich nicht vollständig, können aber vom ersten Treffen an kommunizieren - ohne Konflikt zwischen ihnen (Autor, 14.09.2026).
 
 - **Will:** Verstehen, was der Ring ist
-- **Hindernis:** ??? *(Überholt 14.09.2026: Hier stand, Vandalisch sei nur verwandt und die Verständigung brauche Monate.)*
+- **Hindernis:** ???
 - **Ausgang:** Bellbrim versteht als Erste, was der Ring ist.
 
 
@@ -351,7 +351,7 @@ Die drei lösen sich und ziehen zu Bellbrim.
 
 ### 26 · Das Tischmodell
 
-> **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts
+> **POV:** Tibun · **Jahr +5** · **Offen:** Was Tibun in den Kaupvik-Jahren verliert
 
 Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
@@ -455,7 +455,7 @@ Bellbrim und Girlin bauen weiter.
 
 ### 34 · Aufbruch aus Kaupvik
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts
+> **POV:** Tibun · **Jahr +9** · **Offen:** Was Tibun in den Kaupvik-Jahren verliert
 
 Das Modell läuft, Wissen und Bernstein reichen.
 

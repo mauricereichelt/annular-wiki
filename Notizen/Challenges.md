@@ -16,7 +16,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
 - [C-011: Kreis oder Spirale? ○](#c-011-kreis-oder-spirale-struktur-des-kreislaufs-)
 - [C-013: Runen - Anordnung, Anzahl, Aussehen ○](#c-013-runen---anordnung-anzahl-aussehen-)
-- [C-017: Weitere Ringgrößen ○](#c-017-weitere-ringgrößen-)
 - [C-019: Ursache von Erwachen und Zusammenbruch ○](#c-019-ursache-von-erwachen-und-zusammenbruch-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
 - [C-025: Girlin - Charakter & Fähigkeiten ○](#c-025-girlin---charakter--fähigkeiten-)
@@ -57,11 +56,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-116: Azzim tritt zu spät auf ○](#c-116-azzim-tritt-zu-spät-auf-)
-- [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 - [C-125: Das Transportverfahren ist offen ○](#c-125-das-transportverfahren-ist-offen-)
-- [C-126: Der Postring - was passt hinein? ○](#c-126-der-postring---was-passt-hinein-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -72,6 +69,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
+- [C-182: Was Tibun in den Kaupvik-Jahren verliert ○](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -85,6 +83,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
 - [C-015: Verhältnis Drehung ↔ Tausch ✓](#c-015-verhältnis-drehung--tausch-)
 - [C-016: Schicksal von Vilund ✓](#c-016-schicksal-von-vilund-)
+- [C-017: Weitere Ringgrößen ✓](#c-017-weitere-ringgrößen-)
 - [C-018: Transport des Wüstenrings ✓](#c-018-widerspruch---transport-des-wüstenrings-)
 - [C-020: Vorwarnung vor dem Flip? ✓](#c-020-vorwarnung-vor-dem-flip-)
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
@@ -145,10 +144,12 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
+- [C-118: Der Nordstrang bekommt einen Verlust ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
 - [C-121: Zwei Generatoren, ungleiche Bauzeiten ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-)
 - [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10-)
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
 - [C-124: Die Zwischenstation - Ort und Gruppe ✓](#c-124-die-zwischenstation---ort-und-gruppe-)
+- [C-126: Der Postring - nur Weltenbau ✓](#c-126-der-postring---was-passt-hinein-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 - [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
 - [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ✓](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
@@ -418,9 +419,13 @@ Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch, oder dreht der 
 
 ---
 
-### C-017: Weitere Ringgrößen ○
+### C-017: Weitere Ringgrößen ✓
 
 Festgelegt (C-010): **3,00 m** (ortsfeste Tor-Ringe) und **0,30 m** (tragbarer Post-Ring). Gibt es im Erbauer-System weitere Größen - und wofür? Offen.
+
+**Entschieden (Autor, 14.09.2026): Es gibt weitere Größen.** Welche und wofür · ??? - vom Autor geschlossen, die Challenge wird dafür nicht weitergeführt.
+
+Nachgezogen: [Portalringe](../Technik/Portalringe.md#größen--zweck).
 
 ---
 
@@ -2236,7 +2241,7 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 
 ---
 
-### C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○
+### C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ✓
 
 Aus [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-) (02.09.2026): Tibuns Aufbruch aus [Kaupvik](../Orte/Kaupvik.md) ist **rein positiv** - das Modell läuft, das Material reicht, die Zieheltern bleiben lebend und im Guten zurück.
 
@@ -2247,6 +2252,10 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 - **Es kommt etwas hinzu.** Ein Verlust irgendwo in +1 bis +9.
 
 **Zu prüfen beim Kapitelraster · ???** Ob acht Jahre ohne Verlust den mittleren Teil des Buches tragen - oder ob der Leser dort aufhört mitzugehen.
+
+**Entschieden (Autor, 14.09.2026): Es kommt ein Verlust hinzu**, irgendwo zwischen +1 und +9. Was er ist → [C-182](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-).
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25).
 
 ---
 
@@ -2438,7 +2447,7 @@ Bis das entschieden ist, darf **keine Datei ein Verfahren als Tatsache behaupten
 
 ---
 
-### C-126: Der Postring - was passt hinein? ○
+### C-126: Der Postring - was passt hinein? ✓
 
 Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ring wiegt nach neuer Geometrie und Referenzdichte **~5,7 kg** (Außen-Ø 0,33 m, Dicke 0,015 m, Breite 0,05 m) - ein flacher Reif, den man mit beiden Händen umfassen kann - gut ein Drittel Meter außen, fingerdick, handbreit schmal.
 
@@ -2447,6 +2456,8 @@ Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ri
 **Offen bleibt der Inhalt · ???**
 - Die Tauschkugel des kleinen Rings hat nur **0,30 m** Durchmesser. Was passt hinein? [C-010 ✓](#c-010-ringsystem---kopplungsmechanik-) sagt nur *„Pakete/Briefe"* - das ist nie präzisiert worden.
 - Braucht der Plot einen so kleinen Ring überhaupt, oder ist er reines Weltenbau-Detail? Berührt [C-017](#c-017-weitere-ringgrößen-).
+
+**Entschieden (Autor, 14.09.2026): Plot 1 braucht den Postring nicht** - er bleibt ein Weltenbau-Detail. Was hineinpasst, ist für Plot 1 damit ohne Belang. Braucht ihn eine spätere Geschichte, stellt sich die Frage dort neu.
 
 ---
 
@@ -3494,5 +3505,20 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 - Gilt der Tausch Schicht für Schicht?
 - Wenn ja: Was geschieht mit Bewegtem - und mit einem Körper, der einen Lidschlag lang geteilt ist?
 - Bestimmt das die Flipdauer mit ([C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-))?
+
+---
+
+### C-182: Was Tibun in den Kaupvik-Jahren verliert ○
+
+Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.2026): Zwischen Jahr +1 und +9 verliert [Tibun](../Menschen/Nordvolk/Tibun.md) etwas.
+
+**Was feststeht und nicht verletzt werden darf:**
+- Die Zieheltern [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md) bleiben am Ende **lebend und im Guten** zurück (Autor, 02.09.2026)
+- Der Aufbruch in +9 ist ein Erfolg: Das Tischmodell läuft, Wissen und Bernstein reichen ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md))
+
+**Zu klären · ???**
+- **Was** verliert er - einen Menschen, etwas Gebautes, Bernstein, Ansehen, eine Hoffnung?
+- **Wann** - vor oder nach dem Erkenntnismoment an der Winde (+4/+5)?
+- Braucht es dafür eine **eigene Szene** in [Szenen.md](../Plots/Plot-1/Szenen.md)?
 
 ---
