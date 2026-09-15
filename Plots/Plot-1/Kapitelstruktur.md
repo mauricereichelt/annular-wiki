@@ -133,7 +133,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 **Der Skizzentext oben bleibt unverändert**, auch wo er jetzt überholt ist. Im Zweifel gilt die [Zeitleiste](Zeitleiste.md).
 
 ### Tibun (Norden)
-- **Beat 4 (Unfall):** Er passiert und ist gesetzt. Verletzt wird eine **Nebenfigur**. Er baut ein **kleines Wasserrad** (Autor, 15.09.2026). **Wie** es abläuft, bleibt offen · **???**
+- **Beat 4 (Unfall):** Er passiert und ist gesetzt. Verletzt wird eine **Nebenfigur** - ein **Gleichaltriger**, der ihm hilft. Er baut ein **kleines Wasserrad** (Autor, 15.09.2026). **Wie** es abläuft, bleibt offen · **???**
 - **Beat 5 (Aufbruch):** getrieben von **Ring, Schuld, Gewissenslast und Ausschluss** durch die Dorfbewohner - nicht vom Ring allein
 - **Beats 5-10 sind keine Wanderjahre.** Skirraa↔Kaupvik = **~14 Tagesmärsche**. Es gibt **eine Zwischenstation** (Anschluss an eine Gruppe; er lernt zu überleben und zu schweigen), danach **acht Jahre Kaupvik**
 - **Beat 10 (Hafenunfall):** liegt in **Jahr +4/+5**, nicht am Ende. Davor: sammeln ohne zu wissen wie. Danach: Tischmodell bauen
@@ -244,7 +244,7 @@ Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-O
 | Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** - kein Geheimnis; drei Phasen statt Schweigen |
 | Tibun kümmert sich um Truda | **überholt 10.09.2026** - er kümmert sich **nicht** und geht ohne Abschied |
 | Tibun mag Millia nicht | **aufgelöst 10.09.2026** - er hat nichts gegen sie und will auch nichts von ihr |
-| Alpträume / Idee im Traum | **neu**, kollidiert mit [Tibuns Generator](../../Technik/Tibuns-Generator.md) |
+| Alpträume / Idee im Traum | **entschieden 15.09.2026** - Albträume um die Mutter; ein eigener Traum zur Winde hilft bei der Idee ([Tibuns Generator](../../Technik/Tibuns-Generator.md#erkenntnismoment)) |
 | Girlin wird entführt und gerettet | **neu** aus [Plot 1](Plot-1.md) |
 | Girlin bekommt ein weiteres Kind | Jahr +4, Vater ist der **Neffe** |
 | Girlins Entschluss zur Rückreise | **umgekehrt entschieden** - sie bleibt und schickt eine Nachricht |

@@ -57,6 +57,8 @@ Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das 
 
 Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalringe voran.
 
+**Albträume** (Autor, 15.09.2026): Ihn plagen Albträume, die seine **Mutter** betreffen. Davon verschieden ist der **Traum zur Winde** nach dem Unfall in Kaupvik - er hilft ihm bei der Idee für den [Generator](../../Technik/Tibuns-Generator.md#erkenntnismoment).
+
 ---
 
 ## Verbindungen zu anderen Charakteren

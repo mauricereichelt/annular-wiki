@@ -204,7 +204,7 @@ Er baut ein kleines Wasserrad, und dabei wird jemand verletzt. Der Weiler rückt
 
 - **Will:** Die Mutter finden. Dazu Bernstein, Ringwissen, Mechanik
 - **Hindernis:** Meidung durch die Dorfbewohner
-- **Ausgang:** Eine Nebenfigur wird verletzt, schwere Gewissensbisse. Schuld, Gewissenslast und Ausschluss - zusammen der Antrieb zum Aufbruch. Er geht - fort von der Schuld und hin zum Wissen.
+- **Ausgang:** Ein Gleichaltriger, der ihm hilft, wird verletzt; schwere Gewissensbisse. Schuld, Gewissenslast und Ausschluss - zusammen der Antrieb zum Aufbruch. Er geht - fort von der Schuld und hin zum Wissen.
 
 > **Kein Abschied von Truda** (Autor, 10.09.2026): Er geht **ohne ein Wort** zu ihr. Sie ist zehn und erfährt es nicht vorher. Beiläufig zeigen, nicht kommentieren - die Rechnung dafür kommt bei seiner Rückkehr, in der Szene *Truda empfängt ihn*.
 
@@ -291,7 +291,7 @@ Ein Seil rutscht unter Last, wird heiß, raucht.
 
 - **Will:** Verstehen, wie sich genug Ladung erzeugen lässt
 - **Hindernis:** ???
-- **Ausgang:** Die Einsicht: schnelle, kontinuierliche Reibung. Was er mit 15 sah, versteht er jetzt.
+- **Ausgang:** Die Einsicht: schnelle, kontinuierliche Reibung. Was er mit 16 sah, versteht er jetzt.
 
 
 ### 21 · Das dritte Kind

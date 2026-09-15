@@ -46,7 +46,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-068: Prolog - Brand und Brandblasen nachziehen ○](#c-068-prolog---brand-und-brandblasen-nachziehen-)
 - [C-069: Prolog - Fridas Familie und Stiefvater ○](#c-069-prolog---fridas-familie-und-stiefvater-)
 - [C-071: Prolog - Tibuns Alter und Heiratsantrag ○](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
-- [C-079: Tibuns Alpträume - und der Traum als Ideenquelle ○](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
 - [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
@@ -107,6 +106,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-076: Abklingdauer des grünen Leuchtens ✓](#c-076-abklingdauer-des-grünen-leuchtens-)
 - [C-077: Tibun und Truda nach Girlins Verschwinden ✓](#c-077-tibun-und-truda-nach-girlins-verschwinden-)
 - [C-078: Tibuns Verhältnis zu Millia ✓](#c-078-tibuns-verhältnis-zu-millia-)
+- [C-079: Albträume ja - der Traum zur Winde hilft bei der Idee ✓](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
@@ -217,7 +217,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz für den gestrichenen Van-de-Graaff, C-005.)
 
 **Festgelegt:**
-- **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde - ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Jugend (**15**, Prolog), versteht aber erst nach diesem Unfall in Kaupvik (gegen Ende der Wanderschaft, ~24): schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~9 Jahre. (Siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)/C-023.)
+- **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde - ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Jugend (**15**, Prolog), versteht aber erst nach diesem Unfall in Kaupvik (gegen Ende der Wanderschaft, ~24) *(korrigiert 15.09.2026: 16 und Jahr 0, der Unfall liegt in +4/+5 mit 20/21)*: schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~9 Jahre. (Siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)/C-023.)
 - **Generator = rotierendes Bernsteinrad** (Reibekörper, kein Konduktor - Bernstein ist Isolator; Prinzip Guericke 1663). Holzfelge + aufgesetzter **Bernsteinkranz** (Segmente, Birkenpech-verfugt, poliert; ~20 kg). Reibkissen (Fell/Wolle/Leder) am Umfang lädt den Kranz. Antrieb: Wasserrad (große Anlage) bzw. Handkurbel (Prototyp). **Kein Eisen in der Reibzone.** Rein empirisch, ohne Theorie. (Eisen-/Kugel-/VdG-Variante verworfen.)
 - **Zünder-Prinzip:** Tibuns Funke ist nur der *Auslöser*; die Teleport-Energie kommt aus dem Ring/System (mystisch). Reale Physik bleibt auf Reibung → Funke beschränkt. **Kein gebauter Speicher** (Leidener Flasche = Anachronismus, verworfen; bliebe Rückfall-Option als Bronzeblech-Wasserfass, falls je ein Apparat-Blitz nötig wird).
 - **Ring als natürlicher Speicher:** Der große Ringkörper hat genug Eigenkapazität (~200 pF → ~1 J, ~100× Türklinken-Funke) für einen sichtbaren, knallenden Zünd-Überschlag - „deutlich größer als Türklinke", kein Gewitterblitz, kein Anachronismus. (Merksatz: Kapazität ∝ *Größe* des Leiters, nicht Masse/Drahtlänge.) *(Gestrichen 11.09.2026: Der Ring ist kein Ladungsspeicher, die Ladung sitzt auf dem Rad - Autor, [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-).)*
@@ -980,7 +980,9 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 - **Keine Erfindung vor 25:** Ein misslungener Versuch mit 17 verletzt die Regel nicht, solange er nicht funktioniert.
 - **Wozu baut er es?** Treibt es schon eine Bernsteinreibung an, nimmt es dem Erkenntnismoment an der Winde (+4/+5) etwas vorweg: Dort begreift er erst, dass schnelle, kontinuierliche Reibung viel Ladung gibt ([Tibuns Generator](../Technik/Tibuns-Generator.md#erkenntnismoment)).
 
-**Weiter offen · ???** Wozu das Rad dienen soll, wo es steht, wer verletzt wird und wie der Unfall abläuft.
+**Verletzt wird ein Gleichaltriger** (Autor, 15.09.2026), der ihm beim Bauen hilft.
+
+**Weiter offen · ???** Wozu das Rad dienen soll (Rückfrage 15.09.2026: noch offen), wo es steht, wie der Unfall abläuft und wer der Gleichaltrige ist - eine bestehende oder eine neue Figur.
 
 Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
@@ -1282,7 +1284,7 @@ Das Wiki folgt bisher der Skizze ([C-022 ✓](#c-022-tibuns-reise---dauer-motiv-
 
 ---
 
-### C-079: Tibuns Alpträume - und der Traum als Ideenquelle ○
+### C-079: Tibuns Alpträume - und der Traum als Ideenquelle ✓
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 8-9): *„Er wird von Alpträumen geplagt."* / *„Im Traum kommt ihm die Idee für einen Bandgenerator."* Beides fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md).
 
@@ -1293,6 +1295,14 @@ Zwei getrennte Fragen, die die Notiz zusammenwirft:
 **2. Die Idee im Traum - kollidiert mit dem Kanon.** [C-002](#c-002-tibuns-elektrizitätsquelle-) legt fest: Die Erkenntnis kommt durch den **Arbeitsunfall an der Bootsziehwinde** in [Kaupvik](../Orte/Kaupvik.md) (Seil rutscht, wird heiß, raucht → schnelle Reibung = viel Ladung). Das ist ein empirischer Erkenntnisweg, der zur Figur passt. Ein Einfall im Traum wäre eine **geschenkte Lösung** und streift damit das Verbot des Deus ex Machina ([CLAUDE.md](../CLAUDE.md)).
 
 **Möglicher Kompromiss, nicht entschieden:** Der Traum liefert **kein Wissen**, sondern ein **Bild** - Tibun träumt vom Ring, vom Funken, von der Mutter, und erkennt den Zusammenhang erst wach am Hafen. Dann bleibt der Traum als Motiv erhalten, ohne die Erkenntnis zu verschenken.
+
+**Entschieden (Autor, 15.09.2026):**
+- **Albträume: ja.** Tibun hat Albträume, die **seine Mutter** betreffen.
+- **Der Albtraum zur Winde ist ein anderer.** Nach dem Unfall an der Bootsziehwinde träumt er davon - und **dieser Traum hilft ihm bei der Ideenfindung**.
+
+Damit steht keiner der beiden Wege oben allein: Die Erkenntnis bleibt am echten Unfall verankert, der Traum verarbeitet ihn und hilft beim Begreifen. Eine geschenkte Lösung ist das nicht, weil der Traum nur zeigt, was Tibun wach erlebt hat. Wie der Traum aussieht, entscheidet der Autor beim Schreiben.
+
+Nachgezogen: [Tibun](../Menschen/Nordvolk/Tibun.md), [Tibuns Generator](../Technik/Tibuns-Generator.md#erkenntnismoment), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
 Randnotiz: Der Begriff **„Bandgenerator"** in Plot 1 ist Altlast ([C-005 ✓](#c-005-van-de-graaff-generator-) gestrichen, ersetzt durch das Bernsteinrad in C-002).
 

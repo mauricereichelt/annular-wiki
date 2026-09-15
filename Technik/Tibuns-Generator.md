@@ -8,7 +8,11 @@ Gebaut von [Tibun](../Menschen/Nordvolk/Tibun.md) als Erwachsenem (~25+), rein e
 
 ## Erkenntnismoment
 
-Tibun kennt den Bernstein-Effekt seit seiner Jugend (**15**, Prolog), versteht aber lange nicht, wie er genug Ladung erzeugen soll. Die Einsicht kommt erst nach einem **Arbeitsunfall an einer Bootsziehwinde**: Ein Seil rutscht unter Last frei durch, wird heiß und beginnt zu rauchen. Daraus schließt er - *schnelle, kontinuierliche Reibung = viel Ladung*. Zwischen Entdeckung und Einsicht liegen **~9 Jahre** (15 → ~24, siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
+Tibun kennt den Bernstein-Effekt seit seiner Jugend (**16**, Jahr 0), versteht aber lange nicht, wie er genug Ladung erzeugen soll. Die Einsicht kommt erst nach einem **Arbeitsunfall an einer Bootsziehwinde**: Ein Seil rutscht unter Last frei durch, wird heiß und beginnt zu rauchen. Daraus schließt er - *schnelle, kontinuierliche Reibung = viel Ladung*. Zwischen Entdeckung und Einsicht liegen **vier bis fünf Jahre** (Jahr 0 mit 16 → Jahr +4/+5 mit 20/21, siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
+
+**Der Traum zur Winde** (Autor, 15.09.2026): Nach dem Unfall träumt Tibun davon, und **dieser Traum hilft ihm bei der Ideenfindung**. Er ist von den Albträumen um die Mutter verschieden.
+
+> **Korrigiert (15.09.2026):** Hier stand „**15**, Prolog“ und „~9 Jahre (15 → ~24)“. Tibun ist beim Bernstein-Effekt 16, und der gehört zum Anfang, nicht zum Prolog (beides entschieden 04.09.2026). Die Winde liegt in +4/+5.
 
 ---
 
