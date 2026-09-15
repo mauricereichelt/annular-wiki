@@ -74,7 +74,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Die Walas sprechen als eine Stimme** - die Stimme der Götter. Die eine hält sich an das Wort der anderen; die Toterklärung Girlins gilt in Tingsal ohne erneute Prüfung
 - **Die Verlobung** (Autor, 07.09.2026): Nach der Rückkehr der beiden **öffentliche Verlobung**. **Tibun ist sauer** - obwohl er gegen [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) selbst nichts hat. **Er hasst sie nicht, will aber auch nichts von ihr** (Autor, 10.09.2026): keine gute Beziehung, sondern die Abwesenheit eines Vorwurfs. Er will seine Mutter zurück
   - **Millia ist Witwe und hat keine eigenen Kinder** (Autor, 10.09.2026) - sie bringt niemanden mit ins Haus. **Zu [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) findet sie einen Weg, zu Tibun nicht**
-- **Der Unfall** (entschieden 02.09.2026): Tibun baut etwas und **verletzt dabei eine Nebenfigur**. Dass es geschieht, steht fest; **womit** er baut und **wie** der Unfall abläuft, ist bewusst noch nicht entschieden · **???**
+- **Der Unfall** (entschieden 02.09.2026): Tibun baut etwas und **verletzt dabei eine Nebenfigur**. Dass es geschieht, steht fest. **Er baut ein kleines Wasserrad**, einen ersten, unreifen Versuch seiner Idee (Autor, 15.09.2026). **Wozu** es dient und **wie** der Unfall abläuft: **???**
 - **Wirkung - dreifach:** Schuld, Gewissenslast **und Ausschluss durch die Dorfbewohner**. Zusammen mit dem Ring ist das der Antrieb für den Aufbruch; er geht nicht nur zu etwas hin, sondern auch von etwas weg
 - **[Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) bleibt allein** (Autor, 10.09.2026): Sie ist **9**, sie hängt an ihm - und **Tibun kümmert sich nicht um sie**. Er zieht sich zurück und sucht die Mutter. Der Skizzen-Beat *„er muss sich um die kleine Schwester kümmern"* ist damit überholt: Er müsste, und er tut es nicht
 - **Beim Aufbruch verabschiedet er sich nicht von ihr.** Sie ist zehn und erfährt es nicht vorher; **sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig. Erzählt wird das **beiläufig** in den Szenen von Jahr 0 und +1 und **noch einmal aufgerufen bei der Rückkehr** in +9. Für Jahr 0 und +1 keine eigene Szene; **bei der Rückkehr bekommt es eine**: Truda empfängt ihn mit einem Wutanfall (Autor, 11.09.2026)
@@ -97,7 +97,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **+1 bis +4:** Hafenarbeit, die Zieheltern, Sammeln und Handeln - noch ohne zu wissen, wie es geht
   - **+4/+5: Arbeitsunfall an einer Bootsziehwinde** → **Erkenntnismoment**: schnelle, kontinuierliche Reibung = viel Ladung
   - **+5 bis +9:** Bau des **Tischmodells** (Prototyp des Bernsteinrad-Generators), weiter Bernstein
-- **In den Kaupvik-Jahren verliert Tibun etwas** (Autor, 14.09.2026). Was und wann: **???**
+- **In den Kaupvik-Jahren verliert Tibun nichts Konkretes** (Autor, 15.09.2026). Die Zeit ist geprägt von **Arbeit, Lernen, Bernsteinhandel, Bernsteinsuche und seinen Experimenten**
 - **Aufbruch in Jahr +9:** Das Tischmodell **läuft**, und er hält Wissen und Bernstein für ausreichend - **er hat damit recht**. Kein Irrtum, kein Scheitern im Maßstab
 - **Die Zieheltern bleiben zurück** - lebend, im Guten. Ein Abschied, kein Verlust
 - **In Skirraa hält das Tabu** (Autor, 10.09.2026): Die [Sandstelle](../../Orte/Skirraa.md) wird die ganzen acht Jahre **gemieden wie am ersten Tag**, und **man erzählt davon** - Kindern zur Warnung. Der Ort bleibt präsent, ohne dass ihn jemand betritt

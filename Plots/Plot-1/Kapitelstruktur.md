@@ -133,7 +133,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 **Der Skizzentext oben bleibt unverändert**, auch wo er jetzt überholt ist. Im Zweifel gilt die [Zeitleiste](Zeitleiste.md).
 
 ### Tibun (Norden)
-- **Beat 4 (Unfall):** Er passiert und ist gesetzt. Verletzt wird eine **Nebenfigur**. **Womit** er baut und **wie** es abläuft, bleibt offen · **???**
+- **Beat 4 (Unfall):** Er passiert und ist gesetzt. Verletzt wird eine **Nebenfigur**. Er baut ein **kleines Wasserrad** (Autor, 15.09.2026). **Wie** es abläuft, bleibt offen · **???**
 - **Beat 5 (Aufbruch):** getrieben von **Ring, Schuld, Gewissenslast und Ausschluss** durch die Dorfbewohner - nicht vom Ring allein
 - **Beats 5-10 sind keine Wanderjahre.** Skirraa↔Kaupvik = **~14 Tagesmärsche**. Es gibt **eine Zwischenstation** (Anschluss an eine Gruppe; er lernt zu überleben und zu schweigen), danach **acht Jahre Kaupvik**
 - **Beat 10 (Hafenunfall):** liegt in **Jahr +4/+5**, nicht am Ende. Davor: sammeln ohne zu wissen wie. Danach: Tischmodell bauen
@@ -237,7 +237,7 @@ Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-O
 |---|---|
 | Prolog, Erdbeben, Girlins Verschwinden | deckungsgleich mit [Zeitleiste](Zeitleiste.md) |
 | Suchtrupp, Semund + Millia, Aufbruch, Hafenstadt, Unfall → Generator-Idee | deckungsgleich |
-| Wasserrad-Unfall mit Verletztem | **teilentschieden 02.09.2026** - er passiert, Opfer ist eine Nebenfigur; Bauart offen |
+| Wasserrad-Unfall mit Verletztem | **teilentschieden 02.09.2026** - er passiert, Opfer ist eine Nebenfigur; **kleines Wasserrad** (15.09.2026) |
 | Paar in Kaupvik / neue Bezugsperson | **entschieden 10.09.2026** - Schiffszimmerer aus Kaupvik, kinderlos, kennengelernt auf der Fähre bei Vegamot; sie bleiben lebend zurück. Namen offen |
 | Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** - Transport in die Schlucht, Jahr +5 bis +8. Verfahren offen |
 | Girlin und Neffe | **entschieden** - der **Neffe**, dessen Frau zuvor durchbrennt |

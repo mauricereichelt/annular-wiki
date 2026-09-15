@@ -200,7 +200,7 @@ Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer, obwohl er gegen Mill
 
 > **POV:** Tibun · **Jahr +1** · **Offen:** Wasserrad-Unfall und Tibuns Schuld
 
-Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
+Er baut ein kleines Wasserrad, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
 
 - **Will:** Die Mutter finden. Dazu Bernstein, Ringwissen, Mechanik
 - **Hindernis:** Meidung durch die Dorfbewohner
@@ -351,7 +351,7 @@ Die drei lösen sich und ziehen zu Bellbrim.
 
 ### 26 · Das Tischmodell
 
-> **POV:** Tibun · **Jahr +5** · **Offen:** Was Tibun in den Kaupvik-Jahren verliert
+> **POV:** Tibun · **Jahr +5** · **Offen:** -
 
 Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
@@ -455,7 +455,7 @@ Bellbrim und Girlin bauen weiter.
 
 ### 34 · Aufbruch aus Kaupvik
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Was Tibun in den Kaupvik-Jahren verliert
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Das Modell läuft, Wissen und Bernstein reichen.
 

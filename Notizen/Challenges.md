@@ -37,7 +37,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-051: Frida - offene Felder ○](#c-051-frida---offene-felder-)
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
-- [C-054: Tingsal - Halle & Thinggeschehen ○](#c-054-tingsal---halle--thinggeschehen-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-063: Prolog - Szene auf Autorenfassung zurückgerollt ○](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)
 - [C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ○](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)
@@ -62,7 +61,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
-- [C-182: Was Tibun in den Kaupvik-Jahren verliert ○](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
 
 **Gelöst / Entschieden**
@@ -93,6 +91,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
+- [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-056: Prolog - Folgen des Bebens im Dorf ✓](#c-056-prolog---folgen-des-bebens-im-dorf-)
 - [C-057: Prolog - warum sind Tibun und Girlin allein draußen? ✓](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-)
@@ -141,7 +140,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)
 - [C-116: Azzim tritt zu spät auf ✓](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
-- [C-118: Der Nordstrang bekommt einen Verlust ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
+- [C-118: Der Nordstrang verliert nichts - Kaupvik ist die gute Zeit ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
 - [C-121: Zwei Generatoren, ungleiche Bauzeiten ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-)
 - [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10-)
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
@@ -198,6 +197,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-180: Bellbrims Sprache - Prämisse zurückgezogen ✗](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)
 - [C-183: Verdrängt der Reif Luft? ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
 - [C-184: Das Wasserrad ist Tibuns eigene Idee ✓](#c-184-wasserräder-sind-im-norden-um-550-nicht-belegt-)
+- [C-182: Tibun verliert nichts Konkretes ✓](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
 - [C-185: Bernsteinrad unten, nur die Kette geht nach oben ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
 - [C-186: Bernsteinrad am Wasser - Hinweis fürs Schreiben ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)
 - [C-187: Geladene Kette - Hinweis fürs Schreiben ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
@@ -885,9 +885,11 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 **Teilentscheidung (Autor, 08.09.2026):** Lanke ist in Jahr 0 **etwa 40** - früh Vater geworden, [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md) ist 17-18. Er steht voll im Saft: Die Heirat seines Sohnes ist **kein Vorgriff auf die Hofübergabe, sondern Ausbau**. Eingetragen in [Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md). **Weiter offen:** frühes Leben, Fähigkeiten, Inspiration - hier kann vieles offen bleiben, er ist Funktionsfigur des Prologs.
 ---
 
-### C-054: Tingsal - Halle & Thinggeschehen ○
+### C-054: Tingsal - Halle & Thinggeschehen ✓
 
 [Tingsal](../Orte/Tingsal.md) ist als Häuptlingssitz und Thingplatz gesetzt, aber die **Halle** (Aufbau, Größe, Nutzung) und der **Ablauf eines Things** sind nicht ausgearbeitet. Relevant, sobald eine Szene dort spielt. Historisch verankerbar an der Hallenkultur der Vendelzeit. Berührt [C-009](#c-009-häuptling-von-tingsal-) (Hadurik als Hausherr).
+
+**Entschieden (Autor, 15.09.2026): In Plot 1 spielt keine Szene in Tingsal** - weder in der Halle noch beim Thing. Tingsal wird nur erwähnt (Semund und Millia reisen dorthin). Halle und Thing sind damit **Weltenbau**; ausgearbeitet werden sie erst, wenn eine Geschichte dort spielt. Eingetragen in [Tingsal](../Orte/Tingsal.md).
 
 ---
 
@@ -969,7 +971,18 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 - **Wirkung - dreifach:** Schuld, Gewissenslast **und Ausschluss durch die Dorfbewohner**. Zusammen mit dem Ring treibt ihn das fort; er geht nicht nur zu etwas hin, sondern auch von etwas weg.
 
 **Bewusst noch nicht entschieden · ???**
-**Was** er baut (weder Wasserrad noch Blitzeffekt noch Turm sind gewählt) und **wie** der Unfall abläuft. Der Autor hält beides für vorerst nachrangig - es blockiert das Gerüst nicht. Die Kanon-Einschränkung aus [C-002](#c-002-tibuns-elektrizitätsquelle-) gilt weiter: eine statische Entladung verletzt niemanden, die Gefahr sitzt im mechanischen Teil.
+**Was** er baut (weder Wasserrad noch Blitzeffekt noch Turm sind gewählt) und **wie** der Unfall abläuft. *(15.09.2026: Was er baut, ist entschieden, s. u.)* Der Autor hält beides für vorerst nachrangig - es blockiert das Gerüst nicht. Die Kanon-Einschränkung aus [C-002](#c-002-tibuns-elektrizitätsquelle-) gilt weiter: eine statische Entladung verletzt niemanden, die Gefahr sitzt im mechanischen Teil.
+
+**Entschieden (Autor, 15.09.2026): Er baut ein kleines Wasserrad** - einen ersten, unreifen Versuch seiner Idee. Damit entfällt auch der Turm. Die Kanon-Einschränkung passt: Die Gefahr sitzt im mechanischen Teil.
+
+**Anmerkungen (Claude):**
+- **Die Idee ist damit älter als Kaupvik.** Das passt zu [C-184 ✓](#c-184-wasserräder-sind-im-norden-um-550-nicht-belegt-) (das Wasserrad ist Tibuns eigene Idee): Er bringt sie aus Skirraa mit.
+- **Keine Erfindung vor 25:** Ein misslungener Versuch mit 17 verletzt die Regel nicht, solange er nicht funktioniert.
+- **Wozu baut er es?** Treibt es schon eine Bernsteinreibung an, nimmt es dem Erkenntnismoment an der Winde (+4/+5) etwas vorweg: Dort begreift er erst, dass schnelle, kontinuierliche Reibung viel Ladung gibt ([Tibuns Generator](../Technik/Tibuns-Generator.md#erkenntnismoment)).
+
+**Weiter offen · ???** Wozu das Rad dienen soll, wo es steht, wer verletzt wird und wie der Unfall abläuft.
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
 ---
 
@@ -2284,6 +2297,10 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 
 **Entschieden (Autor, 14.09.2026): Es kommt ein Verlust hinzu**, irgendwo zwischen +1 und +9. Was er ist → [C-182](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-).
 
+**Zurückgenommen (Autor, 15.09.2026): Tibun verliert nichts Konkretes.** Es bleibt beim ersten Bau oben: Kaupvik ist die gute Zeit, geprägt von Arbeit, Lernen, Bernsteinhandel, Bernsteinsuche und Experimenten. Der Konflikt von +9/+10 trägt den Rückweg. → [C-182 ✓](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
+
+**Anmerkung (Claude):** Damit gilt die Beobachtung aus [C-139 ✓](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-) wieder: Zwischen +5 und +8 hat der Nordstrang deutlich weniger Szenen als der Wüstenstrang; der Wechsel wird dort unregelmäßig. Das ist mit verschränkter Erzählung vereinbar.
+
 Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25).
 
 ---
@@ -3563,7 +3580,7 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 
 ---
 
-### C-182: Was Tibun in den Kaupvik-Jahren verliert ○
+### C-182: Was Tibun in den Kaupvik-Jahren verliert ✓
 
 Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.2026): Zwischen Jahr +1 und +9 verliert [Tibun](../Menschen/Nordvolk/Tibun.md) etwas.
 
@@ -3575,6 +3592,10 @@ Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.
 - **Was** verliert er - einen Menschen, etwas Gebautes, Bernstein, Ansehen, eine Hoffnung?
 - **Wann** - vor oder nach dem Erkenntnismoment an der Winde (+4/+5)?
 - Braucht es dafür eine **eigene Szene** in [Szenen.md](../Plots/Plot-1/Szenen.md)?
+
+**Entschieden (Autor, 15.09.2026): Er verliert nichts Konkretes.** Die Zeit in Kaupvik ist geprägt von **Arbeit, Lernen, dem Handel mit Bernstein, dem Finden von Bernstein und seinen Experimenten**. Die Entscheidung aus [C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) vom 14.09.2026 ist damit zurückgenommen.
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
 
 ---
 
