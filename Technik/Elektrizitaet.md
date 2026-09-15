@@ -28,4 +28,4 @@ Die elektrische Ladung ist nur der **Auslöser** der Aktivierung, nicht ihre Ene
 ## Was nicht vorkommt
 
 - **Van-de-Graaff-Generator:** verworfen - historisch nicht plausibel für Tibun. Ersatz ist das rotierende Bernsteinrad ([Generator](Tibuns-Generator.md)).
-- **Leidener Flasche / Kondensator:** verworfen (Anachronismus, Prinzip erst 1745). Statt eines gebauten Speichers sammelt sich die Ladung **auf dem Rad selbst**; der Ring ist **kein** Ladungsspeicher (Autor, 11.09.2026).
+- **Leidener Flasche / Kondensator:** verworfen (Anachronismus, Prinzip erst 1745). Statt eines gebauten Speichers gibt das Rad die Ladung **laufend an die Kette** ab (Autor, 15.09.2026); der Ring ist **kein** Ladungsspeicher (Autor, 11.09.2026). Einen Konduktor gibt es nicht - die Kette ist keiner (Autor, 15.09.2026). *(Präzisiert 15.09.2026: Hier stand, die Ladung sammle sich auf dem Rad selbst.)*

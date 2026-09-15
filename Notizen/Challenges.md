@@ -63,7 +63,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-182: Was Tibun in den Kaupvik-Jahren verliert ○](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
-- [C-185: Vom Wasserrad zum Bernsteinrad ○](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
+- [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -198,6 +198,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-180: Bellbrims Sprache - Prämisse zurückgezogen ✗](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)
 - [C-183: Verdrängt der Reif Luft? ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
 - [C-184: Das Wasserrad ist Tibuns eigene Idee ✓](#c-184-wasserräder-sind-im-norden-um-550-nicht-belegt-)
+- [C-185: Bernsteinrad unten, nur die Kette geht nach oben ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
+- [C-186: Bernsteinrad am Wasser - Hinweis fürs Schreiben ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)
+- [C-187: Geladene Kette - Hinweis fürs Schreiben ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
 
 ---
 
@@ -294,6 +297,8 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 ### C-009: Häuptling von Tingsal ○
 
 [Tingsal](../Orte/Tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../Orte/Skirraa.md)) hat als Anführer [**Hadurik**](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Name gesetzt, eigene Datei angelegt). **Weiterhin offen:** Charakter und Rolle des Häuptlings - als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern; Verhältnis zu [Tibun](../Menschen/Nordvolk/Tibun.md)/Skirraa sowie zur sesshaften [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) (lebt ebenfalls in Tingsal).
+
+**Teilentscheidung (Autor, 15.09.2026):** In Plot 1 wird Hadurik **nur erwähnt**, er tritt nicht selbst auf. Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). **Weiter offen:** Charakter, Verhältnis zu Tibun, Skirraa und der Wala.
 
 ---
 
@@ -773,6 +778,8 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Millia) ist über [C-022](#c-022-tibuns-reise---dauer-motiv-hof-) geklärt - die Person dahinter nicht.
 
 **Teilentscheidung (Autor, 08.09.2026):** Semunds Können liegt beim **Vieh** - Hirte und Züchter, der den Tieren ansieht, was ihnen fehlt. Bei Menschen hat er diese Sicherheit nicht: **schweigsam, arbeitet statt zu reden, hält aus.** Genau daran entzündet sich [Tibuns](../Menschen/Nordvolk/Tibun.md) Vorwurf - der Vater sagt nichts und macht weiter. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md). **Weiter offen:** frühes Leben, Inspiration.
+
+**Teilentscheidung (Autor, 15.09.2026):** Semund hat den Hof in Skirraa **von seinem Vater geerbt**. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md#frühes-leben). **Weiter offen:** der Rest des frühen Lebens, Inspiration.
 ---
 
 ### C-046: Millia - offene Felder ✓
@@ -1821,13 +1828,15 @@ Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität]
 
 **Anmerkung (Claude):** *„Ein halber Herzschlag"* ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)) passt zu 0,64 s nur bei einem Puls von rund 47 Schlägen pro Minute. Im Würgegriff schlägt das Herz eher 120 bis 150 Mal - dann sind 0,64 s eher 1,3 bis 1,6 Schläge. Nur relevant, wenn im Text eine Zeitangabe fällt.
 
+**Präzisiert (Autor, 15.09.2026):** Das Rad gibt seine Ladung **laufend an die Kette** ab, die Kette leuchtet blau. **Es bleibt dabei: kein Konduktor** - die Kette ist kein eigener Speicher, keine Leidener Flasche oder Ähnliches. Der Einwand oben (die Kette nehme nur die Ladung an der Berührstelle ab) entfällt: Das Rad dreht unter ihr weiter, jede Stelle des Kranzes läuft an ihr vorbei. Der Ring bleibt kein Ladungsspeicher. → [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
+
 Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Der Kampf - Zündung 2*).
 
 ---
 
 ### C-100: Die Werkstatt an der Tabustelle ✓
 
-**Entschieden (Autor, 31.08.2026): Tibun baut eine überdachte Werkstatt über dem Ring** - kein verstecktes Gerüst. Der Vorschlag lautete umgekehrt (Balkengerüst, um das Tabu zu umgehen); der Autor hat das abgelehnt, **weil der Konflikt der Punkt ist**.
+**Entschieden (Autor, 31.08.2026): Tibun baut eine überdachte Werkstatt über dem Ring** - kein verstecktes Gerüst. *(Nachtrag 15.09.2026: Die Werkstatt reicht die Böschung hinunter und fasst auch das Bernsteinrad; Bau und Aussehen → [C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-).)* Der Vorschlag lautete umgekehrt (Balkengerüst, um das Tabu zu umgehen); der Autor hat das abgelehnt, **weil der Konflikt der Punkt ist**.
 
 Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) zum Tabu erklärt hat ([C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-)), ist keine heimliche Arbeit mehr, sondern eine **öffentliche Ansage**. Damit hat der Nordstrang in den Jahren +9 bis +10 endlich einen eigenen Konflikt, statt nur auf das Finale zu warten - und der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bekommt eine Antwort auf seine Frage *„Wer will den Ring außer Tibun?"*.
 
@@ -2669,6 +2678,8 @@ Damit ist [C-121 ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-) zurückgezog
 - **Woher kommt in der Wüste ein Wasserfall?** Die Schlucht ist als Ort mit Wasser angelegt; Menge und Verlässlichkeit sind offen.
 - **Welches Material braucht er?** Hängt mit [C-132](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-) zusammen.
 - **Speichert er, wie Tibuns Anlage, oder entlädt er direkt?** [C-020](#c-020-vorwarnung-vor-dem-flip-) und die Finalmechanik hängen daran.
+
+**Tendenz (Autor, 15.09.2026):** *„Kein Konduktor"* gilt **vermutlich** auch für den Wüstengenerator. Nicht entschieden.
 
 ---
 
@@ -3603,7 +3614,7 @@ Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md).
 
 ---
 
-### C-185: Wie die Drehung vom Wasserrad zum Bernsteinrad kommt ○
+### C-185: Wie die Drehung vom Wasserrad zum Bernsteinrad kommt ✓
 
 Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-).
 
@@ -3621,5 +3632,94 @@ Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für
 - **Oder steht das Bernsteinrad unten** am Wasser? Dann müsste die Kette trotzdem zum Ring reichen.
 
 **Anmerkung (Claude):** Seil und Rolle kennt Tibun aus Kaupvik - der Erkenntnismoment an der Bootsziehwinde hängt daran. Nur ein Anknüpfungspunkt, keine Entscheidung.
+
+
+**Entschieden (Autor, 15.09.2026): Das Bernsteinrad sitzt unten, direkt am Wasserrad** - unter der Bedingung, dass Folgendes physikalisch geht:
+- Das Bernsteinrad gibt seine Ladung **laufend an die Kette** ab, und die **Kette beginnt blau zu leuchten**.
+- Die Kette führt hinauf in den Dachstuhl. Über den Zündmechanismus lässt Tibun **nur das eine Ende** herunter, das zum Ring geht.
+
+**Prüfung (Claude): Das geht.**
+- **Laufende Abgabe:** So arbeiten die späteren Reibungsmaschinen - ein Leiter am drehenden Isolator sammelt, was an ihm vorbeiläuft. Da der Kranz sich dreht, kommt jede geriebene Stelle an der Kette vorbei.
+- **Blaues Leuchten:** Ein hoch geladener Leiter mit Kanten zeigt Korona - ein schwaches blauviolettes Glimmen, im Dunkeln gut sichtbar, mit leisem Knistern. Die Glieder einer Kette haben viele solcher Kanten.
+- **Keine Selbstzündung:** Ein Funke aus Reibungselektrizität springt allenfalls wenige Zentimeter weit. Die hochgezogene Kette zündet den Ring nicht von selbst.
+
+**Zwei Bedingungen, damit es trägt:**
+1. **Die Kette darf nirgends Erde berühren** - weder die feuchte Böschung noch nasses Holz. Sonst fließt die Ladung ab, bevor sie oben ankommt → [C-187 ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
+2. **Das Rad sitzt jetzt am Wasser.** Reibungselektrizität versagt in feuchter Luft; entschieden war bisher *„die Werkstatt genügt"*, aber das Rad steht nicht mehr in ihr → [C-186 ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)
+
+**Folge für den Kanon:** *„Es gibt keinen Konduktor"* (11.09.2026) **bleibt** - die Kette ist kein Konduktor (Autor, 15.09.2026). Präzisiert ist nur, wo die Ladung hingeht: vom Rad laufend auf die Kette. Vermerkt in [C-099 ✓](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-).
+
+Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
+
+---
+
+### C-186: Das Bernsteinrad unten am Skir - Nässe und Drehzahl ✓
+
+Aus [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-) (15.09.2026): Das Bernsteinrad sitzt direkt am Wasserrad im Skir.
+
+**Das Problem:** Reibungselektrizität braucht trockene Luft - nasse Oberflächen leiten die Ladung ab. Am Wasserrad gibt es Spritzwasser und Nebel vom Fluss. Entschieden war für die Feuchtigkeit bisher *„Die Werkstatt genügt - Dach und Wände halten den Regen ab"* (Autor, 11.09.2026); die Werkstatt steht aber oben am Ring.
+
+**Zu klären · ???**
+- Hat das Rad unten **eigenes Dach und Wände**, oder reicht die Werkstatt bis ans Wasser hinunter?
+- Wie hält Tibun den Bernsteinkranz **trocken** trotz Spritzwasser vom Wasserrad?
+- **Drehzahl:** Ein Wasserrad in der Strömung dreht eher langsam. Dreht das Bernsteinrad genauso schnell, oder gibt es dazwischen eine Übersetzung? Die 30 Minuten Ladezeit stehen fest und hängen nicht daran.
+
+**Geschlossen (Autor, 15.09.2026): Keine Challenge nötig.** An der Frage hängt nichts weiter; wie das Rad trocken bleibt, entscheidet der Autor beim Schreiben.
+
+**Drehzahl (Autor, 15.09.2026): Das Bernsteinrad bekommt eine Übersetzung** - vermutlich ins Schnelle (Tendenz, nicht entschieden). Bauart nicht festgelegt · ???
+
+**Nässe (Autor, 15.09.2026): Das Bernsteinrad kommt nicht mit Wasser in Berührung.** Vorläufig steht es **in der Werkstatt**, die dafür bis ans Wasser reicht → [C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-).
+
+**Befund (Claude):** Die Übersetzung am Wasserrad beschreibt Vitruv schon im 1. Jh. v. Chr. (*De architectura*, Buch X) - im Mittelmeerraum ist sie also alt. Im Norden um 550 ist sie so wenig belegt wie das Wasserrad selbst. Seil und Rolle kennt Tibun aus Kaupvik. Nur Befund. Als Hinweis eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md#hinweise-fürs-schreiben).
+
+---
+
+### C-187: Die geladene Kette - Aufhängung und Weg nach oben ✓
+
+Aus [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-) (15.09.2026): Die Kette läuft vom Bernsteinrad am Wasser hinauf in den Dachstuhl der Werkstatt; ihr freies Ende fällt zum Ring.
+
+**Das Problem:** Die Kette trägt die Ladung. Berührt sie unterwegs die Böschung, nasses Holz oder den Boden, fließt die Ladung ab. Sie muss also **isoliert** hängen.
+
+**Befund (Claude):** Im 18. Jahrhundert hängte man geladene Leiter an Seidenschnüre oder stellte sie auf Harz, Wachs oder Glas. Um 550 im Norden verfügbar: **Birkenpech** (Tibun fügt damit schon den Bernsteinkranz), **Bienenwachs**, **Harz**, knochentrockenes Holz. Nur Befund, keine Entscheidung.
+
+**Zu klären · ???**
+- **Woran** hängt die Kette auf dem Weg nach oben und im Dachstuhl?
+- **Wie lang** ist die Kette - wie weit ist es vom Rad am Wasser bis zum Dachstuhl über dem Ring?
+- Die **Zugschnur** löst das freie Ende. Muss sie selbst isolieren, oder hängt zwischen Schnur und Kette ein isolierendes Stück?
+
+**Geschlossen (Autor, 15.09.2026): Keine Challenge nötig.** Ein Baudetail, auf das beim Schreiben zu achten ist.
+
+**Nachtrag (Autor, 15.09.2026): Die Kette hängt an Seilen.** Anmerkung (Claude): Seile aus Wolle, Leinen oder Bast ziehen Feuchtigkeit und leiten dann; trocken, gewachst oder mit Birkenpech getränkt isolieren sie.
+
+ Als Hinweis eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md#hinweise-fürs-schreiben).
+
+---
+
+### C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○
+
+Aus [C-186 ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-) (15.09.2026).
+
+**Vorläufig eingetragen (Autor, 15.09.2026):** Die Werkstatt ist groß genug, um **Ring und Bernsteinrad** unter einem Dach zu fassen. Sie reicht dafür von der Böschung **hinunter bis ans Wasser**. Das Wasserrad dreht außen, die Übersetzung und das Bernsteinrad sind innen - so wie später bei Mühlen.
+
+**Was schon steht und der Bau einhalten muss:**
+- **Über dem Ring**, als öffentliche Ansage, kein verstecktes Gerüst ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-))
+- Die **gesamte Anlage außerhalb der Tauschkugel** (Autor, 10.09.2026). Bezugsebene ist die Ringebene: Die Kugel reicht **1,50 m** um das Ringzentrum, also auch 1,50 m über die Ringebene. Der Dachstuhl, aus dem die Kette fällt, liegt höher.
+- Der Ring liegt **leicht schräg** oben auf der Böschung, ein paar Meter über dem Skir ([C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-))
+- Bezahlt aus Kaupvik-Ersparnissen, **Holz schlägt er selbst** im Wald am Skir ([C-163 ✓](#c-163-womit-tibun-die-werkstatt-bezahlt-)). **Niemand hilft ihm** ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-))
+- Die Kette hängt an **Seilen** ([C-187 ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-))
+
+**Hinweise (Claude):**
+- **Höhenunterschied:** Oben der Ring, ein paar Meter tiefer das Rad. Ein Raum auf ebenem Boden ist das nicht mehr - eher zwei Ebenen oder ein langes, abfallendes Dach. Wie hoch die Böschung ist, steht nirgends.
+- **Bauaufwand:** Ein Bau über eine Böschung ist für einen Mann allein deutlich schwerer als ein Raum auf ebener Fläche. Offen ist bereits, was **in einem Winter ohne Helfer** zu schaffen ist ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Das kann Konflikt tragen, muss aber zur Zeit bis zum Finale passen.
+- **Luftfeuchtigkeit und Nebel:** Dach und Wände halten Regen und Spritzwasser ab, nicht die feuchte Luft vom Fluss. Nordjütland ist nass, Reibungselektrizität mag das nicht.
+- **Sichtbarkeit:** Ein Bau, der vom Waldrand bis zum Fluss reicht, ist vom Wasser und vom anderen Ufer aus zu sehen - das verstärkt die öffentliche Ansage.
+
+**Zu klären · ???**
+- **Machbarkeit:** Schafft Tibun den Bau allein, und in welcher Zeit?
+- **Materialien:** Holz, Dach (Reet, Soden, Schindeln?), Wände, Fundament am Hang und am Wasser
+- **Aussehen:** Wie sieht die Werkstatt von außen und innen aus?
+- **Bauweise über die Böschung:** zwei Ebenen, abfallendes Dach, anderes?
+
+Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*).
 
 ---

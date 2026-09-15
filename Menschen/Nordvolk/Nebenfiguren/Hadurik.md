@@ -38,6 +38,8 @@
 
 Regionaler Anführer mit Thinghalle in [Tingsal](../../../Orte/Tingsal.md). Rolle und Verhältnis zu [Tibun](../Tibun.md) / [Skirraa](../../../Orte/Skirraa.md): ???
 
+**In Plot 1 wird er nur erwähnt** (Autor, 15.09.2026). Er tritt in keiner Szene selbst auf.
+
 **Er erlebt das Finale.** Mit etwa 70 ist er bei [Tibuns](../Tibun.md) Rückkehr noch im Amt - [Tingsal](../../../Orte/Tingsal.md) hat dieselbe Autorität wie bei dessen Aufbruch. Kein Wechsel an der Thinghalle über die zehn Jahre.
 
 **Er ist alt.** Ein **Nachfolger existiert** - die Thinghalle bleibt nach ihm besetzt, ein Machtvakuum entsteht nicht. Die Frage liegt aber **außerhalb der Erzählzeit**: Im Buch wird sie nicht verhandelt und nicht beantwortet. Wer der Erbe ist: ???

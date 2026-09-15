@@ -27,7 +27,7 @@
 
 ## Frühes Leben
 
-???
+**Er hat den Hof in [Skirraa](../../../Orte/Skirraa.md) von seinem Vater geerbt** (Autor, 15.09.2026). Alles Weitere: ???
 
 ---
 

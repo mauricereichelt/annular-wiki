@@ -479,7 +479,7 @@ Auf dem Basar erkennt er sie und greift zu.
 
 ### 36 · Die Werkstatt an der Tabustelle
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** -
+> **POV:** Tibun · **Jahr +9** · **Offen:** Die Werkstatt - Bau, Aussehen und Machbarkeit
 
 Rückkehr zum Ring; Bau der großen Wasseranlage.
 

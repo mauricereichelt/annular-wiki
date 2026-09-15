@@ -20,8 +20,8 @@ Ein **Rad**, dessen Lauffläche ein Reibekörper aus Bernstein ist. Kein Kondukt
   <tbody>
     <tr><td><strong>Reibekörper</strong></td><td>Bernsteinkranz auf einer Holzfelge, Segmente mit Birkenpech gefügt/verfugt, Stoßkanten poliert → durchgehende Reibfläche (~20 kg Bernstein bei 2 m Rad-Ø)</td></tr>
     <tr><td><strong>Reibung</strong></td><td>angedrücktes Kissen aus Fell/Wolle/Leder am Umfang (wie eine Bremse) lädt den Kranz kontinuierlich</td></tr>
-    <tr><td><strong>Antrieb</strong></td><td>Wasserrad (große Anlage) bzw. Handkurbel (Tisch-Modell/Prototyp). <strong>Das Wasserrad ist Tibuns eigene Idee</strong> (Autor, 14.09.2026) - im Norden ist um 550 keines belegt. Es steht <strong>direkt beim Ring im Skir</strong>; Tibun <strong>verengt dort einen kleinen Teil des Flusses</strong> für schnellere Strömung und baut iterativ (Autor, 14.09.2026). Wie die Drehung vom Wasserrad unten zum Bernsteinrad in der Werkstatt oben kommt: ???</td></tr>
-    <tr><td><strong>Material-Regel</strong></td><td><strong>kein Eisen in der Reibzone</strong> - Metall würde die Ladung sofort ableiten; Strukturmetall isoliert von der geladenen Fläche halten</td></tr>
+    <tr><td><strong>Antrieb</strong></td><td>Wasserrad (große Anlage) bzw. Handkurbel (Tisch-Modell/Prototyp). <strong>Das Wasserrad ist Tibuns eigene Idee</strong> (Autor, 14.09.2026) - im Norden ist um 550 keines belegt. Es steht <strong>direkt beim Ring im Skir</strong>; Tibun <strong>verengt dort einen kleinen Teil des Flusses</strong> für schnellere Strömung und baut iterativ (Autor, 14.09.2026). Das <strong>Bernsteinrad sitzt unten direkt am Wasserrad</strong>; nach oben führt nur die Kette (Autor, 15.09.2026). Zwischen Wasserrad und Bernsteinrad sitzt eine <strong>Übersetzung</strong> (Autor, 15.09.2026), vermutlich ins Schnelle; Bauart: ???. Siehe <a href="#hinweise-fürs-schreiben">Hinweise fürs Schreiben</a></td></tr>
+    <tr><td><strong>Material-Regel</strong></td><td><strong>kein Eisen in der Reibzone</strong> - Metall würde die Ladung sofort ableiten; Strukturmetall isoliert von der geladenen Fläche halten. Das gilt für Metall mit Verbindung zur Erde: Die <strong>Kette</strong>, die die Ladung abnimmt, hängt dafür an <strong>Seilen</strong> (Autor, 15.09.2026), siehe <a href="#hinweise-fürs-schreiben">Hinweise fürs Schreiben</a></td></tr>
   </tbody>
 </table>
 
@@ -34,7 +34,9 @@ Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, gestrichen).
 Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungselektrizität liefert hohe Spannung, aber winzige Energie - real niemals genug für einen Teleport. Die eigentliche Energie kommt aus dem Ring bzw. dem Ringsystem selbst (mystisch). Die reale Physik bleibt damit exakt auf *Reibung → Entladung* beschränkt.
 
 - **Kein gebauter Speicher.** Eine Leidener Flasche (Kondensator) wäre ein Anachronismus (Prinzip erst 1745) und ist verworfen. Die Ladung wird erzeugt und sofort genutzt, sonst verfliegt sie binnen Minuten.
-- **Die Ladung sammelt sich auf dem Rad selbst** (Autor, 11.09.2026). Es gibt **keinen** eigenen Konduktor, und der **Ring ist kein Ladungsspeicher**.
+- **Das Rad gibt seine Ladung laufend an die Kette ab** (Autor, 15.09.2026), und die **Kette beginnt blau zu leuchten**. Es gibt **keinen** Konduktor - die Kette ist keiner (Autor, 11.09. und 15.09.2026) -, und der **Ring ist kein Ladungsspeicher**.
+
+> **Präzisiert (15.09.2026):** Hier stand, die Ladung sammle sich auf dem Rad selbst. Das Rad gibt sie laufend an die Kette ab.
 
 > **Gestrichen (11.09.2026):** Hier stand *„Der Ring ist der natürliche Speicher"* mit einer Eigenkapazität von ~200 pF → ~1 J. Vom Autor verworfen.
 
@@ -54,8 +56,8 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 
 ## Zündablauf
 
-1. Das Rad dreht schnell bis zur **Sättigung** - ein blaues Glimmen (Korona) zeigt an, dass es bereit ist. Die Ladung sitzt **auf dem Rad selbst** (Autor, 11.09.2026).
-2. Die **Kette** fällt aus dem Dachstuhl und verbindet Rad und Ring (Autor, 31.08. und 11.09.2026).
+1. Das Rad dreht schnell bis zur **Sättigung** - ein blaues Glimmen (Korona) zeigt an, dass es bereit ist. Das Rad gibt die Ladung **laufend an die Kette** ab, **auch die Kette leuchtet blau** (Autor, 15.09.2026).
+2. Tibun lässt **das eine Ende der Kette** aus dem Dachstuhl fallen, das zum Ring geht; das andere bleibt am Rad (Autor, 31.08., 11.09. und 15.09.2026).
 3. Im Zündmoment ein kräftiger **Überschlag** → der Ring aktiviert (Tauschvorgang siehe [Portalringe](Portalringe.md)).
 
 > **Gestrichen (11.09.2026):** Hier stand *„Das Rad wird nah an den Ring gebracht"* und *„Kontinuierliches Funkensprühen lädt den Ring auf"*. Der Ring ist **kein Ladungsspeicher** (Autor), und gezündet wird über die Kette.
@@ -92,10 +94,20 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist die Entladung) → große **
 
 ## Übertragung und Auslöser
 
-**Übertragung - entschieden:** über die **Kette**, die aus dem Dachstuhl fällt und Rad und Ring verbindet (Autor, 31.08.2026); die Ladung sitzt auf dem Rad selbst (Autor, 11.09.2026).
+**Übertragung - entschieden:** über die **Kette**, die aus dem Dachstuhl fällt und Rad und Ring verbindet (Autor, 31.08.2026). Sie nimmt die Ladung laufend vom Rad ab; fallen gelassen wird nur ihr freies Ende (Autor, 15.09.2026).
 
 **Der Auslöser** (Autor, 11.09.2026): eine **Zugschnur**. Sie hängt knapp außerhalb der Kugel vom Dachstuhl bis zum Boden; ein Ruck löst die Kette.
 
-**Feuchtigkeit** (Autor, 11.09.2026): **Die Werkstatt genügt** - Dach und Wände halten den Regen ab.
+**Feuchtigkeit** (Autor, 11.09.2026): **Die Werkstatt genügt** - Dach und Wände halten den Regen ab. Das Bernsteinrad sitzt unten am Wasser; die Werkstatt reicht dafür vorläufig die Böschung hinunter und fasst **Ring und Bernsteinrad** unter einem Dach (Autor, 15.09.2026). Bau und Aussehen: ???. Siehe [Hinweise fürs Schreiben](#hinweise-fürs-schreiben).
 
-**Eine Entladung oder eine Folge** (Autor, 11.09.2026): **wird im Text nicht erklärt.** Bernstein ist ein Isolator, die Kette nimmt nur die Ladung an der Berührstelle ab - der Leser sieht nur den Schlag.
+**Eine Entladung oder eine Folge** (Autor, 11.09.2026): **wird im Text nicht erklärt.** Der Leser sieht nur den Schlag.
+
+---
+
+## Hinweise fürs Schreiben
+
+Keine offenen Entscheidungen, nur worauf beim Schreiben zu achten ist (Autor, 15.09.2026).
+
+- **Das Bernsteinrad kommt nicht mit Wasser in Berührung** (Autor, 15.09.2026), obwohl es unten am Wasserrad sitzt. Es steht vorläufig **in der Werkstatt**, die bis ans Wasser reicht. Dach und Wände halten Regen und Spritzwasser ab - **feuchte Luft und Flussnebel** aber nicht, und die schwächen die Ladung.
+- **Die Werkstatt ist ein großer Bau** (vorläufig, Autor, 15.09.2026): vom Ring oben auf der Böschung bis hinunter zum Wasser, errichtet ohne Helfer. **Höhenunterschied** und **Bauaufwand** sind beim Schreiben mitzudenken. Bau, Material und Aussehen: ???
+- **Die Kette darf nichts Feuchtes berühren** - weder die Böschung noch nasses Holz noch den Boden, sonst fließt die Ladung ab. Sie hängt an **Seilen** (Autor, 15.09.2026). Seile aus Wolle, Leinen oder Bast ziehen aber Feuchtigkeit und leiten dann - sie isolieren nur trocken, gewachst oder mit Birkenpech getränkt. Das gilt auch für die Zugschnur.
