@@ -61,6 +61,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
+- [C-189: Der Weiler-Konflikt hat keinen Ort mehr ○](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -811,7 +812,7 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-trudas-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt - sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
 
-**Teilentscheidung (Autor, 08.09.2026):** Truda bekommt eine eigene Rolle: **Sie empfängt den zurückgekehrten [Tibun](../Menschen/Nordvolk/Tibun.md)** - mit 19, nach acht Jahren. Sie ist damit die Instanz, vor der sein Weggang eine Rechnung hat.
+**Teilentscheidung (Autor, 08.09.2026):** Truda bekommt eine eigene Rolle: **Sie empfängt den zurückgekehrten [Tibun](../Menschen/Nordvolk/Tibun.md)** - mit **18**, nach acht Jahren *(korrigiert 18.09.2026: 18 bei der Rückkehr, 19 erst im Finale)*. Sie ist damit die Instanz, vor der sein Weggang eine Rechnung hat.
 
 Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md)** - die Kunst der Mutter ist an sie gegangen, nicht an die Frau am Webstuhl. Und sie ist als Erwachsene **ruhig, ihrem Vater [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) sehr ähnlich** ([C-045](#c-045-semund---offene-felder-): schweigsam, arbeitet statt zu reden).
 
@@ -832,7 +833,15 @@ Damit bekommt das Verlassen in +9 **doch eine eigene Szene** - [C-077 ✓](#c-07
 
 Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
 
-**Weiter offen:** frühes Leben, Inspiration.
+**Entschieden (Autor, 18.09.2026):** Truda ist bei Tibuns Rückkehr **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../Orte/Skirraa.md) oder in der Nähe. Sie steht ihm nicht mehr als Kind des Hofes gegenüber, sondern als erwachsene Frau mit eigenem Haus. Wer der Mann ist, wann geheiratet wurde und ob es Kinder gibt: ???
+
+**Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026). Sie kommt nicht zur Werkstatt - ebenso wenig wie die neugierigen Kinder. Damit ändert sich [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-): Es gibt am Bau **keine Verbindung zum Weiler** mehr → [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-). Der Kontakt zu ihr bleibt, er findet nur **anderswo** statt.
+
+**Anmerkung (Claude):** Damit ist **jeder Ort offen, an dem die beiden einander begegnen** - der Empfang (*Truda empfängt ihn*) wie das spätere Gespräch (*Truda hält ihn für verloren*). Sie wohnt nicht mehr dort, wo er ankommt, und an den einen Ort, wo er die meiste Zeit ist, geht sie nicht. Für *Truda hält ihn für verloren* schärft das die Szene: Sie hält ihn für verloren, **ohne den Bau je gesehen zu haben** - sie kennt nur, was er ihr sagt.
+
+> **Korrigiert (18.09.2026):** Hier und in [Truda.md](../Menschen/Nordvolk/Nebenfiguren/Truda.md) stand, sie empfange Tibun **mit 19**. Bei der **Rückkehr (+9)** ist sie **18**; 19 ist ihr Stand im **Finale (+10)**.
+
+**Weiter offen:** frühes Leben, Inspiration, Ehemann, Zeitpunkt der Heirat, Kinder, **Orte der Begegnungen mit Tibun** (Empfang und späteres Gespräch).
 ---
 
 ### C-048: Hadurik - offene Felder ○
@@ -1259,7 +1268,7 @@ Die Zahlen tragen den Beat: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) 
 
 **Der Skizzen-Beat ist damit überholt.** *„Er muss sich um seine kleine Schwester kümmern"* gilt nicht mehr - er müsste, und er tut es nicht. Vermerkt in der [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
-**Was das für den Nordstrang bedeutet:** Tibuns Vorwurf an den Vater - der hält nicht an Girlin fest - steht jetzt neben seinem eigenen Versäumnis an der Schwester. Beide lassen jemanden zurück; nur der eine merkt es nicht. Das ist die Rechnung, die [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) mit 19 aufmacht ([C-047](#c-047-truda---offene-felder-)), und es schärft den Kontrast zu Jahr +9, wo er ihr von sich aus sagt, was er tut.
+**Was das für den Nordstrang bedeutet:** Tibuns Vorwurf an den Vater - der hält nicht an Girlin fest - steht jetzt neben seinem eigenen Versäumnis an der Schwester. Beide lassen jemanden zurück; nur der eine merkt es nicht. Das ist die Rechnung, die [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) mit 18 aufmacht ([C-047](#c-047-truda---offene-felder-)), und es schärft den Kontrast zu Jahr +9, wo er ihr von sich aus sagt, was er tut.
 
 - Eingetragen in [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md) (10, 13).
 - **Beantwortet nicht** die übrigen Felder von [C-047](#c-047-truda---offene-felder-) (frühes Leben, Inspiration, Webkamm, was sie ihm bei der Rückkehr sagt).
@@ -1877,7 +1886,7 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 **Entschieden (Autor, 02.09.2026) - der Konflikt ist Ansteckungsangst, kein Vertreibungskonflikt.**
 
 - **Das Dorf:** Die Bewohner **warnen** ihn; sie sind **ängstlich und ärgerlich**. **Niemand hilft ihm, er wird gemieden.**
-- **[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) und neugierige Kinder meiden ihn nicht ganz** - die einzige verbliebene Verbindung zum Weiler.
+- **[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) und neugierige Kinder meiden ihn nicht ganz** - die einzige verbliebene Verbindung zum Weiler. *(Geändert 18.09.2026: **Truda und die neugierigen Kinder meiden die Tabustelle ebenfalls** (Autor). **Niemand aus dem Weiler kommt an den Bau**; die einzige Ausnahme ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md). Der Kontakt zu Truda bleibt bestehen - siehe [C-047](#c-047-truda---offene-felder-) -, er findet nur woanders statt. Wo der Weiler-Konflikt Tibun erreicht: [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-).)*
 - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist **selber schuld**; die anderen wollen lediglich nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Die Frage *„Was rettet ihn vor der Vertreibung?"* ist damit gegenstandslos und gestrichen.
 - **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn**, neutral bis familiär - aber **nur fern vom Ring** und **unter Vermeidung des Themas**.
 - **Die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing) *(11.09.2026: die Wala, nicht das Thing)*. Sie **sieht es sich an**, **deutet es wie zuvor** - er ist selber schuld - und **schärft jedem erneut ein, dass dieser Ort den Zorn der Götter auf einen lädt**. Sie **lässt ihn gewähren**.
@@ -3745,12 +3754,48 @@ Aus [C-186 ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-) (1
 - **Luftfeuchtigkeit und Nebel:** Dach und Wände halten Regen und Spritzwasser ab, nicht die feuchte Luft vom Fluss. Nordjütland ist nass, Reibungselektrizität mag das nicht.
 - **Sichtbarkeit:** Ein Bau, der vom Waldrand bis zum Fluss reicht, ist vom Wasser und vom anderen Ufer aus zu sehen - das verstärkt die öffentliche Ansage.
 
+**Entschieden (Autor, 18.09.2026):**
+
+| | |
+|---|---|
+| **Bauweise** | Ein **langgestreckter Bau mit abfallendem Dach**. Der First läuft mit der Böschung hinunter, vom Ring oben bis ans Wasser - ein durchgehender, schräger Raum. Keine zwei Ebenen, kein zweiter Bau, kein Verbindungsgang |
+| **Dach** | **Reet** |
+
+**Hinweise (Claude) zur getroffenen Wahl:**
+- **Die Neigung stimmt.** Dass der First mit dem Hang fällt, ändert die **Querneigung** nicht - die bleibt über die ganze Länge gleich. Reet braucht rund 45 Grad, damit das Wasser abläuft, und die hat der Bau dann durchgehend. Der Boden darunter fällt mit; ein ebener Werkstattboden ist das nicht.
+- **Die Kette passt dazu.** Der Bau liegt am Ring-Ende am höchsten über dem Fluss. Genau dort sitzt der Dachstuhl, aus dem die Kette fällt - über den geforderten 1,50 m über der Ringebene.
+- **Reet ist die leichteste Wahl für einen Mann allein.** Es wächst in den Niederungen am Skir, er schneidet und bindet es selbst, und die Dachlast ist klein - Grassoden hätte er ohne Helfer kaum aufs Dach bekommen.
+- **Reet brennt.** Die Entladungen selbst sind dafür zu schwach ([Tibuns Generator](../Technik/Tibuns-Generator.md)). Was an **offenem Feuer** in die Werkstatt kommt - Lampe, Herd, Werkfeuer im Winter -, ist damit aber eine Entscheidung mit Folgen.
+- **Ein Reetdach vom Waldrand bis ans Wasser ist eine große Fläche.** Es macht die öffentliche Ansage noch lauter und muss in einigen Jahren ausgebessert werden.
+
 **Zu klären · ???**
 - **Machbarkeit:** Schafft Tibun den Bau allein, und in welcher Zeit?
-- **Materialien:** Holz, Dach (Reet, Soden, Schindeln?), Wände, Fundament am Hang und am Wasser
+- **Wände und Fundament:** Womit werden die Wände geschlossen, und worauf steht der Bau am Hang und am Wasser?
 - **Aussehen:** Wie sieht die Werkstatt von außen und innen aus?
-- **Bauweise über die Böschung:** zwei Ebenen, abfallendes Dach, anderes?
 
 Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*).
+
+---
+
+### C-189: Der Weiler-Konflikt hat keinen Ort mehr ○
+
+Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
+
+**Entschieden (Autor, 18.09.2026):** **Niemand aus dem Weiler kommt an die Tabustelle.** [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) meidet sie, und die neugierigen Kinder meiden sie ebenfalls. Der Satz vom 02.09.2026, die beiden seien *„die einzige verbliebene Verbindung zum Weiler"*, gilt nicht mehr. Die einzige Person, die den Ort betritt, ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) - einmal, und sie lässt ihn gewähren.
+
+**Befund (Claude):** Damit hat der Nordstrang zwischen Rückkehr und Finale keinen Schauplatz mehr für seinen einzigen Konflikt.
+- Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) hält fest: Weil Tibuns Aufbruch aus [Kaupvik](../Orte/Kaupvik.md) nichts kostet, muss der Konflikt der Jahre +9/+10 **vollständig vom Dorf kommen** ([C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)). Das Dorf kommt jetzt aber nirgends hin.
+- Die Szene *Der Weiler warnt und meidet* kann nicht mehr am Bau spielen.
+- Dasselbe gilt für den Empfang und *Truda hält ihn für verloren* ([C-047](#c-047-truda---offene-felder-)).
+- Offen ist damit vor allem, **ob Tibun überhaupt in den Weiler geht**. Tut er es nicht, erreicht ihn niemand und der Konflikt bleibt ein Zustand ohne Szene. Tut er es, wird jeder Gang dorthin zur Konfliktszene - dann braucht er dafür einen Grund.
+
+**Anmerkung (Claude):** Die Entscheidung ist für sich stark. Ein Tabu, das **ausnahmslos** hält, ist glaubwürdiger als eines mit Schlupfloch, und Tibuns Einsamkeit beim Bau wird vollständig - er baut den ganzen Winter, ohne dass ein Mensch danach sieht. Sie verlangt nur, dass die Begegnungen anderswo stattfinden.
+
+**Zu klären · ???**
+- **Wo spielt *Der Weiler warnt und meidet*?** Im Weiler, auf [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof, am Weg?
+- **Geht Tibun in den Weiler, und wofür?**
+- **Wo wohnt und isst er während der Bauzeit** - an der Werkstatt oder auf dem Hof?
+
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
 
 ---

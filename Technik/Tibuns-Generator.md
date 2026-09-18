@@ -102,7 +102,7 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist die Entladung) → große **
 
 **Der Auslöser** (Autor, 11.09.2026): eine **Zugschnur**. Sie hängt knapp außerhalb der Kugel vom Dachstuhl bis zum Boden; ein Ruck löst die Kette.
 
-**Feuchtigkeit** (Autor, 11.09.2026): **Die Werkstatt genügt** - Dach und Wände halten den Regen ab. Das Bernsteinrad sitzt unten am Wasser; die Werkstatt reicht dafür vorläufig die Böschung hinunter und fasst **Ring und Bernsteinrad** unter einem Dach (Autor, 15.09.2026). Bau und Aussehen: ???. Siehe [Hinweise fürs Schreiben](#hinweise-fürs-schreiben).
+**Feuchtigkeit** (Autor, 11.09.2026): **Die Werkstatt genügt** - Dach und Wände halten den Regen ab. Das Bernsteinrad sitzt unten am Wasser; die Werkstatt reicht dafür vorläufig die Böschung hinunter und fasst **Ring und Bernsteinrad** unter einem Dach (Autor, 15.09.2026). Sie ist ein **langgestreckter Bau mit abfallendem Dach**, gedeckt mit **Reet**; der First läuft mit der Böschung hinunter (Autor, 18.09.2026). Wände, Fundament und Aussehen: ???. Siehe [Hinweise fürs Schreiben](#hinweise-fürs-schreiben).
 
 **Eine Entladung oder eine Folge** (Autor, 11.09.2026): **wird im Text nicht erklärt.** Der Leser sieht nur den Schlag.
 
@@ -113,5 +113,7 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist die Entladung) → große **
 Keine offenen Entscheidungen, nur worauf beim Schreiben zu achten ist (Autor, 15.09.2026).
 
 - **Das Bernsteinrad kommt nicht mit Wasser in Berührung** (Autor, 15.09.2026), obwohl es unten am Wasserrad sitzt. Es steht vorläufig **in der Werkstatt**, die bis ans Wasser reicht. Dach und Wände halten Regen und Spritzwasser ab - **feuchte Luft und Flussnebel** aber nicht, und die schwächen die Ladung.
-- **Die Werkstatt ist ein großer Bau** (vorläufig, Autor, 15.09.2026): vom Ring oben auf der Böschung bis hinunter zum Wasser, errichtet ohne Helfer. **Höhenunterschied** und **Bauaufwand** sind beim Schreiben mitzudenken. Bau, Material und Aussehen: ???
+- **Die Werkstatt ist ein großer Bau** (vorläufig, Autor, 15.09.2026): vom Ring oben auf der Böschung bis hinunter zum Wasser, errichtet ohne Helfer. **Höhenunterschied** und **Bauaufwand** sind beim Schreiben mitzudenken. Wände, Fundament und Aussehen: ???
+- **Ein langer Schuppen, dessen Dach mit dem Hang fällt** (Autor, 18.09.2026), gedeckt mit **Reet** aus den Niederungen am Skir. Der Boden fällt mit - **ebenen Werkstattboden gibt es darin nicht**, und der Weg vom Ring zum Rad ist jedes Mal ein Abstieg. Am Ring-Ende liegt der Bau am höchsten über dem Fluss; dort sitzt der Dachstuhl, aus dem die Kette fällt.
+- **Reet brennt.** Für die Entladungen ist die Energie zu klein (siehe [Grenzen & Gefahr](#grenzen--gefahr-authentizität)), aber jedes offene Feuer unter diesem Dach - Lampe, Herd, Licht in der Winterarbeit - ist beim Schreiben eine bewusste Setzung.
 - **Die Kette darf nichts Feuchtes berühren** - weder die Böschung noch nasses Holz noch den Boden, sonst fließt die Ladung ab. Sie hängt an **Seilen** (Autor, 15.09.2026). Seile aus Wolle, Leinen oder Bast ziehen aber Feuchtigkeit und leiten dann - sie isolieren nur trocken, gewachst oder mit Birkenpech getränkt. Das gilt auch für die Zugschnur.

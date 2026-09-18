@@ -487,10 +487,12 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 - **Hindernis:** Der Weiler warnt ihn; niemand hilft, er wird gemieden
 - **Ausgang:** Er baut überdacht über der Tabustelle weiter.
 
+> **Er ist dort vollkommen allein** (Autor, 18.09.2026): Das Tabu hält ausnahmslos, niemand aus dem Weiler betritt den Ort. Die einzige Ausnahme ist die gerufene Wala in *Die Wala lässt ihn gewähren*.
+
 
 ### 37 · Truda empfängt ihn
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** -
+> **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
 
 Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass er sie verlassen hat, bricht in einem Wutanfall aus ihr heraus.
 
@@ -499,6 +501,8 @@ Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass
 - **Ausgang:** Ein einziger Ausbruch - danach ist sie wieder still.
 
 > **Einmal, dann still** (Autor, 11.09.2026): Der Ausbruch gilt nur ihm. Hier wird aufgerufen, dass er sie ohne Abschied zurückgelassen hat; *Truda hält ihn für verloren* bleibt das spätere Gespräch.
+
+> **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler oder in der Nähe. **Wo diese Szene spielt**, ist damit offen - auf dem Hof des Vaters, bei ihr, unterwegs. **Nicht an der Tabustelle**: Die meidet sie ebenfalls (Autor, 18.09.2026). Ob ihr Mann dabei ist: offen.
 
 
 ### 38 · Die Nachricht liegt bereit
@@ -514,13 +518,15 @@ Fertig und wetterfest verpackt: ein Bündel aus einer **Strähne ihres eigenen H
 
 ### 39 · Der Weiler warnt und meidet
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** -
+> **POV:** Tibun · **Jahr +9** · **Offen:** Der Weiler-Konflikt hat keinen Ort mehr
 
 Angst und Ärger im Dorf - aber keine Vertreibung.
 
 - **Will:** ???
 - **Hindernis:** Anheftendes Pech: Die anderen wollen nur nicht hineingezogen werden
 - **Ausgang:** Niemand vertreibt ihn. Wer sich dorthin begibt, ist selber schuld.
+
+> **Nicht an der Tabustelle** (Autor, 18.09.2026): **Niemand aus dem Weiler kommt dorthin** - auch Truda und die neugierigen Kinder nicht. Die Warnung muss Tibun woanders erreichen. **Wo diese Szene spielt: ???**
 
 
 ### 40 · Die Wala lässt ihn gewähren
@@ -536,7 +542,7 @@ Sie wird gerufen und sieht es sich an.
 
 ### 41 · Truda hält ihn für verloren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** -
+> **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
 
 Er sagt ihr, was er tut.
 
@@ -547,6 +553,8 @@ Er sagt ihr, was er tut.
 > **Was zwischen ihnen steht** (Autor, 10.09.2026): Er hat sich nach dem Verschwinden der Mutter nicht um sie gekümmert und ist **ohne Abschied** gegangen. Sie hat sich verlassen gefühlt. Aufgerufen wird das beim Empfang (*Truda empfängt ihn*, Autor, 11.09.2026) - einmal, danach ist sie wieder still. **Dass er ihr jetzt von sich aus sagt, was er tut, ist der Gegensatz dazu.**
 
 > **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
+
+> **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Truda meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. **Wo das Gespräch stattfindet:** offen, nur nicht am Ring.
 
 
 ### 42 · Zweifel und Bestätigung
