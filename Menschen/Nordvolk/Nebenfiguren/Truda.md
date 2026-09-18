@@ -67,7 +67,9 @@ Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun
 
 **Sie ist verheiratet** (Autor, 18.09.2026). Sie tritt Tibun nicht als Kind des Hofes gegenüber, sondern als Frau mit eigenem Haus - der Abstand zwischen der Zehnjährigen von damals und dieser Erwachsenen ist damit auch äußerlich sichtbar. Ob ihr Mann beim Empfang dabei ist: ???
 
-**Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026) - wie alle im Weiler. Zur Werkstatt am Ring geht sie nicht. Sie erfährt von [Tibun](../Tibun.md) selbst, was er dort tut, und **hält ihn für verloren, ohne den Bau gesehen zu haben**. Schon als Neunjährige ging sie nur **bis zum Waldrand** mit. **Wo die beiden einander begegnen** - der Empfang wie das spätere Gespräch: ???
+**Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026) - wie alle im Weiler. Zur Werkstatt am Ring geht sie nicht. Sie erfährt von [Tibun](../Tibun.md) selbst, was er dort tut, und **hält ihn für verloren, ohne den Bau gesehen zu haben**. Schon als Neunjährige ging sie nur **bis zum Waldrand** mit.
+
+**Die Begegnungen finden im Weiler statt** (Autor, 18.09.2026). [Tibun](../Tibun.md) wohnt nach der Rückkehr zunächst auf [Semunds](Semund.md) Hof und kommt auch später für Vorräte und zu ihr in den Weiler - **er trägt den Kontakt, nicht sie**.
 
 **Beim Empfang bricht es aus ihr heraus** (Autor, 11.09.2026). Sie ist wütend, und die Verletztheit darüber, dass er sie verlassen hat, kommt in einem Wutanfall heraus. **Einmal - danach ist sie wieder still.** Der Ausbruch gilt nur ihm, danach ist sie wieder die Stille.
 

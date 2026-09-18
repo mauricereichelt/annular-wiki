@@ -487,7 +487,9 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 - **Hindernis:** Der Weiler warnt ihn; niemand hilft, er wird gemieden
 - **Ausgang:** Er baut überdacht über der Tabustelle weiter.
 
-> **Er ist dort vollkommen allein** (Autor, 18.09.2026): Das Tabu hält ausnahmslos, niemand aus dem Weiler betritt den Ort. Die einzige Ausnahme ist die gerufene Wala in *Die Wala lässt ihn gewähren*.
+> **Niemand kommt dorthin** (Autor, 18.09.2026): Das Tabu hält ausnahmslos - auch Truda und die neugierigen Kinder nicht. Die einzige Ausnahme ist die gerufene Wala in *Die Wala lässt ihn gewähren*.
+
+> **Er wohnt zunächst auf Semunds Hof** (Autor, 18.09.2026) und geht täglich hinaus zum Bau. Erst nach dem Spruch der Wala **zieht er auf die Baustelle**. Bis dahin ist der Bau Arbeitsplatz, danach auch sein Zuhause.
 
 
 ### 37 · Truda empfängt ihn
@@ -502,7 +504,7 @@ Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass
 
 > **Einmal, dann still** (Autor, 11.09.2026): Der Ausbruch gilt nur ihm. Hier wird aufgerufen, dass er sie ohne Abschied zurückgelassen hat; *Truda hält ihn für verloren* bleibt das spätere Gespräch.
 
-> **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler oder in der Nähe. **Wo diese Szene spielt**, ist damit offen - auf dem Hof des Vaters, bei ihr, unterwegs. **Nicht an der Tabustelle**: Die meidet sie ebenfalls (Autor, 18.09.2026). Ob ihr Mann dabei ist: offen.
+> **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler oder in der Nähe. Die Szene spielt **im Weiler** - Tibun wohnt zu dieser Zeit auf Semunds Hof. **Nicht an der Tabustelle**: Die meidet sie ebenfalls. Ob ihr Mann dabei ist: offen.
 
 
 ### 38 · Die Nachricht liegt bereit
@@ -526,18 +528,20 @@ Angst und Ärger im Dorf - aber keine Vertreibung.
 - **Hindernis:** Anheftendes Pech: Die anderen wollen nur nicht hineingezogen werden
 - **Ausgang:** Niemand vertreibt ihn. Wer sich dorthin begibt, ist selber schuld.
 
-> **Nicht an der Tabustelle** (Autor, 18.09.2026): **Niemand aus dem Weiler kommt dorthin** - auch Truda und die neugierigen Kinder nicht. Die Warnung muss Tibun woanders erreichen. **Wo diese Szene spielt: ???**
+> **Nicht an der Tabustelle** (Autor, 18.09.2026): Niemand aus dem Weiler kommt dorthin. Die Warnung erreicht ihn **aus allen drei Richtungen** - **im Weiler**, wenn er für Vorräte kommt, **am Weg zum Bau**, und **auf Semunds Hof**, wo er zu dieser Zeit wohnt. Ob das in diese eine Szene fällt oder sich verteilt, ist Zuschnittfrage.
 
 
 ### 40 · Die Wala lässt ihn gewähren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder · Der Weiler-Konflikt hat keinen Ort mehr
 
 Sie wird gerufen und sieht es sich an.
 
 - **Will:** ???
 - **Hindernis:** Sie verlöre ihr Gesicht, wenn sie selbst mehr über den Ring wissen wollte
 - **Ausgang:** Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein - und lässt ihn gewähren.
+
+> **Das ist der Wendepunkt** (Autor, 18.09.2026): Weil sie die Stelle und sein Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun Semunds Hof verlassen** und wohnt ab hier auf der Baustelle. Sie vertreibt ihn nicht - ihre Deutung nimmt ihm das Quartier. Wer ihn tatsächlich fortweist, Semund selbst oder der Druck aus dem Weiler, und ob der Auszug eine eigene Szene bekommt: **???**
 
 
 ### 41 · Truda hält ihn für verloren
@@ -554,7 +558,7 @@ Er sagt ihr, was er tut.
 
 > **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
 
-> **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Truda meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. **Wo das Gespräch stattfindet:** offen, nur nicht am Ring.
+> **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Truda meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. Das Gespräch findet **im Weiler** statt; **er** kommt zu ihr, nicht umgekehrt.
 
 
 ### 42 · Zweifel und Bestätigung

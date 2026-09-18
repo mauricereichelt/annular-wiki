@@ -837,11 +837,13 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 
 **Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026). Sie kommt nicht zur Werkstatt - ebenso wenig wie die neugierigen Kinder. Damit ändert sich [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-): Es gibt am Bau **keine Verbindung zum Weiler** mehr → [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-). Der Kontakt zu ihr bleibt, er findet nur **anderswo** statt.
 
-**Anmerkung (Claude):** Damit ist **jeder Ort offen, an dem die beiden einander begegnen** - der Empfang (*Truda empfängt ihn*) wie das spätere Gespräch (*Truda hält ihn für verloren*). Sie wohnt nicht mehr dort, wo er ankommt, und an den einen Ort, wo er die meiste Zeit ist, geht sie nicht. Für *Truda hält ihn für verloren* schärft das die Szene: Sie hält ihn für verloren, **ohne den Bau je gesehen zu haben** - sie kennt nur, was er ihr sagt.
+**Die Begegnungen finden im Weiler statt** (Autor, 18.09.2026): Tibun wohnt zunächst auf [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof und geht auch später für Vorräte und zu ihr in den Weiler ([C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)). **Er trägt den Kontakt, nicht sie.**
+
+**Anmerkung (Claude):** Für *Truda hält ihn für verloren* schärft das die Szene: Sie hält ihn für verloren, **ohne den Bau je gesehen zu haben** - sie kennt nur, was er ihr sagt.
 
 > **Korrigiert (18.09.2026):** Hier und in [Truda.md](../Menschen/Nordvolk/Nebenfiguren/Truda.md) stand, sie empfange Tibun **mit 19**. Bei der **Rückkehr (+9)** ist sie **18**; 19 ist ihr Stand im **Finale (+10)**.
 
-**Weiter offen:** frühes Leben, Inspiration, Ehemann, Zeitpunkt der Heirat, Kinder, **Orte der Begegnungen mit Tibun** (Empfang und späteres Gespräch).
+**Weiter offen:** frühes Leben, Inspiration, Ehemann, Zeitpunkt der Heirat, Kinder.
 ---
 
 ### C-048: Hadurik - offene Felder ○
@@ -1888,7 +1890,7 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 - **Das Dorf:** Die Bewohner **warnen** ihn; sie sind **ängstlich und ärgerlich**. **Niemand hilft ihm, er wird gemieden.**
 - **[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) und neugierige Kinder meiden ihn nicht ganz** - die einzige verbliebene Verbindung zum Weiler. *(Geändert 18.09.2026: **Truda und die neugierigen Kinder meiden die Tabustelle ebenfalls** (Autor). **Niemand aus dem Weiler kommt an den Bau**; die einzige Ausnahme ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md). Der Kontakt zu Truda bleibt bestehen - siehe [C-047](#c-047-truda---offene-felder-) -, er findet nur woanders statt. Wo der Weiler-Konflikt Tibun erreicht: [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-).)*
 - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist **selber schuld**; die anderen wollen lediglich nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Die Frage *„Was rettet ihn vor der Vertreibung?"* ist damit gegenstandslos und gestrichen.
-- **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn**, neutral bis familiär - aber **nur fern vom Ring** und **unter Vermeidung des Themas**.
+- **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn**, neutral bis familiär - aber **nur fern vom Ring** und **unter Vermeidung des Themas**. *(Ergänzt 18.09.2026: Tibun **wohnt zunächst auf dem Hof**. Die Duldung hat eine Grenze - nach dem erneuten, härteren Spruch der Wala **muss er den Hof verlassen** und zieht auf die Baustelle. Wer ihn fortweist: [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-).)*
 - **Die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing) *(11.09.2026: die Wala, nicht das Thing)*. Sie **sieht es sich an**, **deutet es wie zuvor** - er ist selber schuld - und **schärft jedem erneut ein, dass dieser Ort den Zorn der Götter auf einen lädt**. Sie **lässt ihn gewähren**.
   - Als Motiv im Raum, vom Autor mit *vielleicht* formuliert und deshalb nicht beschlossen: dass sie **selbst mehr über den Ring wissen möchte**, dabei aber ihr **Gesicht verlöre** · **???** → [C-050](#c-050-wandernde-wala---offene-felder-) *(11.09.2026: gilt, Autor)*
 - **Truda weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn **zur Vernunft bringen** → [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-).
@@ -3787,14 +3789,35 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 - Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) hält fest: Weil Tibuns Aufbruch aus [Kaupvik](../Orte/Kaupvik.md) nichts kostet, muss der Konflikt der Jahre +9/+10 **vollständig vom Dorf kommen** ([C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)). Das Dorf kommt jetzt aber nirgends hin.
 - Die Szene *Der Weiler warnt und meidet* kann nicht mehr am Bau spielen.
 - Dasselbe gilt für den Empfang und *Truda hält ihn für verloren* ([C-047](#c-047-truda---offene-felder-)).
-- Offen ist damit vor allem, **ob Tibun überhaupt in den Weiler geht**. Tut er es nicht, erreicht ihn niemand und der Konflikt bleibt ein Zustand ohne Szene. Tut er es, wird jeder Gang dorthin zur Konfliktszene - dann braucht er dafür einen Grund.
+- Offen ist damit vor allem, **ob Tibun überhaupt in den Weiler geht**. Tut er es nicht, erreicht ihn niemand und der Konflikt bleibt ein Zustand ohne Szene. Tut er es, wird jeder Gang dorthin zur Konfliktszene - dann braucht er dafür einen Grund. *(Beantwortet 18.09.2026, siehe unten.)*
 
 **Anmerkung (Claude):** Die Entscheidung ist für sich stark. Ein Tabu, das **ausnahmslos** hält, ist glaubwürdiger als eines mit Schlupfloch, und Tibuns Einsamkeit beim Bau wird vollständig - er baut den ganzen Winter, ohne dass ein Mensch danach sieht. Sie verlangt nur, dass die Begegnungen anderswo stattfinden.
 
+**Entschieden (Autor, 18.09.2026) - der Konflikt bekommt zwei Phasen und einen Preis:**
+
+| | |
+|---|---|
+| **Wohnen, erste Phase** | Auf **[Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof**. Dort und im Weiler begegnet er auch **[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) wieder** |
+| **Der Bruch** | Nachdem die **[Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)** die Stelle und sein Tun **erneut und härter als Tabu kennzeichnet**, **muss er auch Semunds Hof verlassen** |
+| **Wohnen, zweite Phase** | Ab da wohnt er **auf der Baustelle** |
+| **Gänge in den Weiler** | **Vorräte und Werkzeug**, **zu Truda**, **zu Semund** |
+| **Die Warnung** | Kommt **aus allen drei Richtungen**: im Weiler, am Weg zum Bau und auf Semunds Hof |
+
+**Was das löst (Anmerkung, Claude):**
+- **Der Konflikt hat jetzt einen Ort und eine Steigerung.** Solange er auf dem Hof wohnt, ist jeder Abend am Herd eine Begegnung; danach ist er draußen. Aus einem Zustand wird eine Kurve.
+- **Er kostet jetzt etwas.** Tibun verliert das Dach über dem Kopf - der erste konkrete Verlust des Nordstrangs seit Jahr +1 (vergleiche [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-), das den Verlust für die **Kaupvik-Jahre** zurückgenommen hat; dieser hier liegt in +9/+10).
+- **Die Wala-Szene wird zum Wendepunkt.** Die vorhandene Szenenfolge trägt das ohne Umstellung: *Die Werkstatt an der Tabustelle* → *Truda empfängt ihn* → *Der Weiler warnt und meidet* → **Die Wala lässt ihn gewähren** → *Truda hält ihn für verloren*. Alles davor spielt vom Hof aus, alles danach vom Bau aus.
+- **Die Wala wird dadurch schärfer.** Sie *lässt ihn gewähren* - und genau ihr Spruch nimmt ihm das Quartier. Sie muss ihn nicht vertreiben; ihre Deutung tut es.
+
+**Befund (Claude) - zwei Dinge, die der Auszug nach sich zieht:**
+- **Es ist Winter.** Wer am Skir unter dem Bau schläft, braucht Feuer. Unter einem **Reetdach** ([C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)) ist das eine Setzung mit Folgen.
+- **Sein Schlafplatz muss außerhalb der Tauschkugel liegen** - mehr als 1,50 m von der Ringebene entfernt ([Portalringe](../Technik/Portalringe.md)). Sonst reist er bei **Zündung 1** mit, die ohne sein Zutun losgeht, während er dort lebt. Der Bau ist lang genug, das ist kein Problem - aber es darf beim Schreiben nicht durchrutschen.
+
 **Zu klären · ???**
-- **Wo spielt *Der Weiler warnt und meidet*?** Im Weiler, auf [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof, am Weg?
-- **Geht Tibun in den Weiler, und wofür?**
-- **Wo wohnt und isst er während der Bauzeit** - an der Werkstatt oder auf dem Hof?
+- **Wer weist ihn vom Hof?** Semund selbst, oder der Druck aus dem Weiler, dem Semund nachgibt? Beides steht mit *Semund duldet ihn, neutral bis familiär* in Spannung.
+- **Bekommt der Auszug eine eigene Szene**, oder passiert er zwischen zwei Szenen?
+- **Wie erlebt Millia das**, die mit im Haus ist?
+- **Ob die Warnung aus allen drei Richtungen in eine Szene fällt** oder sich über mehrere verteilt - Zuschnittfrage, siehe [C-143](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-).
 
 Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
 

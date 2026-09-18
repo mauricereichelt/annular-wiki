@@ -59,6 +59,8 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 
 **Albträume** (Autor, 15.09.2026): Ihn plagen Albträume, die seine **Mutter** betreffen. Davon verschieden ist der **Traum zur Winde** nach dem Unfall in Kaupvik - er hilft ihm bei der Idee für den [Generator](../../Technik/Tibuns-Generator.md#erkenntnismoment).
 
+**Nach der Rückkehr wohnt er zunächst auf dem Hof** (Autor, 18.09.2026). [Semund](Nebenfiguren/Semund.md) nimmt ihn auf, und Tibun geht für Vorräte und Werkzeug, zu [Truda](Nebenfiguren/Truda.md) und zu Semund in den Weiler - **an die Tabustelle kommt niemand, er trägt jeden Kontakt selbst**. Nachdem die [Wala](Nebenfiguren/Wala-Wandernd.md) die Stelle und sein Tun erneut und härter als Tabu kennzeichnet, **muss er den Hof verlassen und wohnt fortan auf der Baustelle**. Der Bau kostet ihn damit das Dach über dem Kopf.
+
 ---
 
 ## Verbindungen zu anderen Charakteren

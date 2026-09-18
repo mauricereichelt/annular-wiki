@@ -55,6 +55,10 @@ Hält [Girlin](../Girlin.md) für **tot** und bindet sich **rasch** neu an [Mill
 
 Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen und sie wegteleportieren. Semunds rascher Ersatz ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang**.
 
+**Bei Tibuns Rückkehr nimmt er ihn auf** (Autor, 18.09.2026). Der Sohn, der ohne Abschied ging und nun an der Tabustelle baut, **wohnt zunächst auf dem Hof**. Semund duldet ihn neutral bis familiär - fern vom Ring und unter Vermeidung des Themas.
+
+**Die Duldung hat eine Grenze.** Nachdem die [Wala](Wala-Wandernd.md) die Stelle und Tibuns Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun den Hof verlassen** und zieht auf die Baustelle. Ob Semund ihn selbst fortweist oder dem Druck aus dem Weiler nachgibt: ??? Wie [Millia](Millia.md) das erlebt: ???
+
 ---
 
 ## Verbindungen zu anderen Charakteren
