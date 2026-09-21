@@ -1,7 +1,7 @@
-# Plot 1 - ??? (Titel offen)
+# Plot 1 - Der Blitz von Skirraa (Arbeitstitel)
 
 > **Status:** in Arbeit
-> **Titel:** ???
+> **Titel:** *Der Blitz von Skirraa* - **Arbeitstitel** (Autor, 21.09.2026). Der endgültige Titel für eine Veröffentlichung: ???
 > Der Ordnername `Plot-1` bleibt **dauerhaft** so - er trägt nie den Werktitel. Der Titel steht nur hier und in [SUMMARY.md](../../SUMMARY.md), damit Links bei einer Titeländerung nicht nachgezogen werden müssen.
 
 Die erste Geschichte im [Annular-Universum](../README.md).

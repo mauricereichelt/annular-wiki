@@ -19,7 +19,7 @@ Figuren und Orte liegen **oben** im Universum, nicht im Plot-Ordner - auch dann,
 
 | Plot | Titel | Status |
 |---|---|---|
-| [Plot 1](Plot-1/README.md) | **???** - Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) | in Arbeit |
+| [Plot 1](Plot-1/README.md) | ***Der Blitz von Skirraa*** (Arbeitstitel) - Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) | in Arbeit |
 
 Weitere Geschichten sind vorgesehen, aber noch nicht angelegt - u. a. eine **Nutzer-Zivilisation** (Ring-Hochkultur, Phase *Aufstieg* im [Kreislauf](../Welt/README.md)). Vorarbeiten dazu liegen als geparkte Notizen unter [Verteiler-Turm](../Notizen/Verteiler-Turm.md) und [Trailer Loop](../Notizen/Trailer-Loop.md).
 

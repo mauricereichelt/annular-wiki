@@ -31,7 +31,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
@@ -111,6 +110,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
 - [C-083: Kapitel-Motti - Ideen, später ✓](#c-083-zitate-als-kapitel-motti-)
 - [C-084: Keine Mulde - Reisende sind am Boden ✓](#c-084-mulde-standfläche-und-die-rohen-ringe-)
+- [C-085: Arbeitstitel „Der Blitz von Skirraa" ✓](#c-085-titel-für-plot-1-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
 - [C-087: Zeitrechnung im Erzähltext ✓](#c-087-zeitrechnung-im-erzähltext-)
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
@@ -1554,7 +1554,7 @@ Eingetragen in [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-muld
 
 ---
 
-### C-085: Titel für Plot 1 ○
+### C-085: Titel für Plot 1 ✓
 
 Das Projekt heißt **Annular** - das ist der Name des **Universums** ([Plots/README](../Plots/README.md)), nicht der einzelnen Geschichte. Die Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) braucht deshalb einen **eigenen Titel**. Der Ordner heißt dauerhaft neutral `Plots/Plot-1/` und wird **nicht** umbenannt - der Titel lebt nur in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und [SUMMARY.md](../SUMMARY.md).
 
@@ -1562,7 +1562,15 @@ Das Projekt heißt **Annular** - das ist der Name des **Universums** ([Plots/REA
 
 **Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) (drittes Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise-) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben - das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
 
-**???**
+> **Anmerkung (Claude, 21.09.2026):** Die Anforderungen oben („was der Titel tragen muss", kein Ring) stammen von Claude, nicht vom Autor. Das „verfrüht" ist überholt: [C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-) ist entschieden, Girlin bleibt in der Wüste.
+
+**Autor (21.09.2026):**
+- **Idee:** **Kraita** - an den Kreis angelehnt
+- **Anspielung auf den Ring:** kein Kriterium (egal)
+
+**Befund (Claude, 21.09.2026):** *Kraita* entspricht dem urgermanischen **\*kraitaz** („Kreis, Ring", auch „Ritzung") - eine erschlossene Form, nirgends belegt. Nachfahren gibt es nur im **Westgermanischen** (ahd. *kreiz* → *Kreis*, mnl. *kerte*, afries. *krēt*). **Nordisch ist das Wort nicht:** dän. *kreds* ist ein mittelalterliches Lehnwort aus dem Mittelniederdeutschen. Altnordisch heißt der Kreis *kringla* („Scheibe, Kreis"). Quelle: Wiktionary.
+
+**Entschieden (Autor, 21.09.2026):** Arbeitstitel ist ***Der Blitz von Skirraa*** - aus einer Vorschlagsliste von Claude. Ein Arbeitstitel bindet nicht: Der Titel für eine Veröffentlichung bleibt **???**. Eingetragen in [Plot 1](../Plots/Plot-1/README.md), [Plots](../Plots/README.md), [SUMMARY](../SUMMARY.md) und im Kopf des Zeitgerüsts. Geschlossen.
 
 ---
 
