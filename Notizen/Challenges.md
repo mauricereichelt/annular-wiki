@@ -23,7 +23,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
 - [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
-- [C-044: Herkunft von Girlins Bernstein ○](#c-044-herkunft-von-girlins-bernstein-)
 - [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
 - [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
@@ -90,6 +89,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-041: Bernstein - Geschenk der Mutter ✓](#c-041-prolog---bernstein-fundort-)
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
+- [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
@@ -787,7 +787,7 @@ Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fisch
 
 Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland ist Bernstein **Strandgut** (Skagerrak/Nordsee), kein Flussfund. Fundort auf Küste/Strand umstellen (passt zu Skirraas Lage kurz vor den Dünen).
 
-**Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie - **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein-)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-). **Umsetzung in der Szene offen** (siehe [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-)).
+**Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie *(präzisiert 21.09.2026: kein Geheimnis, sie wird nie gefragt, siehe [C-044](#c-044-herkunft-von-girlins-bernstein-))* - **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein-)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-). **Umsetzung in der Szene offen** (siehe [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-)).
 
 **Geschlossen (21.09.2026):** Auf Autorenebene ist nichts mehr offen. Gemeint ist der **Bernsteinanhänger an Tibuns Kette**, den er schon lange trägt (Autor, 04.09.2026) und den Frida am Verlobungstag nicht annimmt - nicht der Bernstein für das Rad, den er in Kaupvik sammelt. Die Frage nach dem Fundort ist damit gegenstandslos. Offen bleibt nur, was eine eigene Challenge hat: die **Herkunft** des Steins ([C-044](#c-044-herkunft-von-girlins-bernstein-)) und die **Umsetzung in der Szene** ([C-066](#c-066-prolog---bernstein-herkunft-nachziehen-), ruht bis November). Nachgetragen in [Girlin](../Menschen/Nordvolk/Girlin.md#frühes-leben), [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein) und der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt) - die Entscheidung stand bisher nur hier.
 
@@ -815,9 +815,23 @@ Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridas Verl
 
 ---
 
-### C-044: Herkunft von Girlins Bernstein ○
+### C-044: Herkunft von Girlins Bernstein ✓
 
 Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernstein und **kennt** dessen Herkunft, verrät sie ihm aber nie. Offen: Woher stammt der Stein wirklich? Bewusst als **offener Faden** gehalten - möglicher späterer Payoff (Anknüpfung an Girlins Vorgeschichte [C-024](#c-024-girlin---herkunft--vorgeschichte-) oder den Ring). Noch nichts festlegen. Klein.
+
+**Entschieden (Autor, 21.09.2026):**
+
+| | |
+|---|---|
+| **Herkunft** | Girlin hat den Stein **als Kind an der Küste gefunden** |
+| **Schweigen** | **Kein Geheimnis** - sie wird nur **nie danach gefragt** |
+| **Wer es erfährt** | **Niemand** - im Erzähltext auch der Leser nicht |
+
+**Korrigiert:** „Verrät sie aber nie" (hier und in [C-041](#c-041-prolog---bernstein-fundort-)) klang nach Absicht. Sie schweigt nicht absichtlich. Präzisiert in [Girlin](../Menschen/Nordvolk/Girlin.md#frühes-leben) und [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein).
+
+**Anmerkung (Claude):**
+- **Physikalisch unauffällig:** An der Skagerrak-Küste bei [Skirraa](../Orte/Skirraa.md) wird Bernstein angespült. Welche Küste, hängt am Herkunftsweiler, und der ist noch ??? ([C-024](#c-024-girlin---herkunft--vorgeschichte-)). Ein Nachbarweiler liegt an derselben Küste, einen Widerspruch gibt es also nicht.
+- **Der Faden zum Ring entfällt.** Der Stein ist gewöhnlich; sein Wert für Tibun ist allein das Geschenk.
 
 ---
 

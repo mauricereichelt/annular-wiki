@@ -48,7 +48,7 @@ Dass sie schon einmal einen Ort verlassen und sich in einer fremden Gemeinschaft
 
 Ein einzelner Weiler, der in diesen Jahren leerläuft, ist damit der Normalfall der Epoche und keine Erfindung. **Im Erzähltext werden diese Namen und Ursachen nie benannt** - keine Figur der Zeit könnte eine Seuche oder einen Vulkanwinter als solchen bezeichnen. Sie kennen nur, was sie sehen: Jahre ohne Sommer, dann Tote.
 
-**Der Bernstein.** Girlin hat [Tibun](Tibun.md) den **Bernsteinanhänger** geschenkt, den er schon lange an einer Kette trägt. Sie **kennt die Herkunft des Steins, verrät sie ihm aber nie** (Autor, 02.09.2026). Woher er stammt: ???
+**Der Bernstein.** Girlin hat [Tibun](Tibun.md) den **Bernsteinanhänger** geschenkt, den er schon lange an einer Kette trägt. Sie hat ihn **als Kind an der Küste gefunden** (Autor, 21.09.2026). Ein Geheimnis ist das nicht - **sie wird nur nie danach gefragt**. Deshalb erfährt es **niemand**, im Erzähltext auch der Leser nicht (Autor, 21.09.2026). *(Präzisiert 21.09.2026: Hier stand, sie verrate die Herkunft nie - das klang nach Absicht.)*
 
 Herkunftsort, Grund des Zuzugs und in welchem Jahr genau der Weiler einging: ???
 
