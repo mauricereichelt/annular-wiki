@@ -101,7 +101,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
 - **Querschnitt:** **abgerundetes Rechteck** (axial 0,50 m × radial 0,15 m, Eckradius 0,03 m) - nicht oval, nicht halbrund, nicht kreisrundes Rohr
 - **Prompt-Fallen:** `One Ring`, `fully rounded`, `oval cross-section`, `circular tube`, `sharp edges` → **nicht verwenden**
 - **Lock:** **P-001u** (Form, Farbe, Szene, Runenstil). Nicht weiter per image_edit „nur Runen“ iterieren - Tool setzt Innenrunen wieder und zerstört Details.
-- **Runen-Ziel (offen):** 12 am Umfang (Uhr-Stunden), sichtbar ~5-6; nur Außenäquator; innen glatt. Umsetzung: externes Masken-Inpaint oder manuell auf u.
+- **Runen-Ziel:** **12 Runen, sonst keinerlei Schmuck** (Autor, 21.09.2026). Vorläufig in den Prompts: am Umfang wie Uhr-Stunden verteilt, sichtbar ~5-6, nur Außenäquator, innen glatt. **Die Verteilung ist Bildentscheidung** - für die Kopplung spielt die Anordnung keine Rolle. Umsetzung: externes Masken-Inpaint oder manuell auf u. **Achtung:** Der Lock P-001u zeigt **24** Runen und ist nur für Form, Farbe und Szene maßgeblich.
 - Ältere Zwischenstände (P-001-n, p-t, v/w, P-002*, P-003*) gelöscht.
 
 

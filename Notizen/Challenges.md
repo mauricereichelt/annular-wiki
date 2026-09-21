@@ -14,7 +14,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-002: Tibuns Elektrizitätsquelle ○](#c-002-tibuns-elektrizitätsquelle-)
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
 - [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
-- [C-013: Runen - Anordnung, Anzahl, Aussehen ○](#c-013-runen---anordnung-anzahl-aussehen-)
 - [C-019: Ursache von Erwachen und Zusammenbruch ○](#c-019-ursache-von-erwachen-und-zusammenbruch-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
 - [C-025: Girlin - Charakter & Fähigkeiten ○](#c-025-girlin---charakter--fähigkeiten-)
@@ -72,6 +71,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-010: Ringsystem - Kopplungsmechanik ✓](#c-010-ringsystem---kopplungsmechanik-)
 - [C-011: Kreis, keine Spirale ✓](#c-011-kreis-oder-spirale-struktur-des-kreislaufs-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
+- [C-013: Runen - genau 12, identisch, Anordnung egal ✓](#c-013-runen---anordnung-anzahl-aussehen-)
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
 - [C-015: Verhältnis Drehung ↔ Tausch ✓](#c-015-verhältnis-drehung--tausch-)
 - [C-016: Schicksal von Vilund ✓](#c-016-schicksal-von-vilund-)
@@ -306,7 +306,7 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 ### C-010: Ringsystem - Kopplungsmechanik ✓
 
 Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
-- **Feste Paare**, hart in die Runen graviert (kein wählbares Adressieren zur Laufzeit). Verbindung braucht **identische Runenkonfiguration + gleiche Ringgröße**.
+- **Feste Paare**, hart in die Runen graviert (kein wählbares Adressieren zur Laufzeit). Verbindung braucht **identische Runenkonfiguration + gleiche Ringgröße**. *(Präzisiert 21.09.2026, [C-013](#c-013-runen---anordnung-anzahl-aussehen-): identische Runen, Reihenfolge und Anordnung egal, genau 12 Runen je Ring.)*
 - **Umverdrahten** durch Gravur: Rune zerstören (kappt) / passende Rune ergänzen (koppelt neu). Setzt **Kenntnis der Zielkonfiguration** voraus - kein blindes Wählen. Blind/falsch → Verbindung ins **Unbekannte**.
 - **Drei+ gleiche Konfiguration:** nur zwei aktiv; freier Platz geht an den **ältesten** wartenden Ring (Alter = **Gravurzeitpunkt**).
 - **Material (A):** Oberfläche gravierbar, Körper unzerstörbar/nicht reproduzierbar.
@@ -396,13 +396,29 @@ Damit wird der **Durchgang im Gehen** möglich: Der Reisende betritt die Kugel, 
 
 ---
 
-### C-013: Runen - Anordnung, Anzahl, Aussehen ○
+### C-013: Runen - Anordnung, Anzahl, Aussehen ✓
 
 Wie sind die Runen auf den Ringen gestaltet (Anzahl, Anordnung, Form, Position auf dem Ringkörper)?
 
 **Überholt:** Hier stand die Autor-Tendenz, die gepaarten Ringe müssten **nicht** identisch angeordnete Runen tragen - dann hätte man erkennen können, dass nach einem Tausch plötzlich ein *anderer* Ring dasteht (sichtbarer Beweis, dass ein Tausch stattfand). Das ist mit der Umstellung auf den **Innentausch** hinfällig ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Der Ringkörper wird **nicht mehr mitgetauscht**, der Ring bleibt immer derselbe. Die Frage nach Anzahl, Anordnung und Form der Runen bleibt davon unberührt offen.
 
 **Zu klären / Spannung:** C-010 verlangt für die Kopplung **„identische Runenkonfiguration + gleiche Ringgröße"**. Wenn die Runen sichtbar verschieden sein sollen, muss geklärt werden, was „identische Konfiguration" dann genau heißt (z. B. gleiche *Kopplungs*-Runen, aber unterschiedliche übrige Gravur/Schmuck? oder spiegelbildlich? oder Konfiguration ≠ sichtbares Muster?). Berührt direkt C-010 und C-012 (Selbsttausch neutral vs. sichtbar).
+
+**Entschieden (Autor, 21.09.2026):** Gepaarte Ringe tragen **identische Runen**. **Reihenfolge und Anordnung spielen keine Rolle.** Damit ist die Spannung oben aufgelöst: „Identische Konfiguration" heißt **dieselben Runen**, nicht dasselbe Muster.
+
+**Folgerung (Claude):** Wer eine passende Rune ergänzen will, muss nur wissen, **welche** Runen der Gegenring trägt - nicht, wo sie sitzen oder in welcher Folge. Eine Liste genügt, eine Zeichnung des Musters ist nicht nötig. Zwei gepaarte Ringe können auf den ersten Blick verschieden aussehen und trotzdem gekoppelt sein.
+
+**Entschieden (Autor, 21.09.2026):** Jeder Ring trägt **12 Runen**. **Sonst keinerlei Schmuck** und keine weitere Gravur. Die **Form der Runen** ist momentan nicht wichtig.
+
+**Befund (Claude) - die 12 und das Umgravieren:** Die Kopplungsregeln erlauben, eine Rune zu zerstören und eine neue zu ergänzen ([Portalringe](../Technik/Portalringe.md#kopplung--runen)). Ein umgravierter Ring trägt danach elf alte Runen, eine neue und eine unlesbare Narbe - oder **13 Runen**, wenn nur ergänzt und nichts zerstört wurde. Offen war damit, ob die 12 nur für den **Zustand gilt, in dem die Ringe gefunden werden**, oder ob ein Ring **genau 12** braucht, um zu koppeln.
+
+**Entschieden (Autor, 21.09.2026): Ein Ring braucht genau 12 Runen, um zu koppeln.**
+
+**Folgerung (Claude):** Ergänzen geht nur **an Stelle einer zerstörten Rune**. Wer eine dreizehnte hinzufügt, kappt die Verbindung, statt eine neue zu schaffen. Umverdrahten heißt immer **zerstören und ergänzen im Paar** - so oft, wie sich der eigene Runensatz vom Ziel unterscheidet, im Extremfall zwölfmal. Jede Umverdrahtung hinterlässt dabei sichtbare Narben. Für Plot 1 ohne Belang - dort graviert niemand um.
+
+**Geschlossen (Autor, 21.09.2026)** unabhängig von der Form. Die **Form der Runen** bleibt im Wiki als `???` stehen - momentan nicht wichtig.
+
+Eingetragen in [Portalringe](../Technik/Portalringe.md#kopplung--runen), [Bild-Prompts](Bild-Prompts.md).
 
 ---
 

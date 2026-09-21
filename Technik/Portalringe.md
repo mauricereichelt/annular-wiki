@@ -111,12 +111,17 @@ Die Verbindung zweier Ringe ist nicht wählbar wie eine Adresse zur Laufzeit, so
 
 **Kopplungsregeln:**
 1. Ein Paar = zwei Ringe mit **identischer Runenkonfiguration** *und* **gleicher Ringgröße**. Beides muss übereinstimmen, sonst keine Verbindung. (Größen siehe Tabellen unten.)
+   - **Identisch heißt: dieselben Runen.** **Reihenfolge und Anordnung spielen keine Rolle** (Autor, 21.09.2026). Zwei gepaarte Ringe können auf den ersten Blick verschieden aussehen.
+   - **Ein Ring braucht genau 12 gültige Runen, um zu koppeln** (Autor, 21.09.2026). Mit elf oder dreizehn koppelt er nicht.
 2. **Rune zerstören** (quer überschlagen, bis unlesbar) → Verbindung gekappt.
 3. **Passende Rune ergänzen** → neue Verbindung, sofern Konfiguration *und* Größe mit einem anderen Ring übereinstimmen.
+   - **Folgerung aus der Zwölf:** Ergänzt werden kann nur **an Stelle einer zerstörten Rune**. Wer nur ergänzt, ohne vorher zu zerstören, hat dreizehn und kappt die Verbindung, statt eine neue zu schaffen. Umverdrahten heißt also immer: **eine zerstören, eine ergänzen** - und so viele Paare davon, wie sich der eigene Runensatz vom Ziel unterscheidet, im Extremfall alle zwölf.
 4. **Drei oder mehr Ringe gleicher Konfiguration:** Nur zwei sind aktiv. Die übrigen sind funktionslos, bis bei einem aktiven Ring die Verbindung bricht - dann erbt der **älteste** wartende Ring den freien Platz.
    - „Alter" zählt ab **Gravurzeitpunkt** der aktuellen Konfiguration, nicht ab Herstellung. Ein neu verdrahteter Ring rutscht ans Ende der Warteschlange.
 
-**Wissensvoraussetzung:** Um eine passende Rune zu ergänzen, muss man die Zielkonfiguration **kennen** - den anderen Ring also gesehen oder seine Runen abgezeichnet haben. Es gibt **kein blindes Wählen**.
+**Wissensvoraussetzung:** Um eine passende Rune zu ergänzen, muss man die Zielkonfiguration **kennen** - den anderen Ring also gesehen oder seine Runen abgezeichnet haben. Es gibt **kein blindes Wählen**. Weil die Anordnung keine Rolle spielt, genügt es zu wissen, **welche** Runen er trägt - nicht, wo sie sitzen.
+
+**Jeder Ring trägt 12 Runen** (Autor, 21.09.2026) - **sonst keinerlei Schmuck** und keine weitere Gravur. Eine zerstörte Rune bleibt als quer überschlagene, unlesbare Stelle sichtbar (Folgerung aus Regel 2). Form der Runen: ??? (momentan nicht wichtig, Autor).
 
 **Gefahr der Fehlgravur:** Wer blind oder falsch graviert, riskiert eine Verbindung zu einem **unbekannten** Ring irgendwo auf der Welt - man weiß nicht, wohin man tritt.
 
