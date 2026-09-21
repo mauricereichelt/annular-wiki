@@ -14,7 +14,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-002: Tibuns Elektrizitätsquelle ○](#c-002-tibuns-elektrizitätsquelle-)
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
 - [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
-- [C-019: Ursache von Erwachen und Zusammenbruch ○](#c-019-ursache-von-erwachen-und-zusammenbruch-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
 - [C-025: Girlin - Charakter & Fähigkeiten ○](#c-025-girlin---charakter--fähigkeiten-)
 - [C-026: Bellbrim - historische Plausibilität & Herkunft ○](#c-026-bellbrim---historische-plausibilität--herkunft-)
@@ -77,6 +76,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-016: Schicksal von Vilund ✓](#c-016-schicksal-von-vilund-)
 - [C-017: Weitere Ringgrößen ✓](#c-017-weitere-ringgrößen-)
 - [C-018: Transport des Wüstenrings ✓](#c-018-widerspruch---transport-des-wüstenrings-)
+- [C-019: Feste Periode, Ursache unergründlich ✓](#c-019-ursache-von-erwachen-und-zusammenbruch-)
 - [C-020: Vorwarnung vor dem Flip? ✓](#c-020-vorwarnung-vor-dem-flip-)
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 - [C-022: Tibuns Reise - Dauer, Motiv, Hof ✓](#c-022-tibuns-reise---dauer-motiv-hof-)
@@ -484,9 +484,26 @@ Der Autor hat gegen die Empfehlung entschieden (Vorschlag war: Bellbrim zieht zu
 
 ---
 
-### C-019: Ursache von Erwachen und Zusammenbruch ○
+### C-019: Ursache von Erwachen und Zusammenbruch ✓
 
 Was treibt die Phasen des Ring-Kreislaufs ([Welt/README.md](../Welt/README.md))? Folgt das System einer **festen Periode**, wird es **ausgelöst** (wodurch?), oder ist die Ursache **grundsätzlich unergründlich**? Verwandt mit C-011 (Kreis/Spirale). Autorenebene, nicht zwingend im Erzähltext.
+
+**Entschieden (Autor, 21.09.2026):**
+
+| | |
+|---|---|
+| **Erwachen** | **Feste Periode** - das System erwacht von selbst. **Warum**, ist **unergründlich**, auch auf Autorenebene |
+| **Zusammenbruch** | **Derselbe Takt** - das System erlischt von selbst. Warum: ebenso **unergründlich** |
+| **Wissen in der Welt** | Dass das System wieder erlöschen wird, weiß eine Kultur **höchstens als Legende** - aus Monumenten und Überlieferung geahnt, nicht datierbar, kaum geglaubt |
+
+**Anmerkung (Claude):**
+- **Das passt zum Kreis** ([C-011 ✓](#c-011-kreis-oder-spirale-struktur-des-kreislaufs-)): gleicher Takt, gleiche Zyklen. Und das *Warum* bleibt verschlossen, womit die **Erbauer-Regel** nicht einmal berührt wird.
+- **Warum es nur Legende bleibt, erklärt der Takt selbst.** Eine feste Periode wäre berechenbar - aber nur mit Aufzeichnungen über **zwei Zyklen**. Dazwischen liegen Jahrtausende des Vergessens, die keine Kultur mit ihren Aufzeichnungen übersteht.
+- **Verträglich mit Plot 1**, solange dort keine solche Legende auftaucht: 550 kennt niemand das System ([Portalringe](../Technik/Portalringe.md)), und [Zitate](Zitate.md) verbietet bereits Sprichwörter über Ringe.
+
+**Nicht gefragt und offen · ???** Wie lang die aktive und die stille Phase dauern. Im Wiki steht bisher nur „Jahrhunderte bis Jahrtausende" bzw. „Jahrtausende".
+
+Eingetragen in [Welt](../Welt/README.md).
 
 ---
 

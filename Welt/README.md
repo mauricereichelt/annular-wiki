@@ -19,6 +19,8 @@ Das [Ringsystem](../Technik/Portalringe.md) ist nicht statisch, sondern folgt ei
 
 **Ein Kreis, keine Spirale** (Autor, 21.09.2026). Für die Geschichten ist das auf lange Sicht nicht wichtig.
 
+**Der Takt** (Autor, 21.09.2026): Erwachen und Zusammenbruch folgen einer **festen Periode**. Das System erwacht und erlischt **von selbst**, jedes Mal im gleichen Takt. **Warum** es das tut, ist **unergründlich** - auch auf Autorenebene gibt es keine Ursache dahinter. Länge der aktiven und der stillen Phase: ???
+
 **Tibuns Zeit** liegt am **Beginn eines Erwachens**. Seine Geschichte zeigt nur die erste Dämmerung des neuen Zyklus - mehr vom System wird hier nicht sichtbar. Weiteres folgt ggf. in anderen Geschichten.
 
 ---
@@ -31,6 +33,7 @@ Wichtig für die Konsistenz - was die Menschheit über die Ringe weiß, ist gest
 |---|---|
 | **Bedienung** (Aktivierung, Runenkopplung, Reisen, Post) | Wird in jedem aktiven Zyklus **neu erlernt** |
 | **Material, Erbauer, ursprünglicher Zweck** | **Für immer unauffindbar** - in *jedem* Zyklus, auch in Hochkulturphasen |
+| **Der Kreislauf selbst** - dass das System wieder erlischt | **Höchstens als Legende** (Autor, 21.09.2026): aus Monumenten und Überlieferung geahnt, nicht datierbar, kaum geglaubt. Berechnen ließe sich der Takt nur über zwei Zyklen hinweg, und keine Kultur überdauert die Jahrtausende dazwischen mit ihren Aufzeichnungen |
 
 Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu Herkunft, Wesen oder Entwurfsgedanken vor. Das Material ist nicht analysierbar und nicht reproduzierbar. So nutzt jede Kultur den *Gebrauch*, ohne das *Wesen* zu verstehen.
 
@@ -55,4 +58,4 @@ Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu He
 
 ## Offen (Autorenebene, nicht zwingend im Text)
 
-- **Ursache** von Erwachen und Zusammenbruch → **???** - feste Periode, ausgelöst, oder grundsätzlich unergründlich?
+- **Länge** der aktiven und der stillen Phase → **???**
