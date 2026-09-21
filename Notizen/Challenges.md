@@ -22,7 +22,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
-- [C-041: Prolog - Bernstein-Fundort ○](#c-041-prolog---bernstein-fundort-)
 - [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
 - [C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ○](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Herkunft von Girlins Bernstein ○](#c-044-herkunft-von-girlins-bernstein-)
@@ -90,6 +89,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-038: Prolog - Ortsmaßstab in Skirraa ✓](#c-038-prolog---ortsmaßstab-in-skirraa-)
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
+- [C-041: Bernstein - Geschenk der Mutter ✓](#c-041-prolog---bernstein-fundort-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
@@ -783,11 +783,13 @@ Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fisch
 **Auf ✓ gesetzt (Autor, 08.09.2026):** Die inhaltliche Frage ist entschieden; das Nachziehen im Szenentext läuft als eigene Challenge weiter ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-) bis [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-)). Eine Challenge gilt als gelöst, wenn die Entscheidung steht - nicht erst, wenn der Text sie abbildet.
 ---
 
-### C-041: Prolog - Bernstein-Fundort ○
+### C-041: Prolog - Bernstein-Fundort ✓
 
 Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland ist Bernstein **Strandgut** (Skagerrak/Nordsee), kein Flussfund. Fundort auf Küste/Strand umstellen (passt zu Skirraas Lage kurz vor den Dünen).
 
 **Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie - **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein-)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-). **Umsetzung in der Szene offen** (siehe [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-)).
+
+**Geschlossen (21.09.2026):** Auf Autorenebene ist nichts mehr offen. Gemeint ist der **Bernsteinanhänger an Tibuns Kette**, den er schon lange trägt (Autor, 04.09.2026) und den Frida am Verlobungstag nicht annimmt - nicht der Bernstein für das Rad, den er in Kaupvik sammelt. Die Frage nach dem Fundort ist damit gegenstandslos. Offen bleibt nur, was eine eigene Challenge hat: die **Herkunft** des Steins ([C-044](#c-044-herkunft-von-girlins-bernstein-)) und die **Umsetzung in der Szene** ([C-066](#c-066-prolog---bernstein-herkunft-nachziehen-), ruht bis November). Nachgetragen in [Girlin](../Menschen/Nordvolk/Girlin.md#frühes-leben), [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein) und der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt) - die Entscheidung stand bisher nur hier.
 
 ---
 

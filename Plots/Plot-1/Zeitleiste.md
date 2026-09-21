@@ -55,7 +55,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Die Kette ist nicht neu** - Tibun hat sie schon lange (Autor, 04.09.2026)
 - **Die Verlobungsfeier liegt bewusst nur Tage nach dem Beben** (Autor, 14.09.2026) - ein Fest gegen die Angst
 - **Er verschenkt sie nicht: Frida nimmt sie nicht an.** Wie es dann zur Entladung kommt · **???**
-- Der Bernstein selbst stammt von seiner Mutter - **wenige Tage, bevor sie verschwindet**
+- Der Bernstein an der Kette ist ein **Geschenk seiner Mutter**; die Entdeckung liegt **wenige Tage, bevor sie verschwindet**. *(Präzisiert 21.09.2026: Hier stand, der Bernstein stamme von ihr „wenige Tage, bevor sie verschwindet" - missverständlich, denn die Kette hat er schon lange.)*
 
 ### 3. Der Blitz - Girlins Verschwinden
 - Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings

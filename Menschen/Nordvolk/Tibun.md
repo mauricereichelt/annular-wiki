@@ -39,6 +39,12 @@ Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Die Fami
 
 ---
 
+## Der Bernstein
+
+Den **Bernsteinanhänger an seiner Kette** trägt Tibun **schon lange** (Autor, 04.09.2026). Er ist ein **Geschenk seiner Mutter** [Girlin](Girlin.md); woher der Stein stammt, **weiß er nicht** - sie kennt die Herkunft, verrät sie ihm aber nie (Autor, 02.09.2026). Am Verlobungstag will er die Kette [Frida](Nebenfiguren/Frida.md) schenken, sie nimmt sie nicht an (Autor, 04.09.2026). Herkunft des Steins: ???
+
+---
+
 ## Der Webkamm
 
 Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das Frauengut, [Millia](Nebenfiguren/Millia.md) übernimmt Webstuhl und Herd - **Tibun bekommt nichts**. Er nimmt sich ihren **Webkamm**, der rechtlich der Schwester zusteht, und trägt ihn zehn Winter mit sich. Ein Werkzeug, kein Schmuck; unscheinbar genug, dass niemand ihn vermisst. Bemerkt hat es trotzdem eine: [Truda](Nebenfiguren/Truda.md) weiß es von Anfang an - und sagt nie etwas (Autor, 11.09.2026).
