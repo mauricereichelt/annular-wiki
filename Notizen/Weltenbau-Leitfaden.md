@@ -50,7 +50,7 @@ Arbeitsvorrat - nicht weitere Ringdetails.
 
 ### 1. Für jede Erfindung eine Folge
 Was folgt daraus, und was wird dadurch unmöglich? Bei den Ringen wendest du das bereits vorbildlich an
-(Mulde wandert, asymmetrische Anlagen zerstören sich selbst).
+(die Mulde wandert mit dem Reisenden auf die andere Seite).
 Dieselbe Strenge fehlt bislang überall dort, wo es um Menschen statt um Material geht.
 
 ### 2. Grenzen sind glaubwürdiger als Fähigkeiten
@@ -139,11 +139,11 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 
 - [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht.
 - [ ] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle?
-- [ ] **3 · Bruchtest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
-- [ ] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht - dort gibt es keine Orte.
-- [ ] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
+- [x] **3 · Folgentest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
+- [~] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht - dort gibt es keine Orte.
+- [~] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
 - [~] **6 · Namenstest.** Für den Süden **bestanden**. Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung.
-- [ ] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
+- [~] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 
 ---
 

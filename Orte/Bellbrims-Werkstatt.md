@@ -16,7 +16,7 @@ Das System ist größer als das, was sie nutzt - der bewohnte Teil ist ein Absch
 
 ## Die Ringkammer
 
-**Der Ring liegt in einer eigenen Kammer** (Autor, 10.09.2026). Er wird nie aufgerichtet, er liegt (entschieden 03.09.2026); hierher wird er nach dem Transport in +8 gebracht, und hier kommt [Tibun](../Menschen/Nordvolk/Tibun.md) im Finale an.
+**Der Ring liegt in einer eigenen Kammer** (Autor, 10.09.2026). Er wird nie aufgerichtet, er liegt (entschieden 03.09.2026) - **ohne Mulde** (Autor, 21.09.2026); hierher wird er nach dem Transport in +8 gebracht, und hier kommt [Tibun](../Menschen/Nordvolk/Tibun.md) im Finale an.
 
 **Durch diese Kammer fällt ein unterirdischer Wasserfall** (Autor, 10.09.2026):
 

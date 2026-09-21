@@ -45,7 +45,7 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Dre
 
 Die Kugel reicht nur **1,50 m über die Ringebene**. Liegt der Ring flach im Boden, fällt die Ringebene mit dem Boden zusammen - das Kugelzentrum liegt dann genau dort, wo man steht, und ein Stehender hat **1,50 m Kopffreiheit**, exakt den Kugelradius. Für einen Erwachsenen ist das zu wenig; der rohe, ebenerdige Ring köpft ihn.
 
-**Deshalb baut die Nutzer-Zivilisation eine Mulde**. Wie tief, ist **noch nicht entschieden · ???** - die Tiefe erkauft Kopffreiheit mit Standfläche:
+**Deshalb baut die Nutzer-Zivilisation eine Mulde**. Wie tief, ist **???** - erst zu entscheiden, wenn eine Geschichte es braucht (Autor, 21.09.2026). Die Tiefe erkauft Kopffreiheit mit Standfläche:
 
 <table>
   <caption>Flach liegender 3-m-Ring - Muldentiefe unter der Ringebene</caption>
@@ -73,7 +73,13 @@ Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 
 **Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser - der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stürzt über den Ring** und **liegt** darin (Autor, 07.09.2026); dabei zieht sie sich eine **Kopfwunde** zu und ist bewusstlos. Stehend hätte sie der Ring geköpft.
 
-**Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb mitgetauscht. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt** - und drüben entsteht eine. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt. Für die Erbauer selbstverständlich; für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich.
+**Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird mitgetauscht: Beim Tausch wird sie auf der einen Seite mit dem Erdreich der Gegenseite **verfüllt**, und drüben entsteht sie neu. **Wer in ihr reist, kommt drüben in ihr an** - für die Rückreise liegt sie genau dort, wo er gerade ist. Das ist **Funktionalität, kein Problem** (Autor, 21.09.2026). Hat nur eine Seite eine Mulde, liegt sie immer auf der Seite, auf der zuletzt jemand angekommen ist.
+
+**Folgerung (Claude):** Haben beide Seiten eine Mulde, tauschen die beiden nur die Plätze - dann liegt auf beiden Seiten immer eine. Nötig ist das nicht.
+
+> **Gestrichen (Autor, 21.09.2026):** Hier stand *„Asymmetrische Anlagen zerstören sich selbst. Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt … für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich."* Die Mulde wird nicht zerstört, sie wechselt nur die Seite. **Der Satz stammte von Claude, nicht vom Autor.**
+
+**In Plot 1 hat keiner der beiden Ringe eine Mulde** (Autor, 21.09.2026) - weder der Skir-Ring noch der Ring in der [Ringkammer](../Orte/Bellbrims-Werkstatt.md#die-ringkammer). Wer dort reist, ist **am Boden**: Girlin liegt, Azzim und Tibun sind im Finale am Boden (Autor, 21.09.2026).
 - **Aus dem Ring tritt nichts aus** - kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif durchläuft sie wie alles andere **wie ein Geist** (Autor, 14.09.2026) - trotz ~126 km/h Kantengeschwindigkeit kein Luftstoß.
   > **Korrigiert (14.09.2026):** Hier stand als Begründung, der Reif verdränge nur Luft, die selbst Teil der Tauschkugel ist. Das widersprach der Geometrie oben: Der Reif läuft **außerhalb** der Kugel.
 
@@ -92,7 +98,7 @@ Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 Ringe liegen nicht zwingend flach - das ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. **Die Tauschkugel ist von der Aufstellung unabhängig:** Eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
 
 ### Flach liegend
-**Die einzige Aufstellung, die in der Geschichte vorkommt.** Untere Halbkugel im Erdreich, wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Stehend reist nur, wer eine **Mulde** hat (siehe oben) - ohne Mulde reist nur, wer **liegt**.
+**Die einzige Aufstellung, die in der Geschichte vorkommt.** Untere Halbkugel im Erdreich, wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Stehend reist nur, wer eine **Mulde** hat (siehe oben) - ohne Mulde reist nur, wer **am Boden** ist. Geometrisch: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei *h* = 1,30 m sind das 0,75 m, bei *h* = 1,20 m 0,90 m.
 
 ### Vertikal (eingelassen)
 Erlaubt den **Durchgang im Gehen**: Der Reisende betritt die Kugel, wird getauscht und geht am Zielort **geradeaus weiter** - ohne anzuhalten. Der Ring ist dabei nie ein „Tor", durch das man tritt; man läuft durch die Kugel, während sie ihren Inhalt wechselt.

@@ -31,7 +31,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
@@ -111,6 +110,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
 - [C-083: Kapitel-Motti - Ideen, später ✓](#c-083-zitate-als-kapitel-motti-)
+- [C-084: Keine Mulde - Reisende sind am Boden ✓](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
 - [C-087: Zeitrechnung im Erzähltext ✓](#c-087-zeitrechnung-im-erzähltext-)
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
@@ -1495,7 +1495,7 @@ Notiert in [Zitate.md](Zitate.md).
 
 ---
 
-### C-084: Mulde, Standfläche und die rohen Ringe ○
+### C-084: Mulde, Standfläche und die rohen Ringe ✓
 
 Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Ringebene** - ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
 
@@ -1528,13 +1528,29 @@ Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsver
 
 **Erzählwert (Girlin):** Hätte sie **gestanden**, hätte der Ring sie geköpft. [Tibun](../Menschen/Nordvolk/Tibun.md) sieht seine Mutter verschwinden, weil sie **gestürzt** ist - derselbe Zufall, der sie ihm nimmt, hält sie am Leben. Und er kann das nie erfahren.
 
-**Neu offen - die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb **mitgetauscht**. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt**, während drüben eine entsteht. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein - was voraussetzt, dass man die Gegenseite **kennt**.
+**Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb **mitgetauscht**: Auf der einen Seite wird sie mit dem Erdreich der Gegenseite **verfüllt**, drüben entsteht sie neu. **Wer in ihr reist, kommt drüben in ihr an.** Das ist **Funktionalität, kein Problem** (Autor, 21.09.2026).
 
-Für die Erbauer selbstverständlich. Für [Tibun](../Menschen/Nordvolk/Tibun.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) unmöglich: Keiner von beiden kennt das andere Ende. Wer von ihnen gräbt, macht die eigene Anlage beim ersten Auslösen zunichte und beschädigt die fremde. **Zu klären, wie das Finale damit umgeht** - es ist ein Problem, das aus der Mechanik fällt statt hineingeschrieben zu werden, und berührt [C-062](#c-062-azzims-ankunft-vor-tibuns-zündung-) (wer zündet, wer reist).
+> **Gestrichen (Autor, 21.09.2026):** Hier stand unter *„Neu offen"*, asymmetrische Anlagen zerstörten sich selbst, beide Seiten müssten gleich gebaut sein, und wer von Tibun oder Bellbrim grabe, mache die eigene Anlage beim ersten Auslösen zunichte - ein Problem, mit dem das Finale umgehen müsse. **Das stammte von Claude.** Die Mulde wird nicht zerstört, sie wechselt nur die Seite → Altlast-Tabelle in [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
 
 **Kleiner Restpunkt:** [Girlins](../Menschen/Nordvolk/Girlin.md) Körpergröße ist nirgends festgelegt. Für den Sturz irrelevant, für spätere Szenen im Ring nicht.
 
 Berührt [C-055](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) und [C-128](#c-128-fundort-und-freilegung-des-skir-rings-) (Fundort).
+
+**Entschieden (Autor, 21.09.2026):**
+
+| | |
+|---|---|
+| **Mulde** | **Keiner der beiden Ringe hat eine** - weder der Skir-Ring noch der Ring in der Ringkammer |
+| **Haltung im Finale** | Azzim (Zündung 1) und Tibun (Zündung 2) sind im Moment des Tauschs **am Boden**, nicht aufrecht. Ob sie liegen oder knien, klärt der Szenentext |
+| **Muldentiefe der Nutzer-Zivilisation** | **???** - erst, wenn eine Geschichte sie braucht |
+
+**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Ringebene; liegt der Ring auf dem Boden statt bündig darin, 1,575 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#45--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
+
+**Mitkorrigiert:** Szene 3 sagte, Girlin „stand" vollständig in der Ringöffnung - sie liegt. Szene 44 ließ Azzim „neben den Ring" fallen - die Kugel liegt ganz innerhalb der Ringöffnung, er kommt **im** Ring an.
+
+**Girlins Körpergröße** (Restpunkt oben) spielt für den Ring keine Rolle mehr: In Plot 1 betritt sie keinen Ring wieder.
+
+Eingetragen in [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-mulde), [Skirraa](../Orte/Skirraa.md) und [Ringkammer](../Orte/Bellbrims-Werkstatt.md#die-ringkammer). Geschlossen - offen bleibt nur die Muldentiefe auf Universumsebene.
 
 ---
 
@@ -2449,6 +2465,7 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 | Grüne Steine wie die Ringrunen seien den Kel Aman „Augen des Geistes", heilig | **gestrichen** - nie entschieden; Autor: *„das habe ich nie entschieden. das kann weg."* Der Ring ist ihnen kein Heiligtum | [Kel Aman](../Kulturen/Kel-Aman/README.md#was-der-ring-ihnen-bedeutet), [C-149 ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-) |
 | Der Ring sei der **natürliche Ladungsspeicher** (~200 pF → ~1 J); Funkensprühen lade den Ring auf | **gestrichen** - der Ring ist kein Ladungsspeicher, die Ladung sammelt sich auf dem Rad selbst (Autor, 11.09.2026). Stand in der Liste *Festgelegt* von [C-002](#c-002-tibuns-elektrizitätsquelle-), ohne Autorenvermerk | [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) |
 | Azzim stehe im Norden *„in Wasser, das aus dem Nichts kam"* | **gestrichen** - Rest der Bachwasser-Fassung; es geht kein Wasser mit, der Wasserfall fällt außerhalb der Kugel (Autor, 11.09.2026) | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) |
+| Eine Mulde nur auf einer Seite zerstöre die Anlage selbst; beide Seiten müssten gleich gebaut sein | **gestrichen** - die Mulde wechselt nur die Seite, wer in ihr reist, kommt drüben in ihr an: Funktionalität, kein Problem (Autor, 21.09.2026) | [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-mulde), [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 

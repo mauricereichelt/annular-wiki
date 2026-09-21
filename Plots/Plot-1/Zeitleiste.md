@@ -239,7 +239,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 
 ### Zündung 1 - aus der Wüste
 - Azzim greift die Schlucht an; im Kampf wird der **Wüstengenerator ausgelöst**
-- **Azzim** steht vollständig in der Kugel und wird nach Jütland geworfen
+- **Azzim** ist vollständig in der Kugel und wird nach Jütland geworfen. Er ist dabei **am Boden**, nicht aufrecht (Autor, 21.09.2026); wie genau, klärt der Szenentext. *(Korrigiert 21.09.2026: Hier stand „steht". Keiner der beiden Ringe hat eine Mulde, über der Ringmitte reicht die Kugel nur 1,50 m hoch - aufrecht wäre er durchtrennt worden, siehe [Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde).)*
 - Gegenrichtung: **kein Mensch** - **nur Erde und Sand** (Autor, 10.09.2026). Kein Wasser, kein Werkzeug, kein Gerät; eine Halbkugel Boden von rund **7 m³** (untere Hälfte der Tauschkugel, Radius 1,50 m ab der Ringebene). Der Tausch macht kein Schauspiel
 - **Tibuns Anlage steht vollständig außerhalb der Kugel** (Autor, 10.09.2026) - weil er die Schnittwirkung der Grenze kennt, hat er bewusst außerhalb gebaut. Auch die **Kette hängt in diesem Moment noch oben im Dachstuhl**. Nichts von der Anlage geht mit über, und er kann anschließend zünden
 - **Tibun begreift im Moment der fremden Zündung noch nichts** (Autor, 10.09.2026). Er sieht nur, **dass** etwas geschehen ist. **Die Erklärung liefert Azzim** - der Beweis kommt als Person, nicht als Schlussfolgerung
@@ -261,7 +261,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - Tibun erreicht mit letzter Kraft den Mechanismus, lässt die Kette fallen und **tritt Azzim im selben Griff von sich weg**
   - **Der Mechanismus ist eine Zugschnur** (Autor, 11.09.2026). Sie hängt knapp außerhalb der Kugel; Tibun muss hinausgreifen und hat Hand und Fuß **knapp** wieder in der Kugel, bevor die Kette unten ist
 - Azzim taumelt zum Rand. Die **Fallzeit der Kette ist genau seine Taumelzeit** - ein Schritt rückwärts, ein halber Herzschlag
-- **Azzim wird von der Kugelgrenze zerteilt.** Tibun steht mittig und **reist**
+- **Azzim wird von der Kugelgrenze zerteilt.** Tibun ist mittig **am Boden** und **reist** (Autor, 21.09.2026); ob er liegt oder kniet, klärt der Szenentext. *(Korrigiert 21.09.2026: Hier stand „steht mittig" - siehe Zündung 1.)*
 - Es ist **Notwehr**, kein Plan: Tibun nutzt Wissen, das er hat, im Griff eines Erwürgenden
 
 **Erzähltechnisch:** Tibuns Zündung ist damit **derselbe Vorgang wie Girlins Blitz vor zehn Jahren** - schlagartige Entladung ohne Vorlauf, nur gewollt. Das Problem der zehn Jahre war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise nicht - die Rampe sitzt am Rad.

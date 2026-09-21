@@ -104,7 +104,7 @@ Starkes Gewitter, Sorge um oder Flucht der Schafe, Girlin endet im Wald, stürzt
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt. Vom Flip nimmt sie nichts wahr; **das letzte Bild vor der Ohnmacht ist der Ring**, über den sie fällt.
+- **Ausgang:** Sie ist fort. Sie lag vollständig innerhalb der Ringöffnung und reist unverletzt. Vom Flip nimmt sie nichts wahr; **das letzte Bild vor der Ohnmacht ist der Ring**, über den sie fällt.
 
 
 ### 4 · Der Blitz - Tibun
@@ -598,12 +598,14 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 
 > **Seine Leute** (Autor, 10.09.2026): **drei bis vier eigene Männer**. Als der Generator ihn wegreißt, **brechen sie ab und fliehen** - sie kämpfen nicht weiter und plündern nicht. Bellbrim und das Kind sehen alles aus der Nachbarkammer, durch Fels getrennt.
 
+> **Am Boden** (Autor, 21.09.2026): Im Moment des Tauschs ist Azzim am Boden, nicht aufrecht - der Ring hat keine Mulde, über der Ringmitte reicht die Kugel nur 1,50 m hoch ([Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde)). Wie genau, klärt der Szenentext.
+
 
 ### 44 · Azzim vor den Füßen
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** -
 
-Ein fremder Mann fällt aus dem Nichts neben den Ring.
+Ein fremder Mann fällt aus dem Nichts in den Ring.
 
 - **Will:** Auskunft über Girlin - der erste Beweis, dass drüben Menschen leben
 - **Hindernis:** Azzim will selbst zum Ring zurück
@@ -623,6 +625,8 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 - **Ausgang:** Die Kette fällt aus dem Dachstuhl. Azzim wird von der Kugelgrenze zerteilt, Tibun reist. Notwehr, kein Plan.
 
 > **Der Griff nach draußen** (Autor, 11.09.2026): Die Zugschnur hängt knapp außerhalb der Kugel. Tibun muss hinausgreifen, während Azzim ihn würgt, und hat Hand und Fuß knapp wieder drin, bevor die Kette unten ist. Ob eine Entladung genügt oder eine Folge, erklärt der Text nicht - der Leser sieht nur den Schlag.
+
+> **Am Boden** (Autor, 21.09.2026): Tibun ist beim Tausch mittig am Boden - ob er liegt oder kniet, klärt der Szenentext. Aufrecht würde ihn die Kugel durchtrennen.
 
 
 ### 46 · Wiedersehen und Schluss
