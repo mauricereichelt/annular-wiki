@@ -14,7 +14,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-002: Tibuns Elektrizitätsquelle ○](#c-002-tibuns-elektrizitätsquelle-)
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
 - [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
-- [C-011: Kreis oder Spirale? ○](#c-011-kreis-oder-spirale-struktur-des-kreislaufs-)
 - [C-013: Runen - Anordnung, Anzahl, Aussehen ○](#c-013-runen---anordnung-anzahl-aussehen-)
 - [C-019: Ursache von Erwachen und Zusammenbruch ○](#c-019-ursache-von-erwachen-und-zusammenbruch-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
@@ -71,6 +70,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-007: Proportionen der Portalringe ✓](#c-007-proportionen-der-portalringe-)
 - [C-008: Anzahl und Bekanntheit der Ringe ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)
 - [C-010: Ringsystem - Kopplungsmechanik ✓](#c-010-ringsystem---kopplungsmechanik-)
+- [C-011: Kreis, keine Spirale ✓](#c-011-kreis-oder-spirale-struktur-des-kreislaufs-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
 - [C-015: Verhältnis Drehung ↔ Tausch ✓](#c-015-verhältnis-drehung--tausch-)
@@ -318,7 +318,7 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
 
 ---
 
-### C-011: Kreis oder Spirale? (Struktur des Kreislaufs) ○
+### C-011: Kreis oder Spirale? (Struktur des Kreislaufs) ✓
 
 Die Kosmologie ([Welt/README.md](../Welt/README.md)) ist ein zyklischer Loop des Ringsystems (Erwachen → Aufstieg → Zusammenbruch → Vergessen → …). Offen: Wiederholt sich jeder Zyklus **identisch** (perfekter Kreis) oder **driftet** er minimal (Spirale)?
 
@@ -326,6 +326,16 @@ Die Kosmologie ([Welt/README.md](../Welt/README.md)) ist ein zyklischer Loop des
 - **Spirale:** etwas bleibt über den Zusammenbruch hinaus erhalten, etwas verändert sich, jemand *erinnert*. Aus dem Kreis wird Fortschritt/Verfall mit Richtung - es steht etwas auf dem Spiel.
 
 **Tendenz (Claude):** Spirale, wegen Leitfrage „interessiert das einen Leser in 30 Jahren?". Für Tibuns Geschichte nicht nötig - bestimmt aber den emotionalen Kern des Gesamtwerks. Noch nicht entschieden.
+
+**Entschieden (Autor, 21.09.2026): Kreis.** Für die Geschichten ist das **auf lange Sicht nicht wichtig**.
+
+**Idee des Autors (21.09.2026), ausdrücklich Zukunftsmusik:** In einer Geschichte stellt sich am Ende heraus, dass der Transport **dieses Mal doch mit einem Zeitsprung** einherging - und daraus entsteht ein neuer Konflikt oder eine neue Geschichte.
+
+**Anmerkung (Claude):**
+- Der Einwand oben, ein Kreis sei emotional flach, trifft nur die Kosmologie. Die Geschichten erzählen ausschließlich von **Nutzern** der Ringe; ihr Einsatz liegt bei den Figuren, nicht darin, ob der Zyklus driftet.
+- Bisher gilt: **Beide gepaarten Ringe flippen gleichzeitig** ([Portalringe](../Technik/Portalringe.md)). Ein Zeitsprung wäre eine Ausnahme von dieser Regel. Er bliebe innerhalb der einen erlaubten Abweichung, braucht aber, wenn es so weit ist, eine **Ursache in der Welt** - sonst wirkt er wie ein Deus ex Machina - und diese Ursache darf nichts über die Erbauer verraten.
+
+Eingetragen in [Welt](../Welt/README.md).
 
 ---
 
