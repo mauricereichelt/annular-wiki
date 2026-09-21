@@ -24,7 +24,7 @@
 
 ## Frühes Leben
 
-??? Wohlhabend genug, dass seine gute Wolle im Prolog eigens auffällt. Mit etwa 40 steht er **voll im Saft** - die Heirat seines Sohnes ist kein Vorgriff auf die Hofübergabe, sondern Ausbau: Er erweitert seinen Besitz, während er ihn noch selbst führt.
+??? Wohlhabend genug, dass seine gute Wolle am Verlobungstag eigens auffällt. Mit etwa 40 steht er **voll im Saft** - die Heirat seines Sohnes ist kein Vorgriff auf die Hofübergabe, sondern Ausbau: Er erweitert seinen Besitz, während er ihn noch selbst führt.
 
 ---
 
@@ -38,7 +38,7 @@
 
 Reist von auswärts nach [Skirraa](../../../Orte/Skirraa.md) und bittet um [Fridas](Frida.md) Hand für seinen Sohn [Herik](Herik.md). Die Verlobung wird beim Großbauern besiegelt - für die Familien ein **Bündnis zwischen Höfen**, für [Tibun](../Tibun.md) das Ende seiner Hoffnung.
 
-Reine Funktionsfigur des Prologs; weitere Rolle **offen · ???**.
+Reine Funktionsfigur der Verlobungsszene; weitere Rolle **offen · ???**.
 
 ---
 

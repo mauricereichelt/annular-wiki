@@ -75,13 +75,15 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 ### 2 · Der Bernstein-Effekt
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk · Prolog - Tibuns Alter und Heiratsantrag
+> **POV:** Tibun · **Jahr 0** · **Offen:** Prolog - Tibuns Alter und Heiratsantrag
 
 Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt ein Blitz an der Schafschere über.
 
 - **Will:** Frida für sich gewinnen - die Kette hat er schon lange
 - **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Herik verlobt, der besseren Partie
-- **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Wie es dazu kommt: ??? - die alte Szene gilt nicht als Kanon.
+- **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
+
+> **Hinweis fürs Schreiben (Claude):** Aufladen braucht **Reibung**, am stärksten Bernstein an Wolle - Werfen allein lädt nichts. Die Entladung knistert und ist im Dunkeln als blau-weißer Blitz zu sehen ([Elektrizität](../../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)).
 
 
 ### 3 · Der Blitz - Girlin

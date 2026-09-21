@@ -23,7 +23,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
 - [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
-- [C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ○](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Herkunft von Girlins Bernstein ○](#c-044-herkunft-von-girlins-bernstein-)
 - [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
@@ -90,6 +89,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-041: Bernstein - Geschenk der Mutter ✓](#c-041-prolog---bernstein-fundort-)
+- [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
@@ -803,13 +803,15 @@ Die Szene führt **Frida** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibu
 
 ---
 
-### C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ○
+### C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ✓
 
 Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridas Verlobung mit Herik) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
 
 **Entschieden:** Herzschmerz-Rahmen (Frida) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog---bernstein-fundort-): Der Bernstein stammt von **Girlin**; **wenige Tage später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik - genau das Material, mit dem Tibun später den Ring zünden will.
 
 > **Korrigiert am 04.09.2026 (Autor):** Hier stand *Tibun verschenkt das Muttergeschenk an Frida*. Das ist falsch - **Tibun verschenkt die Kette nicht, Frida nimmt sie nicht an.** Die Kette hat er zudem **schon lange**, sie ist nicht neu. Der Payoff läuft damit über die **Abweisung**, nicht über eine Übergabe. Wie es von dort zum Funken kommt, ist offen · **???**
+
+**Geschlossen (21.09.2026):** Wie es von der Abweisung zum Funken kommt - was mit der Kette geschieht, woran sich der Stein auflädt, warum Tibun im Stall ist, ob der Fluss vorkommt -, **klärt der Autor im Szenentext** (Autor, 21.09.2026). Keine spätere Szene hängt daran; der Rahmen steht schon: Funke nach [C-039](#c-039-prolog---funke-entzündet-wolle-), Aufladen nur durch Reibung ([Elektrizität](../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)). Hinweis fürs Schreiben in [Szenen.md](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Nachgefragt, weil es spätere Szenen betrifft: **Tibun behält den Anhänger**, er ist ihm sehr wichtig (Autor, 21.09.2026) - eingetragen bei [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein).
 
 ---
 

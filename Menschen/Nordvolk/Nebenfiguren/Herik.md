@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Verlobter [Fridas](Frida.md) |
-| **Alter** | **17-18** im Prolog (Jahr 0) - kaum älter als [Tibun](../Tibun.md) und [Frida](Frida.md) |
+| **Alter** | **17-18** am Verlobungstag (Jahr 0) - kaum älter als [Tibun](../Tibun.md) und [Frida](Frida.md) |
 | **Herkunft** | Hof in der Gegend um [Tingsal](../../../Orte/Tingsal.md) |
 
 **Familie**
@@ -37,7 +37,7 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - r
 
 ## Bedeutung in der Geschichte
 
-Im Prolog wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet - arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
+Wenige Tage nach dem Beben (Jahr 0) wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet - arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
 
 Ein späteres Wiederauftreten ist **möglich, aber für den Plot unwichtig** - nichts hängt daran. Ob es dazu kommt: ???
 

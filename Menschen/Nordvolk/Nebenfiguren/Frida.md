@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Tibuns Jugendliebe (ungesagt) |
-| **Alter** | **16** im Prolog (Jahr 0) - gleicher Jahrgang wie [Tibun](../Tibun.md) |
+| **Alter** | **16** am Verlobungstag (Jahr 0) - gleicher Jahrgang wie [Tibun](../Tibun.md) |
 | **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) |
 
 **Familie**
@@ -37,7 +37,7 @@ Mädchen aus [Skirraa](../../../Orte/Skirraa.md), aufgewachsen auf einem der Hö
 
 ## Bedeutung in der Geschichte
 
-Auslöser des Prologs: Am Tag, an dem [Tibun](../Tibun.md) ihr seinen Bernsteinanhänger schenken und um sie werben will, wird ihre Verlobung mit dem auswärtigen [Herik](Herik.md) verkündet. Die Ehe ist ein **Bündnis zwischen Höfen**, von den Vätern arrangiert - Frida selbst wirkt dabei nicht glücklich.
+Auslöser der Szene zum Bernstein-Effekt: Am Tag, an dem [Tibun](../Tibun.md) ihr seinen Bernsteinanhänger schenken und um sie werben will, wird ihre Verlobung mit dem auswärtigen [Herik](Herik.md) verkündet. Die Ehe ist ein **Bündnis zwischen Höfen**, von den Vätern arrangiert - Frida selbst wirkt dabei nicht glücklich.
 
 Tibuns Herzschmerz führt ihn in den Wollstall, wo er den Bernstein-Effekt entdeckt.
 
