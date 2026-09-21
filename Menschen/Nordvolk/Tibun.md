@@ -41,7 +41,7 @@ Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Die Fami
 
 ## Der Bernstein
 
-Den **Bernsteinanhänger an seiner Kette** trägt Tibun **schon lange** (Autor, 04.09.2026). Er ist ein **Geschenk seiner Mutter** [Girlin](Girlin.md); woher der Stein stammt, **weiß er nicht** - er fragt nie danach, und sie erzählt es nicht von selbst; ein Geheimnis ist es nicht (Autor, 21.09.2026, siehe [Girlin](Girlin.md#frühes-leben)). Am Verlobungstag will er die Kette [Frida](Nebenfiguren/Frida.md) schenken, sie nimmt sie nicht an (Autor, 04.09.2026). **Er behält den Anhänger** - er ist ihm **sehr wichtig** (Autor, 21.09.2026).
+Den **Bernsteinanhänger an seiner Kette** trägt Tibun **schon lange** (Autor, 04.09.2026). Er ist ein **Geschenk seiner Mutter** [Girlin](Girlin.md); woher der Stein stammt, **weiß er nicht** - er fragt nie danach, und sie erzählt es nicht von selbst; ein Geheimnis ist es nicht (Autor, 21.09.2026, siehe [Girlin](Girlin.md#frühes-leben)). Am Verlobungstag will er die Kette [Frida](Nebenfiguren/Frida.md) schenken und ihr seine Liebe gestehen - ein Antrag ist es nicht (Autor, 21.09.2026). Sie nimmt die Kette nicht an (Autor, 04.09.2026). **Er behält den Anhänger** - er ist ihm **sehr wichtig** (Autor, 21.09.2026).
 
 ---
 

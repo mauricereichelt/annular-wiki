@@ -25,7 +25,7 @@
 
 ## Frühes Leben
 
-Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - rund einen Tagesmarsch von [Skirraa](../../../Orte/Skirraa.md) entfernt. Von der Arbeit kräftig gebaut. [Tibun](../Tibun.md) kennt ihn kaum.
+Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - rund einen Tagesmarsch von [Skirraa](../../../Orte/Skirraa.md) entfernt. Von der Arbeit kräftig gebaut. [Tibun](../Tibun.md) kennt ihn kaum - **eine Freundschaft gibt es nicht** (Autor, 21.09.2026).
 
 ---
 

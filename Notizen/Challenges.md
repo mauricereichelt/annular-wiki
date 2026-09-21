@@ -22,7 +22,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
-- [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
 - [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
 - [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
@@ -32,18 +31,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-063: Prolog - Szene auf Autorenfassung zurückgerollt ○](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)
-- [C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ○](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)
-- [C-065: Prolog - Fischerdorf-Milieu nachziehen ○](#c-065-prolog---fischerdorf-milieu-nachziehen-)
-- [C-066: Prolog - Bernstein-Herkunft nachziehen ○](#c-066-prolog---bernstein-herkunft-nachziehen-)
-- [C-067: Prolog - Rollen von Herik und Lanke nachziehen ○](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)
-- [C-068: Prolog - Brand und Brandblasen nachziehen ○](#c-068-prolog---brand-und-brandblasen-nachziehen-)
-- [C-069: Prolog - Fridas Familie und Stiefvater ○](#c-069-prolog---fridas-familie-und-stiefvater-)
-- [C-071: Prolog - Tibuns Alter und Heiratsantrag ○](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
 - [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
-- [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
@@ -88,6 +78,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-041: Bernstein - Geschenk der Mutter ✓](#c-041-prolog---bernstein-fundort-)
+- [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ✓](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
@@ -99,7 +90,15 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
 - [C-061: Navigationswissen - Schweigen gestrichen ✗](#c-061-navigationswissen-des-häuptlings-)
 - [C-062: Azzims Ankunft vor Tibuns Zündung ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)
+- [C-063: Prolog - Szene auf Autorenfassung zurückgerollt ✓](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)
+- [C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ✓](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)
+- [C-065: Prolog - Fischerdorf-Milieu nachziehen ✓](#c-065-prolog---fischerdorf-milieu-nachziehen-)
+- [C-066: Prolog - Bernstein-Herkunft nachziehen ✓](#c-066-prolog---bernstein-herkunft-nachziehen-)
+- [C-067: Herik und Lanke - ortsfremd, keine Freundschaft ✓](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)
+- [C-068: Prolog - Brand und Brandblasen nachziehen ✓](#c-068-prolog---brand-und-brandblasen-nachziehen-)
+- [C-069: Frida - leiblicher Vater, kein Stiefvater ✓](#c-069-prolog---fridas-familie-und-stiefvater-)
 - [C-070: Prolog - Dateikopf und Versionszeile ✓](#c-070-prolog---dateikopf-und-versionszeile-)
+- [C-071: Liebesgeständnis statt Heiratsantrag ✓](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
 - [C-072: Prolog - Textfassung 2.2 oder 2.3 ✓](#c-072-prolog---textfassung-22-oder-23-)
 - [C-073: Querschnitt der Ringe - flacher Armreif ✓](#c-073-querschnitt-der-ringe---flacher-armreif-)
 - [C-074: Haptik der Ringoberfläche ✓](#c-074-haptik-der-ringoberfläche-)
@@ -118,6 +117,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-090: Kel Aman - Eigenname und Namenssystem ✓](#c-090-kel-aman---eigenname-und-namenssystem-)
 - [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
 - [C-092: Namenssystem des Nordvolks ✓](#c-092-namenssystem-des-nordvolks-)
+- [C-093: Prolog - Namen nach C-092 nachziehen ✓](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-094: Der Sand an der Skir ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-)
 - [C-095: Verschwundene für tot erklärt - Wiederheirat und Erbe ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-)
 - [C-096: Korrektur - Girlins Alter ✓](#c-096-korrektur---girlins-alter-)
@@ -196,9 +196,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-178: Was die Anlage im Norden nach Zündung 2 tut ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)
 - [C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓](#c-179-wenig-ladung-reicht---warum-löst-nicht-jede-berührung-aus-)
 - [C-180: Bellbrims Sprache - Prämisse zurückgezogen ✗](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)
+- [C-182: Tibun verliert nichts Konkretes ✓](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
 - [C-183: Verdrängt der Reif Luft? ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
 - [C-184: Das Wasserrad ist Tibuns eigene Idee ✓](#c-184-wasserräder-sind-im-norden-um-550-nicht-belegt-)
-- [C-182: Tibun verliert nichts Konkretes ✓](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
 - [C-185: Bernsteinrad unten, nur die Kette geht nach oben ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
 - [C-186: Bernsteinrad am Wasser - Hinweis fürs Schreiben ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)
 - [C-187: Geladene Kette - Hinweis fürs Schreiben ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
@@ -793,13 +793,15 @@ Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland is
 
 ---
 
-### C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○
+### C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ✓
 
 Die Szene führt **Frida** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Lanke** (Bootsbauer) ein - keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)). Frida taucht im späteren Kanon nicht wieder auf - Rolle klären.
 
 **Entschieden:** **Frida** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" - schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-) **angelegt** ([Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)) - die Namen stimmen, die Rollen noch nicht.
 
 **Restliche offene Felder** je Figur ausgelagert: [C-051 Frida](#c-051-frida---offene-felder-), [C-052 Herik](#c-052-herik---offene-felder-), [C-053 Lanke](#c-053-lanke---offene-felder-).
+
+**Geschlossen (21.09.2026):** Auf Autorenebene ist hier nichts mehr offen. Die Umsetzung in der Szene steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) ([C-067 ✓](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)); die offenen Felder der drei Figuren laufen in C-051 bis C-053 weiter.
 
 ---
 
@@ -1179,7 +1181,7 @@ Der Widerspruch war ein Scheinwiderspruch. Es zündet **nicht entweder** die Wü
 
 ---
 
-### C-063: Prolog - Szene auf Autorenfassung zurückgerollt ○
+### C-063: Prolog - Szene auf Autorenfassung zurückgerollt ✓
 
 Die Prolog-Szene *Die Entdeckung* steht wieder auf der **Originalfassung des Autors** (Stand vor der Wiki-Überarbeitung).
 
@@ -1191,41 +1193,55 @@ Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog---dorf
 
 [C-038](#c-038-prolog---ortsmaßstab-in-skirraa-), [C-040](#c-040-prolog---fischerdorf-vs-heide-weiler-), [C-041](#c-041-prolog---bernstein-fundort-) und [C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt - die inhaltlichen Entscheidungen selbst bleiben gültig.
 
+**Geschlossen (Autor, 21.09.2026):** Alle Kanon-Anpassungen sind entschieden. Was im Szenentext nachzuziehen ist, steht als Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) - ohne C-Nummern, damit sie auch ohne diese Datei lesbar bleibt. Die Szene selbst ruht weiter bis November. Zum Begriff: Die alte Szene *Die Entdeckung* ist seit dem 04.09.2026 **nicht mehr der Prolog**, sondern Szene 2 im Anfang; der Prolog ist nur das Beben.
+
 ---
 
-### C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ○
+### C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ✓
 
 Die Szene spielt auf einem „Dorfplatz/Marktplatz" mit **Rednerpodest** und einberufener **Versammlung**; durchgehend ist von „Dorf" die Rede. [C-038 entschieden](#c-038-prolog---ortsmaßstab-in-skirraa-): Verlobung **beim Großbauern** im kleinen Rahmen, [Skirraa](../Orte/Skirraa.md) ist ein **Weiler** mit ~6 Höfen. Nachzuziehen: Schauplatz, Podest, Menschenmenge und die Wortwahl „Dorf".
 
+**Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
+
 ---
 
-### C-065: Prolog - Fischerdorf-Milieu nachziehen ○
+### C-065: Prolog - Fischerdorf-Milieu nachziehen ✓
 
 In der Szene sind **Fischer** und **Bootsbauer** tragende Berufe des Orts. [C-040 entschieden](#c-040-prolog---fischerdorf-vs-heide-weiler-): Fischer-/Bootsbauer-Milieu **gestrichen**, Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht. Nachzuziehen: alle Erwähnungen von Fischerei und Bootsbau. Der Schaf-/Wollhof der Familie steht bereits kanon-konform in der Szene.
 
+**Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
+
 ---
 
-### C-066: Prolog - Bernstein-Herkunft nachziehen ○
+### C-066: Prolog - Bernstein-Herkunft nachziehen ✓
 
 Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 entschieden](#c-041-prolog---bernstein-fundort-): Der Stein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**, Herkunft für Tibun unbekannt ([C-044](#c-044-herkunft-von-girlins-bernstein-)). Daran hängt der Payoff aus [C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-) - von allen Nachzieh-Punkten der **inhaltlich schwerste**, weil er die Bedeutung des Steins verändert.
 
+**Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Die Herkunft des Steins ist inzwischen auch entschieden ([C-044 ✓](#c-044-herkunft-von-girlins-bernstein-)).
+
 ---
 
-### C-067: Prolog - Rollen von Herik und Lanke nachziehen ○
+### C-067: Prolog - Rollen von Herik und Lanke nachziehen ✓
 
 In der Szene ist **Lanke** der Bootsbauer **aus dem Dorf** und **Herik** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog---nebenfiguren-frida-herik-lanke-) und in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md)/[Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Herik die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Herik erhalten bleiben soll - sie schärft den Stich anders als die Fremdheit.
 
+**Entschieden (Autor, 21.09.2026):** **Keine Freundschaft** - Herik bleibt ortsfremd, Tibun kennt ihn kaum. Damit bleibt nur Textarbeit; steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
+
 ---
 
-### C-068: Prolog - Brand und Brandblasen nachziehen ○
+### C-068: Prolog - Brand und Brandblasen nachziehen ✓
 
 In der Szene fangen Wollreste **Feuer**, Tibun löscht mit bloßen Händen und trägt **Brandblasen** davon. [C-039 entschieden](#c-039-prolog---funke-entzündet-wolle-): nur **kurzes Ansengen loser Flusen**, kein Brand, keine Brandwunden - die Gefahr entsteht allein aus **Tibuns Schreck**. Physikalisch blockierend (siehe [Elektrizität](../Technik/Elektrizitaet.md)); ebenso das später „verkohlte" Stück, das aus dem Stein gebrochen sein soll.
 
+**Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
+
 ---
 
-### C-069: Prolog - Fridas Familie und Stiefvater ○
+### C-069: Prolog - Fridas Familie und Stiefvater ✓
 
 Die Szene gibt Frida eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-frida---offene-felder-)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug - und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-))? Danach Wiki-Datei nachtragen.
+
+**Entschieden (Autor, 21.09.2026):** Frida hat ihren **leiblichen Vater**, einen Bauern aus Skirraa - wie in [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) schon geführt. Stiefvater und zugezogene Mutter entfallen, die Frage nach dem Gewerbe damit auch. Der Name des Vaters bleibt in [C-051](#c-051-frida---offene-felder-). Textarbeit steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
 
 ---
 
@@ -1237,7 +1253,7 @@ Die Szene begann mit einer Textzeile statt einer Markdown-Überschrift; Versions
 
 ---
 
-### C-071: Prolog - Tibuns Alter und Heiratsantrag ○
+### C-071: Prolog - Tibuns Alter und Heiratsantrag ✓
 
 In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)?
 
@@ -1246,6 +1262,8 @@ In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „J
 **Historischer Befund (Claude, 14.09.2026):** Ein eigener Antrag passt nicht. In den frühen germanischen Rechten wird die Ehe zwischen den Familien geschlossen: Der Vormund der Braut, meist der Vater, gibt sie, und der Bräutigam oder seine Sippe verhandelt und zahlt den Brautpreis. Ein Sechzehnjähriger ohne eigenen Hof wird dabei nicht ernst genommen. Genau so läuft es im Prolog bei Lanke, der für seinen Sohn anfragt. **Einschränkung:** Die Quellen sind jünger als 550 (festländische Volksrechte ab dem 6. Jh., nordische Rechte erst 12./13. Jh.). Für Jütland um 550 gibt es keine direkte Überlieferung, nur den gemeinsamen Grundzug.
 
 **Autor (14.09.2026):** Wenn der Antrag historisch nicht passt, ändert er die Szene. **Vielleicht will Tibun Frida nur seine Liebe gestehen** - noch nicht festgelegt · ???
+
+**Entschieden (Autor, 21.09.2026):** **Liebesgeständnis, kein Antrag.** Tibun will Frida sagen, was er fühlt - das passt zum historischen Befund oben. Eingetragen in [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md#bedeutung-in-der-geschichte) und [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein). Geschlossen.
 
 ---
 
@@ -1735,11 +1753,11 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 ---
 
-### C-093: Prolog - Namen nach C-092 nachziehen ○
+### C-093: Prolog - Namen nach C-092 nachziehen ✓
 
 Die Szenenablage wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im *Prolog* steht deshalb weiter **Jolyl** statt **Frida** ([C-092](#c-092-namenssystem-des-nordvolks-)). Beim nächsten Überarbeitungsdurchgang nachziehen - zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
 
-**???**
+**Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
 
 ---
 
