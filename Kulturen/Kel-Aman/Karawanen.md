@@ -75,6 +75,7 @@ Herleitung: Tierzahl der Karawane × Traglast je Kamel (150-200 kg). Bezugsebene
 
 ## Relevanz für die Geschichte
 
-- Ein 3-m-Portalring wiegt **~5,7 t** bei 3,30 m Außen-Ø und 0,50 m Breite ([Portalringe](../../Technik/Portalringe.md)). Die Gesamttraglast einer Karawane ist dafür **kein Maßstab**: Sie entsteht dadurch, dass sich viele Tiere eine teilbare Ladung aufteilen. Der Ring ist ein **einzelnes unteilbares Stück** - 5,7 t entsprechen der Last von rund 29 Kamelen, aber kein Tier trägt mehr als 150-200 kg. **Wie er stattdessen bewegt wird, ist offen · ???**
-- Ob der Ring in einem großen Zug unauffällig mitgeführt werden könnte, hängt am Verfahren und ist damit ebenfalls offen · **???**
+- Ein 3-m-Portalring wiegt **~5,7 t** bei 3,30 m Außen-Ø und 0,50 m Breite ([Portalringe](../../Technik/Portalringe.md)). Die Gesamttraglast einer Karawane ist dafür **kein Maßstab**: Sie entsteht dadurch, dass sich viele Tiere eine teilbare Ladung aufteilen. Der Ring ist ein **einzelnes unteilbares Stück** - 5,7 t entsprechen der Last von rund 29 Kamelen, aber kein Tier trägt mehr als 150-200 kg. **Er wird flach liegend auf einem Schlitten aus Palmstämmen gezogen, von Kamelen** (Autor, 22.09.2026) - siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8)
+- **Kamele als Zugtiere** sind für die Region belegt: Spätantike Grabreliefs aus Ghirza (Tripolitanien) zeigen Dromedare vor dem Pflug. Holzschlitten für Lasten dieser Größenordnung kennt man aus Ägypten (Grab des Djehutihotep, um 1900 v. Chr.) und Assyrien (Reliefs Sanheribs, um 700 v. Chr.). Beides zusammen für mehrere Tonnen in der Sahara ist nicht belegt.
+- Ob der Ring in einem großen Zug unauffällig mitgeführt werden könnte, ist offen · **???**
 - Nomadenvölker können plausibel als Retter, Händler oder Transporthelfer in der Geschichte auftreten.

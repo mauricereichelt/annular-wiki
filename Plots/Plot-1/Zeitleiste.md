@@ -133,7 +133,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### Ankunft und erste Jahre (Jahr 0 → +3)
 - Sie wacht in einer Wüste auf (Jahr 0); die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sammeln sie auf
-- **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde in der Mulde. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**
+- **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde **im Ring** *(präzisiert 22.09.2026: stand „in der Mulde"; der Ring hat keine)*. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
   - **Woher sie es weiß** (Autor, 11.09.2026): Beim Sturz sieht sie den Ring noch - das letzte Bild vor der Ohnmacht. In der Wüste liegt sie wieder in einem Ring gleicher Form, um sie Erde, Steine und die Birke aus Vilund. Die Kel Aman haben in der Nacht das Leuchten gesehen; das erfährt sie erst, wenn man sich verständigen kann · **???**
@@ -184,12 +184,17 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   > **Überholt (Autor, 14.09.2026):** Bisher lag der erste Auftritt in +3 bis +5, vor der Trennung, als Zugriffsversuch, den der Clan abwehrt
 
 ### Der Transport (Jahr +7 → +8)
-- **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** - Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf
+- **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** (Autor, 03.09.2026); was genau das heißt, ist offen · **???**
+  > **Gestrichen (Autor, 22.09.2026):** *„Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf"* stammte nicht vom Autor
+  - **Der ganze Clan zieht eigens für den Ring los** (Autor, 22.09.2026), mit **Herden und Vorräten**
+  - **Umsonst ist es nicht** (Autor, 22.09.2026): Der Clan erwartet eine Gegenleistung - **[Sekkans](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Dienst**. Worin er besteht, klärt der Szenentext
   - **Offen:** wie Girlin in der Schlucht erfährt, dass der Clan kommt · **???**
 - **Der Transport dauert ein paar Wochen** (Autor, 09.09.2026), kein Jahresvorhaben. Die frühere Angabe *„Wochen bis wenige Monate"* (03.09.2026) ist damit auf **Wochen** eingegrenzt
   > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor
-- Der 3-m-Ring wiegt rund **5,7 t**. Er wird bewegt - **wie**, ist offen · **???**
-  > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor
+- Der 3-m-Ring wiegt rund **5,7 t**. Er wird **flach liegend gezogen**, auf einem **Schlitten aus Palmstämmen**, von **Kamelen** (Autor, 22.09.2026). Wie viele Tiere, klärt der Szenentext
+  - **Folgerung (Claude):** Flach liegt der Ring nur auf seiner Stirnseite auf, einem Kreisband von 3,30 m Außen-Ø. Die Querhölzer des Schlittens müssen deshalb mindestens 3,30 m überspannen
+  - **Die Strecke bekommt keine eigene Angabe** (Autor, 22.09.2026) - die Dauer von ein paar Wochen reicht
+  > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor. Den Schlitten hat der Autor am 22.09.2026 selbst gewählt; Piste und Route bleiben gestrichen
 - **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** - er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Der Clan schützt sie dort** (Autor, 14.09.2026). **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
   - **Er verliert den Zug** und sieht **nicht**, wohin der Ring gebracht wird (entschieden 03.09.2026). Deshalb muss er die Schlucht später erst finden
   - **Offen:** Verlauf und Einzelheiten der Verhandlung - für das Gerüst ohne Belang · **???**

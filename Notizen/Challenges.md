@@ -31,10 +31,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
-- [C-125: Das Transportverfahren ist offen ○](#c-125-das-transportverfahren-ist-offen-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -202,6 +200,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-185: Bernsteinrad unten, nur die Kette geht nach oben ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
 - [C-186: Bernsteinrad am Wasser - Hinweis fürs Schreiben ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)
 - [C-187: Geladene Kette - Hinweis fürs Schreiben ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
+- [C-103: Transport - der ganze Clan, eigens für den Ring ✓](#c-103-transportlogistik-des-wüstenrings-)
+- [C-125: Transport - Schlitten aus Palmstämmen, Kamele ziehen ✓](#c-125-das-transportverfahren-ist-offen-)
 
 ---
 
@@ -476,9 +476,11 @@ Der Autor hat gegen die Empfehlung entschieden (Vorschlag war: Bellbrim zieht zu
 **Was entschieden ist:**
 - **Der Ring wird bewegt**, unter enormem Aufwand.
 - **Ziel:** die **Schlucht** bei Bellbrim - Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem; Beat 14 der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) bekommt damit einen Grund, dort zu sein.
-- **Zeitraum:** Jahr **+5 bis +8**.
+- **Zeitraum:** Jahr **+5 bis +8**. *(Überholt: +7/+8, ein paar Wochen - Autor, 03.09. und 09.09.2026.)*
 
 **Was NICHT entschieden ist · ???** Das **Verfahren** - wie der Ring bewegt wird - ist offen → [C-125](#c-125-das-transportverfahren-ist-offen-). Hier standen früher „Schlitten auf befeuchteter Piste", eine Routenvorgabe (nur Hammada und Serir) und die Tagesleistung 1-3 km als Bedingungen. **Diese Angaben stammen von Claude, nicht vom Autor** ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)) und sind gestrichen.
+
+> **Nachtrag 22.09.2026:** Das Verfahren ist entschieden - flach auf einem Schlitten aus Palmstämmen, von Kamelen gezogen ([C-125 ✓](#c-125-das-transportverfahren-ist-offen-)).
 
 **Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md). **Neu daraus:** [C-103](#c-103-transportlogistik-des-wüstenrings-), [C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-), [C-111](#c-111-wiederaufstellung-des-rings-nach-dem-transport-kernfrage-).
 
@@ -2066,15 +2068,32 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 ---
 
-### C-103: Transportlogistik des Wüstenrings ○
+### C-103: Transportlogistik des Wüstenrings ✓
 
-Folgt aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-). Rund 5,7 t sollen durch die Sahara bewegt werden ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)) - der Zug liegt in **+7/+8** und dauert **ein paar Wochen** (Autor, 09.09.2026); die alte Spanne „Jahr +5 bis +8" ist überholt. **Das Verfahren ist offen** → [C-125](#c-125-das-transportverfahren-ist-offen-); die Punkte hier hängen daran.
+Folgt aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-). Rund 5,7 t sollen durch die Sahara bewegt werden ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)) - der Zug liegt in **+7/+8** und dauert **ein paar Wochen** (Autor, 09.09.2026); die alte Spanne „Jahr +5 bis +8" ist überholt. **Das Verfahren war offen** → [C-125 ✓](#c-125-das-transportverfahren-ist-offen-) (entschieden 22.09.2026); die Punkte hier hingen daran.
 
 **Zu klären · ???**
 - **Entfernung** vom Fundort zur Schlucht. Ohne festes Verfahren gibt es keine Tagesleistung und damit auch keine Entfernungsschätzung. Die früher hier stehende Rechnung (1-3 km am Tag) beruhte auf einem nicht abgesegneten Verfahren und ist gestrichen.
 - **Wie viele Männer, wie viele Zugtiere**, und wer ernährt sie?
 - **Wasser und Nahrung** für die Mannschaft über die Wochen des Zuges. Das gilt unabhängig vom Verfahren.
 - **Wer trägt die Kosten** und was verlangt er dafür?
+
+
+**Entschieden (Autor, 22.09.2026):**
+
+| | |
+|---|---|
+| **Wer** | **Der ganze Clan**, und zwar **eigens für den Ring** - kein regulärer Zug, bei dem der Ring mitreist |
+| **Versorgung** | Der Clan bringt **Herden und Vorräte** mit |
+| **Zugtiere** | **Kamele**. Wie viele, klärt der Szenentext |
+| **Kosten** | Trägt der Clan. **Umsonst ist es nicht:** Er erwartet eine Gegenleistung - **Sekkans Dienst**. Worin er besteht, klärt der Szenentext |
+| **Entfernung** | **Keine eigene Angabe** - die Dauer von ein paar Wochen reicht, die Strecke ist Szenensache |
+
+Das Verfahren steht in [C-125 ✓](#c-125-das-transportverfahren-ist-offen-).
+
+**Anmerkung (Claude):** Wann und wie lange Sekkans Dienst ihn bindet, berührt die Jahre +8 bis +10 - er hält die vier in der Schlucht am Leben und verteidigt sie im Finale. Beim Schreiben im Blick behalten.
+
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Szene 30](../Plots/Plot-1/Szenen.md#30--der-transport). Geschlossen.
 
 ---
 
@@ -2485,6 +2504,7 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 | Der Ring sei der **natürliche Ladungsspeicher** (~200 pF → ~1 J); Funkensprühen lade den Ring auf | **gestrichen** - der Ring ist kein Ladungsspeicher, die Ladung sammelt sich auf dem Rad selbst (Autor, 11.09.2026). Stand in der Liste *Festgelegt* von [C-002](#c-002-tibuns-elektrizitätsquelle-), ohne Autorenvermerk | [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) |
 | Azzim stehe im Norden *„in Wasser, das aus dem Nichts kam"* | **gestrichen** - Rest der Bachwasser-Fassung; es geht kein Wasser mit, der Wasserfall fällt außerhalb der Kugel (Autor, 11.09.2026) | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) |
 | Eine Mulde nur auf einer Seite zerstöre die Anlage selbst; beide Seiten müssten gleich gebaut sein | **gestrichen** - die Mulde wechselt nur die Seite, wer in ihr reist, kommt drüben in ihr an: Funktionalität, kein Problem (Autor, 21.09.2026) | [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-mulde), [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) |
+| Der Clan transportiere nur, *„wenn der Zug ohnehin passt"* - Weidewechsel, Handelszüge, Jahreszeiten, *„nicht auf Zuruf"* | **gestrichen** - stammte aus Claudes Beschreibung einer Antwortoption (03.09.2026); gewählt hatte der Autor nur *„Der Clan hat eigene Wege"*. Der Clan zieht eigens für den Ring los (Autor, 22.09.2026) | [C-130](#c-130-wie-der-transport-terminiert-wird-), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
@@ -2611,13 +2631,13 @@ Nachgezogen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Tibun](../Menschen/
 
 ---
 
-### C-125: Das Transportverfahren ist offen ○
+### C-125: Das Transportverfahren ist offen ✓
 
 **Vom Autor beanstandet (02.09.2026):** *„Wie der Ring in der Wüste transportiert wird habe ich noch nicht entschieden. Wasser und Piste war auch nur eine Halluzination von dir."*
 
 Aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-) sind deshalb gestrichen: **Schlitten auf befeuchteter Piste**, die **Routenvorgabe** (nur Hammada und Serir, nie Erg) und die **Tagesleistung** von 1-3 km. Alles drei war nie eine Autorenentscheidung.
 
-**Was steht:** Der Ring wird bewegt, Ziel ist die Schlucht, Zeitraum Jahr +5 bis +8.
+**Was steht:** Der Ring wird bewegt, Ziel ist die Schlucht, Zeitraum Jahr +5 bis +8. *(Überholt: Der Transport liegt in +7/+8 und dauert ein paar Wochen - Autor, 03.09. und 09.09.2026.)*
 
 **Zu entscheiden · ???**
 - **Wie** wird ein Reif von 3,30 m Außen-Ø, 0,50 m Breite und ~5,7 t bewegt?
@@ -2626,6 +2646,24 @@ Aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-) sind deshalb g
 - Ist das **Gewicht** überhaupt das Hindernis, oder ist es die **Sperrigkeit**, die **Entfernung** oder die **Verpflegung**?
 
 Bis das entschieden ist, darf **keine Datei ein Verfahren als Tatsache behaupten**. Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md), C-018, C-103.
+
+
+**Entschieden (Autor, 22.09.2026):**
+
+| | |
+|---|---|
+| **Verfahren** | Der Ring wird **flach liegend gezogen** |
+| **Unterbau** | ein **Schlitten aus Palmstämmen** - zwei Kufen mit Querhölzern |
+| **Zugtiere** | **Kamele**; wie viele, klärt der Szenentext |
+| **Wer, wie weit** | der ganze Clan, eigens für den Ring; die Strecke ist Szenensache → [C-103 ✓](#c-103-transportlogistik-des-wüstenrings-) |
+
+**Befund (Claude), Grundlage des Vorschlags:** Holzschlitten für Lasten dieser Größenordnung sind belegt - in Ägypten (Grab des Djehutihotep, um 1900 v. Chr., Kolossalstatue auf einem Schlitten) und in Assyrien (Reliefs Sanheribs aus Ninive, um 700 v. Chr., Stierkoloss auf einem Schlitten). Kamele als Zugtiere zeigen spätantike Grabreliefs aus Ghirza in Tripolitanien: Dromedare vor dem Pflug. Beides zusammen für eine Last von mehreren Tonnen in der Sahara ist **nicht** belegt - das ist die Übertragung, die die Geschichte macht. Die befeuchtete Piste aus dem ägyptischen Bild scheidet aus: Wasser ist in der Wüste das Knappste.
+
+**Folgerung (Claude):** Flach liegt der Ring nur auf seiner Stirnseite auf, einem Kreisband von 0,15 m Dicke und 3,30 m Außen-Ø ([Maße](../Technik/Portalringe.md#anhang-maße-und-herleitung)). Die Querhölzer müssen deshalb mindestens 3,30 m überspannen.
+
+**Für die Szene:** Über welchen Untergrund der Zug führt und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Als Hinweis fürs Schreiben an [Szene 30](../Plots/Plot-1/Szenen.md#30--der-transport).
+
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md#relevanz-für-die-geschichte) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md). Geschlossen.
 
 ---
 
@@ -2721,7 +2759,9 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Auftritt 1 in den Absc
 
 ### C-130: Wie der Transport terminiert wird ○
 
-Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Bitte ergeht in **+5**, der Transport findet **+7/+8** statt. Der Grund für die zwei Jahre steht: **Der Clan hat eigene Wege** - Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf.
+Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Bitte ergeht in **+5**, der Transport findet **+7/+8** statt. Der Grund für die zwei Jahre steht: **Der Clan hat eigene Wege** (Autor, 03.09.2026). Was genau das heißt: ???
+
+> **Gestrichen (Autor, 22.09.2026):** Hier stand zusätzlich *„Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf."* Das war Claudes Beschreibung der Antwortoption, nicht das Wort des Autors. Der Clan zieht **eigens für den Ring** los ([C-103 ✓](#c-103-transportlogistik-des-wüstenrings-)).
 
 **Offen · ???** Girlin lebt ab +5 **nicht mehr beim Clan**, sondern in der Schlucht. Wie erfährt sie dann, dass der Clan kommt und es jetzt so weit ist? Mögliche Richtungen, keine davon entschieden: eine feste Abrede beim Abschied, ein Bote, ein regelmäßiger Weidezug, der ohnehin vorbeikommt, oder der Clan taucht unangekündigt auf.
 

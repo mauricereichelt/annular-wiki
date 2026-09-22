@@ -54,7 +54,7 @@ Seine **Frau ist zuvor mit einem anderen Mann durchgebrannt** - er ist öffentli
 **Vier eigene Handlungen** (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)):
 
 1. **Jahr +5: Er löst sich vom Clan** und zieht mit Girlin und dem Kind zu [Bellbrim](../../Andere/Bellbrim.md) in die Schlucht. **Niemand verstößt ihn** (Autor, 09.09.2026) - der Clan hat Verständnis, wie man Verständnis dafür hat, dass ein Kind aus dem Haus geht. **Aber es ist extrem unüblich und selten**: Er tut etwas, das kaum jemand tut. Der Preis ist deshalb nicht Strafe, sondern **Entzug** - er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben, und er hat mit dem Weggang zu tun, lange nachdem er geschehen ist.
-2. **Er hilft, die Hilfe des Clans zu erwirken.** Girlin bittet selbst - er bittet nicht für sie, sein Einfluss hilft ihr. Sie arbeiten als Team. Der Clan sagt aus **Sippenpflicht** gegenüber dem Neffen zu, nicht ihretwegen.
+2. **Er hilft, die Hilfe des Clans zu erwirken.** Girlin bittet selbst - er bittet nicht für sie, sein Einfluss hilft ihr. Sie arbeiten als Team. Der Clan sagt aus **Sippenpflicht** gegenüber dem Neffen zu, nicht ihretwegen. **Umsonst ist es nicht** (Autor, 22.09.2026): Der Clan erwartet dafür **Sekkans Dienst**; worin er besteht, klärt der Szenentext.
 3. **Er hält die vier am Leben** - Jagd, Handel, Wege.
 4. **Er verteidigt die Schlucht im Finale - und wird dabei verwundet.** Er überlebt und **verliert das linke Auge**. Die Verwundung bleibt sichtbar - der Angriff ist über das Finale hinaus an ihm ablesbar. Hergang der Verletzung und was sie für ihn als Jäger und Wegekenner bedeutet: ???
 

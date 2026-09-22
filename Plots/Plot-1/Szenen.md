@@ -419,13 +419,17 @@ Auf dem Basar spricht ein Sklavenhändler Girlin an, Bellbrim ist dabei - erst m
 
 ### 30 · Der Transport
 
-> **POV:** Girlin · **Jahr +7** · **Offen:** Das Transportverfahren ist offen · Transportlogistik des Wüstenrings · Wie der Transport terminiert wird
+> **POV:** Girlin · **Jahr +7** · **Offen:** Wie der Transport terminiert wird
 
 Der Clan kommt wieder; Girlin bricht mit ihm auf.
 
 - **Will:** Den Ring in die Schlucht bringen
-- **Hindernis:** 5,7 Tonnen durch die Wüste - das Verfahren ist offen
+- **Hindernis:** 5,7 Tonnen durch die Wüste - flach auf einem Schlitten aus Palmstämmen, von Kamelen gezogen
 - **Ausgang:** Der Ring erreicht die Schlucht.
+
+> **Der ganze Clan zieht eigens für den Ring los** (Autor, 22.09.2026), mit Herden und Vorräten. Wie viele Kamele ziehen, klärt der Szenentext. Der Clan erwartet **Sekkans Dienst** als Gegenleistung; worin er besteht, klärt der Szenentext.
+
+> **Hinweis fürs Schreiben (Claude):** Offen für die Szene sind der Untergrund, über den der Zug führt, und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Die Strecke selbst ist Szenensache (Autor, 22.09.2026).
 
 
 ### 31 · Azzim, Auftritt 2

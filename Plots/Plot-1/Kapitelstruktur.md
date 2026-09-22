@@ -162,7 +162,7 @@ Mit der **Geburt des dritten Kindes** kippt Girlins Ziel: aus *nach Hause gehen*
 ### Die Trennung vom Clan liegt in +5, nicht +8
 Girlin, Sekkan und das Kind lösen sich **in Jahr +5** vom Clan und ziehen zu Bellbrim in die Schlucht. Der Clan kommt in **+7/+8** noch einmal wieder, um den Ring zu holen - **Girlin bricht mit ihm auf**. Danach zieht er endgültig weiter.
 
-**Der Transport dauert Wochen bis wenige Monate**, kein Jahresvorhaben. Das frühere Fenster +5 → +8 ist gestrichen.
+**Der Transport dauert ein paar Wochen** (Autor, 09.09.2026), kein Jahresvorhaben. Das frühere Fenster +5 → +8 ist gestrichen. *(Korrigiert 22.09.2026: Hier stand noch „Wochen bis wenige Monate"; der Autor hat das am 09.09.2026 auf Wochen eingegrenzt.)*
 
 **Der Ring wird niemals aufgerichtet** - er liegt.
 
@@ -239,7 +239,7 @@ Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-O
 | Suchtrupp, Semund + Millia, Aufbruch, Hafenstadt, Unfall → Generator-Idee | deckungsgleich |
 | Wasserrad-Unfall mit Verletztem | **teilentschieden 02.09.2026** - er passiert, Opfer ist eine Nebenfigur; **kleines Wasserrad** (15.09.2026) |
 | Paar in Kaupvik / neue Bezugsperson | **entschieden 10.09.2026** - Schiffszimmerer aus Kaupvik, kinderlos, kennengelernt auf der Fähre bei Vegamot; sie bleiben lebend zurück. Namen offen |
-| Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** - Transport in die Schlucht, Jahr +5 bis +8. Verfahren offen |
+| Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** - Transport in die Schlucht, Jahr +7/+8, ein paar Wochen; flach auf einem Schlitten aus Palmstämmen, von Kamelen gezogen (22.09.2026). *Korrigiert: stand „Jahr +5 bis +8"* |
 | Girlin und Neffe | **entschieden** - der **Neffe**, dessen Frau zuvor durchbrennt |
 | Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** - kein Geheimnis; drei Phasen statt Schweigen |
 | Tibun kümmert sich um Truda | **überholt 10.09.2026** - er kümmert sich **nicht** und geht ohne Abschied |
