@@ -42,7 +42,9 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 
 **Temperament** (Autor, 14.09.2026): **sehr temperamentvoll und leicht aufbrausend.** Deshalb trifft ihn die Demütigung: Girlins Abweisung, ihr Entkommen und in +7/+8 der Handel, den der Clan ablehnt.
 
-> **Harte Regel - der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort, gestrandet, kommt er selbst auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde - als Schlusspointe und Aufhänger für spätere Geschichten, nicht als Antrieb in Plot 1.
+> **Harte Regel - der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort begreift er selbst, was ihn geworfen hat. Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich **nur in seinem Verhalten** - ausgesprochen wird es nie (Autor, 22.09.2026).
+>
+> *(Präzisiert 22.09.2026: Hier stand, er komme „gestrandet" auf diesen Gedanken, als Schlusspointe und Aufhänger für spätere Geschichten. Er stirbt aber Minuten nach der Ankunft, und aus seiner Sicht wird nicht erzählt.)*
 
 **Seine Leute** (Autor, 10.09.2026): Für den Angriff auf [die Schlucht](../../Orte/Bellbrims-Werkstatt.md) in Jahr +10 bringt er **drei bis vier Männer** mit - **eigene Leute**, die ohnehin für ihn arbeiten. Er muss keinen dingen und keinen bezahlen: **der Zug kostet ihn nichts** außer Zeit. Aus dem Angriff entsteht damit kein wirtschaftlicher Druck auf ihn - was ihn treibt, bleibt der Wert der Frau und die Demütigung der Fehlschläge. Drei bis vier genügen, weil der enge Fels sie ohnehin einzeln stellt; [Girlin](../Nordvolk/Girlin.md) und [Sekkan](Nebenfiguren/Sekkan.md) können darin bestehen.
 

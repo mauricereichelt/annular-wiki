@@ -613,6 +613,10 @@ Ein fremder Mann fällt aus dem Nichts in den Ring.
 
 > **Reihenfolge des Begreifens** (Autor, 10.09.2026): Im Moment der fremden Zündung sieht Tibun nur, **dass** etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts. **Was es bedeutet, liefert erst der Mann im Sand.** Zehn Jahre lang hat er aus Spuren gelesen; beim einzigen Mal, das zählt, steht jemand vor ihm.
 
+> **Keine gemeinsame Sprache** (Autor, 22.09.2026): Woran Tibun erkennt, dass Azzim Girlin kennt, klärt der Szenentext.
+
+> **Azzims Blick auf den Ring** (Autor, 22.09.2026): Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich nur in seinem Verhalten - ausgesprochen wird es nie. Aus seiner Sicht wird nicht erzählt.
+
 
 ### 45 · Der Kampf - Zündung 2
 

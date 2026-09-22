@@ -248,8 +248,8 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 
 ### Der Kampf im Norden (Minuten, kein Tag)
 - Tibun führt an diesem Tag nur einen **Testlauf** durch. Er will nicht reisen: keine Vorräte, keine Waffe, kein Abschied von [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md)
-- Azzim fällt ihm praktisch vor die Füße. Für Tibun ist das nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben - und Azzim kennt Girlin
-- **Azzim begreift erst hier, was ihn geworfen hat** (entschieden 02.09.2026): Er steht vor demselben Ding wie in der Schlucht. Er schließt es **selbst** - nachdem er es zehn Jahre lang nicht wusste
+- Azzim fällt ihm praktisch vor die Füße. Für Tibun ist das nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben - und Azzim kennt Girlin. Eine gemeinsame Sprache haben die beiden nicht; **woran Tibun das erkennt, klärt der Szenentext** (Autor, 22.09.2026)
+- **Azzim begreift erst hier, was ihn geworfen hat** (entschieden 02.09.2026): Er steht vor demselben Ding wie in der Schlucht. Er schließt es **selbst** - nachdem er es zehn Jahre lang nicht wusste. Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich **nur in seinem Verhalten**, ausgesprochen wird es nie (Autor, 22.09.2026)
   > **Gestrichen (Autor, 11.09.2026):** Hier stand *„in Wasser, das aus dem Nichts kam"* - ein Rest der Bachwasser-Fassung. Es geht kein Wasser mit: Der Wasserfall in der Ringkammer fällt außerhalb der Kugel
   > **Korrigiert:** Die frühere Formulierung *„Azzim will zurück"* setzte voraus, dass er den Ring kennt. Das war nicht gedeckt
 - Beide wollen den Ring: Tibun will Auskunft, Azzim will zurück

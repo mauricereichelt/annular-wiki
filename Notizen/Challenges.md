@@ -31,7 +31,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
@@ -114,6 +113,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
 - [C-087: Zeitrechnung im Erzähltext ✓](#c-087-zeitrechnung-im-erzähltext-)
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
+- [C-089: Ring nie Azzims Motiv - Pointe nur im Verhalten ✓](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-090: Kel Aman - Eigenname und Namenssystem ✓](#c-090-kel-aman---eigenname-und-namenssystem-)
 - [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
 - [C-092: Namenssystem des Nordvolks ✓](#c-092-namenssystem-des-nordvolks-)
@@ -1657,7 +1657,7 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 
 ---
 
-### C-089: Azzim - Verhältnis zum Ring (harte Regel) ○
+### C-089: Azzim - Verhältnis zum Ring (harte Regel) ✓
 
 **Festgelegt (Autor, 31.08.2026): Der Ring ist niemals Azzims Motiv.** [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) **weiß bis zum Ende nichts vom Ring**. Er verfolgt [Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) aus seinen eigenen Gründen (Sklaverei/Schmuggel → [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-), [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)); dass am Ende ausgerechnet er durch den Ring nach Norden geworfen wird, ist für ihn eine Katastrophe, kein Ziel.
 
@@ -1666,6 +1666,17 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 **Was bleibt - als Schlusspointe, nicht als Motiv:** Am Ende seiner Reise, im Norden gestrandet, kommt Azzim **selbst** auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde. Das ist der letzte Moment seiner Figur und ein Aufhänger für eine spätere Geschichte im Universum - nicht für Plot 1. Zu klären: ob er diesen Gedanken überlebt und ob ihn jemand hört.
 
 **Folge für [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-):** Azzim braucht ein Motiv, das ganz ohne den Ring trägt und das man trotzdem versteht.
+
+**Befund (Claude, 22.09.2026):** Die Schlusspointe setzte einen **gestrandeten** Azzim voraus. Im Finale stirbt er aber Minuten nach der Ankunft, und erzählt wird nur aus Tibuns und Girlins Sicht - der Gedanke ließe sich weder zeigen noch hören. Dazu fiel auf: Tibun und Azzim haben **keine gemeinsame Sprache**, die Zeitleiste sagte aber „Azzim kennt Girlin".
+
+**Entschieden (Autor, 22.09.2026):**
+
+| | |
+|---|---|
+| **Schlusspointe** | Bleibt, aber **nur im Verhalten** - man ahnt es an seinem Blick auf den Ring, ausgesprochen wird es nie. Die „gestrandete" Fassung ist überholt |
+| **Verständigung** | Woran Tibun erkennt, dass Azzim Girlin kennt, **klärt der Szenentext** |
+
+Damit ist auch „ob er den Gedanken überlebt und ob ihn jemand hört" beantwortet: Er überlebt ihn nicht, und niemand hört ihn. Eingetragen in [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag) und [Szenen](../Plots/Plot-1/Szenen.md#44--azzim-vor-den-füßen). Das Motiv ohne Ring bleibt in C-029 offen. Geschlossen.
 
 ---
 
