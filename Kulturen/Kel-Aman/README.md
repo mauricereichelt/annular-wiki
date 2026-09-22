@@ -6,7 +6,7 @@ Nomadisches Wüstenvolk im Wüstenstrang von [Plot 1](../../Plots/Plot-1/README.
 
 **Entschieden: der [Fezzan](https://de.wikipedia.org/wiki/Fessan)** - Kernland der **Garamanten** in der zentralen Sahara (heute Südwest-Libyen), um 550 n.Chr. eine Hochkultur im Niedergang.
 
-Prägend und für Szenen nutzbar:
+Prägend und für Szenen nutzbar - Recherche, vom Autor übernommen (22.09.2026):
 
 | | |
 |---|---|
@@ -19,7 +19,8 @@ Prägend und für Szenen nutzbar:
 
 ### Volksname
 
-- **Eigenname: Kel Aman** - „die Leute des Wassers" (berberisch `kel` „die von…" + `aman` „Wasser"). Kein Schmuckname: Das Volk lebt von den Foggara. Wer das Wasser hält, hält alles.
+- **Eigenname: Kel Aman** - „die Leute des Wassers" (berberisch `kel` „die von…" + `aman` „Wasser"). Warum sie so heißen: **???**
+  > **Vorschlag (Claude) · ???** - vom Autor nicht übernommen (22.09.2026): *„Kein Schmuckname: Das Volk lebt von den Foggara. Wer das Wasser hält, hält alles."* **Befund (Claude):** Foggara bewässern die Felder sesshafter Oasenbauern; für ein Nomadenvolk passt die Begründung schlecht. Sie stammt aus der Zeit des gestrichenen Wassermotivs.
 - **Fremdbezeichnung** durch Sesshafte und Händler: schlicht „die Wüstenleute".
 - **Einzahlform** (ein *Amani* / eine *Tamanit*?) · **???**
 
@@ -71,7 +72,7 @@ Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.
 
 ### Bewaffnung
 
-Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. **Keine Krummsäbel** - für 550 n.Chr. zu früh.
+Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. **Keine Krummsäbel** - für 550 n.Chr. zu früh. *(Vorschlag von Claude, vom Autor übernommen 22.09.2026.)*
 
 ### Ehe und Trennung
 
@@ -121,7 +122,7 @@ Es gibt also **keine gemeinsame Deutung**, sondern viele Meinungen. Ob eine davo
 
 ## Zeitrechnung (Autor, 10.09.2026)
 
-**Gezählt wird in Sommern.** Die heiße Jahreszeit ist das, was man übersteht - und damit das genaue Gegenstück zum Winter des [Nordvolks](../Nordvolk/README.md). Man reist nicht im Sommer; Handel und Weidezug liegen im kühlen Halbjahr.
+**Gezählt wird in Sommern.** Die heiße Jahreszeit ist das, was man übersteht - und damit das genaue Gegenstück zum Winter des [Nordvolks](../Nordvolk/README.md). **Man reist nicht im Sommer; Handel und Weidezug liegen im kühlen Halbjahr** (Autor, 22.09.2026). *(Der Satz stammte aus einer Antwortoption, die am 10.09. nicht gewählt war; übernommen hat ihn der Autor erst jetzt.)*
 
 **Regenzeiten scheiden aus.** Der [Fezzan](../../Orte/README.md) ist hyperarid - unter 20 mm Niederschlag im Jahr, und der fällt unregelmäßig. Als Jahresmaß taugt Regen dort nicht.
 

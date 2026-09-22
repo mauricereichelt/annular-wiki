@@ -35,7 +35,7 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 - **Nichts in den Indikativ schreiben, was der Autor nicht gesagt hat.** Weder Verfahren, Maße, Motive, Zahlen noch Mechanismen. Was darüber hinausgeht, wird `???` oder eine eigene Challenge.
 - **Auch Plausibles ist eine Erfindung.** „Naheliegend", „historisch belegt" und „folgt logisch" sind keine Entscheidungsgrundlagen. Vorschläge gehören in den Chat oder in eine Challenge, nie in eine Wiki-Aussage.
 - **Abgeleitete Zahlen sind Festlegungen.** Eine Rechnung, die auf einer selbst gewählten Annahme fußt, ist genauso eine Eigenentscheidung wie die Annahme selbst. Die Annahme ausweisen oder erfragen.
-- **Herkunft kennzeichnen.** Wird etwas gestrichen, weil es nicht gedeckt war: Streichvermerk am Ort und Eintrag in der Altlast-Tabelle von C-119.
+- **Herkunft kennzeichnen.** Wird etwas gestrichen, weil es nicht gedeckt war: Streichvermerk am Ort. Die Altlast-Tabelle von C-119 ist **abgeschlossen** (Autor, 22.09.2026) - neue Funde werden **direkt gelöst oder wandern in eine neue Challenge**.
 - **Im Zweifel fragen**, statt zu füllen.
 
 ## Gründlichkeit (harte Regel)

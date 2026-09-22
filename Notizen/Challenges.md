@@ -31,7 +31,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
@@ -202,6 +201,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-187: Geladene Kette - Hinweis fürs Schreiben ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
 - [C-103: Transport - der ganze Clan, eigens für den Ring ✓](#c-103-transportlogistik-des-wüstenrings-)
 - [C-125: Transport - Schlitten aus Palmstämmen, Kamele ziehen ✓](#c-125-das-transportverfahren-ist-offen-)
+- [C-119: Wiki-Altlast - Tabelle abgeschlossen, neue Funde direkt lösen ✓](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 
 ---
 
@@ -2459,7 +2459,7 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 
 ---
 
-### C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○
+### C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ✓
 
 **Vom Autor beanstandet (02.09.2026):** In früheren Sitzungen hat Claude **eigenmächtig Festlegungen ins Wiki geschrieben**, die der Autor nie getroffen hat. Sie wurden anschließend als Bestand behandelt und trugen weitere Schlussfolgerungen und Challenges. Wörtlich: *„In den früheren Sessions und beim Erstellen der Challenges hast du dir viel zu viel herausgenommen."*
 
@@ -2505,10 +2505,18 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 | Azzim stehe im Norden *„in Wasser, das aus dem Nichts kam"* | **gestrichen** - Rest der Bachwasser-Fassung; es geht kein Wasser mit, der Wasserfall fällt außerhalb der Kugel (Autor, 11.09.2026) | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) |
 | Eine Mulde nur auf einer Seite zerstöre die Anlage selbst; beide Seiten müssten gleich gebaut sein | **gestrichen** - die Mulde wechselt nur die Seite, wer in ihr reist, kommt drüben in ihr an: Funktionalität, kein Problem (Autor, 21.09.2026) | [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-mulde), [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) |
 | Der Clan transportiere nur, *„wenn der Zug ohnehin passt"* - Weidewechsel, Handelszüge, Jahreszeiten, *„nicht auf Zuruf"* | **gestrichen** - stammte aus Claudes Beschreibung einer Antwortoption (03.09.2026); gewählt hatte der Autor nur *„Der Clan hat eigene Wege"*. Der Clan zieht eigens für den Ring los (Autor, 22.09.2026) | [C-130](#c-130-wie-der-transport-terminiert-wird-), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) |
+| Volksname-Begründung *„Das Volk lebt von den Foggara. Wer das Wasser hält, hält alles."* | **Vorschlag (Claude) · ???** - vom Autor nicht übernommen (22.09.2026); passt schlecht zu Nomaden | [Kel Aman](../Kulturen/Kel-Aman/README.md#volksname) |
+| *„Man reist nicht im Sommer; Handel und Weidezug im kühlen Halbjahr"* - stand unter „Zeitrechnung (Autor)", kam aber aus einer nicht gewählten Antwortoption | **nachträglich übernommen** (Autor, 22.09.2026) | [Kel Aman](../Kulturen/Kel-Aman/README.md#zeitrechnung-autor-10092026) |
+| Bewaffnung (gerade Klingen, keine Krummsäbel) und die Verortungstabelle (Foggara, Handel, Verfall, Kamele) | **nachträglich übernommen** (Autor, 22.09.2026) | [Kel Aman](../Kulturen/Kel-Aman/README.md) |
 
-**Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
+**Zu tun** *(erledigt 22.09.2026, siehe unten)*: Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
 **Regel ab hier:** Was über den Wortlaut des Autors hinausgeht, wird **`???` oder eine eigene Challenge** - nie Fließtext im Indikativ. Absicht ist nicht Handlung, Vorhaben nicht Ausführung.
+
+
+**Abgearbeitet (22.09.2026):** C-089 und C-102 sind entschieden. [Schicht 6](Weltenbau-Leitfaden.md#schicht-6---die-folgen-des-wunders-im-ursprünglichen-leitfaden-nicht-enthalten) des Leitfadens ist geprüft: *Wer will den Ring außer Tibun?* - niemand sonst (Autor); der Punkt zur jütischen Halbkugel in der Wüste ist überholt. Auf der [Kel-Aman-Seite](../Kulturen/Kel-Aman/README.md) hat der Autor Bewaffnung, Verortungstabelle und die Sommer-Regel übernommen, die Foggara-Begründung des Volksnamens nicht.
+
+**Entschieden (Autor, 22.09.2026): geschlossen.** Die Altlast-Tabelle ist damit **abgeschlossen**. **Neue Funde werden direkt gelöst oder wandern in eine neue Challenge** - kein weiterer Eintrag hier. Die Regel steht in [CLAUDE.md](../CLAUDE.md#keine-eigenentscheidungen-harte-regel).
 
 ---
 
