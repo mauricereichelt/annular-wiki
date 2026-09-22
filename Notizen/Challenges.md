@@ -31,7 +31,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -202,6 +201,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-103: Transport - der ganze Clan, eigens für den Ring ✓](#c-103-transportlogistik-des-wüstenrings-)
 - [C-125: Transport - Schlitten aus Palmstämmen, Kamele ziehen ✓](#c-125-das-transportverfahren-ist-offen-)
 - [C-119: Wiki-Altlast - Tabelle abgeschlossen, neue Funde direkt lösen ✓](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
+- [C-120: Azzims zweite Seite - sein Ansehen hängt daran ✓](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 
 ---
 
@@ -660,6 +660,8 @@ Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie 
 ### C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○
 
 Was treibt Azzim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler - und warum er gerade Girlin/den Ring ins Visier nimmt.
+
+**Nachtrag (22.09.2026):** Den Ring nimmt er nicht ins Visier, er weiß bis zum Ende nichts von ihm (harte Regel, [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)). **Seine zweite Seite: Sein Ansehen hängt daran** (Autor, 22.09.2026) → [C-120 ✓](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-). Charakter, Mittel und Fähigkeiten bleiben offen · **???**
 
 ---
 
@@ -2520,7 +2522,7 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 
 ---
 
-### C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○
+### C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ✓
 
 Mit der Streichung des Wassermotivs ([C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-)) ist [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) wieder das, was der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bemängelt hat: ein **rein einseitiger Gegenspieler**. Ein Sklavenjäger, der Menschen als Ware sieht, ist der einseitigste Antagonist, den die Epoche hergibt.
 
@@ -2533,6 +2535,24 @@ Die Prüfliste verlangt **drei Konflikte, bei denen beide Seiten verständlich s
 - Falls flach: **welcher dritte Konflikt** trägt stattdessen? Kandidaten: der **Neffe**, der für Girlin seine Sippe verliert ([C-061](#c-061-navigationswissen-des-häuptlings-)); **Truda** gegen Tibun ([C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-)).
 
 Berührt [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-), [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-).
+
+
+**Befund (Claude, 22.09.2026):** Die Prämisse stammt nicht vom Autor. Den Konflikttest und die Formulierung *„deine eigene Regel"* hat Claude am 28.08.2026 in den [Leitfaden](Weltenbau-Leitfaden.md#prüfliste) geschrieben; eine solche Regel des Autors ist nicht belegt. Der Kandidat *Neffe* ist hinfällig, seit das Schweigen des Häuptlings gestrichen ist ([C-061 ✗](#c-061-navigationswissen-des-häuptlings-)).
+
+**Entschieden (Autor, 22.09.2026):**
+
+| Frage | Antwort |
+|---|---|
+| **Gilt der Konflikttest?** | **Ja, aber ohne feste Zahl.** |
+| **Welche Konflikte haben zwei verständliche Seiten?** | Semund gegen Tibun · Tibun gegen Wala und Weiler · Truda gegen Tibun · Sekkan und der Clan |
+| **Bekommt Azzim eine zweite Seite?** | **Ja: Sein Ansehen hängt daran.** Seine Leute folgen ihm persönlich; ein Anführer, den eine Fremde und ein Clan abweisen, verliert vor ihnen das Gesicht und am Ende die Leute (Ausgestaltung aus Claudes Vorschlag, vom Autor bestätigt 22.09.2026). |
+
+Gewählt aus vier Vorschlägen von Claude; nicht gewählt: *selbst einmal Ware*, *im Recht nach Brauch*, *sein Handel bricht weg*.
+
+> **Anmerkung (Claude):** Das passt dazu, dass nach seinem Verschwinden keiner bleibt ([C-133 ✓](#c-133-azzims-leute-für-den-angriff-)).
+
+- Eingetragen in [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) und im [Leitfaden](Weltenbau-Leitfaden.md#prüfliste).
+- Charakter, Mittel und Fähigkeiten bleiben in [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-).
 
 ---
 

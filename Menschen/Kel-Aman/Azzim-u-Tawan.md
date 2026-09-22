@@ -42,6 +42,10 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 
 **Temperament** (Autor, 14.09.2026): **sehr temperamentvoll und leicht aufbrausend.** Deshalb trifft ihn die Demütigung: Girlins Abweisung, ihr Entkommen und in +7/+8 der Handel, den der Clan ablehnt.
 
+**Seine zweite Seite** (Autor, 22.09.2026): **Sein Ansehen hängt daran.** Seine Leute folgen ihm persönlich. Ein Anführer, den eine Fremde und ein Clan abweisen, verliert vor ihnen das Gesicht und am Ende die Leute. *(Die Ausgestaltung stammt aus einem Vorschlag von Claude; vom Autor bestätigt 22.09.2026.)*
+
+> **Anmerkung (Claude):** Das passt dazu, dass nach seinem Verschwinden keiner von ihnen bleibt.
+
 > **Harte Regel - der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort begreift er selbst, was ihn geworfen hat. Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich **nur in seinem Verhalten** - ausgesprochen wird es nie (Autor, 22.09.2026).
 >
 > *(Präzisiert 22.09.2026: Hier stand, er komme „gestrandet" auf diesen Gedanken, als Schlusspointe und Aufhänger für spätere Geschichten. Er stirbt aber Minuten nach der Ankunft, und aus seiner Sicht wird nicht erzählt.)*
