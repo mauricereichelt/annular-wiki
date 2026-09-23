@@ -18,19 +18,19 @@
 
 | | |
 |---|---|
-| **Nachfolger** | Ein Erbe **existiert** - er hält die Thinghalle nach Hadurik. Wer es ist (Sohn, Verwandter, anderer): ??? |
+| **Nachfolger** | Ein Erbe **existiert** - er hält die Thinghalle nach Hadurik. **Es ist sein Sohn** (Autor, 23.09.2026) |
 
 ---
 
 ## Frühes Leben
 
-???
+**Er hat das Amt von seinem Vater geerbt** (Autor, 23.09.2026).
 
 ---
 
 ## Besondere Fähigkeiten
 
-???
+**Stark, gerecht, fair, ein guter Kämpfer** (Autor, 23.09.2026).
 
 ---
 
@@ -38,7 +38,7 @@
 
 **Ein alter Wahrer der Ordnung** (Autor, 23.09.2026).
 
-> **Vorschlag (Claude) · ???:** Lange im Amt und berechenbar; er hält an dem fest, was gilt. Man fürchtet ihn nicht, man rechnet mit ihm.
+Lange im Amt und berechenbar; er hält an dem fest, was gilt. Man fürchtet ihn nicht, man rechnet mit ihm. *(Vorschlag Claude, vom Autor übernommen 23.09.2026.)*
 
 ---
 
@@ -50,7 +50,7 @@ Regionaler Anführer mit Thinghalle in [Tingsal](../../../Orte/Tingsal.md).
 
 - **Fern, im Alltag ohne Belang.** Die freien Bauern regeln ihr Leben selbst.
 - **Autorität im Streitfall.** Was der Weiler nicht selbst löst, geht ans Thing in seiner Halle.
-- **Schutzherr mit Abgaben.** Skirraa leistet ihm Abgaben, er steht dafür als Schutzherr. Was genau geleistet wird und wie oft: **???**
+- **Schutzherr mit Abgaben.** Skirraa leistet ihm Abgaben, er steht dafür als Schutzherr. **Geleistet werden Wolle und Tuch, Korn und Vorräte und im Notfall Waffendienst** (Autor, 23.09.2026). **Wann:** Wer etwas von ihm oder den Walas möchte, muss einen Tribut mitbringen; darüber hinaus nach Bedarf (Autor, 23.09.2026).
 
 Ein eigenes Verhältnis zu [Tibun](../Tibun.md) gibt es nicht - Tibun begegnet ihm im Buch nicht.
 
@@ -58,7 +58,7 @@ Ein eigenes Verhältnis zu [Tibun](../Tibun.md) gibt es nicht - Tibun begegnet i
 
 **Er erlebt das Finale.** Mit etwa 70 ist er bei [Tibuns](../Tibun.md) Rückkehr noch im Amt - [Tingsal](../../../Orte/Tingsal.md) hat dieselbe Autorität wie bei dessen Aufbruch. Kein Wechsel an der Thinghalle über die zehn Jahre.
 
-**Er ist alt.** Ein **Nachfolger existiert** - die Thinghalle bleibt nach ihm besetzt, ein Machtvakuum entsteht nicht. Die Frage liegt aber **außerhalb der Erzählzeit**: Im Buch wird sie nicht verhandelt und nicht beantwortet. Wer der Erbe ist: ???
+**Er ist alt.** Ein **Nachfolger existiert** - die Thinghalle bleibt nach ihm besetzt, ein Machtvakuum entsteht nicht. Die Frage liegt aber **außerhalb der Erzählzeit**: Im Buch wird sie nicht verhandelt und nicht beantwortet. **Der Erbe ist sein Sohn** (Autor, 23.09.2026).
 
 Der Name ist germanisch-zweigliedrig (*hadu* „Kampf" + *rik* „Herrscher") - bewusst schwerer und herrschaftlicher als die Dorffiguren, markiert Rang.
 
@@ -66,10 +66,13 @@ Der Name ist germanisch-zweigliedrig (*hadu* „Kampf" + *rik* „Herrscher") - 
 
 ## Verbindungen zu anderen Charakteren
 
-???
+- Gegenüber: [Wala von Tingsal](Wala-Tingsal.md) - getrennte Sphären; wo die Götter sprechen, endet seine Macht
+- Sohn: sein Erbe und Nachfolger
 
 ---
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
+
+- [Mark Addy](https://www.imdb.com/name/nm0004692/?ref_=mv_desc) aus der Serie „Game of Thrones" (Autor, 23.09.2026)

@@ -22,7 +22,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
 - [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
-- [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ○](#c-049-wala-von-tingsal---offene-felder-)
 - [C-050: Wandernde Wala - offene Felder ○](#c-050-wandernde-wala---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
@@ -67,6 +66,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
+- [C-048: Hadurik - offene Felder ✓](#c-048-hadurik---offene-felder-)
 - [C-051: Frida - offene Felder ✓](#c-051-frida---offene-felder-)
 - [C-052: Herik - offene Felder ✓](#c-052-herik---offene-felder-)
 - [C-053: Landarik - offene Felder ✓](#c-053-landarik---offene-felder-)
@@ -330,7 +330,7 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 | **Charakter** | **Ein alter Wahrer der Ordnung** |
 
 - Eingetragen in [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und [Tingsal](../Orte/Tingsal.md).
-- **Offen bleibt**, was Skirraa konkret an Abgaben leistet · **???** - Weltenbau, für Plot 1 nicht nötig.
+- **Offen bleibt**, was Skirraa konkret an Abgaben leistet · **???** - Weltenbau, für Plot 1 nicht nötig. *(Beantwortet 23.09.2026 in [C-048](#c-048-hadurik---offene-felder-).)*
 - Personendaten (Familie, frühes Leben, Fähigkeiten, Inspiration) laufen weiter in [C-048](#c-048-hadurik---offene-felder-).
 - Das passt zum bereits Entschiedenen: Bei Girlins Toterklärung **genügt der Spruch der Wala**, Hadurik hat damit nichts zu tun.
 
@@ -946,11 +946,27 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 **Weiter offen:** frühes Leben, Inspiration, Ehemann, Zeitpunkt der Heirat, Kinder.
 ---
 
-### C-048: Hadurik - offene Felder ○
+### C-048: Hadurik - offene Felder ✓
 
 [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Häuptling von [Tingsal](../Orte/Tingsal.md)): Alter, Familie, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Charakter und Rolle als regionale Autorität laufen bereits unter [C-009](#c-009-häuptling-von-tingsal-) - diese Challenge deckt die **Personendaten**, C-009 die Story-Funktion.
 
 **Teilentscheidung (Autor, 08.09.2026):** Hadurik ist in Jahr 0 **etwa 60** - alt und lange im Amt. Damit läuft die **Nachfolgefrage** im Hintergrund mit → [C-153 ✓](#c-153-haduriks-nachfolge-in-tingsal-). Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). **Weiter offen:** Familie, frühes Leben, Fähigkeiten, Inspiration.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| | |
+|---|---|
+| **Nachfolger** | **Sein Sohn** |
+| **Frühes Leben** | **Amt vom Vater geerbt** |
+| **Fähigkeiten** | **Stark, gerecht, fair, guter Kämpfer** |
+| **Charakter** | Vorschlag (Claude) übernommen: *lange im Amt und berechenbar, hält an dem fest, was gilt; man fürchtet ihn nicht, man rechnet mit ihm* |
+| **Abgaben - was** | **Wolle und Tuch, Korn und Vorräte, Waffendienst im Notfall** |
+| **Abgaben - wann** | Wer etwas von ihm **oder den Walas** möchte, muss einen **Tribut** mitbringen; darüber hinaus **nach Bedarf** |
+| **Verbindungen** | Nur Entschiedenes eintragen: Wala von Tingsal, sein Sohn |
+| **Inspiration** | Mark Addy aus der Serie „Game of Thrones" |
+
+- Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) und [Tingsal](../Orte/Tingsal.md); der Tribut an die Walas auch in [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md). Die Abgabenfrage aus [C-009 ✓](#c-009-häuptling-von-tingsal-) ist damit beantwortet.
+
 ---
 
 ### C-049: Wala von Tingsal - offene Felder ○

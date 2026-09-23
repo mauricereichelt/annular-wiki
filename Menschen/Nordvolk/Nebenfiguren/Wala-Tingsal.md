@@ -53,6 +53,8 @@ Weiß **nichts** vom vergrabenen Ring am Skir.
 
 **Sie entscheidet, ob ihre Schwester kommt** (Autor, 11.09.2026). Die [wandernde Wala](Wala-Wandernd.md) ist **nur über sie** zu erreichen: Man geht zu ihr und sagt ihr, warum und wo man den Rat der Wala benötigt. Sie entscheidet, ob das Anliegen wichtig genug oder gerechtfertigt genug ist, um ihre Schwester an diesen Ort zu schicken. **Wie sie die Schwester erreicht** und ihr Ort und Grund mitteilt, **weiß niemand** - das ist ein Geheimnis zwischen den Zwillingen.
 
+**Wer etwas von [Hadurik](Hadurik.md) oder den Walas möchte, muss einen Tribut mitbringen** (Autor, 23.09.2026).
+
 **Die beiden Walas sprechen als eine Stimme** - als die Stimme der Götter (Autor, 07.09.2026). Die eine hält sich an das Wort der anderen; ein Spruch der einen wird von der anderen nicht neu geprüft. Für die Menschen gibt es damit **keine zweite Instanz**: Wer eine Wala fragt, hat sie alle gefragt.
 
 **Ihr Verhältnis zu [Hadurik](Hadurik.md)** (Autor, 23.09.2026): **getrennte Sphären** - sie entscheidet Götterdinge, der Häuptling Rechtsdinge, und keiner greift dem anderen ins Amt. **Wo die Götter sprechen, endet seine Macht**: Trifft beides aufeinander, gilt ihr Wort.

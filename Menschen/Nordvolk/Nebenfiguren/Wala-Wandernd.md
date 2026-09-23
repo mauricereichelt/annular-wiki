@@ -68,6 +68,8 @@ Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es 
 
 **Wie man sie ruft** (Autor, 11.09.2026): **nur über ihre Schwester in [Tingsal](../../../Orte/Tingsal.md).** Die [Wala von Tingsal](Wala-Tingsal.md) entscheidet, ob ein Anliegen wichtig genug oder gerechtfertigt genug ist, um sie an den Ort zu schicken. Wie die Nachricht sie erreicht, weiß niemand - ein Geheimnis zwischen den Zwillingen.
 
+**Wer etwas von [Hadurik](Hadurik.md) oder den Walas möchte, muss einen Tribut mitbringen** (Autor, 23.09.2026).
+
 **Offen:** wann genau sie zurückkommt und ob Tibun ihr begegnet · **???**
 
 ---
