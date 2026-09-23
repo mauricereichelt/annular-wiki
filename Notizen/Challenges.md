@@ -22,8 +22,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
 - [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
-- [C-049: Wala von Tingsal - offene Felder ○](#c-049-wala-von-tingsal---offene-felder-)
-- [C-050: Wandernde Wala - offene Felder ○](#c-050-wandernde-wala---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -67,6 +65,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-048: Hadurik - offene Felder ✓](#c-048-hadurik---offene-felder-)
+- [C-049: Wala von Tingsal - offene Felder ✓](#c-049-wala-von-tingsal---offene-felder-)
+- [C-050: Wandernde Wala - offene Felder ✓](#c-050-wandernde-wala---offene-felder-)
 - [C-051: Frida - offene Felder ✓](#c-051-frida---offene-felder-)
 - [C-052: Herik - offene Felder ✓](#c-052-herik---offene-felder-)
 - [C-053: Landarik - offene Felder ✓](#c-053-landarik---offene-felder-)
@@ -969,14 +969,28 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 
 ---
 
-### C-049: Wala von Tingsal - offene Felder ○
+### C-049: Wala von Tingsal - offene Felder ✓
 
 [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) (sesshafte Seherin): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; vor allem ist ihre **Rolle** noch reine Möglichkeit ohne Szene. Zu klären: Wird sie gebraucht, oder entfällt sie?
 
 **Teilentscheidung (Autor, 08.09.2026):** Beide Zwillinge sind in Jahr 0 **etwa 35** und **von auswärts zugewandert** - Herkunft unbekannt, keine Sippe in der Gegend. Die Frage „wird sie gebraucht?" ist damit erledigt: Sie hat seit dem 07.09.2026 eine feste Rolle (sie erlaubt [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Neubindung). **Weiter offen:** Fähigkeiten über das Amt hinaus, Inspiration. Woher die Autorität kommt → [C-154](#c-154-woher-die-autorität-der-walas-kommt-).
+
+**Entschieden (Autor, 23.09.2026)** - gilt für beide Zwillinge, zusammen mit [C-050](#c-050-wandernde-wala---offene-felder-):
+
+| | |
+|---|---|
+| **Die gezeigte Gabe** | Sie haben **die Jahre ohne Sommer** vorhergesagt |
+| **Die Vorgängerin** | **Die frühere Wala von Tingsal** |
+| **Ankunft in Tingsal** | **Als Kinder** |
+| **Fähigkeiten** | **Heil- und Kräuterkunde** |
+| **Inspiration** | Carice van Houten aus der Serie „Game of Thrones" - für beide |
+
+- Die beiden offenen Punkte aus [C-154 ✓](#c-154-woher-die-autorität-der-walas-kommt-) sind damit beantwortet.
+- Eingetragen in [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
+
 ---
 
-### C-050: Wandernde Wala - offene Felder ○
+### C-050: Wandernde Wala - offene Felder ✓
 
 [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) (Zwillingsschwester der sesshaften Wala): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; Rolle ebenfalls ohne Szene. Zu klären zusammen mit [C-049](#c-049-wala-von-tingsal---offene-felder-) - brauchen wir **zwei** Seherinnen?
 
@@ -989,6 +1003,17 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 **Wie man sie ruft - entschieden (Autor, 11.09.2026):** **Nur über ihre Schwester in [Tingsal](../Orte/Tingsal.md).** Man geht zur [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und sagt ihr, warum und wo man Rat benötigt. Sie entscheidet, ob das Anliegen wichtig genug oder gerechtfertigt genug ist, um ihre Schwester dorthin zu schicken. **Wie sie die Schwester erreicht** und ihr Ort und Grund mitteilt, **weiß niemand** - ein Geheimnis zwischen den Zwillingen. Eingetragen in [Wala-Wandernd](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md), [Wala-Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Tingsal](../Orte/Tingsal.md) und die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 
 **Weiter offen:** wann sie sonst zurückkommt, Fähigkeiten, Inspiration.
+
+**Entschieden (Autor, 23.09.2026):** Gabe, Vorgängerin, Ankunft, Fähigkeiten und Inspiration wie bei der Schwester ([C-049](#c-049-wala-von-tingsal---offene-felder-)). Dazu:
+
+| | |
+|---|---|
+| **Kommt sie sonst nach Skirraa?** | **Nein, nur wenn man sie ruft** |
+| **„Kommt gelegentlich nach Skirraa"** | Stand ohne Autorenvermerk in ihrer Datei - **ersetzt** durch „nur wenn man sie ruft" |
+
+- Nebenbei korrigiert: In ihrer Datei stand noch offen, **ob Tibun ihr begegnet**. Das war seit dem Nachtrag vom 11.09.2026 (oben) beantwortet.
+- Eingetragen in [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
+
 ---
 
 ### C-051: Frida - offene Felder ✓
@@ -3407,7 +3432,7 @@ Erzählerisch heikel: Wenn niemand weiß, woher sie kommen, weiß auch niemand, 
 
 Das löst den Widerspruch sauber: Punkt 4 macht aus dem Mangel (keine Sippe, kein Hof) das Argument. Wer keinen Hof hat, gewinnt an keinem Spruch etwas.
 
-**Noch offen · ???** Welche Vorhersage eingetroffen ist (1) und wer die ältere Wala war (2). Beides ist Hintergrund, nicht Handlung.
+**Noch offen · ???** Welche Vorhersage eingetroffen ist (1) und wer die ältere Wala war (2). Beides ist Hintergrund, nicht Handlung. *(Beantwortet 23.09.2026 in [C-049](#c-049-wala-von-tingsal---offene-felder-): die Jahre ohne Sommer; die frühere Wala von Tingsal.)*
 
 ---
 

@@ -86,7 +86,7 @@ Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz 
 > **Hinweis fürs Schreiben (Claude):** Aufladen braucht **Reibung**, am stärksten Bernstein an Wolle - Werfen allein lädt nichts. Die Entladung knistert und ist im Dunkeln als blau-weißer Blitz zu sehen ([Elektrizität](../../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)).
 
 > **Beim Überarbeiten nachziehen** (Liste 21.09.2026): Der alte Szenentext *Die Entdeckung* ruht bis November und widerspricht dem Wiki an diesen Stellen:
-> - **Name:** Jolyl heißt jetzt **Frida**
+> - **Name:** Jolyl heißt jetzt **Frida**, Lanke heißt jetzt **Landarik** (23.09.2026)
 > - **Schauplatz:** Die Verlobung wird **beim Großbauern** im kleinen Rahmen verkündet - kein Dorf- oder Marktplatz, kein Rednerpodest, keine Versammlung. [Skirraa](../../Orte/Skirraa.md) ist ein **Weiler**, kein Dorf
 > - **Milieu:** keine Fischer, keine Bootsbauer - Skirraa lebt von Tierzucht auf Heide und Moor
 > - **Bernstein:** kein Fund im Flussbett - ein **Geschenk der Mutter**, das er schon lange trägt ([Tibun](../../Menschen/Nordvolk/Tibun.md#der-bernstein))
@@ -566,7 +566,7 @@ Angst und Ärger im Dorf - aber keine Vertreibung.
 
 ### 41 · Die Wala lässt ihn gewähren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Sie wird gerufen und sieht es sich an.
 

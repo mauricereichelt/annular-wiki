@@ -28,24 +28,27 @@
 
 Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Ihre Autorität ruht auf **vier Säulen zugleich** (Autor, 08.09.2026):
 
-1. **Eine früh und öffentlich gezeigte Gabe** - etwas ist eingetroffen, was sie vorhergesagt haben. Was genau: ???
-2. **Das Erbe einer älteren Wala** - sie sind bei einer Vorgängerin ausgebildet und haben deren Rang übernommen. Wer sie war und wo: ???
+1. **Eine früh und öffentlich gezeigte Gabe** - etwas ist eingetroffen, was sie vorhergesagt haben: **die Jahre ohne Sommer** (Autor, 23.09.2026).
+2. **Das Erbe einer älteren Wala** - sie sind bei einer Vorgängerin ausgebildet und haben deren Rang übernommen: **der früheren Wala von Tingsal** (Autor, 23.09.2026). **Nach Tingsal kamen die Zwillinge als Kinder** (Autor, 23.09.2026).
 3. **Die Zwillingsgeburt selbst** - zwei Frauen mit einer Stimme gelten als Zeichen, nicht als Zufall.
 4. **Das Fremdsein selbst** - gerade weil sie zu keiner Sippe gehören, gelten sie als unparteiisch. Kein Hof, an dem ihr Spruch etwas gewinnt.
 
 Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe, Zeichen und Unparteilichkeit tun es zusammen.
+
+> **Anmerkung (Claude):** Die Jahre ohne Sommer beginnen 536/537 (siehe [Girlin](../Girlin.md#frühes-leben)). Bei etwa 35 in Jahr 0 (= 550) waren die Zwillinge damals etwa 21 (35 - 14); die Vorhersage lag davor.
 
 ---
 
 ## Besondere Fähigkeiten
 
 - Seherin des Nordvolks (*Wala/Völva*), historisch belegt mit politischem Einfluss (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md))
+- **Heil- und Kräuterkunde** - wie ihre Zwillingsschwester (Autor, 23.09.2026)
 
 ---
 
 ## Bedeutung in der Geschichte
 
-Zieht durchs Hinterland von Weiler zu Weiler, kommt gelegentlich nach [Skirraa](../../../Orte/Skirraa.md). Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../Orte/sonstiges.md).
+Zieht durchs Hinterland von Weiler zu Weiler; **nach [Skirraa](../../../Orte/Skirraa.md) kommt sie nur, wenn man sie ruft** (Autor, 23.09.2026). *(Hier stand ohne Autorenvermerk: kommt gelegentlich nach Skirraa.)* Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../Orte/sonstiges.md).
 
 **Niemand weiß, wo sie sich gerade aufhält** - außer ihrer Zwillingsschwester, der [Wala von Tingsal](Wala-Tingsal.md) (Autor, 07.09.2026). Man kann ihr also nicht nachreisen; wer eine Wala braucht, geht nach [Tingsal](../../../Orte/Tingsal.md).
 
@@ -70,7 +73,7 @@ Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es 
 
 **Wer etwas von [Hadurik](Hadurik.md) oder den Walas möchte, muss einen Tribut mitbringen** (Autor, 23.09.2026).
 
-**Offen:** wann genau sie zurückkommt und ob Tibun ihr begegnet · **???**
+**In den zehn Wintern kommt sie nur, wenn man sie ruft** (Autor, 23.09.2026) - gerufen wird sie nach Tibuns Rückkehr (siehe oben). [Tibun](../Tibun.md) begegnet ihr damit in Jahr 0 und nach seiner Rückkehr (Autor, 11.09.2026). *(Hier stand: offen, wann sie zurückkommt und ob Tibun ihr begegnet.)*
 
 ---
 
@@ -82,4 +85,6 @@ Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es 
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
+
+- [Carice van Houten](https://www.imdb.com/name/nm0396924/?ref_=ttfc_fcr_3_24) aus der Serie „Game of Thrones" - dieselbe Inspiration für beide Zwillinge (Autor, 23.09.2026)
