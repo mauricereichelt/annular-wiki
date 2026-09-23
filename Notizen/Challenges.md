@@ -25,7 +25,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ○](#c-049-wala-von-tingsal---offene-felder-)
 - [C-050: Wandernde Wala - offene Felder ○](#c-050-wandernde-wala---offene-felder-)
-- [C-051: Frida - offene Felder ○](#c-051-frida---offene-felder-)
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
@@ -69,6 +68,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
+- [C-051: Frida - offene Felder ✓](#c-051-frida---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-056: Prolog - Folgen des Bebens im Dorf ✓](#c-056-prolog---folgen-des-bebens-im-dorf-)
@@ -974,11 +974,26 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 **Weiter offen:** wann sie sonst zurückkommt, Fähigkeiten, Inspiration.
 ---
 
-### C-051: Frida - offene Felder ○
+### C-051: Frida - offene Felder ✓
 
 [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-)): Tritt sie nach dem Prolog noch einmal auf?
 
 **Teilentscheidung (Autor, 08.09.2026):** Frida ist im Prolog **16**, gleicher Jahrgang wie [Tibun](../Menschen/Nordvolk/Tibun.md). Ein **Wiederauftreten nach dem Prolog ist möglich, aber unwichtig** - der Plot hängt nicht daran, festgelegt ist nichts. Eingetragen in [Frida.md](../Menschen/Nordvolk/Nebenfiguren/Frida.md). **Weiter offen:** Fähigkeiten, Inspiration, Name ihres Vaters.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| | |
+|---|---|
+| **Name des Vaters** | **Fridun** |
+| **Fähigkeiten** | **Keine besonderen** |
+| **Wiederauftreten** | **Ja** - **vor Tibuns Aufbruch (Jahr 0/+1)** und **bei seiner Rückkehr (+9/+10)** |
+| **Begegnung mit Tibun** | **Ja**, beide Male |
+| **In welcher Lage** | Klärt der Autor beim Schreiben |
+| **Inspiration** | Georgia Hirst aus der Serie „Vikings" |
+
+- Fridun ist die Kurzform von **Fridmund** (Frieden + Schutz, Autor, 23.09.2026) nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-).
+- Eingetragen in [Frida.md](../Menschen/Nordvolk/Nebenfiguren/Frida.md).
+
 ---
 
 ### C-052: Herik - offene Felder ○
@@ -1120,7 +1135,7 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 **Der Gegenentwurf zu Semund steht damit:** Ein Mann, der mit ihm arbeitet, ihm etwas beibringt und ihn behält - gegen den Vater, der schweigt und weitermacht.
 
 - Eingetragen in [Kaupvik](../Orte/Kaupvik.md), [Vegamot](../Orte/Vegamot.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szene 15](../Plots/Plot-1/Szenen.md).
-- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Vollform wie bei Hadurik und Herik, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** (Kurzform von *Sighild* - Sieg + Kampf). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
+- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Urform wie bei Hadurik und Herik, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** (Kurzform von *Sighild* - Sieg + Kampf). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
 - **Weiter offen · ???** Sigas Gewerbe, das Alter beider, ob Audmar zum Händlerzug gehört.
 
 ---
@@ -1772,8 +1787,8 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 #### Das Bildungsmuster
 
-1. **Zweigliedrig.** Jeder Vollname besteht aus zwei Sinngliedern aus einem festen Vorrat.
-2. **Kurzformen sind der Alltag.** Im Weiler sagt niemand den Vollnamen: Erstglied + Koseendung - **`-un`** (m.), **`-in`/`-a`** (w.), **`-i`** (beide). Genau daher stammen die vorhandenen Namen.
+1. **Zweigliedrig.** Jeder Urname besteht aus zwei Sinngliedern aus einem festen Vorrat.
+2. **Kurzformen sind der Alltag.** Im Weiler sagt niemand den Urnamen: Erstglied + Koseendung - **`-un`** (m.), **`-in`/`-a`** (w.), **`-i`** (beide). Genau daher stammen die vorhandenen Namen.
 3. **Kein Familienname, sondern Vatersname:** `-sun` (Sohn) / `-dohtar` (Tochter). *Tibun Semundsun.*
 4. **Keine Götterelemente.** `Thor-`, `Tiw-`, `Ing-` sind ausgeschlossen - historisch waren sie üblich, aber sie führten die Götternamen durch die Hintertür wieder ein und verletzten damit das [Epitheta-Prinzip](../CLAUDE.md).
 5. **Keine Sonderzeichen.** Alle Namen und Elemente werden mit deutscher Tastatur geschrieben - kein Thorn, kein Eth, keine Längenstriche über Vokalen. Stattdessen `th`, `d` und einfache Vokale.
@@ -1799,7 +1814,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 #### Die bestehenden Figuren
 
-| Name | Vollform | Bedeutung | Ergebnis |
+| Name | Urform | Bedeutung | Ergebnis |
 |---|---|---|---|
 | **[Girlin](../Menschen/Nordvolk/Girlin.md)** | *Gairlind* | Speer + Lindenschild | **bleibt** - passt ohne Eingriff |
 | **[Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md)** | *Hathurik* | Kampf + mächtig | **bleibt** - bereits korrekt zweigliedrig |
@@ -1810,8 +1825,9 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **Mellia** → [**Millia**](../Menschen/Nordvolk/Nebenfiguren/Millia.md) | *Mildhild* | mild + Kampf | **umbenannt** |
 | **Tara** → [**Truda**](../Menschen/Nordvolk/Nebenfiguren/Truda.md) | *Thrudhild* | Kraft + Kampf | **umbenannt** - „Tara" ist irisch, kein germanisches Element passt |
 | **Jolyl** → [**Frida**](../Menschen/Nordvolk/Nebenfiguren/Frida.md) | *Fridgund* | Frieden + Kampf | **umbenannt** - „Jolyl" war nicht deutbar |
-| **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** | *Audmar* | Glück, Besitz + berühmt | **neu 10.09.2026** - Vollform, bewusst nicht auf `-un` ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
+| **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** | *Audmar* | Glück, Besitz + berühmt | **neu 10.09.2026** - Urform, bewusst nicht auf `-un` ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
 | **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** | *Sighild* | Sieg + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
+| **Fridun** | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform, Vater von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) ([C-051 ✓](#c-051-frida---offene-felder-)) |
 | **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk - wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).

@@ -101,7 +101,7 @@ Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu
 
 ## Namen
 
-- **Nordvolk:** zweigliedrige Vollnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) - sie unterlaufen das Epitheta-Prinzip.
+- **Nordvolk:** zweigliedrige Urnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) - sie unterlaufen das Epitheta-Prinzip.
 - **Kel Aman:** libysch-berberisch. Frauennamen umklammert ein `t`, Männernamen enden konsonantisch oder auf `-an`/`-en`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`.
 - **Keine Sonderzeichen - überall im Wiki.** Alles wird mit deutscher Tastatur geschrieben: kein Thorn, kein Eth, keine Längenstriche über Vokalen. Stattdessen `th`, `d` und einfache Vokale.
 

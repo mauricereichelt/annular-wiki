@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Schiffszimmerer in [Kaupvik](../../../Orte/Kaupvik.md); [Tibuns](../Tibun.md) Ziehvater und neue Bezugsperson |
-| **Name** | Vollform *Audmar* - **Glück, Besitz** + **berühmt**. Kein Kurzname; er trägt die Vollform wie [Hadurik](Hadurik.md) und [Herik](Herik.md) |
+| **Name** | Urform *Audmar* - **Glück, Besitz** + **berühmt**. Kein Kurzname; er trägt die Urform wie [Hadurik](Hadurik.md) und [Herik](Herik.md) |
 | **Alter** | ??? |
 | **Herkunft** | [Kaupvik](../../../Orte/Kaupvik.md) - alteingesessen, in der Stadt verwurzelt |
 

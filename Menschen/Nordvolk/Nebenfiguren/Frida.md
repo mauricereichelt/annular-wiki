@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Vater** | Bauer in Skirraa, ihr **leiblicher** Vater (Autor, 21.09.2026) - Name ??? |
+| **Vater** | **Fridun** (Urform *Fridmund*, Frieden + Schutz; Autor, 23.09.2026) - Bauer in Skirraa, ihr **leiblicher** Vater (Autor, 21.09.2026) |
 | **Verlobter** | [Herik](Herik.md) |
 
 ---
@@ -31,7 +31,7 @@ Mädchen aus [Skirraa](../../../Orte/Skirraa.md), aufgewachsen auf einem der Hö
 
 ## Besondere Fähigkeiten
 
-???
+**Keine besonderen** (Autor, 23.09.2026).
 
 ---
 
@@ -41,7 +41,9 @@ Auslöser der Szene zum Bernstein-Effekt: Am Tag, an dem [Tibun](../Tibun.md) ih
 
 Tibuns Herzschmerz führt ihn in den Wollstall, wo er den Bernstein-Effekt entdeckt.
 
-Ein späteres Wiedersehen ist **möglich, aber für den Plot unwichtig** - nichts hängt daran. Ob es dazu kommt: ???
+**Sie taucht nach dem Prolog wieder auf und begegnet [Tibun](../Tibun.md)** (Autor, 23.09.2026) - **vor seinem Aufbruch (Jahr 0/+1)** und **bei seiner Rückkehr (+9/+10)**. In welcher Lage, klärt der Autor beim Schreiben.
+
+*(Bisher stand hier: möglich, aber für den Plot unwichtig - Autor, 08.09.2026.)*
 
 ---
 
@@ -54,4 +56,6 @@ Ein späteres Wiedersehen ist **möglich, aber für den Plot unwichtig** - nicht
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
+
+- [Georgia Hirst](https://www.imdb.com/name/nm6354997/?ref_=mv_sm) aus der Serie „Vikings" (Autor, 23.09.2026)
