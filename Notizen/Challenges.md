@@ -25,7 +25,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ○](#c-049-wala-von-tingsal---offene-felder-)
 - [C-050: Wandernde Wala - offene Felder ○](#c-050-wandernde-wala---offene-felder-)
-- [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
@@ -69,6 +68,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-051: Frida - offene Felder ✓](#c-051-frida---offene-felder-)
+- [C-052: Herik - offene Felder ✓](#c-052-herik---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-056: Prolog - Folgen des Bebens im Dorf ✓](#c-056-prolog---folgen-des-bebens-im-dorf-)
@@ -996,11 +996,24 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 
 ---
 
-### C-052: Herik - offene Felder ○
+### C-052: Herik - offene Felder ✓
 
 [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-)).
 
 **Teilentscheidung (Autor, 08.09.2026):** Herik ist im Prolog **17-18** - kaum älter als [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) und [Tibun](../Menschen/Nordvolk/Tibun.md). Damit werden zwei fast Gleichaltrige verheiratet: Die Väter handeln, die Beteiligten nicht. Kein Altersgefälle, das Fridas Unglück erklären würde - es reicht, dass niemand sie gefragt hat. **Wiederauftreten möglich, aber unwichtig** (wie [C-051](#c-051-frida---offene-felder-)). Eingetragen in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md). **Weiter offen:** Fähigkeiten, Inspiration.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| | |
+|---|---|
+| **Fähigkeiten** | **Keine besonderen** |
+| **Wiederauftreten** | **Ja** - **bei Tibuns Rückkehr (+9/+10)** |
+| **Begegnung mit Tibun** | **Ja** |
+| **In welcher Lage** | Klärt der Autor beim Schreiben |
+| **Inspiration** | Danila Kozlovskiy aus der Serie „Vikings" |
+
+- Eingetragen in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md).
+
 ---
 
 ### C-053: Lanke - offene Felder ○

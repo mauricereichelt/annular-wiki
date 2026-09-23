@@ -31,7 +31,7 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - r
 
 ## Besondere Fähigkeiten
 
-???
+**Keine besonderen** (Autor, 23.09.2026).
 
 ---
 
@@ -39,7 +39,9 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - r
 
 Wenige Tage nach dem Beben (Jahr 0) wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet - arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
 
-Ein späteres Wiederauftreten ist **möglich, aber für den Plot unwichtig** - nichts hängt daran. Ob es dazu kommt: ???
+**Er taucht bei Tibuns Rückkehr (+9/+10) wieder auf und begegnet [Tibun](../Tibun.md)** (Autor, 23.09.2026). In welcher Lage, klärt der Autor beim Schreiben.
+
+*(Bisher stand hier: möglich, aber für den Plot unwichtig - Autor, 08.09.2026.)*
 
 ---
 
@@ -53,4 +55,6 @@ Ein späteres Wiederauftreten ist **möglich, aber für den Plot unwichtig** - n
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
+
+- [Danila Kozlovskiy](https://www.imdb.com/name/nm1572716/?ref_=mv_desc) aus der Serie „Vikings" (Autor, 23.09.2026)
