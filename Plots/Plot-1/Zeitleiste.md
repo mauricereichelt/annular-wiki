@@ -183,12 +183,16 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware - und die **Demütigung**. Er ist **sehr temperamentvoll und leicht aufbrausend**; gedemütigt wird er durch ihre **Abweisung**, ihr **Entkommen** und in +7/+8 durch den **abgelehnten Handel** (Autor, 14.09.2026). Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
   > **Überholt (Autor, 14.09.2026):** Bisher lag der erste Auftritt in +3 bis +5, vor der Trennung, als Zugriffsversuch, den der Clan abwehrt
 
+- **Jahr +6: Ein fremder Clanmann bringt die Zusage** (Autor, 23.09.2026) - der Clan wird den Ring holen. **Einen Termin nennt er nicht.** Das ist eine **eigene Szene** ([Szenen](Szenen.md))
+
 ### Der Transport (Jahr +7 → +8)
-- **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** (Autor, 03.09.2026); was genau das heißt, ist offen · **???**
+- **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** (Autor, 03.09.2026, nach Beleg bestätigt 23.09.2026). Das heißt dreierlei (Autor, 23.09.2026): **Der Clan musste es erst beschließen**, **der Clan war weit weg**, und **erst musste die Lage es zulassen**
   > **Gestrichen (Autor, 22.09.2026):** *„Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf"* stammte nicht vom Autor
   - **Der ganze Clan zieht eigens für den Ring los** (Autor, 22.09.2026), mit **Herden und Vorräten**
   - **Umsonst ist es nicht** (Autor, 22.09.2026): Der Clan erwartet eine Gegenleistung - **[Sekkans](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Dienst**. Worin er besteht, klärt der Szenentext
-  - **Offen:** wie Girlin in der Schlucht erfährt, dass der Clan kommt · **???**
+  - **Wie Girlin davon erfährt** (Autor, 23.09.2026): Der Kontakt reißt nicht ab - das Verhältnis ist gut, es gibt **Boten und Nachrichten**, und **ein so großer Clan fällt auf**, wenn er in die Nähe des [Basars](../../Orte/Basar.md) kommt
+  - **Die Zusage kommt später** (Autor, 23.09.2026): nicht schon mit der Bitte in +5, sondern in **+6**, durch einen **fremden Clanmann**, der in die Schlucht kommt
+  - **Girlin und Sekkan brechen beide mit dem Clan auf** (Autor, 23.09.2026), und **das Kind kommt mit** - es zieht mit dem Clan. **[Bellbrim](../../Menschen/Andere/Bellbrim.md) bleibt in der Schlucht** (Autor, 23.09.2026) - es ist ihr Zuhause
 - **Der Transport dauert ein paar Wochen** (Autor, 09.09.2026), kein Jahresvorhaben. Die frühere Angabe *„Wochen bis wenige Monate"* (03.09.2026) ist damit auf **Wochen** eingegrenzt
   > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor
 - Der 3-m-Ring wiegt rund **5,7 t**. Er wird **flach liegend gezogen**, auf einem **Schlitten aus Palmstämmen**, von **Kamelen** (Autor, 22.09.2026). Wie viele Tiere, klärt der Szenentext

@@ -31,7 +31,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
@@ -202,6 +201,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-119: Wiki-Altlast - Tabelle abgeschlossen, neue Funde direkt lösen ✓](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - sein Ansehen hängt daran ✓](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
 - [C-142: Gliederung - Prolog, Anfang, Hauptteil, Schluss ✓](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
+- [C-130: Wie der Transport terminiert wird - zwei Jahre, Zusage kommt später ✓](#c-130-wie-der-transport-terminiert-wird-)
+- [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
 
 ---
 
@@ -1548,9 +1549,9 @@ Berührt [C-055](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) und [C-
 | **Haltung im Finale** | Azzim (Zündung 1) und Tibun (Zündung 2) sind im Moment des Tauschs **am Boden**, nicht aufrecht. Ob sie liegen oder knien, klärt der Szenentext |
 | **Muldentiefe der Nutzer-Zivilisation** | **???** - erst, wenn eine Geschichte sie braucht |
 
-**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Ringebene; liegt der Ring auf dem Boden statt bündig darin, 1,575 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#45--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
+**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Ringebene; liegt der Ring auf dem Boden statt bündig darin, 1,575 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#46--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
 
-**Mitkorrigiert:** Szene 3 sagte, Girlin „stand" vollständig in der Ringöffnung - sie liegt. Szene 44 ließ Azzim „neben den Ring" fallen - die Kugel liegt ganz innerhalb der Ringöffnung, er kommt **im** Ring an.
+**Mitkorrigiert:** Szene 3 sagte, Girlin „stand" vollständig in der Ringöffnung - sie liegt. Szene 45 ließ Azzim „neben den Ring" fallen - die Kugel liegt ganz innerhalb der Ringöffnung, er kommt **im** Ring an.
 
 **Girlins Körpergröße** (Restpunkt oben) spielt für den Ring keine Rolle mehr: In Plot 1 betritt sie keinen Ring wieder.
 
@@ -1680,7 +1681,7 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 | **Schlusspointe** | Bleibt, aber **nur im Verhalten** - man ahnt es an seinem Blick auf den Ring, ausgesprochen wird es nie. Die „gestrandete" Fassung ist überholt |
 | **Verständigung** | Woran Tibun erkennt, dass Azzim Girlin kennt, **klärt der Szenentext** |
 
-Damit ist auch „ob er den Gedanken überlebt und ob ihn jemand hört" beantwortet: Er überlebt ihn nicht, und niemand hört ihn. Eingetragen in [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag) und [Szenen](../Plots/Plot-1/Szenen.md#44--azzim-vor-den-füßen). Das Motiv ohne Ring bleibt in C-029 offen. Geschlossen.
+Damit ist auch „ob er den Gedanken überlebt und ob ihn jemand hört" beantwortet: Er überlebt ihn nicht, und niemand hört ihn. Eingetragen in [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag) und [Szenen](../Plots/Plot-1/Szenen.md#45--azzim-vor-den-füßen). Das Motiv ohne Ring bleibt in C-029 offen. Geschlossen.
 
 ---
 
@@ -2095,7 +2096,7 @@ Das Verfahren steht in [C-125 ✓](#c-125-das-transportverfahren-ist-offen-).
 
 **Anmerkung (Claude):** Wann und wie lange Sekkans Dienst ihn bindet, berührt die Jahre +8 bis +10 - er hält die vier in der Schlucht am Leben und verteidigt sie im Finale. Beim Schreiben im Blick behalten.
 
-Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Szene 30](../Plots/Plot-1/Szenen.md#30--der-transport). Geschlossen.
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Szene 31](../Plots/Plot-1/Szenen.md#31--der-transport). Geschlossen.
 
 ---
 
@@ -2689,7 +2690,7 @@ Bis das entschieden ist, darf **keine Datei ein Verfahren als Tatsache behaupten
 
 **Folgerung (Claude):** Flach liegt der Ring nur auf seiner Stirnseite auf, einem Kreisband von 0,15 m Dicke und 3,30 m Außen-Ø ([Maße](../Technik/Portalringe.md#anhang-maße-und-herleitung)). Die Querhölzer müssen deshalb mindestens 3,30 m überspannen.
 
-**Für die Szene:** Über welchen Untergrund der Zug führt und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Als Hinweis fürs Schreiben an [Szene 30](../Plots/Plot-1/Szenen.md#30--der-transport).
+**Für die Szene:** Über welchen Untergrund der Zug führt und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Als Hinweis fürs Schreiben an [Szene 31](../Plots/Plot-1/Szenen.md#31--der-transport).
 
 Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md#relevanz-für-die-geschichte) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md). Geschlossen.
 
@@ -2785,7 +2786,7 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Auftritt 1 in den Absc
 
 ---
 
-### C-130: Wie der Transport terminiert wird ○
+### C-130: Wie der Transport terminiert wird ✓
 
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Bitte ergeht in **+5**, der Transport findet **+7/+8** statt. Der Grund für die zwei Jahre steht: **Der Clan hat eigene Wege** (Autor, 03.09.2026). Was genau das heißt: ???
 
@@ -2794,6 +2795,21 @@ Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Bitte
 **Offen · ???** Girlin lebt ab +5 **nicht mehr beim Clan**, sondern in der Schlucht. Wie erfährt sie dann, dass der Clan kommt und es jetzt so weit ist? Mögliche Richtungen, keine davon entschieden: eine feste Abrede beim Abschied, ein Bote, ein regelmäßiger Weidezug, der ohnehin vorbeikommt, oder der Clan taucht unangekündigt auf.
 
 Berührt [C-103](#c-103-transportlogistik-des-wüstenrings-) und [C-125](#c-125-das-transportverfahren-ist-offen-).
+
+
+**Befund (Claude, 23.09.2026):** Der Autor konnte sich an die zwei Jahre nicht erinnern und wollte sie aufrollen. Die Prüfung der Sitzung vom 03.09.2026 belegt sie als sein Wort: gewählt wurde dort *„Bitte in +5, Transport erst +7/+8"*, auf die Folgefrage nach dem Grund *„Der Clan hat eigene Wege"*, und im Freitext derselben Runde steht *„Ich will, dass Girlin mit Neffe und Kleinkind bei Bellbrim sind in diesen 2 Jahren"*.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| Frage | Antwort |
+|---|---|
+| **Bleibt die Datierung?** | **Ja: Bitte +5, Transport +7/+8** |
+| **Was heißt „eigene Wege"?** | Drei Gründe zusammen: **Der Clan musste es erst beschließen** · **Der Clan war weit weg** · **Erst musste die Lage es zulassen** |
+| **Weiß Girlin von der Zusage?** | **Die Zusage kommt später** - nicht mit der Bitte in +5, sondern zwischen +5 und +7 |
+| **Wie erfährt sie, dass es so weit ist?** | Von allem ein wenig: Das Verhältnis ist gut, es gibt **Boten und Nachrichten** - und **ein so großer Clan fällt auf**, wenn er in die Nähe des Basars kommt |
+
+- Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8) und [Szene 31](../Plots/Plot-1/Szenen.md#31--der-transport).
+- Wer die Bitte hört, steht bereits fest: **Ishman und der Ältestenrat** (Autor, 10.09.2026).
 
 ---
 
@@ -2856,7 +2872,7 @@ Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026):
 - Eingetragen in [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md).
 - **Beantwortet zugleich die erste Teilfrage von [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)** („Wie geht der Kampf ohne Azzim weiter?").
 - **Für [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) liefert das nichts.** Die Hoffnung, aus bezahlten Männern entstehe wirtschaftlicher Druck, ist damit hinfällig - der Zug kostet ihn nichts. Seine zweite Seite muss anderswoher kommen.
-- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 46](../Plots/Plot-1/Szenen.md).
+- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 47](../Plots/Plot-1/Szenen.md).
 
 ---
 
@@ -2880,7 +2896,7 @@ Denkbar ist, dass Girlin das gar nicht bedenkt - dass sie etwas schickt, ohne zu
 - **Sie wählt bewusst.** Kein Verzweiflungsgriff - sie überlegt, was ihre Leute deuten können, und stellt das Bündel danach zusammen. **Ihr ist bewusst, dass im Norden niemand lesen kann** (Autor, 09.09.2026); dass nichts Beschriebenes im Bündel liegt, ist deshalb kein Versäumnis, sondern Entscheidung.
 - **Empfänger ist die Familie**, keine einzelne Person. **Sie weiß nicht, dass [Tibun](../Menschen/Nordvolk/Tibun.md) fort ist** (Autor): Für sie sind alle noch zu Hause - sie schickt an einen Zustand, den es nicht mehr gibt.
 
-Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 38).
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 39).
 
 Berührt [C-025](#c-025-girlin---charakter--fähigkeiten-) (Weben ist ihr Handwerk) und [C-013](#c-013-runen---anordnung-anzahl-aussehen-).
 
@@ -4017,5 +4033,18 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 - **Ob die Warnung aus allen drei Richtungen in eine Szene fällt** oder sich über mehrere verteilt - Zuschnittfrage, siehe [C-143](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-).
 
 Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
+
+---
+
+### C-190: Wo Bellbrim während des Transports ist ✓
+
+Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girlin und Sekkan brechen beide mit dem Clan auf, und das Kind kommt mit** (Autor, 23.09.2026). Damit ist nicht gesagt, wo [Bellbrim](../Menschen/Andere/Bellbrim.md) in den Wochen des Zuges ist.
+
+**Zu klären · ???** Bleibt sie allein in der Schlucht, oder zieht sie mit? Daran hängt, ob die Schlucht in dieser Zeit leer steht, ob jemand die Arbeit am Generator weiterführt - und wer im Fall eines Besuchs dort wäre.
+
+
+**Entschieden (Autor, 23.09.2026): Bellbrim bleibt in der Schlucht.** Es ist ihr Zuhause; sie zieht nicht mit. Die Schlucht steht in diesen Wochen also nicht leer.
+
+- Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8) und [Szene 31](../Plots/Plot-1/Szenen.md#31--der-transport).
 
 ---

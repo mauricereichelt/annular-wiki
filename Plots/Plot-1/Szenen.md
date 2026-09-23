@@ -46,7 +46,7 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 | Prolog | Szene 1 (Das Beben) | entschieden 04.09.2026 |
 | Anfang | ab Szene 2 bis Szene 4 (Der Blitz - Tibun) | entschieden 14.09.2026 - endet nach Girlins Verschwinden, aus Tibuns Sicht |
 | Hauptteil | dazwischen | ergibt sich aus den beiden Grenzen |
-| Schluss | ab Szene 43 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
+| Schluss | ab Szene 44 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
 **Die Benennung gilt verbindlich** (Autor, 23.09.2026): **Prolog · Anfang · Hauptteil · Schluss**. Der **Hauptteil bleibt ein durchgehender Block** ohne innere Grenze. Im fertigen Buch ist **nur der Prolog sichtbar**; Anfang, Hauptteil und Schluss sind reine Arbeitsordnung und erscheinen nicht als Überschrift.
@@ -55,7 +55,7 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **46 Szenen** (24 Tibun · 22 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **47 Szenen** (24 Tibun · 23 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **2 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -419,11 +419,24 @@ Auf dem Basar spricht ein Sklavenhändler Girlin an, Bellbrim ist dabei - erst m
 > **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie als Ware - sie ist selten" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
-### 30 · Der Transport
+### 30 · Der Bote
 
-> **POV:** Girlin · **Jahr +7** · **Offen:** Wie der Transport terminiert wird
+> **POV:** Girlin · **Jahr +6** · **Offen:** -
 
-Der Clan kommt wieder; Girlin bricht mit ihm auf.
+Ein fremder Clanmann kommt in die Schlucht und richtet aus, dass der Clan den Ring holen wird.
+
+- **Will:** ???
+- **Hindernis:** keins - eine reine Nachricht, ihr steht nichts entgegen
+- **Ausgang:** Die Zusage ist da. Einen Termin nennt der Bote nicht.
+
+> **Eigene Szene** (Autor, 23.09.2026): Der Bote bringt **nur die Zusage**, nicht den Aufbruch. Er ist **ein fremder Clanmann**, niemand aus [Sekkans](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Sippe.
+
+
+### 31 · Der Transport
+
+> **POV:** Girlin · **Jahr +7** · **Offen:** -
+
+Der Clan kommt wieder; Girlin und Sekkan brechen mit ihm auf, das Kind kommt mit.
 
 - **Will:** Den Ring in die Schlucht bringen
 - **Hindernis:** 5,7 Tonnen durch die Wüste - flach auf einem Schlitten aus Palmstämmen, von Kamelen gezogen
@@ -431,10 +444,14 @@ Der Clan kommt wieder; Girlin bricht mit ihm auf.
 
 > **Der ganze Clan zieht eigens für den Ring los** (Autor, 22.09.2026), mit Herden und Vorräten. Wie viele Kamele ziehen, klärt der Szenentext. Der Clan erwartet **Sekkans Dienst** als Gegenleistung; worin er besteht, klärt der Szenentext.
 
+> **Wer mitzieht** (Autor, 23.09.2026): **Girlin und Sekkan brechen beide mit dem Clan auf**, und **das Kind kommt mit**. **[Bellbrim](../../Menschen/Andere/Bellbrim.md) bleibt in der Schlucht** - es ist ihr Zuhause.
+
+> **Terminierung** (Autor, 23.09.2026): Die zwei Jahre zwischen Bitte und Aufbruch haben drei Gründe - der Clan musste es erst beschließen, er war weit weg, und die Lage musste es zulassen. **Die Zusage kommt später**, nicht schon in +5, sondern in +6 durch den Boten. Dass der Clan dann wirklich kommt, erfährt Girlin über Boten und Nachrichten - und daran, dass ein so großer Clan auffällt, wenn er in die Nähe des Basars kommt.
+
 > **Hinweis fürs Schreiben (Claude):** Offen für die Szene sind der Untergrund, über den der Zug führt, und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Die Strecke selbst ist Szenensache (Autor, 22.09.2026).
 
 
-### 31 · Azzim, Auftritt 2
+### 32 · Azzim, Auftritt 2
 
 > **POV:** Girlin · **Jahr +7** · **Offen:** -
 
@@ -447,7 +464,7 @@ Er tritt offen an den Zug heran und verhandelt.
 > **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie kaufen oder eintauschen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
-### 32 · Der Ring liegt in der Schlucht
+### 33 · Der Ring liegt in der Schlucht
 
 > **POV:** Girlin · **Jahr +8** · **Offen:** -
 
@@ -458,7 +475,7 @@ Der Clan zieht endgültig weiter.
 - **Ausgang:** Der Ring liegt, wie jeder Ring liegt. Aufgerichtet wird er nie.
 
 
-### 33 · Vollendung des Generators
+### 34 · Vollendung des Generators
 
 > **POV:** Girlin · **Jahr +8** · **Offen:** Der Wüstengenerator - Bauart offen
 
@@ -471,7 +488,7 @@ Bellbrim und Girlin bauen weiter.
 > **Nicht am Ring** (Autor, 14.09.2026): Generator und Ring bleiben bis zum Schluss getrennt; Bellbrim und Girlin testen nicht am Ring.
 
 
-### 34 · Aufbruch aus Kaupvik
+### 35 · Aufbruch aus Kaupvik
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** -
 
@@ -482,7 +499,7 @@ Das Modell läuft, Wissen und Bernstein reichen.
 - **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
 
 
-### 35 · Azzim, Auftritt 3
+### 36 · Azzim, Auftritt 3
 
 > **POV:** Girlin · **Jahr +9** · **Offen:** -
 
@@ -495,7 +512,7 @@ Auf dem Basar erkennt er sie und greift zu.
 > **Streichvermerk (05.09.2026):** Hier stand „Azzim will zugreifen - diesmal ist kein Clan da" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
-### 36 · Die Werkstatt an der Tabustelle
+### 37 · Die Werkstatt an der Tabustelle
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Die Werkstatt - Bau, Aussehen und Machbarkeit
 
@@ -510,7 +527,7 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 > **Er wohnt zunächst auf Semunds Hof** (Autor, 18.09.2026) und geht täglich hinaus zum Bau. Erst nach dem Spruch der Wala **zieht er auf die Baustelle**. Bis dahin ist der Bau Arbeitsplatz, danach auch sein Zuhause.
 
 
-### 37 · Truda empfängt ihn
+### 38 · Truda empfängt ihn
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
 
@@ -525,7 +542,7 @@ Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass
 > **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler oder in der Nähe. Die Szene spielt **im Weiler** - Tibun wohnt zu dieser Zeit auf Semunds Hof. **Nicht an der Tabustelle**: Die meidet sie ebenfalls. Ob ihr Mann dabei ist: offen.
 
 
-### 38 · Die Nachricht liegt bereit
+### 39 · Die Nachricht liegt bereit
 
 > **POV:** Girlin · **Jahr +9** · **Offen:** -
 
@@ -536,7 +553,7 @@ Fertig und wetterfest verpackt: ein Bündel aus einer **Strähne ihres eigenen H
 - **Ausgang:** Das Bündel liegt bereit.
 
 
-### 39 · Der Weiler warnt und meidet
+### 40 · Der Weiler warnt und meidet
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Der Weiler-Konflikt hat keinen Ort mehr
 
@@ -549,7 +566,7 @@ Angst und Ärger im Dorf - aber keine Vertreibung.
 > **Nicht an der Tabustelle** (Autor, 18.09.2026): Niemand aus dem Weiler kommt dorthin. Die Warnung erreicht ihn **aus allen drei Richtungen** - **im Weiler**, wenn er für Vorräte kommt, **am Weg zum Bau**, und **auf Semunds Hof**, wo er zu dieser Zeit wohnt. Ob das in diese eine Szene fällt oder sich verteilt, ist Zuschnittfrage.
 
 
-### 40 · Die Wala lässt ihn gewähren
+### 41 · Die Wala lässt ihn gewähren
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder · Der Weiler-Konflikt hat keinen Ort mehr
 
@@ -562,7 +579,7 @@ Sie wird gerufen und sieht es sich an.
 > **Das ist der Wendepunkt** (Autor, 18.09.2026): Weil sie die Stelle und sein Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun Semunds Hof verlassen** und wohnt ab hier auf der Baustelle. Sie vertreibt ihn nicht - ihre Deutung nimmt ihm das Quartier. Wer ihn tatsächlich fortweist, Semund selbst oder der Druck aus dem Weiler, und ob der Auszug eine eigene Szene bekommt: **???**
 
 
-### 41 · Truda hält ihn für verloren
+### 42 · Truda hält ihn für verloren
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
 
@@ -579,7 +596,7 @@ Er sagt ihr, was er tut.
 > **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Truda meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. Das Gespräch findet **im Weiler** statt; **er** kommt zu ihr, nicht umgekehrt.
 
 
-### 42 · Zweifel und Bestätigung
+### 43 · Zweifel und Bestätigung
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
@@ -590,7 +607,7 @@ Der Generator ist fertig - und der Zweifel kehrt zurück.
 - **Ausgang:** Sie bestätigt ihren Entschluss. Der Preis ist bezahlt, bevor der Sohn ankommt.
 
 
-### 43 · Der Angriff - Zündung 1
+### 44 · Der Angriff - Zündung 1
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
@@ -607,7 +624,7 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 > **Am Boden** (Autor, 21.09.2026): Im Moment des Tauschs ist Azzim am Boden, nicht aufrecht - der Ring hat keine Mulde, über der Ringmitte reicht die Kugel nur 1,50 m hoch ([Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde)). Wie genau, klärt der Szenentext.
 
 
-### 44 · Azzim vor den Füßen
+### 45 · Azzim vor den Füßen
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** -
 
@@ -624,7 +641,7 @@ Ein fremder Mann fällt aus dem Nichts in den Ring.
 > **Azzims Blick auf den Ring** (Autor, 22.09.2026): Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich nur in seinem Verhalten - ausgesprochen wird es nie. Aus seiner Sicht wird nicht erzählt.
 
 
-### 45 · Der Kampf - Zündung 2
+### 46 · Der Kampf - Zündung 2
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** -
 
@@ -639,7 +656,7 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 > **Am Boden** (Autor, 21.09.2026): Tibun ist beim Tausch mittig am Boden - ob er liegt oder kniet, klärt der Szenentext. Aufrecht würde ihn die Kugel durchtrennen.
 
 
-### 46 · Wiedersehen und Schluss
+### 47 · Wiedersehen und Schluss
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
