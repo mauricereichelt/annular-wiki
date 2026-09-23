@@ -33,7 +33,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
-- [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
 - [C-189: Der Weiler-Konflikt hat keinen Ort mehr ○](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
@@ -203,6 +202,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-142: Gliederung - Prolog, Anfang, Hauptteil, Schluss ✓](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-130: Wie der Transport terminiert wird - zwei Jahre, Zusage kommt später ✓](#c-130-wie-der-transport-terminiert-wird-)
 - [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
+- [C-143: Szenenzuschnitt - der Autor baut die Liste selbst um ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 
 ---
 
@@ -3060,7 +3060,7 @@ Aufgefallen am 04.09.2026: Die Ablage der geschriebenen Szenen ist in **Prolog /
 
 ---
 
-### C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○
+### C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ✓
 
 Angelegt am 04.09.2026 zusammen mit [Szenen.md](../Plots/Plot-1/Szenen.md). Der Inhalt der Datei wurde 1:1 aus dem Schaubild *Szenenliste* übernommen - Wortlaut geprüft, 44 von 44 Szenen identisch. Damit steht der Szenenzuschnitt jetzt **im Wiki**, und genau das ist die Lage, vor der [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-) warnt.
 
@@ -3072,7 +3072,15 @@ Die Statuszeile der Datei steht deshalb auf `???`. Die Herkunft ist derzeit **ni
 
 **Entschieden (Autor, 05.09.2026): Der Gesamtvorbehalt im Kopf der Datei genügt.** Eine Herkunftsmarkierung je Szene wird nicht geführt - sie wäre 45 Einzelentscheidungen und müsste von den Generatoren mitgelesen werden. Der Vorbehalt steht jetzt im Abschnitt *Die Felder* von [Szenen.md](../Plots/Plot-1/Szenen.md).
 
-**Offen bleibt die Sache selbst · ???** Der Zuschnitt ist weiterhin unbestätigt. Solange das so ist, darf auf keiner einzelnen Szenengrenze weitergebaut werden.
+**Die Sache selbst bleibt beim Autor.** Der Zuschnitt ist unbestätigt, bis der Autor die Liste umgebaut hat; bis dahin wird auf keiner einzelnen Szenengrenze weitergebaut. Das ist kein offener Punkt mehr, sondern seine eigene Arbeit.
+
+
+**Autor, 23.09.2026:** *„Ich gehe die Szenenliste sowieso manuell durch und baue sie um."* Eine Bestätigungsrunde Szene für Szene entfällt damit; der Gesamtvorbehalt im Kopf von [Szenen.md](../Plots/Plot-1/Szenen.md) bleibt stehen, bis der Umbau erfolgt ist. Für die Felder *Will / Hindernis / Ausgang* gibt es keine Vorgabe - sie bleiben Arbeitsstand.
+
+**Die Statuszeile der Datei ist entfernt** (Autor, 23.09.2026: *„Kann weg"*). Szenen.md trägt damit keinen Statusmarker mehr; kein Werkzeug hing daran.
+
+
+**Geschlossen (Autor, 23.09.2026).** Auf Autorenebene ist nichts mehr zu entscheiden: Der Umbau der Liste ist Sache des Autors.
 
 ---
 
@@ -4030,7 +4038,7 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 - **Wer weist ihn vom Hof?** Semund selbst, oder der Druck aus dem Weiler, dem Semund nachgibt? Beides steht mit *Semund duldet ihn, neutral bis familiär* in Spannung.
 - **Bekommt der Auszug eine eigene Szene**, oder passiert er zwischen zwei Szenen?
 - **Wie erlebt Millia das**, die mit im Haus ist?
-- **Ob die Warnung aus allen drei Richtungen in eine Szene fällt** oder sich über mehrere verteilt - Zuschnittfrage, siehe [C-143](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-).
+- **Ob die Warnung aus allen drei Richtungen in eine Szene fällt** oder sich über mehrere verteilt - Zuschnittfrage, siehe [C-143 ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-).
 
 Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
 

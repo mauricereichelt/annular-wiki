@@ -1,7 +1,5 @@
 # Szenen - Plot 1
 
-> **Status:** ???
-
 **Diese Datei ist die einzige Quelle für den Szenenzuschnitt.** Nummer, Titel, Reihenfolge, POV und die Felder Will / Hindernis / Ausgang werden ausschließlich hier gepflegt. Das Schaubild [Szenenliste](../../Notizen/Schaubilder/Szenenliste.html) wird aus dieser Datei erzeugt und ist keine Zweitfassung.
 
 **Der Zuschnitt ist Arbeitsstand, nicht entschieden** - auch wenn er hier im Wiki steht. Welche Ereignisse in eine Szene fallen, wo geschnitten wird und in welcher Reihenfolge erzählt wird, legt der Autor fest.
@@ -27,7 +25,7 @@ Jede Szene trägt drei Felder. Wie sie belegt werden, ist festgelegt (05.09.2026
 
 `keins` und `???` sind **nicht dasselbe**: `???` ist eine Arbeitsaufgabe, `keins` eine dramaturgische Aussage. Die Kennzahlen zählen beides getrennt.
 
-**Der Zuschnitt ist Arbeitsstand.** Welche Ereignisse eine Szene bilden, wo geschnitten wird und wie die Szenen heißen, hat der Autor nicht Szene für Szene bestätigt - der Vorbehalt gilt für die ganze Datei; eine Herkunftsmarkierung je Szene wird bewusst **nicht** geführt (entschieden 05.09.2026). Gedeckt sind die **Ereignisse** aus der [Zeitleiste](Zeitleiste.md), nicht ihre Bündelung.
+**Der Zuschnitt ist Arbeitsstand.** Welche Ereignisse eine Szene bilden, wo geschnitten wird und wie die Szenen heißen, hat der Autor nicht Szene für Szene bestätigt - der Vorbehalt gilt für die ganze Datei; eine Herkunftsmarkierung je Szene wird bewusst **nicht** geführt (entschieden 05.09.2026). **Der Autor geht die Liste selbst durch und baut sie um** (Autor, 23.09.2026); eine Bestätigungsrunde Szene für Szene findet nicht statt. Gedeckt sind die **Ereignisse** aus der [Zeitleiste](Zeitleiste.md), nicht ihre Bündelung.
 
 ## Zählung
 
