@@ -49,6 +49,8 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 | Schluss | ab Szene 43 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
+**Die Benennung gilt verbindlich** (Autor, 23.09.2026): **Prolog · Anfang · Hauptteil · Schluss**. Der **Hauptteil bleibt ein durchgehender Block** ohne innere Grenze. Im fertigen Buch ist **nur der Prolog sichtbar**; Anfang, Hauptteil und Schluss sind reine Arbeitsordnung und erscheinen nicht als Überschrift.
+
 **Erzählt wird verschränkt** (Autor, 14.09.2026): Die Stränge wechseln sich ab, der Wechsel darf unregelmäßig sein. Die Liste unten steht chronologisch.
 
 ## Kennzahlen

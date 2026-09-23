@@ -34,7 +34,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
-- [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
@@ -202,6 +201,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-125: Transport - Schlitten aus Palmstämmen, Kamele ziehen ✓](#c-125-das-transportverfahren-ist-offen-)
 - [C-119: Wiki-Altlast - Tabelle abgeschlossen, neue Funde direkt lösen ✓](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - sein Ansehen hängt daran ✓](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
+- [C-142: Gliederung - Prolog, Anfang, Hauptteil, Schluss ✓](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 
 ---
 
@@ -3020,13 +3020,27 @@ Kein Widerspruch, nur eine Enge, die vorher nicht bestand.
 
 ---
 
-### C-142: Wie die geschriebenen Szenen gegliedert werden ○
+### C-142: Wie die geschriebenen Szenen gegliedert werden ✓
 
 Aufgefallen am 04.09.2026: Die Ablage der geschriebenen Szenen ist in **Prolog / Akt-1 / Akt-2 / Finale** unterteilt. Die am 04.09.2026 besprochene Gliederung heißt dagegen **Prolog / Anfang / Hauptteil / Schluss**. Beides sind Vierteilungen, aber mit verschiedenen Namen - und „Akt-1/Akt-2" legt eine Zweiteilung der Mitte nahe, die nirgends beschlossen ist.
 
 **Zu klären · ???** Welche Benennung gilt. Hängt an [C-139](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-) und [C-140](#c-140-wo-der-anfang-endet-): Bei blockweiser Erzählung wäre eine Aktstruktur je Strang nötig, bei verschränkter eine gemeinsame.
 
 > **Autor am 05.09.2026:** Die Ablage liegt außerhalb dieses Wikis und wird hier bis auf Weiteres nicht geführt. Das Umbenennen ist reine Technik und geschieht, sobald die Benennung feststeht.
+
+
+**Befund (Claude, 23.09.2026):** Die Benennung *Prolog / Anfang / Hauptteil / Schluss / Epilog* stammt vom Autor selbst (04.09.2026). *Akt-1 / Akt-2 / Finale* steht ausschließlich in der Ablage außerhalb des Wikis; im Wiki und im Generator der [Szenenliste](Schaubilder/Szenenliste.html) gab es diese Namen nie.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| Frage | Antwort |
+|---|---|
+| **Welche Benennung gilt?** | **Prolog · Anfang · Hauptteil · Schluss** - die Ablage wird danach umbenannt |
+| **Wird der Hauptteil geteilt?** | **Nein, ein durchgehender Hauptteil** ohne innere Grenze |
+| **Sind die Teile im Buch sichtbar?** | **Nur der Prolog ist sichtbar**; die übrigen Teile bleiben Arbeitsordnung |
+
+- Eingetragen in [Szenen.md](../Plots/Plot-1/Szenen.md#gliederung).
+- Das Umbenennen der Ablage ist reine Technik und Sache des Autors (so festgehalten am 05.09.2026).
 
 ---
 
