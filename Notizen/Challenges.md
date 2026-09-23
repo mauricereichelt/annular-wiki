@@ -35,7 +35,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
-- [C-189: Der Weiler-Konflikt hat keinen Ort mehr ○](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -203,6 +202,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-130: Wie der Transport terminiert wird - zwei Jahre, Zusage kommt später ✓](#c-130-wie-der-transport-terminiert-wird-)
 - [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
 - [C-143: Szenenzuschnitt - der Autor baut die Liste selbst um ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
+- [C-189: Der Weiler-Konflikt - Auszug vom Hof, eigene Szene ✓](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
 
 ---
 
@@ -1549,9 +1549,9 @@ Berührt [C-055](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) und [C-
 | **Haltung im Finale** | Azzim (Zündung 1) und Tibun (Zündung 2) sind im Moment des Tauschs **am Boden**, nicht aufrecht. Ob sie liegen oder knien, klärt der Szenentext |
 | **Muldentiefe der Nutzer-Zivilisation** | **???** - erst, wenn eine Geschichte sie braucht |
 
-**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Ringebene; liegt der Ring auf dem Boden statt bündig darin, 1,575 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#46--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
+**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Ringebene; liegt der Ring auf dem Boden statt bündig darin, 1,575 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#47--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
 
-**Mitkorrigiert:** Szene 3 sagte, Girlin „stand" vollständig in der Ringöffnung - sie liegt. Szene 45 ließ Azzim „neben den Ring" fallen - die Kugel liegt ganz innerhalb der Ringöffnung, er kommt **im** Ring an.
+**Mitkorrigiert:** Szene 3 sagte, Girlin „stand" vollständig in der Ringöffnung - sie liegt. Szene 46 ließ Azzim „neben den Ring" fallen - die Kugel liegt ganz innerhalb der Ringöffnung, er kommt **im** Ring an.
 
 **Girlins Körpergröße** (Restpunkt oben) spielt für den Ring keine Rolle mehr: In Plot 1 betritt sie keinen Ring wieder.
 
@@ -1681,7 +1681,7 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 | **Schlusspointe** | Bleibt, aber **nur im Verhalten** - man ahnt es an seinem Blick auf den Ring, ausgesprochen wird es nie. Die „gestrandete" Fassung ist überholt |
 | **Verständigung** | Woran Tibun erkennt, dass Azzim Girlin kennt, **klärt der Szenentext** |
 
-Damit ist auch „ob er den Gedanken überlebt und ob ihn jemand hört" beantwortet: Er überlebt ihn nicht, und niemand hört ihn. Eingetragen in [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag) und [Szenen](../Plots/Plot-1/Szenen.md#45--azzim-vor-den-füßen). Das Motiv ohne Ring bleibt in C-029 offen. Geschlossen.
+Damit ist auch „ob er den Gedanken überlebt und ob ihn jemand hört" beantwortet: Er überlebt ihn nicht, und niemand hört ihn. Eingetragen in [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag) und [Szenen](../Plots/Plot-1/Szenen.md#46--azzim-vor-den-füßen). Das Motiv ohne Ring bleibt in C-029 offen. Geschlossen.
 
 ---
 
@@ -2872,7 +2872,7 @@ Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026):
 - Eingetragen in [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md).
 - **Beantwortet zugleich die erste Teilfrage von [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)** („Wie geht der Kampf ohne Azzim weiter?").
 - **Für [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) liefert das nichts.** Die Hoffnung, aus bezahlten Männern entstehe wirtschaftlicher Druck, ist damit hinfällig - der Zug kostet ihn nichts. Seine zweite Seite muss anderswoher kommen.
-- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 47](../Plots/Plot-1/Szenen.md).
+- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 48](../Plots/Plot-1/Szenen.md).
 
 ---
 
@@ -4000,7 +4000,7 @@ Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](
 
 ---
 
-### C-189: Der Weiler-Konflikt hat keinen Ort mehr ○
+### C-189: Der Weiler-Konflikt hat keinen Ort mehr ✓
 
 Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 
@@ -4041,6 +4041,19 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 - **Ob die Warnung aus allen drei Richtungen in eine Szene fällt** oder sich über mehrere verteilt - Zuschnittfrage, siehe [C-143 ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-).
 
 Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
+
+
+**Entschieden (Autor, 23.09.2026):**
+
+| Frage | Antwort |
+|---|---|
+| **Wer weist Tibun vom Hof?** | **Der Druck aus dem Weiler** - Semund gibt nach, er tut es nicht aus eigenem Entschluss |
+| **Wie erlebt Millia das?** | **Sie treibt den Auszug mit voran** |
+| **Eigene Szene?** | **Ja** - *Der Auszug vom Hof*, zwischen dem Spruch der Wala und *Truda hält ihn für verloren* |
+
+- Eingetragen in [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen.md](../Plots/Plot-1/Szenen.md).
+- Die Zuschnittfrage (ob die Warnung aus allen drei Richtungen in eine Szene fällt) klärt der Autor beim Umbau der Szenenliste ([C-143 ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)).
+- Die beiden Befunde zum Leben auf der Baustelle - **Feuer unter einem Reetdach im Winter** und der **Schlafplatz außerhalb der Tauschkugel** - laufen in [C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-) weiter.
 
 ---
 

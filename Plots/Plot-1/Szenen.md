@@ -44,7 +44,7 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 | Prolog | Szene 1 (Das Beben) | entschieden 04.09.2026 |
 | Anfang | ab Szene 2 bis Szene 4 (Der Blitz - Tibun) | entschieden 14.09.2026 - endet nach Girlins Verschwinden, aus Tibuns Sicht |
 | Hauptteil | dazwischen | ergibt sich aus den beiden Grenzen |
-| Schluss | ab Szene 44 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
+| Schluss | ab Szene 45 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
 **Die Benennung gilt verbindlich** (Autor, 23.09.2026): **Prolog · Anfang · Hauptteil · Schluss**. Der **Hauptteil bleibt ein durchgehender Block** ohne innere Grenze. Im fertigen Buch ist **nur der Prolog sichtbar**; Anfang, Hauptteil und Schluss sind reine Arbeitsordnung und erscheinen nicht als Überschrift.
@@ -53,7 +53,7 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **47 Szenen** (24 Tibun · 23 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **2 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **48 Szenen** (25 Tibun · 23 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **2 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -553,7 +553,7 @@ Fertig und wetterfest verpackt: ein Bündel aus einer **Strähne ihres eigenen H
 
 ### 40 · Der Weiler warnt und meidet
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Der Weiler-Konflikt hat keinen Ort mehr
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Angst und Ärger im Dorf - aber keine Vertreibung.
 
@@ -566,7 +566,7 @@ Angst und Ärger im Dorf - aber keine Vertreibung.
 
 ### 41 · Die Wala lässt ihn gewähren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder · Der Weiler-Konflikt hat keinen Ort mehr
+> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder
 
 Sie wird gerufen und sieht es sich an.
 
@@ -574,10 +574,23 @@ Sie wird gerufen und sieht es sich an.
 - **Hindernis:** Sie verlöre ihr Gesicht, wenn sie selbst mehr über den Ring wissen wollte
 - **Ausgang:** Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein - und lässt ihn gewähren.
 
-> **Das ist der Wendepunkt** (Autor, 18.09.2026): Weil sie die Stelle und sein Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun Semunds Hof verlassen** und wohnt ab hier auf der Baustelle. Sie vertreibt ihn nicht - ihre Deutung nimmt ihm das Quartier. Wer ihn tatsächlich fortweist, Semund selbst oder der Druck aus dem Weiler, und ob der Auszug eine eigene Szene bekommt: **???**
+> **Das ist der Wendepunkt** (Autor, 18.09.2026): Weil sie die Stelle und sein Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun Semunds Hof verlassen** und wohnt ab hier auf der Baustelle. Sie vertreibt ihn nicht - ihre Deutung nimmt ihm das Quartier. **Fort weist ihn der Druck aus dem Weiler** (Autor, 23.09.2026), dem Semund nachgibt; **[Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) treibt den Auszug mit voran**. Er bekommt eine **eigene Szene** (*Der Auszug vom Hof*).
 
 
-### 42 · Truda hält ihn für verloren
+### 42 · Der Auszug vom Hof
+
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
+
+Nach dem Spruch der [Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) drängt der Weiler, und [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) gibt nach.
+
+- **Will:** ???
+- **Hindernis:** Der Druck aus dem Weiler - [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) treibt den Auszug mit voran
+- **Ausgang:** Tibun verlässt den Hof und wohnt ab hier auf der Baustelle.
+
+> **Eigene Szene** (Autor, 23.09.2026): **Nicht Semund weist ihn fort**, sondern der **Druck aus dem Weiler**, dem er nachgibt. **Millia treibt den Auszug mit voran.**
+
+
+### 43 · Truda hält ihn für verloren
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
 
@@ -594,7 +607,7 @@ Er sagt ihr, was er tut.
 > **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Truda meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. Das Gespräch findet **im Weiler** statt; **er** kommt zu ihr, nicht umgekehrt.
 
 
-### 43 · Zweifel und Bestätigung
+### 44 · Zweifel und Bestätigung
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
@@ -605,7 +618,7 @@ Der Generator ist fertig - und der Zweifel kehrt zurück.
 - **Ausgang:** Sie bestätigt ihren Entschluss. Der Preis ist bezahlt, bevor der Sohn ankommt.
 
 
-### 44 · Der Angriff - Zündung 1
+### 45 · Der Angriff - Zündung 1
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
@@ -622,7 +635,7 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 > **Am Boden** (Autor, 21.09.2026): Im Moment des Tauschs ist Azzim am Boden, nicht aufrecht - der Ring hat keine Mulde, über der Ringmitte reicht die Kugel nur 1,50 m hoch ([Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde)). Wie genau, klärt der Szenentext.
 
 
-### 45 · Azzim vor den Füßen
+### 46 · Azzim vor den Füßen
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** -
 
@@ -639,7 +652,7 @@ Ein fremder Mann fällt aus dem Nichts in den Ring.
 > **Azzims Blick auf den Ring** (Autor, 22.09.2026): Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich nur in seinem Verhalten - ausgesprochen wird es nie. Aus seiner Sicht wird nicht erzählt.
 
 
-### 46 · Der Kampf - Zündung 2
+### 47 · Der Kampf - Zündung 2
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** -
 
@@ -654,7 +667,7 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 > **Am Boden** (Autor, 21.09.2026): Tibun ist beim Tausch mittig am Boden - ob er liegt oder kniet, klärt der Szenentext. Aufrecht würde ihn die Kugel durchtrennen.
 
 
-### 47 · Wiedersehen und Schluss
+### 48 · Wiedersehen und Schluss
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 

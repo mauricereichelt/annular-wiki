@@ -56,6 +56,8 @@ Sie tut damit nichts Falsches - und genau das ist die Kränkung für [Tibun](../
 
 **Zu [Truda](Truda.md) findet sie einen Weg, zu [Tibun](../Tibun.md) nicht** (Autor, 10.09.2026). Bei dem Kind gelingt es; beim Sechzehnjährigen nicht.
 
+**Beim Auszug treibt sie mit voran** (Autor, 23.09.2026): Als der Weiler nach dem Spruch der [Wala](Wala-Wandernd.md) darauf drängt, dass [Tibun](../Tibun.md) den Hof verlässt, ist sie es, die es mit vorantreibt; [Semund](Semund.md) gibt nach.
+
 **Tibun hasst sie nicht** (Autor, 10.09.2026) - er hat aber auch **kein Interesse an einer guten Beziehung**. Er will seine Mutter zurück, und alles andere ist ihm gleich. Millia steht damit vor einer Tür, die nicht zugeschlagen wird und sich auch nicht öffnet.
 
 ---
