@@ -55,6 +55,8 @@ Weiß **nichts** vom vergrabenen Ring am Skir.
 
 **Die beiden Walas sprechen als eine Stimme** - als die Stimme der Götter (Autor, 07.09.2026). Die eine hält sich an das Wort der anderen; ein Spruch der einen wird von der anderen nicht neu geprüft. Für die Menschen gibt es damit **keine zweite Instanz**: Wer eine Wala fragt, hat sie alle gefragt.
 
+**Ihr Verhältnis zu [Hadurik](Hadurik.md)** (Autor, 23.09.2026): **getrennte Sphären** - sie entscheidet Götterdinge, der Häuptling Rechtsdinge, und keiner greift dem anderen ins Amt. **Wo die Götter sprechen, endet seine Macht**: Trifft beides aufeinander, gilt ihr Wort.
+
 **Feste Rolle - sie erlaubt Semunds Neubindung:** [Semund](Semund.md) und [Millia](Millia.md) reisen im Jahr 0 nach Tingsal und holen die **Erlaubnis zur Verlobung** bei ihr. Sie prüft die Toterklärung [Girlins](../Girlin.md) nicht neu - ihre Schwester hat gesprochen, und das genügt.
 
 ---

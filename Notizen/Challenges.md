@@ -12,7 +12,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
 **Offen**
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
-- [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
 - [C-025: Girlin - Charakter & Fähigkeiten ○](#c-025-girlin---charakter--fähigkeiten-)
 - [C-026: Bellbrim - historische Plausibilität & Herkunft ○](#c-026-bellbrim---historische-plausibilität--herkunft-)
@@ -203,6 +202,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-143: Szenenzuschnitt - der Autor baut die Liste selbst um ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-189: Der Weiler-Konflikt - Auszug vom Hof, eigene Szene ✓](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
 - [C-002: Tibuns Elektrizitätsquelle - Bernsteinrad, Kette, Zugschnur ✓](#c-002-tibuns-elektrizitätsquelle-)
+- [C-009: Häuptling von Tingsal - Rolle, Rang und Charakter ✓](#c-009-häuptling-von-tingsal-)
 
 ---
 
@@ -311,11 +311,27 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 
 ---
 
-### C-009: Häuptling von Tingsal ○
+### C-009: Häuptling von Tingsal ✓
 
 [Tingsal](../Orte/Tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../Orte/Skirraa.md)) hat als Anführer [**Hadurik**](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Name gesetzt, eigene Datei angelegt). **Weiterhin offen:** Charakter und Rolle des Häuptlings - als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern; Verhältnis zu [Tibun](../Menschen/Nordvolk/Tibun.md)/Skirraa sowie zur sesshaften [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) (lebt ebenfalls in Tingsal).
 
 **Teilentscheidung (Autor, 15.09.2026):** In Plot 1 wird Hadurik **nur erwähnt**, er tritt nicht selbst auf. Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). **Weiter offen:** Charakter, Verhältnis zu Tibun, Skirraa und der Wala.
+
+
+**Befund (Claude, 23.09.2026):** Die Formulierung *„möglicher Gegenpol zu Skirraas freien Bauern"* stammt aus dieser Challenge selbst (Claude, Anlage) und war nie Autorenwort.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| Frage | Antwort |
+|---|---|
+| **Verhältnis Skirraa - Tingsal** | Drei Dinge zugleich: **fern und im Alltag ohne Belang** · **Autorität im Streitfall** · **Schutzherr mit Abgaben** |
+| **Häuptling oder Wala?** | **Getrennte Sphären** - Götterdinge bei der Wala, Rechtsdinge bei ihm - **und**: wo die Götter sprechen, **endet seine Macht** |
+| **Charakter** | **Ein alter Wahrer der Ordnung** |
+
+- Eingetragen in [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und [Tingsal](../Orte/Tingsal.md).
+- **Offen bleibt**, was Skirraa konkret an Abgaben leistet · **???** - Weltenbau, für Plot 1 nicht nötig.
+- Personendaten (Familie, frühes Leben, Fähigkeiten, Inspiration) laufen weiter in [C-048](#c-048-hadurik---offene-felder-).
+- Das passt zum bereits Entschiedenen: Bei Girlins Toterklärung **genügt der Spruch der Wala**, Hadurik hat damit nichts zu tun.
 
 ---
 

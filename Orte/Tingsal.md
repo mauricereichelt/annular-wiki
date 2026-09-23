@@ -15,6 +15,8 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 
 ## Verhältnis zu Skirraa
 - Skirraa ist ein abseitiger Weiler ohne eigene Seherin; für Recht, Thing und Orakel reist man nach Tingsal
+- **Dreierlei zugleich** (Autor, 23.09.2026): im Alltag **fern und ohne Belang**, im **Streitfall die Autorität**, und **Schutzherrschaft gegen Abgaben** - Skirraa leistet [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) Abgaben, er steht dafür als Schutzherr. Was geleistet wird: **???**
+- **Häuptling und Wala** (Autor, 23.09.2026): getrennte Sphären - Götterdinge bei der [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), Rechtsdinge beim Häuptling -, und **wo die Götter sprechen, endet seine Macht**
 - Die wandernde Wala (Zwillingsschwester) zieht durchs Hinterland und kommt gelegentlich nach Skirraa - **erreichbar nur über ihre Schwester hier**, die entscheidet, ob ein Anliegen es rechtfertigt, sie zu schicken (Autor, 11.09.2026)
 
 ## Offen
