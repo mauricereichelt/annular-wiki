@@ -29,6 +29,8 @@ Ein **Rad**, dessen Lauffläche ein Reibekörper aus Bernstein ist. Kein Kondukt
   </tbody>
 </table>
 
+> **Bestätigt (Autor, 23.09.2026):** Die Maße (**Rad-Ø 2 m**, **Kranz rund 20 kg**), das **Reibkissen aus Fell, Wolle oder Leder** und die Regel **kein Eisen in der Reibzone** stammen aus einer frühen Ausarbeitung von Claude; sie gelten seit dem 23.09.2026 als Stand des Autors.
+
 Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, gestrichen).
 
 ---
@@ -86,7 +88,7 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 
 ## Grenzen & Gefahr (Authentizität)
 
-Eine statische Entladung ist schmerzhaft und im Dunkeln als blau-weißer Blitz sichtbar - aber **keine Brandwunden**, dafür ist die Energie um Größenordnungen zu klein. Die reale Gefahr am Generator kommt aus dem **mechanischen** Teil: heißes durchrutschendes Seil, schnell laufende Rollen.
+Eine statische Entladung ist schmerzhaft und im Dunkeln als blau-weißer Blitz sichtbar - aber **keine Brandwunden** (Autor, 23.09.2026), dafür ist die Energie um Größenordnungen zu klein. Die reale Gefahr am Generator kommt aus dem **mechanischen** Teil: heißes durchrutschendes Seil, schnell laufende Rollen.
 
 ---
 

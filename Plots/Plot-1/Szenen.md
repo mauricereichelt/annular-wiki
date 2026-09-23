@@ -275,7 +275,7 @@ Er kommt bei Audmar und Siga unter - den Schiffszimmerer hat er auf der Fähre k
 
 ### 18 · Sammeln ohne zu wissen wie
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** Tibuns Elektrizitätsquelle
+> **POV:** Tibun · **Jahr +1** · **Offen:** -
 
 Bernstein durch Handel und eigenes Sammeln.
 
@@ -297,7 +297,7 @@ Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffe
 
 ### 20 · Der Erkenntnismoment
 
-> **POV:** Tibun · **Jahr +4** · **Offen:** Tibuns Elektrizitätsquelle
+> **POV:** Tibun · **Jahr +4** · **Offen:** -
 
 Ein Seil rutscht unter Last, wird heiß, raucht.
 

@@ -11,7 +11,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 ## Übersicht
 
 **Offen**
-- [C-002: Tibuns Elektrizitätsquelle ○](#c-002-tibuns-elektrizitätsquelle-)
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
 - [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
@@ -203,6 +202,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
 - [C-143: Szenenzuschnitt - der Autor baut die Liste selbst um ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-189: Der Weiler-Konflikt - Auszug vom Hof, eigene Szene ✓](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
+- [C-002: Tibuns Elektrizitätsquelle - Bernsteinrad, Kette, Zugschnur ✓](#c-002-tibuns-elektrizitätsquelle-)
 
 ---
 
@@ -214,7 +214,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
 ---
 
-### C-002: Tibuns Elektrizitätsquelle ○
+### C-002: Tibuns Elektrizitätsquelle ✓
 
 Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz für den gestrichenen Van-de-Graaff, C-005.)
 
@@ -231,6 +231,21 @@ Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz fü
 **Offen - Übertragung (finaler Aufbau):** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades / Metallstab / an der Decke isoliert aufgehängte **Metallkette**. Die Kette ausdrücklich als *dramaturgisches Element* zugelassen, auch wenn technisch ineffizient - Tibun darf als Erfinder Umwege/Fehler machen.
 
 (Aktivierung des Rings selbst → C-012.)
+
+
+**Befund (Claude, 23.09.2026):** Der letzte offene Punkt dieser Challenge - **wie die Ladung vom Rad zum Ring kommt** - ist beantwortet: über eine **isoliert an Seilen hängende Kette**, ausgelöst durch eine **Zugschnur** ([C-099 ✓](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-), [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-), [C-187 ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)). Der übrige Inhalt wird in [Tibuns Generator](../Technik/Tibuns-Generator.md) geführt.
+
+**Entschieden (Autor, 23.09.2026):** Die vier Angaben, die aus der frühen Ausarbeitung von Claude stammen und bis dahin ohne Herkunft im Wiki standen, **gelten als Stand des Autors**:
+
+| Angabe | |
+|---|---|
+| **Kein Eisen in der Reibzone** | gilt |
+| **Reibkissen aus Fell, Wolle oder Leder** | gilt |
+| **Rad-Ø 2 m, Kranz rund 20 kg** | gilt - die einzigen Maße des Generators |
+| **Keine Brandwunden** | gilt - die Gefahr kommt aus dem mechanischen Teil |
+
+- Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md#aufbau---das-rotierende-bernsteinrad).
+- Noch offen am Generator, in eigenen Challenges: die **Bauart der Übersetzung** ([C-186 ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-), Bauart ???) und die **Werkstatt** ([C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)).
 
 ---
 
