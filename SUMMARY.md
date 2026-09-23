@@ -28,7 +28,7 @@
     * [Wandernde Wala](Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)
     * [Frida](Menschen/Nordvolk/Nebenfiguren/Frida.md)
     * [Herik](Menschen/Nordvolk/Nebenfiguren/Herik.md)
-    * [Lanke](Menschen/Nordvolk/Nebenfiguren/Lanke.md)
+    * [Landarik](Menschen/Nordvolk/Nebenfiguren/Landarik.md)
     * [Audmar](Menschen/Nordvolk/Nebenfiguren/Audmar.md)
     * [Siga](Menschen/Nordvolk/Nebenfiguren/Siga.md)
 * [Figuren der Kel Aman](Menschen/Kel-Aman/README.md)

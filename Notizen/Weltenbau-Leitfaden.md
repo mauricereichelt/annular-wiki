@@ -76,7 +76,7 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 ### Schicht 2 - Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip - die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
-- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar - nur unentschieden bleiben ist es nicht.
+- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Landarik folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar - nur unentschieden bleiben ist es nicht.
 - [x] **Kel-Aman-Namen:** entschieden 31.08.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
 - [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.

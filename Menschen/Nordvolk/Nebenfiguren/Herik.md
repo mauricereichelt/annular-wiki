@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Vater** | [Lanke](Lanke.md) |
+| **Vater** | [Landarik](Landarik.md) |
 | **Verlobte** | [Frida](Frida.md) |
 
 ---
@@ -37,7 +37,7 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - r
 
 ## Bedeutung in der Geschichte
 
-Wenige Tage nach dem Beben (Jahr 0) wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet - arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
+Wenige Tage nach dem Beben (Jahr 0) wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet - arrangiert von seinem Vater [Landarik](Landarik.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
 
 **Er taucht bei Tibuns Rückkehr (+9/+10) wieder auf und begegnet [Tibun](../Tibun.md)** (Autor, 23.09.2026). In welcher Lage, klärt der Autor beim Schreiben.
 
@@ -47,7 +47,7 @@ Wenige Tage nach dem Beben (Jahr 0) wird seine Verlobung mit [Frida](Frida.md) b
 
 ## Verbindungen zu anderen Charakteren
 
-- Vater: [Lanke](Lanke.md)
+- Vater: [Landarik](Landarik.md)
 - Verlobt mit: [Frida](Frida.md)
 - Unwissentlicher Rivale von: [Tibun](../Tibun.md)
 

@@ -25,12 +25,12 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ○](#c-049-wala-von-tingsal---offene-felder-)
 - [C-050: Wandernde Wala - offene Felder ○](#c-050-wandernde-wala---offene-felder-)
-- [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
+- [C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ○](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -63,12 +63,13 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-041: Bernstein - Geschenk der Mutter ✓](#c-041-prolog---bernstein-fundort-)
-- [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ✓](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
+- [C-042: Prolog - Nebenfiguren Frida, Herik, Landarik ✓](#c-042-prolog---nebenfiguren-frida-herik-landarik-)
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-051: Frida - offene Felder ✓](#c-051-frida---offene-felder-)
 - [C-052: Herik - offene Felder ✓](#c-052-herik---offene-felder-)
+- [C-053: Landarik - offene Felder ✓](#c-053-landarik---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-056: Prolog - Folgen des Bebens im Dorf ✓](#c-056-prolog---folgen-des-bebens-im-dorf-)
@@ -81,7 +82,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ✓](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)
 - [C-065: Prolog - Fischerdorf-Milieu nachziehen ✓](#c-065-prolog---fischerdorf-milieu-nachziehen-)
 - [C-066: Prolog - Bernstein-Herkunft nachziehen ✓](#c-066-prolog---bernstein-herkunft-nachziehen-)
-- [C-067: Herik und Lanke - ortsfremd, keine Freundschaft ✓](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)
+- [C-067: Herik und Landarik - ortsfremd, keine Freundschaft ✓](#c-067-prolog---rollen-von-herik-und-landarik-nachziehen-)
 - [C-068: Prolog - Brand und Brandblasen nachziehen ✓](#c-068-prolog---brand-und-brandblasen-nachziehen-)
 - [C-069: Frida - leiblicher Vater, kein Stiefvater ✓](#c-069-prolog---fridas-familie-und-stiefvater-)
 - [C-070: Prolog - Dateikopf und Versionszeile ✓](#c-070-prolog---dateikopf-und-versionszeile-)
@@ -829,15 +830,15 @@ Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland is
 
 ---
 
-### C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ✓
+### C-042: Prolog - Nebenfiguren Frida, Herik, Landarik ✓
 
-Die Szene führt **Frida** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Lanke** (Bootsbauer) ein - keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)). Frida taucht im späteren Kanon nicht wieder auf - Rolle klären.
+Die Szene führt **Frida** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Landarik** (Bootsbauer) ein - keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)). Frida taucht im späteren Kanon nicht wieder auf - Rolle klären.
 
-**Entschieden:** **Frida** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" - schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-) **angelegt** ([Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)) - die Namen stimmen, die Rollen noch nicht.
+**Entschieden:** **Frida** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" - schärft Tibuns Stich. **Landarik** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-) **angelegt** ([Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog---rollen-von-herik-und-landarik-nachziehen-)) - die Namen stimmen, die Rollen noch nicht.
 
-**Restliche offene Felder** je Figur ausgelagert: [C-051 Frida](#c-051-frida---offene-felder-), [C-052 Herik](#c-052-herik---offene-felder-), [C-053 Lanke](#c-053-lanke---offene-felder-).
+**Restliche offene Felder** je Figur ausgelagert: [C-051 Frida](#c-051-frida---offene-felder-), [C-052 Herik](#c-052-herik---offene-felder-), [C-053 Landarik](#c-053-landarik---offene-felder-).
 
-**Geschlossen (21.09.2026):** Auf Autorenebene ist hier nichts mehr offen. Die Umsetzung in der Szene steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) ([C-067 ✓](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-)); die offenen Felder der drei Figuren laufen in C-051 bis C-053 weiter.
+**Geschlossen (21.09.2026):** Auf Autorenebene ist hier nichts mehr offen. Die Umsetzung in der Szene steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) ([C-067 ✓](#c-067-prolog---rollen-von-herik-und-landarik-nachziehen-)); die offenen Felder der drei Figuren laufen in C-051 bis C-053 weiter.
 
 ---
 
@@ -976,7 +977,7 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 
 ### C-051: Frida - offene Felder ✓
 
-[Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-)): Tritt sie nach dem Prolog noch einmal auf?
+[Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog---nebenfiguren-frida-herik-landarik-)): Tritt sie nach dem Prolog noch einmal auf?
 
 **Teilentscheidung (Autor, 08.09.2026):** Frida ist im Prolog **16**, gleicher Jahrgang wie [Tibun](../Menschen/Nordvolk/Tibun.md). Ein **Wiederauftreten nach dem Prolog ist möglich, aber unwichtig** - der Plot hängt nicht daran, festgelegt ist nichts. Eingetragen in [Frida.md](../Menschen/Nordvolk/Nebenfiguren/Frida.md). **Weiter offen:** Fähigkeiten, Inspiration, Name ihres Vaters.
 
@@ -998,7 +999,7 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 
 ### C-052: Herik - offene Felder ✓
 
-[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-)).
+[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog---nebenfiguren-frida-herik-landarik-)).
 
 **Teilentscheidung (Autor, 08.09.2026):** Herik ist im Prolog **17-18** - kaum älter als [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) und [Tibun](../Menschen/Nordvolk/Tibun.md). Damit werden zwei fast Gleichaltrige verheiratet: Die Väter handeln, die Beteiligten nicht. Kein Altersgefälle, das Fridas Unglück erklären würde - es reicht, dass niemand sie gefragt hat. **Wiederauftreten möglich, aber unwichtig** (wie [C-051](#c-051-frida---offene-felder-)). Eingetragen in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md). **Weiter offen:** Fähigkeiten, Inspiration.
 
@@ -1016,11 +1017,26 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 
 ---
 
-### C-053: Lanke - offene Felder ○
+### C-053: Landarik - offene Felder ✓
 
-[Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md): Alter, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Derzeit reine Funktionsfigur des Prologs - gut möglich, dass hier alles **bewusst offen** bleibt; das entscheidet der Autor.
+[Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md): Alter, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Derzeit reine Funktionsfigur des Prologs - gut möglich, dass hier alles **bewusst offen** bleibt; das entscheidet der Autor.
 
-**Teilentscheidung (Autor, 08.09.2026):** Lanke ist in Jahr 0 **etwa 40** - früh Vater geworden, [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md) ist 17-18. Er steht voll im Saft: Die Heirat seines Sohnes ist **kein Vorgriff auf die Hofübergabe, sondern Ausbau**. Eingetragen in [Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md). **Weiter offen:** frühes Leben, Fähigkeiten, Inspiration - hier kann vieles offen bleiben, er ist Funktionsfigur des Prologs.
+**Teilentscheidung (Autor, 08.09.2026):** Landarik ist in Jahr 0 **etwa 40** - früh Vater geworden, [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md) ist 17-18. Er steht voll im Saft: Die Heirat seines Sohnes ist **kein Vorgriff auf die Hofübergabe, sondern Ausbau**. Eingetragen in [Landarik.md](../Menschen/Nordvolk/Nebenfiguren/Landarik.md). **Weiter offen:** frühes Leben, Fähigkeiten, Inspiration - hier kann vieles offen bleiben, er ist Funktionsfigur des Prologs.
+
+**Entschieden (Autor, 23.09.2026):**
+
+| | |
+|---|---|
+| **Frühes Leben** | **Hof vom Vater geerbt** |
+| **Fähigkeiten** | **Keine besonderen** |
+| **Wiederauftreten** | **Nein** - nach dem Prolog nicht mehr |
+| **Inspiration** | Adam Copeland aus der Serie „Vikings" |
+| **Urform** | **Landarik** (Land + mächtig) statt *Landwara* - `-wara` ist im Namenssystem weiblich |
+| **Rufname** | **Landarik** statt *Lanke* - er trägt den Urnamen wie Hadurik, Herik und Audmar; `-e` ist keine Endung des Musters |
+
+- Eingetragen in [Landarik.md](../Menschen/Nordvolk/Nebenfiguren/Landarik.md). Umbenannt in allen Dateien samt Dateiname, [SUMMARY.md](../SUMMARY.md), Challenge-Titeln und Ankern; Tabelle in [C-092](#c-092-namenssystem-des-nordvolks-) nachgezogen.
+- Der Eindruck des Autors, dass die meisten Namen wie deutsche Spitznamen klingen → [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-).
+
 ---
 
 ### C-054: Tingsal - Halle & Thinggeschehen ✓
@@ -1253,9 +1269,9 @@ Die Prolog-Szene *Die Entdeckung* steht wieder auf der **Originalfassung des Aut
 
 > **Nachgeprüft am 05.09.2026:** Die Datei trägt inzwischen die Kopfzeile **„ver 2.3"**, nicht mehr 2.2 - [C-072 ✓](#c-072-prolog---textfassung-22-oder-23-) ist dort umgesetzt. An der Lage ändert das nichts: die Kanon-Anpassungen fehlen in beiden Fassungen gleichermaßen. Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** - der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
 
-Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-) (Schauplatz), [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-) (Milieu), [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-) (Bernstein), [C-067](#c-067-prolog---rollen-von-herik-und-lanke-nachziehen-) (Herik/Lanke), [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-) (Feuer), [C-069](#c-069-prolog---fridas-familie-und-stiefvater-) (Fridas Familie), [C-070](#c-070-prolog---dateikopf-und-versionszeile-) (Dateikopf), [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-) (Alter).
+Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-) (Schauplatz), [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-) (Milieu), [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-) (Bernstein), [C-067](#c-067-prolog---rollen-von-herik-und-landarik-nachziehen-) (Herik/Landarik), [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-) (Feuer), [C-069](#c-069-prolog---fridas-familie-und-stiefvater-) (Fridas Familie), [C-070](#c-070-prolog---dateikopf-und-versionszeile-) (Dateikopf), [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-) (Alter).
 
-[C-038](#c-038-prolog---ortsmaßstab-in-skirraa-), [C-040](#c-040-prolog---fischerdorf-vs-heide-weiler-), [C-041](#c-041-prolog---bernstein-fundort-) und [C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt - die inhaltlichen Entscheidungen selbst bleiben gültig.
+[C-038](#c-038-prolog---ortsmaßstab-in-skirraa-), [C-040](#c-040-prolog---fischerdorf-vs-heide-weiler-), [C-041](#c-041-prolog---bernstein-fundort-) und [C-042](#c-042-prolog---nebenfiguren-frida-herik-landarik-) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt - die inhaltlichen Entscheidungen selbst bleiben gültig.
 
 **Geschlossen (Autor, 21.09.2026):** Alle Kanon-Anpassungen sind entschieden. Was im Szenentext nachzuziehen ist, steht als Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) - ohne C-Nummern, damit sie auch ohne diese Datei lesbar bleibt. Die Szene selbst ruht weiter bis November. Zum Begriff: Die alte Szene *Die Entdeckung* ist seit dem 04.09.2026 **nicht mehr der Prolog**, sondern Szene 2 im Anfang; der Prolog ist nur das Beben.
 
@@ -1285,9 +1301,9 @@ Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 ents
 
 ---
 
-### C-067: Prolog - Rollen von Herik und Lanke nachziehen ✓
+### C-067: Prolog - Rollen von Herik und Landarik nachziehen ✓
 
-In der Szene ist **Lanke** der Bootsbauer **aus dem Dorf** und **Herik** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog---nebenfiguren-frida-herik-lanke-) und in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md)/[Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Herik die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Herik erhalten bleiben soll - sie schärft den Stich anders als die Fremdheit.
+In der Szene ist **Landarik** der Bootsbauer **aus dem Dorf** und **Herik** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog---nebenfiguren-frida-herik-landarik-) und in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md)/[Landarik.md](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Herik die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Herik erhalten bleiben soll - sie schärft den Stich anders als die Fremdheit.
 
 **Entschieden (Autor, 21.09.2026):** **Keine Freundschaft** - Herik bleibt ortsfremd, Tibun kennt ihn kaum. Damit bleibt nur Textarbeit; steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
 
@@ -1319,11 +1335,11 @@ Die Szene begann mit einer Textzeile statt einer Markdown-Überschrift; Versions
 
 ### C-071: Prolog - Tibuns Alter und Heiratsantrag ✓
 
-In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)?
+In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Landariks Bitte)?
 
 > **Aktualisiert am 04.09.2026:** Tibun ist in dieser Szene **16**, nicht 15 - Bernstein-Effekt und Verschwinden liegen beide in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Die Frage bleibt, das Alter ändert sich.
 
-**Historischer Befund (Claude, 14.09.2026):** Ein eigener Antrag passt nicht. In den frühen germanischen Rechten wird die Ehe zwischen den Familien geschlossen: Der Vormund der Braut, meist der Vater, gibt sie, und der Bräutigam oder seine Sippe verhandelt und zahlt den Brautpreis. Ein Sechzehnjähriger ohne eigenen Hof wird dabei nicht ernst genommen. Genau so läuft es im Prolog bei Lanke, der für seinen Sohn anfragt. **Einschränkung:** Die Quellen sind jünger als 550 (festländische Volksrechte ab dem 6. Jh., nordische Rechte erst 12./13. Jh.). Für Jütland um 550 gibt es keine direkte Überlieferung, nur den gemeinsamen Grundzug.
+**Historischer Befund (Claude, 14.09.2026):** Ein eigener Antrag passt nicht. In den frühen germanischen Rechten wird die Ehe zwischen den Familien geschlossen: Der Vormund der Braut, meist der Vater, gibt sie, und der Bräutigam oder seine Sippe verhandelt und zahlt den Brautpreis. Ein Sechzehnjähriger ohne eigenen Hof wird dabei nicht ernst genommen. Genau so läuft es im Prolog bei Landarik, der für seinen Sohn anfragt. **Einschränkung:** Die Quellen sind jünger als 550 (festländische Volksrechte ab dem 6. Jh., nordische Rechte erst 12./13. Jh.). Für Jütland um 550 gibt es keine direkte Überlieferung, nur den gemeinsamen Grundzug.
 
 **Autor (14.09.2026):** Wenn der Antrag historisch nicht passt, ändert er die Szene. **Vielleicht will Tibun Frida nur seine Liebe gestehen** - noch nicht festgelegt · ???
 
@@ -1794,7 +1810,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 ### C-092: Namenssystem des Nordvolks ✓
 
-[Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Tara, Semban, Mellia, Hadurik, Jolyl, Herik, Lanke folgten bisher keinem erkennbaren Bildungsmuster. Germanische Namen der Vendelzeit sind überwiegend **zweigliedrig** (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen.
+[Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Tara, Semban, Mellia, Hadurik, Jolyl, Herik, Landarik folgten bisher keinem erkennbaren Bildungsmuster. Germanische Namen der Vendelzeit sind überwiegend **zweigliedrig** (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen.
 
 **Entschieden (Autor, 31.08.2026).** Gegenstück im Süden: [C-090 ✓](#c-090-kel-aman---eigenname-und-namenssystem-).
 
@@ -1832,7 +1848,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **[Girlin](../Menschen/Nordvolk/Girlin.md)** | *Gairlind* | Speer + Lindenschild | **bleibt** - passt ohne Eingriff |
 | **[Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md)** | *Hathurik* | Kampf + mächtig | **bleibt** - bereits korrekt zweigliedrig |
 | **[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md)** | *Haririk* | Heer + mächtig | **bleibt** |
-| **[Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)** | *Landwara* | Land + Hüter | **bleibt** - Kurzform |
+| **Lanke** → [**Landarik**](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) | *Landarik* | Land + mächtig | **umbenannt 23.09.2026** ([C-053 ✓](#c-053-landarik---offene-felder-)) - vorher Urform *Landwara*, doch `-wara` ist weiblich und `-e` keine Endung des Musters. Trägt jetzt den Urnamen |
 | **[Tibun](../Menschen/Nordvolk/Tibun.md)** | *Theudbern* | Volk + Bär | **bleibt** - Kurzform *Theubun* → Tibun |
 | **Semban** → [**Semund**](../Menschen/Nordvolk/Nebenfiguren/Semund.md) | *Sigmund* | Sieg + Schutz | **umbenannt** |
 | **Mellia** → [**Millia**](../Menschen/Nordvolk/Nebenfiguren/Millia.md) | *Mildhild* | mild + Kampf | **umbenannt** |
@@ -1845,7 +1861,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).
 
-**Nicht umbenannt und auch nicht nötig:** Girlin, Tibun, Hadurik, Herik, Lanke passen bereits ins Muster. Einzige Dehnung ist Tibun (`th` → `t`); strenger wäre *Theubun* oder *Tebun*, der Preis bei der Hauptfigur ist dem Autor zu hoch.
+**Nicht umbenannt und auch nicht nötig:** Girlin, Tibun, Hadurik, Herik passen bereits ins Muster. *(Korrigiert 23.09.2026: Hier stand auch Lanke - der Name passte nicht und ist jetzt Landarik, siehe Tabelle.)* Einzige Dehnung ist Tibun (`th` → `t`); strenger wäre *Theubun* oder *Tebun*, der Preis bei der Hauptfigur ist dem Autor zu hoch.
 
 **Ausstehend:** Der *Prolog* trägt noch die alten Namen (Jolyl). Er wird bei der nächsten Überarbeitung nachgezogen → [C-093](#c-093-prolog---namen-nach-c-092-nachziehen-).
 
@@ -4127,5 +4143,17 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 **Entschieden (Autor, 23.09.2026): Bellbrim bleibt in der Schlucht.** Es ist ihr Zuhause; sie zieht nicht mit. Die Schlucht steht in diesen Wochen also nicht leer.
 
 - Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8) und [Szene 31](../Plots/Plot-1/Szenen.md#31--der-transport).
+
+---
+
+### C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ○
+
+Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
+
+Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), Fridun, [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md).
+
+**Zu klären · ???**
+- Welche Namen stören den Autor?
+- Soll sich das Muster selbst ändern oder nur einzelne Namen?
 
 ---
