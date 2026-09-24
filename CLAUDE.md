@@ -77,9 +77,7 @@ Offene Punkte im Wiki werden **ausschließlich** mit diesen Markern gekennzeichn
 | `bewusst offen` | Bewusst offen gelassen, abgesegnet | **nur der Autor** |
 | konkreter Inhalt | Entschieden | nur der Autor |
 
-Zusätzlich trägt jede Charakterdatei eine Statuszeile `> **Status:** ???` - Werte: `???` · `in Arbeit` · `final`.
-
-**Harte Regel:** Claude setzt **niemals** `bewusst offen` und **niemals** Status `final`. Unklares wird immer `???`. Was als erledigt gilt, entscheidet ausschließlich der Autor - auch dann, wenn eine Frage trivial wirkt.
+**Harte Regel:** Claude setzt **niemals** `bewusst offen`. Unklares wird immer `???`. Was als erledigt gilt, entscheidet ausschließlich der Autor - auch dann, wenn eine Frage trivial wirkt.
 
 Übersicht aller offenen Punkte: `grep -rn "???" --include="*.md" .`
 

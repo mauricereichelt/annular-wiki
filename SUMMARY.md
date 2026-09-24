@@ -29,6 +29,7 @@
     * [Wandernde Wala](Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)
     * [Frida](Menschen/Nordvolk/Nebenfiguren/Frida.md)
     * [Fridun](Menschen/Nordvolk/Nebenfiguren/Fridun.md)
+    * [Widgund](Menschen/Nordvolk/Nebenfiguren/Widgund.md)
     * [Herik](Menschen/Nordvolk/Nebenfiguren/Herik.md)
     * [Landarik](Menschen/Nordvolk/Nebenfiguren/Landarik.md)
     * [Audmar](Menschen/Nordvolk/Nebenfiguren/Audmar.md)

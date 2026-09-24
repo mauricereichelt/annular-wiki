@@ -1,9 +1,7 @@
 # [Charaktername]
 
-> **Status:** ???
-
 <!-- Marker: ??? = noch zu entscheiden · "bewusst offen" = vom Autor abgesegnet, bleibt offen.
-     "bewusst offen" und Status "final" setzt ausschließlich der Autor. Siehe Notizen/Regeln.md -->
+     "bewusst offen" setzt ausschließlich der Autor. Siehe Notizen/Regeln.md -->
 
 ---
 

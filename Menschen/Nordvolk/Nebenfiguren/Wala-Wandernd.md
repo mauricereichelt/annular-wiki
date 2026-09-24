@@ -1,7 +1,5 @@
 # Wandernde Wala
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

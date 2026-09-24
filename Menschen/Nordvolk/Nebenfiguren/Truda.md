@@ -1,7 +1,5 @@
 # Truda
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

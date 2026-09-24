@@ -1,7 +1,5 @@
 # Azzim u-Tawan
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

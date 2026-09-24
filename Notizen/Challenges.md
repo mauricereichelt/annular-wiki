@@ -894,9 +894,9 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 | **Jahr des letzten toten Kindes** | **Jahr -1 (549)** - beantwortet damit auch [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
 | **Inspiration** | Clive Standen aus der Serie „Vikings" |
 
-**Randwara (Autor, 24.09.2026):** bekommt eine **eigene Figurendatei**, tritt in **Szenen vor Tibuns Aufbruch (Jahr 0/+1)** auf und **stirbt während Tibuns Reise**. Ihre übrigen Felder (Alter, Herkunft, frühes Leben, Fähigkeiten, Szenen, Todesjahr, Inspiration) stehen auf `???`.
+**Randwara (Autor, 24.09.2026):** bekommt eine **eigene Figurendatei**, tritt in **Szenen vor Tibuns Aufbruch (Jahr 0/+1)** auf und **stirbt während Tibuns Reise**. Ihre übrigen Felder (Alter, Herkunft, frühes Leben, Fähigkeiten, Szenen, Todesjahr, Inspiration) stehen auf `???`. *Nachtrag 24.09.2026:* inzwischen beantwortet, siehe [Randwara.md](../Menschen/Nordvolk/Nebenfiguren/Randwara.md); ihr Mann heißt **Sigrik**.
 
-**Fridun (Autor, 24.09.2026):** bekommt ebenfalls eine **eigene Figurendatei** - *„Genau so wie auch Fridun eigentlich..."* Seine offenen Felder stehen auf `???`.
+**Fridun (Autor, 24.09.2026):** bekommt ebenfalls eine **eigene Figurendatei** - *„Genau so wie auch Fridun eigentlich..."* Seine offenen Felder stehen auf `???`. *Nachtrag 24.09.2026:* inzwischen beantwortet bis auf die Inspiration, siehe [Fridun.md](../Menschen/Nordvolk/Nebenfiguren/Fridun.md); seine Frau heißt **Widgund** und hat eine eigene Datei.
 
 - [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Satz, sie übernehme Webstuhl und Herd, weil ein Haus eine Herrin braucht, **bleibt** trotz Randwara im Haus (Autor, 24.09.2026).
 - Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randwara.md](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Fridun.md](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Tibun.md](../Menschen/Nordvolk/Tibun.md) und [Truda.md](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
@@ -1919,6 +1919,8 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** | *Sighild* | Sieg + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
 | [**Fridun**](../Menschen/Nordvolk/Nebenfiguren/Fridun.md) | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform, Vater von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) ([C-051 ✓](#c-051-frida---offene-felder-)) |
 | [**Randwara**](../Menschen/Nordvolk/Nebenfiguren/Randwara.md) | *Randwara* | Schild + Hüterin | **neu 24.09.2026** - Urname, Mutter von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) ([C-045 ✓](#c-045-semund---offene-felder-)) |
+| **Sigrik** | *Sigrik* | Sieg + mächtig | **neu 24.09.2026** - Urname, Vater von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), tot, ohne eigene Datei. Teilt `Sig-` mit *Sigmund* |
+| [**Widgund**](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) | *Widgund* | Wald, weit + Kampf | **neu 24.09.2026** - Urname, Mutter von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), Frau von [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md). Teilt `-gund` mit *Fridgund* |
 | **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk - wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).
@@ -4212,7 +4214,7 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 
 Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
 
-Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) und [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md).
+Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) und Sigrik.
 
 **Zu klären · ???**
 - Welche Namen stören den Autor?

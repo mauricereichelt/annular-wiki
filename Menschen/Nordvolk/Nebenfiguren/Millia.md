@@ -1,7 +1,5 @@
 # Millia
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

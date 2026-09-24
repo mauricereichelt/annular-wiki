@@ -172,6 +172,8 @@ Der Sand liegt für alle sichtbar an der Skir. Die Wala deutet den Sand als Zeic
 - **Hindernis:** Die Wala deutet den Sand als Zeichen der Götter
 - **Ausgang:** Girlin für tot erklärt, die Stelle zum Tabu. Das Verschwinden glaubt man ihm - seine Deutung nicht.
 
+> **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
+
 
 ### 10 · Nach dem Verlust der Mutter
 
@@ -185,6 +187,8 @@ Tibun streitet ob seiner Version, missachtet das Tabu, Truda begleitet ihn bis z
 
 > **Truda beiläufig mitführen** (Autor, 10.09.2026): Sie hängt an ihm und ist da - **er kümmert sich nicht um sie**. Er sucht die Mutter, die Neunjährige bleibt allein. Nicht ausstellen, nur nebenherlaufen lassen.
 
+> **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
+
 
 ### 11 · Tibuns Vater und Millia
 
@@ -196,6 +200,8 @@ Semund und Millia reisen nach Tingsal (Erlaubnis der Wala), der Vater will Tibun
 - **Hindernis:** Semund hat sie für tot erklärt
 - **Ausgang:** Für Tibun ein Verrat. Gegen Millia selbst hat er nichts - er will aber auch nichts von ihr.
 
+> **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
+
 
 ### 12 · Semunds und Millias Verlobung
 
@@ -206,6 +212,8 @@ Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer, obwohl er gegen Mill
 - **Will:** ???
 - **Hindernis:** ???
 - **Ausgang:** ???
+
+> **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
 
 
 ### 13 · Unfall, Ausschluss und Aufbruch

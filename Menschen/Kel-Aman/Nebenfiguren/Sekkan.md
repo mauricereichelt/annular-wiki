@@ -1,7 +1,5 @@
 # Sekkan
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

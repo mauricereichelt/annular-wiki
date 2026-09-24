@@ -123,6 +123,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Truda empfängt ihn mit einem Wutanfall** (Autor, 11.09.2026): Die Verletztheit darüber, dass er sie verlassen hat, bricht heraus - **einmal, danach ist sie wieder still**. Eigene Szene bei seiner Ankunft; das Gespräch, in dem er ihr sagt, was er tut, folgt später
   - **Truda ist inzwischen verheiratet** (Autor, 18.09.2026) und hat einen eigenen Haushalt in [Skirraa](../../Orte/Skirraa.md) oder in der Nähe. Sie ist bei seiner Rückkehr **18**. Wer ihr Mann ist, wann geheiratet wurde, ob es Kinder gibt und **wo der Empfang stattfindet**: **???**
   - **Truda weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn zur Vernunft bringen
+- **Er erfährt erst jetzt vom Tod seiner Großmutter [Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md)** (Autor, 24.09.2026) - sie starb früh in seiner Reise, in Jahr +2 bis +3
 - **Finale:** Erste manuelle Zündung des Skir-Rings
 
 ---

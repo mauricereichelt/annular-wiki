@@ -1,7 +1,5 @@
 # Tibun
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

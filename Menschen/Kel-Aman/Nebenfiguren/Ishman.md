@@ -1,7 +1,5 @@
 # Ishman
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

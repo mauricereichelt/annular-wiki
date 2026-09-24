@@ -11,6 +11,7 @@ Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template
 - [Wandernde Wala](Wala-Wandernd.md) - wandernde Seherin, ihre Zwillingsschwester
 - [Frida](Frida.md) - Tibuns Jugendliebe aus [Skirraa](../../../Orte/Skirraa.md), verlobt mit Herik
 - [Fridun](Fridun.md) - Fridas Vater, Bauer in Skirraa
+- [Widgund](Widgund.md) - Fridas Mutter, Friduns Frau
 - [Herik](Herik.md) - Hofsohn von auswärts, Fridas Verlobter
 - [Landarik](Landarik.md) - Heriks Vater, arrangiert die Verlobung
 - [Audmar](Audmar.md) - Schiffszimmerer in [Kaupvik](../../../Orte/Kaupvik.md), Tibuns Ziehvater

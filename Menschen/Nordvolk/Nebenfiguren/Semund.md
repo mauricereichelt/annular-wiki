@@ -1,7 +1,5 @@
 # Semund
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen
@@ -19,7 +17,7 @@
 | | |
 |---|---|
 | **Mutter** | [Randwara](Randwara.md) - lebt in Jahr 0 noch, auf seinem Hof (Autor, 24.09.2026) |
-| **Vater** | tot - Semund hat den Hof von ihm geerbt |
+| **Vater** | **Sigrik** (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt |
 | **Geschwister** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
 | **Ehefrau** | [Girlin](../Girlin.md) (verschwunden) |
 | **Neue Partnerin** | [Millia](Millia.md) |

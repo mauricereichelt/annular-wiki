@@ -1,7 +1,5 @@
 # Herik
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

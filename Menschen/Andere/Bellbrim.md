@@ -1,7 +1,5 @@
 # Bellbrim
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

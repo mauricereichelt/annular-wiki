@@ -1,7 +1,5 @@
 # Wala von Tingsal (sesshaft)
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

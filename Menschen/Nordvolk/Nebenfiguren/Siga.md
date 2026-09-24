@@ -1,7 +1,5 @@
 # Siga
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

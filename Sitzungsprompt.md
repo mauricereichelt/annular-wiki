@@ -15,9 +15,7 @@ ERSTE AUFGABE DIESER SITZUNG
 Lege Plots/Plot-1/Szenen.md an. Das wird die einzige Quelle für die
 Szenen. Inhalt je Szene: Nummer, Titel, POV (Tibun/Girlin), Jahr,
 Ein-Satz-Zusammenfassung, Will / Hindernis / Ausgang, C-Nummern.
-Die Datei bekommt eine Statuszeile `> **Status:** ???` - der Zuschnitt
-ist Arbeitsstand, nicht entschieden, auch wenn er im Wiki steht.
-Setze niemals `final` oder `bewusst offen`.
+Setze niemals `bewusst offen`.
 
 Inhalt kommt aus Notizen/Schaubilder/Szenenliste.html (44 Karten,
 Stand 04.09.2026). Dort steht alles schon strukturiert in den

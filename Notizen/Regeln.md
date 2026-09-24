@@ -28,8 +28,7 @@ Neue Regeln laufend ergänzen - keine Begründungen, nur die Regel selbst.
 - `???` = noch zu entscheiden - **Standardzustand** für alles Unbekannte
 - `bewusst offen` = bewusst offen gelassen und abgesegnet - **setzt nur der Autor**
 - konkreter Inhalt = entschieden - **setzt nur der Autor**
-- Charakterdateien tragen `> **Status:** ???` - Werte `???` · `in Arbeit` · `final`; `final` setzt nur der Autor
-- Claude schreibt bei Unklarheit immer `???`, nie `bewusst offen`, nie `final`
+- Claude schreibt bei Unklarheit immer `???`, nie `bewusst offen`
 - Keine plausiblen Annahmen als Feldinhalt - lieber `???`
 - Vollständige Liste offener Punkte: `grep -rn "???" --include="*.md" .`
 

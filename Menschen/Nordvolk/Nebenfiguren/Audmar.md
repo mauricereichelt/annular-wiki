@@ -1,7 +1,5 @@
 # Audmar
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

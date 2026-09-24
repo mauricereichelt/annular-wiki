@@ -1,7 +1,5 @@
 # Girlin
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

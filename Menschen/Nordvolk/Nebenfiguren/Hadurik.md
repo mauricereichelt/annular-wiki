@@ -1,7 +1,5 @@
 # Hadurik
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen

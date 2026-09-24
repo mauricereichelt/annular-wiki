@@ -1,7 +1,5 @@
 # Landarik
 
-> **Status:** ???
-
 ---
 
 ## Allgemeine Informationen
