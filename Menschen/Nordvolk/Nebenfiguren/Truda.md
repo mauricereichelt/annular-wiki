@@ -21,6 +21,7 @@
 | **Mutter** | [Girlin](../Girlin.md) |
 | **Vater** | [Semund](Semund.md) |
 | **Bruder** | [Tibun](../Tibun.md) |
+| **Großmutter** | [Randwara](Randwara.md), Semunds Mutter |
 | **Ehemann** | Sie ist bei [Tibuns](../Tibun.md) Rückkehr (+9) **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../../../Orte/Skirraa.md) oder in der Nähe (Autor, 18.09.2026). Wer er ist, wann geheiratet wurde und ob es Kinder gibt: ??? |
 
 ---

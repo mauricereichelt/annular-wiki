@@ -20,7 +20,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
-- [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
@@ -63,6 +62,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-042: Prolog - Nebenfiguren Frida, Herik, Landarik ✓](#c-042-prolog---nebenfiguren-frida-herik-landarik-)
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
+- [C-045: Semund - offene Felder ✓](#c-045-semund---offene-felder-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-048: Hadurik - offene Felder ✓](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ✓](#c-049-wala-von-tingsal---offene-felder-)
@@ -874,13 +874,33 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 ---
 
-### C-045: Semund - offene Felder ○
+### C-045: Semund - offene Felder ✓
 
 [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Millia) ist über [C-022](#c-022-tibuns-reise---dauer-motiv-hof-) geklärt - die Person dahinter nicht.
 
 **Teilentscheidung (Autor, 08.09.2026):** Semunds Können liegt beim **Vieh** - Hirte und Züchter, der den Tieren ansieht, was ihnen fehlt. Bei Menschen hat er diese Sicherheit nicht: **schweigsam, arbeitet statt zu reden, hält aus.** Genau daran entzündet sich [Tibuns](../Menschen/Nordvolk/Tibun.md) Vorwurf - der Vater sagt nichts und macht weiter. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md). **Weiter offen:** frühes Leben, Inspiration.
 
 **Teilentscheidung (Autor, 15.09.2026):** Semund hat den Hof in Skirraa **von seinem Vater geerbt**. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md#frühes-leben). **Weiter offen:** der Rest des frühen Lebens, Inspiration.
+
+**Entschieden (Autor, 24.09.2026):**
+
+| | |
+|---|---|
+| **Eltern** | **Die Mutter lebt noch** - **Randwara** (Urname, Schild + Hüterin), sie wohnt **auf Semunds Hof** |
+| **Geschwister** | **mehrere**, fortgezogen |
+| **Übernahme des Hofs** | **vor Tibuns Geburt** |
+| **Frühes Leben** | Reicht so - nichts weiter offen |
+| **Herdenverlust im Erzähltext** | **ein Satz, beiläufig** |
+| **Jahr des letzten toten Kindes** | **Jahr -1 (549)** - beantwortet damit auch [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
+| **Inspiration** | Clive Standen aus der Serie „Vikings" |
+
+**Randwara (Autor, 24.09.2026):** bekommt eine **eigene Figurendatei**, tritt in **Szenen vor Tibuns Aufbruch (Jahr 0/+1)** auf und **stirbt während Tibuns Reise**. Ihre übrigen Felder (Alter, Herkunft, frühes Leben, Fähigkeiten, Szenen, Todesjahr, Inspiration) stehen auf `???`.
+
+**Fridun (Autor, 24.09.2026):** bekommt ebenfalls eine **eigene Figurendatei** - *„Genau so wie auch Fridun eigentlich..."* Seine offenen Felder stehen auf `???`.
+
+- [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Satz, sie übernehme Webstuhl und Herd, weil ein Haus eine Herrin braucht, **bleibt** trotz Randwara im Haus (Autor, 24.09.2026).
+- Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randwara.md](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Fridun.md](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Tibun.md](../Menschen/Nordvolk/Tibun.md) und [Truda.md](../Menschen/Nordvolk/Nebenfiguren/Truda.md).
+
 ---
 
 ### C-046: Millia - offene Felder ✓
@@ -1897,7 +1917,8 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **Jolyl** → [**Frida**](../Menschen/Nordvolk/Nebenfiguren/Frida.md) | *Fridgund* | Frieden + Kampf | **umbenannt** - „Jolyl" war nicht deutbar |
 | **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** | *Audmar* | Glück, Besitz + berühmt | **neu 10.09.2026** - Urform, bewusst nicht auf `-un` ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
 | **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** | *Sighild* | Sieg + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
-| **Fridun** | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform, Vater von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) ([C-051 ✓](#c-051-frida---offene-felder-)) |
+| [**Fridun**](../Menschen/Nordvolk/Nebenfiguren/Fridun.md) | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform, Vater von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) ([C-051 ✓](#c-051-frida---offene-felder-)) |
+| [**Randwara**](../Menschen/Nordvolk/Nebenfiguren/Randwara.md) | *Randwara* | Schild + Hüterin | **neu 24.09.2026** - Urname, Mutter von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) ([C-045 ✓](#c-045-semund---offene-felder-)) |
 | **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk - wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).
@@ -2032,7 +2053,7 @@ Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur---girlins-alter
 |---|---|
 | **Eines** | zwischen Tibun und Truda (Girlin ~21-23) |
 | **Zwei** | nach Truda |
-| **Das letzte** | **kurz vor Girlins Verschwinden** - ein bis zwei Winter davor, Girlin 32 oder 33. Genaues Jahr: **???** → [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
+| **Das letzte** | **kurz vor Girlins Verschwinden** - **Jahr -1 (549)** (Autor, 24.09.2026, [C-045](#c-045-semund---offene-felder-)). *(Hier stand: ein bis zwei Winter davor, Girlin 32 oder 33, genaues Jahr ???)* |
 
 Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebenden Kindern. Das ist für 550 kein Unglück, sondern der **Durchschnitt** - grob jedes dritte bis vierte Kind erreichte das Erwachsenenalter nicht.
 
@@ -3580,7 +3601,7 @@ Das ist für 550 der **Normalfall**, nicht die Ausnahme: Säuglinge kommen nicht
 
 **Bewusst nicht entschieden:** Ob [Girlin](../Menschen/Nordvolk/Girlin.md) in einer Szene an der Stelle vorbeigeht und hinsieht. Der Autor hält das für die Schreibphase offen - mit dem Vorbehalt, dass ein unmarkiertes Grab für den Leser ohne Erklärung nicht lesbar ist und ihr Blick damit ins Leere gehen würde.
 
-**Noch offen · ???** Das genaue Jahr - Girlin wäre 32 oder 33 gewesen. Für den einen Satz nicht zwingend nötig.
+**Jahr entschieden (Autor, 24.09.2026):** **Jahr -1 (549)** - beantwortet in [C-045](#c-045-semund---offene-felder-). *(Hier stand: Noch offen · ??? Das genaue Jahr - Girlin wäre 32 oder 33 gewesen.)*
 
 ---
 
@@ -4191,7 +4212,7 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 
 Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
 
-Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), Fridun, [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md).
+Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) und [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md).
 
 **Zu klären · ???**
 - Welche Namen stören den Autor?

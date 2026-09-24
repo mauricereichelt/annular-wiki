@@ -24,14 +24,14 @@
 | **Sohn** | [Tibun](Tibun.md) |
 | **Tochter** | [Truda](Nebenfiguren/Truda.md) |
 | **Drittes Kind** | **Tamant ult-Sekkan** (Autor, 09.09.2026), ein **Mädchen**. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6**. Vater: [Sekkan u-Werdan](../Kel-Aman/Nebenfiguren/Sekkan.md) - **bei der Geburt nicht anwesend**; es helfen erfahrene Frauen des Clans |
-| **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Truda, zwei danach; das letzte **ein bis zwei Winter vor ihrem Verschwinden**, ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
+| **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Truda, zwei danach; das letzte in **Jahr -1 (549)** (Autor, 24.09.2026), ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
 | **Ehemann** | [Semund](Nebenfiguren/Semund.md) |
 
 ---
 
 ## Frühes Leben
 
-Kam als Zugezogene nach [Skirraa](../../Orte/Skirraa.md) und heiratete [Semund](Nebenfiguren/Semund.md) - eine reguläre Ehe, er ist [Tibuns](Tibun.md) leiblicher Vater. Mit **18** bekommt sie Tibun, mit **25** [Truda](Nebenfiguren/Truda.md). **Drei weitere Kinder überleben nicht** - eines dazwischen, zwei danach, das letzte ein bis zwei Winter vor ihrem Verschwinden. Fünf Schwangerschaften, zwei lebende Kinder: für 550 der Durchschnitt, nicht das Unglück.
+Kam als Zugezogene nach [Skirraa](../../Orte/Skirraa.md) und heiratete [Semund](Nebenfiguren/Semund.md) - eine reguläre Ehe, er ist [Tibuns](Tibun.md) leiblicher Vater. Mit **18** bekommt sie Tibun, mit **25** [Truda](Nebenfiguren/Truda.md). **Drei weitere Kinder überleben nicht** - eines dazwischen, zwei danach, das letzte in Jahr -1 (549). Fünf Schwangerschaften, zwei lebende Kinder: für 550 der Durchschnitt, nicht das Unglück.
 
 Das prägt ihren Willen mehr als alles andere. Sie hat Kinder verloren, die sie **nicht** zurückholen konnte. Tibun und Truda **kann** sie zurückholen - daran hält sie sich fest.
 

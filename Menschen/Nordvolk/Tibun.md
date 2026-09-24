@@ -21,6 +21,7 @@
 | **Mutter** | [Girlin](Girlin.md) |
 | **Vater** | [Semund](Nebenfiguren/Semund.md) |
 | **Schwester** | [Truda](Nebenfiguren/Truda.md) |
+| **Großmutter** | [Randwara](Nebenfiguren/Randwara.md), Semunds Mutter |
 
 ---
 

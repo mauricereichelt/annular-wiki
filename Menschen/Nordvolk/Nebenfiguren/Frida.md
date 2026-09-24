@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Vater** | **Fridun** (Urform *Fridmund*, Frieden + Schutz; Autor, 23.09.2026) - Bauer in Skirraa, ihr **leiblicher** Vater (Autor, 21.09.2026) |
+| **Vater** | [**Fridun**](Fridun.md) (Urform *Fridmund*, Frieden + Schutz; Autor, 23.09.2026) - Bauer in Skirraa, ihr **leiblicher** Vater (Autor, 21.09.2026) |
 | **Verlobter** | [Herik](Herik.md) |
 
 ---
@@ -51,6 +51,7 @@ Tibuns Herzschmerz führt ihn in den Wollstall, wo er den Bernstein-Effekt entde
 
 - Unerwiderte Liebe: [Tibun](../Tibun.md)
 - Verlobt mit: [Herik](Herik.md)
+- Vater: [Fridun](Fridun.md)
 
 ---
 
