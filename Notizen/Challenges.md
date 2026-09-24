@@ -1384,6 +1384,8 @@ Die Szene gibt Frida eine **zugezogene Mutter** und einen **Stiefvater** (Fische
 
 **Entschieden (Autor, 21.09.2026):** Frida hat ihren **leiblichen Vater**, einen Bauern aus Skirraa - wie in [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) schon geführt. Stiefvater und zugezogene Mutter entfallen, die Frage nach dem Gewerbe damit auch. Der Name des Vaters bleibt in [C-051](#c-051-frida---offene-felder-). Textarbeit steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
 
+*Nachtrag 24.09.2026:* Fridas Mutter [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) stammt von auswärts, aus einem anderen Weiler. Auf die Frage, ob das der Streichung der zugezogenen Mutter widerspricht: **beides gilt** (Autor, 24.09.2026).
+
 ---
 
 ### C-070: Prolog - Dateikopf und Versionszeile ✓

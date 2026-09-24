@@ -91,9 +91,11 @@ Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz 
 > - **Milieu:** keine Fischer, keine Bootsbauer - Skirraa lebt von Tierzucht auf Heide und Moor
 > - **Bernstein:** kein Fund im Flussbett - ein **Geschenk der Mutter**, das er schon lange trägt ([Tibun](../../Menschen/Nordvolk/Tibun.md#der-bernstein))
 > - **Herik und Landarik:** beide **ortsfremd**, aus der Gegend um Tingsal; Landarik ist Hofbesitzer, kein Bootsbauer. **Keine Freundschaft** zwischen Tibun und Herik, Tibun kennt ihn kaum (Autor, 21.09.2026)
-> - **Fridas Familie:** ihr **leiblicher Vater**, ein Bauer aus Skirraa - kein Stiefvater, keine zugezogene Mutter (Autor, 21.09.2026)
+> - **Fridas Familie:** ihr **leiblicher Vater**, ein Bauer aus Skirraa - kein Stiefvater, keine zugezogene Mutter (Autor, 21.09.2026). *Nachtrag 24.09.2026:* Fridas Mutter [Widgund](../../Menschen/Nordvolk/Nebenfiguren/Widgund.md) stammt von auswärts, aus einem anderen Weiler - laut Autor gilt beides
 > - **Kein Antrag:** Tibun will Frida seine **Liebe gestehen** (Autor, 21.09.2026)
 > - **Kein Brand:** nur kurz angesengte Flusen - kein Feuer, keine Brandblasen, kein verkohltes Stück aus dem Stein
+
+> **[Widgund](../../Menschen/Nordvolk/Nebenfiguren/Widgund.md) tritt auf** (Autor, 24.09.2026).
 
 
 ### 3 · Der Blitz - Girlin
