@@ -87,6 +87,7 @@
   * [Zeitgerüst (Artifact)](Notizen/Schaubilder/Zeitgeruest.html)
   * [Kapitelraster (Artifact)](Notizen/Schaubilder/Kapitelraster.html)
   * [Szenenliste (Artifact)](Notizen/Schaubilder/Szenenliste.html)
+  * [Figuren (lokal)](Notizen/Schaubilder/Figuren.html)
 * [Challenges](Notizen/Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Weltenbau-Leitfaden](Notizen/Weltenbau-Leitfaden.md)

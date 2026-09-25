@@ -1,0 +1,653 @@
+<title>Wer zu wem gehört</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7;
+  --card:#F6F7F4;
+  --ink:#1C2124;
+  --ink-2:#4E565A;
+  --ink-3:#7B8388;
+  --rule:#D1D4CE;
+  --rule-2:#BFC3BC;
+  --nord:#2F5D66;
+  --nord-tint:#DDE8E9;
+  --sand:#8F6216;
+  --sand-tint:#EDE4D2;
+  --fremd:#6E4A6B;
+  --fremd-tint:#E9E0E7;
+  --gap:#9C3F38;
+  --gap-tint:#EEDFDC;
+  --line:#6C7478;
+  --focus:#1C2124;
+  --shadow:0 1px 2px rgba(28,33,36,.07);
+  --panel-shadow:-10px 0 30px rgba(28,33,36,.12);
+
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --paper:#14181A;
+    --card:#1C2124;
+    --ink:#E6E8E4;
+    --ink-2:#A6AEB1;
+    --ink-3:#79817F;
+    --rule:#2C3336;
+    --rule-2:#3A4346;
+    --nord:#7CB8C0;
+    --nord-tint:#1B2E32;
+    --sand:#D2A153;
+    --sand-tint:#2C2214;
+    --fremd:#C39BC0;
+    --fremd-tint:#2A1F29;
+    --gap:#DB8279;
+    --gap-tint:#31201E;
+    --line:#8A9396;
+    --focus:#E6E8E4;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+    --panel-shadow:-10px 0 30px rgba(0,0,0,.45);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --paper:#14181A;
+  --card:#1C2124;
+  --ink:#E6E8E4;
+  --ink-2:#A6AEB1;
+  --ink-3:#79817F;
+  --rule:#2C3336;
+  --rule-2:#3A4346;
+  --nord:#7CB8C0;
+  --nord-tint:#1B2E32;
+  --sand:#D2A153;
+  --sand-tint:#2C2214;
+  --fremd:#C39BC0;
+  --fremd-tint:#2A1F29;
+  --gap:#DB8279;
+  --gap-tint:#31201E;
+  --line:#8A9396;
+  --focus:#E6E8E4;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+  --panel-shadow:-10px 0 30px rgba(0,0,0,.45);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--f-body);
+  font-size:15px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1480px;margin:0 auto;padding-inline:24px;padding-block:44px 80px}
+@media (max-width:600px){.wrap{padding-inline:16px;padding-block:28px 60px}}
+
+/* ---------- Kopf ---------- */
+.eyebrow{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  margin:0;
+}
+h1{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:clamp(30px,5vw,46px);
+  line-height:1.08;
+  letter-spacing:-.015em;
+  margin:.28em 0 .3em;
+  text-wrap:balance;
+}
+.lede{
+  font-family:var(--f-display);
+  font-size:17px;
+  line-height:1.6;
+  color:var(--ink-2);
+  max-width:66ch;
+  margin:0;
+}
+.lede em{color:var(--ink)}
+.facts{
+  display:flex;
+  flex-wrap:wrap;
+  margin:30px 0 0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.fact{flex:1 1 150px;padding:14px 20px 13px;border-left:1px solid var(--rule)}
+.fact:first-child{border-left:0;padding-left:0}
+.fact b{
+  display:block;
+  font-family:var(--f-mono);
+  font-size:24px;
+  font-weight:500;
+  line-height:1.1;
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.02em;
+}
+.fact > span{display:block;margin-top:5px;font-size:12.5px;color:var(--ink-2);line-height:1.4}
+.fact.warn b{color:var(--gap)}
+.fact .k-nord{color:var(--nord)} .fact .k-wueste{color:var(--sand)} .fact .k-fremd{color:var(--fremd)}
+
+/* ---------- Legende ---------- */
+.legende{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px 26px;
+  margin:22px 0 0;
+  font-size:12.5px;
+  color:var(--ink-2);
+  align-items:center;
+}
+.legende .it{display:inline-flex;align-items:center;gap:8px}
+.legende svg{flex:none}
+.legende .sw{width:12px;height:12px;border-radius:2px;flex:none}
+.sw.nord{background:var(--nord)} .sw.wueste{background:var(--sand)} .sw.fremd{background:var(--fremd)}
+.legende .mini-ghost{width:26px;height:16px;border:1.5px dashed var(--rule-2);border-radius:4px}
+.hint{margin:14px 0 0;font-size:13px;color:var(--ink-3)}
+
+/* ---------- Gruppen ---------- */
+.gruppe{margin:40px 0 0}
+.gruppe h2{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:21px;
+  letter-spacing:-.01em;
+  margin:0;
+}
+.gruppe .sub{margin:2px 0 12px;font-size:13.5px;color:var(--ink-3)}
+.neben{display:flex;flex-wrap:wrap;gap:8px 56px;align-items:flex-start}
+.neben .gruppe{flex:0 1 auto;min-width:0;max-width:100%}
+.buehne-rahmen{overflow-x:auto;overflow-y:hidden;max-width:100%;-webkit-overflow-scrolling:touch}
+.buehne-mass{position:relative}
+.buehne{position:absolute;left:0;top:0;transform-origin:0 0}
+.buehne svg{position:absolute;left:0;top:0;overflow:visible;pointer-events:none}
+.scrollhinweis{font-size:12px;color:var(--ink-3);margin:6px 0 0}
+
+/* ---------- Karten ---------- */
+.karte{
+  position:absolute;
+  width:150px;
+  min-height:58px;
+  padding:8px 10px 9px 12px;
+  text-align:left;
+  font:inherit;
+  color:inherit;
+  background:var(--card);
+  border:1px solid var(--rule);
+  border-left:3px solid var(--k);
+  border-radius:5px;
+  box-shadow:var(--shadow);
+  cursor:pointer;
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+  transition:opacity .15s, box-shadow .15s, border-color .15s;
+}
+.karte.nord{--k:var(--nord);--kt:var(--nord-tint)}
+.karte.wueste{--k:var(--sand);--kt:var(--sand-tint)}
+.karte.fremd{--k:var(--fremd);--kt:var(--fremd-tint)}
+.karte:hover{border-color:var(--rule-2);border-left-color:var(--k)}
+.karte:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.karte .nm{font-weight:600;font-size:14.5px;line-height:1.25}
+.karte.haupt .nm{font-family:var(--f-display);font-size:17.5px;line-height:1.15}
+.karte.haupt{background:var(--kt)}
+.karte .al{font-size:12px;line-height:1.35;color:var(--ink-2)}
+.karte .tot{font-weight:400;color:var(--ink-3);margin-left:3px}
+.karte .of{
+  position:absolute;
+  top:-8px;
+  right:-6px;
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  line-height:1;
+  padding:3px 5px;
+  border-radius:9px;
+  color:var(--gap);
+  background:var(--gap-tint);
+  border:1px solid var(--gap);
+}
+.karte.platzhalter{
+  width:128px;
+  background:transparent;
+  border:1.5px dashed var(--rule-2);
+  box-shadow:none;
+}
+.karte.platzhalter .nm{font-weight:500;font-style:italic;font-size:13px;color:var(--ink-2)}
+.karte.platzhalter .al{font-style:italic}
+.notiz{
+  position:absolute;
+  width:170px;
+  font-size:12px;
+  line-height:1.35;
+  font-style:italic;
+  color:var(--ink-3);
+  background:none;
+  border:0;
+  padding:0;
+  text-align:left;
+  cursor:pointer;
+}
+.notiz:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.verweis{
+  position:absolute;
+  width:128px;
+  padding:5px 10px 6px;
+  border:1.5px dashed var(--nord);
+  border-radius:18px;
+  background:transparent;
+  font:inherit;
+  color:var(--ink);
+  text-align:center;
+  cursor:pointer;
+}
+.verweis small{display:block;font-family:var(--f-mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
+.verweis span{font-weight:600;font-size:14px}
+.verweis:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+
+/* Auswahl */
+.aktiv .karte, .aktiv .notiz, .aktiv .verweis{opacity:.28}
+.aktiv .bezug{opacity:1}
+.aktiv .gewaehlt{opacity:1;box-shadow:0 0 0 2px var(--k, var(--ink)), var(--shadow)}
+.aktiv .bezug.karte:not(.gewaehlt){box-shadow:0 0 0 1.5px var(--rule-2), var(--shadow)}
+.linie{fill:none;stroke:var(--line);stroke-width:1.4;transition:opacity .15s}
+.linie.ehe{stroke-width:2.2}
+.linie.partner{stroke-width:2.2;stroke-dasharray:7 4}
+.linie.verlobt{stroke-width:2.2;stroke-dasharray:1.5 4;stroke-linecap:round}
+.linie.geschwister{stroke-width:1.4}
+.linie.zieh{stroke-dasharray:5 4}
+.aktiv .linie{opacity:.2}
+.aktiv .linie.an{opacity:1;stroke:var(--ink)}
+
+/* ---------- Seitenleiste ---------- */
+.panel{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  width:min(410px,100%);
+  background:var(--card);
+  border-left:1px solid var(--rule);
+  box-shadow:var(--panel-shadow);
+  overflow-y:auto;
+  padding:calc(22px + env(safe-area-inset-top, 0px)) 24px calc(30px + env(safe-area-inset-bottom, 0px));
+  z-index:10;
+}
+@media (max-width:700px){
+  .panel{top:auto;width:100%;max-height:72vh;border-left:0;border-top:1px solid var(--rule);border-radius:12px 12px 0 0}
+}
+.panel .zu{
+  position:sticky;
+  top:0;
+  float:right;
+  margin:-6px -8px 0 8px;
+  width:34px;height:34px;
+  border:1px solid var(--rule);
+  border-radius:50%;
+  background:var(--card);
+  color:var(--ink-2);
+  font-size:18px;
+  line-height:1;
+  cursor:pointer;
+}
+.panel .zu:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.panel h2{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:28px;
+  line-height:1.1;
+  margin:6px 0 4px;
+  text-wrap:balance;
+}
+.panel .voll{margin:0 0 14px;color:var(--ink-3);font-size:13px}
+.panel h3{
+  font-family:var(--f-mono);
+  font-size:11px;
+  font-weight:500;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  margin:22px 0 8px;
+  padding-top:14px;
+  border-top:1px solid var(--rule);
+}
+.panel dl{margin:0;display:grid;gap:9px}
+.panel dt{font-size:12px;font-weight:600;color:var(--ink-2)}
+.panel dd{margin:1px 0 0;font-size:13.5px;line-height:1.5}
+.panel ul{margin:0;padding-left:18px;font-size:13.5px;line-height:1.5;display:grid;gap:5px}
+.panel p{font-size:13.5px;line-height:1.5}
+.panel a{color:var(--nord)}
+.panel a.p{color:inherit;text-decoration-color:var(--rule-2);text-underline-offset:2px}
+.panel a.p:hover{text-decoration-color:currentColor}
+.panel .quelle{margin:24px 0 0;font-family:var(--f-mono);font-size:11.5px;color:var(--ink-3);word-break:break-all}
+.offen{color:var(--gap);font-weight:600;font-family:var(--f-mono);font-size:.92em}
+
+footer{margin:56px 0 0;padding-top:16px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-3);max-width:80ch}
+footer code{font-family:var(--f-mono);font-size:12px}
+
+@media (prefers-reduced-motion: reduce){
+  *{transition:none!important}
+}
+</style>
+
+<div class="wrap" id="wrap">
+  <header>
+    <p class="eyebrow">Annular · Figuren · Stand {{STAND}}</p>
+    <h1>Wer zu wem gehört</h1>
+    <p class="lede">Alle Figurendateien unter <em>Menschen/</em>, als Stammbaum gelesen. Die Linien kommen aus den Familientabellen der Dateien. Ein Klick auf eine Figur zeigt ihre Angaben und hebt alle hervor, die in ihrer Familie oder ihren Verbindungen vorkommen, auch Freundschaft und Gegnerschaft.</p>
+    <div class="facts">
+      <div class="fact"><b>{{N}}</b><span>Figuren mit eigener Datei</span></div>
+      <div class="fact"><b><span class="k-nord">{{N_NORD}}</span> · <span class="k-wueste">{{N_WUESTE}}</span> · <span class="k-fremd">{{N_FREMD}}</span></b><span>Nordvolk · Kel Aman · andere</span></div>
+      <div class="fact"><b>{{N_PLATZHALTER}}</b><span>Platzhalter: genannt, aber ohne Namen oder Datei</span></div>
+      <div class="fact warn"><b>{{N_OFFEN}}</b><span>Figuren mit offener Stelle (<span class="offen">???</span>) in ihrer Datei</span></div>
+    </div>
+    <div class="legende" aria-label="Legende">
+      <span class="it"><span class="sw nord"></span>Nordvolk</span>
+      <span class="it"><span class="sw wueste"></span>Kel Aman</span>
+      <span class="it"><span class="sw fremd"></span>andere</span>
+      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie ehe" x1="1" y1="5" x2="33" y2="5"/></svg>Ehe</span>
+      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie partner" x1="1" y1="5" x2="33" y2="5"/></svg>Partnerschaft</span>
+      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie verlobt" x1="2" y1="5" x2="33" y2="5"/></svg>Verlobung</span>
+      <span class="it"><svg width="22" height="18" aria-hidden="true"><path class="linie" d="M11 1V9M3 9H19M3 9V17M19 9V17"/></svg>Kinder</span>
+      <span class="it"><svg width="22" height="14" aria-hidden="true"><path class="linie" d="M3 13V3H19V13"/></svg>Geschwister, Eltern nicht im Bild</span>
+      <span class="it"><span class="mini-ghost"></span>ohne Namen oder Datei</span>
+      <span class="it"><span class="offen">???</span>offene Stellen in der Datei</span>
+    </div>
+  </header>
+
+  <section class="gruppe" id="g-familie"></section>
+  <div class="neben" id="neben"></div>
+
+  <footer>
+    Erzeugt am {{STAND}} mit <code>tools/figuren.py</code> aus den Dateien unter <code>Menschen/</code>. Nicht von Hand bearbeiten. Das Schaubild legt nichts fest: Im Zweifel gilt die Figurendatei. Wo eine Figur im Bild steht, ist Darstellung, keine Entscheidung.
+  </footer>
+</div>
+
+<aside class="panel" id="panel" hidden aria-live="polite"></aside>
+
+<script type="application/json" id="daten">{{DATEN}}</script>
+<script>
+(function(){
+  var D = JSON.parse(document.getElementById('daten').textContent);
+  var K = D.knoten;
+  var U = 184, ROW = 150, PAD = 22, TOP = 26, NAMEY = 22;
+  var BREITE = {figur:150, platzhalter:128, verweis:128, notiz:170};
+  var KULTUR = {nord:'Nordvolk', wueste:'Kel Aman', fremd:'andere'};
+  var gewaehlt = null;
+  var buehnen = [];
+
+  function el(tag, cls, html){
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (html != null) e.innerHTML = html;
+    return e;
+  }
+  function esc(t){ return String(t).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+
+  /* ---------- Karten ---------- */
+  function karte(k){
+    var b;
+    if (k.art === 'figur'){
+      b = el('button', 'karte ' + k.kultur + (k.haupt ? ' haupt' : ''));
+      b.innerHTML = '<span class="nm">' + esc(k.name) + (k.tot ? '<span class="tot" title="tot">†</span>' : '') + '</span>' +
+        (k.alter ? '<span class="al">' + esc(k.alter).replace('???', '<span class="offen">???</span>') + '</span>' : '') +
+        (k.offen ? '<span class="of" title="offene Stellen in der Datei">' + k.offen + ' ???</span>' : '');
+      b.setAttribute('aria-label', k.name + (k.alter ? ', ' + k.alter : ''));
+    } else if (k.art === 'platzhalter'){
+      b = el('button', 'karte platzhalter');
+      b.innerHTML = '<span class="nm">' + esc(k.name) + '</span><span class="al">' + esc(k.alter) + '</span>' +
+        (k.offen ? '<span class="of">???</span>' : '');
+    } else if (k.art === 'notiz'){
+      b = el('button', 'notiz', esc(k.name) + ': ' + esc(k.alter));
+    } else {
+      b = el('button', 'verweis', '<small>' + esc(k.name) + '</small><span>' + esc(K[k.ziel].name) + ' ↗</span>');
+    }
+    b.type = 'button';
+    b.dataset.id = k.id;
+    b.addEventListener('click', function(ev){
+      ev.stopPropagation();
+      if (k.art === 'verweis'){ waehle(k.ziel, true); } else { waehle(k.id === gewaehlt ? null : k.id); }
+    });
+    return b;
+  }
+
+  /* ---------- Bühne je Gruppe ---------- */
+  function baue(g, ziel){
+    var sec = ziel;
+    sec.innerHTML = '<h2>' + esc(g.titel) + '</h2><p class="sub">' + esc(g.unter) + '</p>';
+    var rahmen = el('div', 'buehne-rahmen');
+    var mass = el('div', 'buehne-mass');
+    var buehne = el('div', 'buehne');
+    var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    buehne.appendChild(svg);
+    mass.appendChild(buehne); rahmen.appendChild(mass); sec.appendChild(rahmen);
+    var hinweis = el('p', 'scrollhinweis', 'Seitlich scrollen für den Rest des Bildes.');
+    hinweis.hidden = true;
+    sec.appendChild(hinweis);
+
+    var xmin = Infinity;
+    g.knoten.forEach(function(n){ xmin = Math.min(xmin, n.x); });
+    var pos = {};
+    var breite = 0;
+    g.knoten.forEach(function(n){
+      var k = K[n.id];
+      var w = BREITE[k.art];
+      var cx = PAD + (n.x - xmin) * U + BREITE.figur / 2;
+      var left = k.art === 'notiz' ? cx + 12 : cx - w / 2;
+      var top = TOP + n.y * ROW;
+      var b = karte(k);
+      b.style.left = left + 'px';
+      b.style.top = top + 'px';
+      buehne.appendChild(b);
+      pos[n.id] = {el:b, left:left, top:top, w:w, cx:left + w / 2};
+      breite = Math.max(breite, left + w + PAD);
+    });
+    // Höhen erst nach dem Einfügen bekannt
+    var hoehe = 0;
+    Object.keys(pos).forEach(function(id){
+      var p = pos[id];
+      p.h = p.el.offsetHeight;
+      p.w = p.el.offsetWidth;
+      p.cx = p.left + p.w / 2;
+      hoehe = Math.max(hoehe, p.top + p.h + PAD);
+    });
+    buehne.style.width = breite + 'px';
+    buehne.style.height = hoehe + 'px';
+    svg.setAttribute('width', breite);
+    svg.setAttribute('height', hoehe);
+    zeichne(svg, pos);
+    buehnen.push({rahmen:rahmen, mass:mass, buehne:buehne, w:breite, h:hoehe, hinweis:hinweis, gross: ziel.id === 'g-familie'});
+  }
+
+  function pfad(svg, d, cls, ids){
+    var p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    p.setAttribute('d', d);
+    p.setAttribute('class', 'linie ' + (cls || ''));
+    p.dataset.ids = '|' + ids.join('|') + '|';
+    svg.appendChild(p);
+  }
+
+  function zeichne(svg, pos){
+    var da = function(id){ return pos[id]; };
+    var paarMitte = {};
+    var drin = D.beziehungen.filter(function(r){ return da(r.a) && da(r.b); });
+
+    // Paare
+    drin.forEach(function(r){
+      if (['ehe','partner','verlobt'].indexOf(r.art) < 0) return;
+      var a = pos[r.a], b = pos[r.b];
+      var l = a.left < b.left ? a : b, rr = a.left < b.left ? b : a;
+      var y = l.top + NAMEY;
+      var x1 = l.left + l.w, x2 = rr.left;
+      pfad(svg, 'M' + x1 + ' ' + y + 'H' + x2, r.art, [r.a, r.b]);
+      paarMitte[[r.a, r.b].sort().join('+')] = {x:(x1 + x2) / 2, y:y};
+    });
+
+    // Kinder und Ziehkinder: nach Elternpaar bündeln
+    var buendel = {};
+    drin.forEach(function(r){
+      if (r.art !== 'kind' && r.art !== 'zieh') return;
+      var kind = r.b;
+      buendel[kind] = buendel[kind] || {eltern:[], art:r.art, ph:false};
+      buendel[kind].eltern.push(r.a);
+      if (r.platzhalter) buendel[kind].ph = true;
+    });
+    var nachEltern = {};
+    Object.keys(buendel).forEach(function(kind){
+      var e = buendel[kind].eltern.sort().join('+');
+      nachEltern[e] = nachEltern[e] || {eltern:buendel[kind].eltern, kinder:[], art:buendel[kind].art};
+      nachEltern[e].kinder.push({id:kind, ph:buendel[kind].ph});
+    });
+    Object.keys(nachEltern).forEach(function(key){
+      var g = nachEltern[key];
+      var start;
+      if (paarMitte[key]) start = paarMitte[key];
+      else if (g.eltern.length === 1){ var p = pos[g.eltern[0]]; start = {x:p.cx, y:p.top + p.h}; }
+      else {
+        var xs = g.eltern.map(function(id){ return pos[id].cx; });
+        var ys = g.eltern.map(function(id){ return pos[id].top + pos[id].h; });
+        start = {x:(Math.min.apply(null, xs) + Math.max.apply(null, xs)) / 2, y:Math.max.apply(null, ys)};
+      }
+      var tops = g.kinder.map(function(c){ return pos[c.id].top; });
+      var bar = Math.min.apply(null, tops) - 24;
+      var alle = g.eltern.concat(g.kinder.map(function(c){ return c.id; }));
+      var cls = g.art === 'zieh' ? 'zieh' : '';
+      var xs2 = g.kinder.map(function(c){ return pos[c.id].cx; }).concat([start.x]);
+      var d = 'M' + start.x + ' ' + start.y + 'V' + bar;
+      d += 'M' + Math.min.apply(null, xs2) + ' ' + bar + 'H' + Math.max.apply(null, xs2);
+      pfad(svg, d, cls, alle);
+      g.kinder.forEach(function(c){
+        var p = pos[c.id];
+        pfad(svg, 'M' + p.cx + ' ' + bar + 'V' + p.top, cls, g.eltern.concat([c.id]));
+      });
+    });
+
+    // Geschwister ohne gemeinsame Eltern im Bild: Klammer oben
+    drin.forEach(function(r){
+      if (r.art !== 'geschwister') return;
+      var ea = (buendel[r.a] || {eltern:[]}).eltern, eb = (buendel[r.b] || {eltern:[]}).eltern;
+      if (ea.some(function(x){ return eb.indexOf(x) >= 0; })) return;
+      var a = pos[r.a], b = pos[r.b];
+      var y = Math.min(a.top, b.top) - 12;
+      pfad(svg, 'M' + a.cx + ' ' + a.top + 'V' + y + 'H' + b.cx + 'V' + b.top, 'geschwister', [r.a, r.b]);
+    });
+  }
+
+  /* ---------- Einpassen ---------- */
+  function passe(){
+    buehnen.forEach(function(b){
+      var verfuegbar = b.gross ? document.getElementById('g-familie').clientWidth
+                               : Math.min(b.rahmen.parentNode.parentNode.clientWidth, document.getElementById('wrap').clientWidth - 48);
+      var s = Math.min(1, verfuegbar / b.w);
+      s = Math.max(s, 0.8);
+      b.buehne.style.transform = 'scale(' + s + ')';
+      b.mass.style.width = (b.w * s) + 'px';
+      b.mass.style.height = (b.h * s) + 'px';
+      b.hinweis.hidden = b.w * s <= b.rahmen.clientWidth + 1;
+    });
+  }
+
+  /* ---------- Auswahl und Seitenleiste ---------- */
+  function bezug(id){
+    var s = {};
+    s[id] = true;
+    (K[id].bezug || []).forEach(function(x){ s[x] = true; });
+    Object.keys(K).forEach(function(x){ if ((K[x].bezug || []).indexOf(id) >= 0) s[x] = true; });
+    D.beziehungen.forEach(function(r){ if (r.a === id) s[r.b] = true; if (r.b === id) s[r.a] = true; });
+    Object.keys(K).forEach(function(x){ if (K[x].art === 'verweis' && s[x]) s[K[x].ziel] = true; });
+    return s;
+  }
+
+  function waehle(id, scrollen){
+    gewaehlt = id;
+    var wrap = document.getElementById('wrap');
+    wrap.classList.toggle('aktiv', !!id);
+    var s = id ? bezug(id) : {};
+    document.querySelectorAll('.karte, .notiz, .verweis').forEach(function(b){
+      b.classList.toggle('gewaehlt', b.dataset.id === id);
+      b.classList.toggle('bezug', !!s[b.dataset.id]);
+    });
+    document.querySelectorAll('.linie[data-ids]').forEach(function(p){
+      p.classList.toggle('an', !!id && p.dataset.ids.indexOf('|' + id + '|') >= 0);
+    });
+    panel(id);
+    if (id && scrollen){
+      var b = document.querySelector('.karte[data-id="' + CSS.escape(id) + '"]');
+      if (b){ b.scrollIntoView({block:'center', inline:'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); b.focus({preventScroll:true}); }
+    }
+    try { history.replaceState(null, '', id && K[id].art === 'figur' ? '#' + id : location.pathname + location.search); } catch(e){}
+  }
+
+  function liste(zeilen){
+    return '<dl>' + zeilen.map(function(z){ return '<div><dt>' + z[0] + '</dt><dd>' + z[1] + '</dd></div>'; }).join('') + '</dl>';
+  }
+
+  function panel(id){
+    var p = document.getElementById('panel');
+    if (!id){ p.hidden = true; p.innerHTML = ''; return; }
+    var k = K[id];
+    var h = '<button class="zu" type="button" aria-label="Schließen">×</button>';
+    if (k.art === 'figur'){
+      h += '<p class="eyebrow">' + KULTUR[k.kultur] + ' · ' + (k.haupt ? 'Hauptfigur' : 'Nebenfigur') + '</p>';
+      h += '<h2>' + esc(k.name) + (k.tot ? ' †' : '') + '</h2>';
+      if (k.titel !== k.name) h += '<p class="voll">' + esc(k.titel) + '</p>';
+      h += liste(k.allgemein);
+      if (k.familie.length || k.familie_text.length){
+        h += '<h3>Familie</h3>' + liste(k.familie) + k.familie_text.map(function(t){ return '<p>' + t + '</p>'; }).join('');
+      }
+      if (k.verbindungen.length){
+        h += '<h3>Verbindungen</h3><ul>' + k.verbindungen.map(function(t){ return '<li>' + t + '</li>'; }).join('') + '</ul>';
+      }
+      if (k.offen) h += '<p><span class="offen">???</span> steht ' + k.offen + '-mal in der Datei.</p>';
+      h += '<p class="quelle">Quelle: <a href="' + esc(k.link) + '">' + esc(k.pfad) + '</a></p>';
+    } else {
+      var q = K[k.quelle];
+      h += '<p class="eyebrow">' + (k.art === 'notiz' ? 'Hinweis' : 'Ohne eigene Datei') + '</p>';
+      h += '<h2>' + esc(k.name) + '</h2>';
+      h += '<p class="voll">genannt in der Familientabelle von <a class="p" data-id="' + esc(q.id) + '" href="#' + esc(q.id) + '">' + esc(q.name) + '</a></p>';
+      h += '<p>' + k.text + '</p>';
+      h += '<p class="quelle">Quelle: <a href="' + esc(q.link) + '">' + esc(q.pfad) + '</a></p>';
+    }
+    p.innerHTML = h;
+    p.hidden = false;
+    p.scrollTop = 0;
+    p.querySelector('.zu').addEventListener('click', function(){ waehle(null); });
+  }
+
+  document.getElementById('panel').addEventListener('click', function(ev){
+    var a = ev.target.closest('a.p');
+    if (a && K[a.dataset.id]){ ev.preventDefault(); waehle(a.dataset.id, true); }
+  });
+  document.addEventListener('keydown', function(ev){ if (ev.key === 'Escape' && gewaehlt) waehle(null); });
+  document.getElementById('wrap').addEventListener('click', function(ev){
+    if (gewaehlt && !ev.target.closest('button, a')) waehle(null);
+  });
+
+  /* ---------- Aufbau ---------- */
+  var neben = document.getElementById('neben');
+  D.gruppen.forEach(function(g){
+    var ziel;
+    if (g.id === 'familie') ziel = document.getElementById('g-familie');
+    else { ziel = el('section', 'gruppe'); ziel.id = 'g-' + g.id; neben.appendChild(ziel); }
+    baue(g, ziel);
+  });
+  passe();
+  window.addEventListener('resize', passe);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function(){
+    buehnen.forEach(function(b){ b.rahmen.parentNode.removeChild(b.rahmen); b.hinweis.remove(); });
+    buehnen = [];
+    D.gruppen.forEach(function(g){ baue(g, document.getElementById('g-' + g.id)); });
+    passe();
+    var h = decodeURIComponent(location.hash.slice(1));
+    if (h && K[h]) waehle(h, true);
+  });
+})();
+</script>

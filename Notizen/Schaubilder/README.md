@@ -9,6 +9,7 @@ Interaktive Übersichtsseiten (**Artifacts**), die den Wiki-Bestand visuell zusa
 | Schaubild | Inhalt | Quellen | Stand | Link |
 |---|---|---|---|---|
 | [Zeitgerüst](Zeitgeruest.html) - *Zehn Jahre, zwei Stränge* | **Wird erzeugt.** Beide Stränge Jahr für Jahr (0 bis +10) nebeneinander, mit den Jahren ohne eigene Szene - dieselben Karten wie die Szenenliste, nach Zeit statt nach Erzählfolge geordnet | [Szenen](../../Plots/Plot-1/Szenen.md), Altersgerüst aus [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md) | 05.09.2026 | [veröffentlichter Stand](https://claude.ai/code/artifact/24282ce3-78a8-4594-a751-c771394502fa) |
+| [Figuren](Figuren.html) - *Wer zu wem gehört* | **Wird erzeugt** aus allen Figurendateien unter [Menschen/](../../Menschen/README.md). Stammbaum nach Gruppen: Girlins zwei Familien (Skirraa und Kel Aman), Fridas Verlobung, Kaupvik, Tingsal, weitere in der Wüste. Linien aus den Familientabellen, Figuren ohne Namen oder Datei als Platzhalter. Ein Klick zeigt die Angaben der Datei und hebt alle Bezüge hervor. **Nur lokal** | alle Dateien unter [Menschen/](../../Menschen/README.md) | 25.09.2026 | - |
 | [Kapitelraster](Kapitelraster.html) - *Vor dem Kapitelraster* | **Überholt** - durch die Szenenliste ersetzt. Steht noch auf 43 Einheiten und Jahr −1 | [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../../Plots/Plot-1/Kapitelstruktur.md) | 04.09.2026 | [öffnen](https://claude.ai/code/artifact/cc1d621a-e67f-4d29-b4c5-7f41ca7bab0d) |
 | [Szenenliste](Szenenliste.html) - *Was jede Szene will* | **Wird erzeugt** aus [Szenen.md](../../Plots/Plot-1/Szenen.md), nicht von Hand gepflegt. Alle Szenenkandidaten mit Ziel, Hindernis, Ausgang; gegliedert in die fünf Kategorien Prolog / Anfang / Hauptteil / Schluss / Epilog. **Startansicht ist *Parallel*** - zwei versetzte Bahnen, Tibun links, Girlin rechts; *Erzählt* zeigt eine Bahn. Die gespeicherte Reihenfolge **ist** die Erzählreihenfolge und wird nie umsortiert; wählbar sind Ansicht und Strang. Die Grenze Anfang/Hauptteil liest der Generator aus der Gliederungstabelle von Szenen.md (entschieden 14.09.2026). **Am 05.09.2026 auf Wunsch des Autors entschlackt:** Hinweiskasten mit Änderungsprotokoll, Ansicht *Blockweise*, Auswahlfeld *Anfang endet nach*, Filter *Nur ohne Hindernis* und die Chips *frei · belegt · entschieden* an den Kategorien sind entfernt | [Szenen](../../Plots/Plot-1/Szenen.md) - **einzige Quelle** | 05.09.2026 | [veröffentlichter Stand](https://claude.ai/code/artifact/425e137d-9af9-4cbb-9871-ed77ed74df6c) |
 
@@ -38,6 +39,7 @@ Aus dem Wurzelverzeichnis des Wikis:
 python3 tools/szenenliste.py --nummerieren   # Nummern in Szenen.md nachziehen, dann erzeugen
 python3 tools/szenenliste.py                 # nur erzeugen
 python3 tools/zeitgeruest.py                 # Zeitgerüst erzeugen
+python3 tools/figuren.py                     # Figuren-Stammbaum erzeugen
 python3 tools/szenenliste.py --pruefen       # nur melden, ob die Datei zum Stand passt
 python3 tools/zeitgeruest.py --pruefen
 python3 tools/szenenliste.py --artifact      # zusätzlich die Fassung zum Veröffentlichen (/tmp)
@@ -54,6 +56,7 @@ Nach einer Änderung an `Szenen.md` beide laufen lassen. `--nummerieren` ist rei
 | `tools/pruefe_offen.py` | Prüft die **Offen**-Zeilen in `Szenen.md` gegen `Challenges.md`: meldet Einträge, deren Challenge entschieden ist, die zu keiner passen oder zu mehreren. Liest beide, ändert keine - die Schaubilder hängen weiterhin nicht an `Challenges.md` |
 | `tools/szenenliste.py` + `szenenliste.template.html` | Szenenliste |
 | `tools/zeitgeruest.py` + `zeitgeruest.template.html` | Zeitgerüst |
+| `tools/figuren.py` + `figuren.template.html` | Figuren. Liest die Figurendateien selbst, nicht über `wiki.py`. **Von Hand im Skript gepflegt:** wo jede Figur im Bild steht (`GRUPPEN`), welche Figuren ohne Datei als Platzhalter erscheinen (`PLATZHALTER`) und welche Zeilenbeschriftung welche Linie bedeutet (`ZEILEN`). Eine neue Figurendatei ohne Platz im Bild, ein Platzhalter ohne seine Quellzeile oder eine unbekannte Beschriftung mit Figurenlink bricht den Lauf ab. Einseitig eingetragene Verwandtschaft meldet das Skript als HINWEIS |
 
 **Was die Skripte bei jedem Lauf neu rechnen** - und was deshalb nicht mehr still veralten kann: Positionsnummern; die Grenzen von Prolog, Anfang und Schluss; alle Kennzahlen; die Wortzahl-Größenordnung; die Jahresachse samt Alter; welche Jahre je Strang **keine** Szene haben; die Zahl der verschiedenen offenen Punkte.
 

@@ -1,0 +1,663 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wer zu wem gehört</title>
+<style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found]){display:none!important}</style>
+</head>
+<body>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7;
+  --card:#F6F7F4;
+  --ink:#1C2124;
+  --ink-2:#4E565A;
+  --ink-3:#7B8388;
+  --rule:#D1D4CE;
+  --rule-2:#BFC3BC;
+  --nord:#2F5D66;
+  --nord-tint:#DDE8E9;
+  --sand:#8F6216;
+  --sand-tint:#EDE4D2;
+  --fremd:#6E4A6B;
+  --fremd-tint:#E9E0E7;
+  --gap:#9C3F38;
+  --gap-tint:#EEDFDC;
+  --line:#6C7478;
+  --focus:#1C2124;
+  --shadow:0 1px 2px rgba(28,33,36,.07);
+  --panel-shadow:-10px 0 30px rgba(28,33,36,.12);
+
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --paper:#14181A;
+    --card:#1C2124;
+    --ink:#E6E8E4;
+    --ink-2:#A6AEB1;
+    --ink-3:#79817F;
+    --rule:#2C3336;
+    --rule-2:#3A4346;
+    --nord:#7CB8C0;
+    --nord-tint:#1B2E32;
+    --sand:#D2A153;
+    --sand-tint:#2C2214;
+    --fremd:#C39BC0;
+    --fremd-tint:#2A1F29;
+    --gap:#DB8279;
+    --gap-tint:#31201E;
+    --line:#8A9396;
+    --focus:#E6E8E4;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+    --panel-shadow:-10px 0 30px rgba(0,0,0,.45);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --paper:#14181A;
+  --card:#1C2124;
+  --ink:#E6E8E4;
+  --ink-2:#A6AEB1;
+  --ink-3:#79817F;
+  --rule:#2C3336;
+  --rule-2:#3A4346;
+  --nord:#7CB8C0;
+  --nord-tint:#1B2E32;
+  --sand:#D2A153;
+  --sand-tint:#2C2214;
+  --fremd:#C39BC0;
+  --fremd-tint:#2A1F29;
+  --gap:#DB8279;
+  --gap-tint:#31201E;
+  --line:#8A9396;
+  --focus:#E6E8E4;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+  --panel-shadow:-10px 0 30px rgba(0,0,0,.45);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--f-body);
+  font-size:15px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1480px;margin:0 auto;padding-inline:24px;padding-block:44px 80px}
+@media (max-width:600px){.wrap{padding-inline:16px;padding-block:28px 60px}}
+
+/* ---------- Kopf ---------- */
+.eyebrow{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  margin:0;
+}
+h1{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:clamp(30px,5vw,46px);
+  line-height:1.08;
+  letter-spacing:-.015em;
+  margin:.28em 0 .3em;
+  text-wrap:balance;
+}
+.lede{
+  font-family:var(--f-display);
+  font-size:17px;
+  line-height:1.6;
+  color:var(--ink-2);
+  max-width:66ch;
+  margin:0;
+}
+.lede em{color:var(--ink)}
+.facts{
+  display:flex;
+  flex-wrap:wrap;
+  margin:30px 0 0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.fact{flex:1 1 150px;padding:14px 20px 13px;border-left:1px solid var(--rule)}
+.fact:first-child{border-left:0;padding-left:0}
+.fact b{
+  display:block;
+  font-family:var(--f-mono);
+  font-size:24px;
+  font-weight:500;
+  line-height:1.1;
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.02em;
+}
+.fact > span{display:block;margin-top:5px;font-size:12.5px;color:var(--ink-2);line-height:1.4}
+.fact.warn b{color:var(--gap)}
+.fact .k-nord{color:var(--nord)} .fact .k-wueste{color:var(--sand)} .fact .k-fremd{color:var(--fremd)}
+
+/* ---------- Legende ---------- */
+.legende{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px 26px;
+  margin:22px 0 0;
+  font-size:12.5px;
+  color:var(--ink-2);
+  align-items:center;
+}
+.legende .it{display:inline-flex;align-items:center;gap:8px}
+.legende svg{flex:none}
+.legende .sw{width:12px;height:12px;border-radius:2px;flex:none}
+.sw.nord{background:var(--nord)} .sw.wueste{background:var(--sand)} .sw.fremd{background:var(--fremd)}
+.legende .mini-ghost{width:26px;height:16px;border:1.5px dashed var(--rule-2);border-radius:4px}
+.hint{margin:14px 0 0;font-size:13px;color:var(--ink-3)}
+
+/* ---------- Gruppen ---------- */
+.gruppe{margin:40px 0 0}
+.gruppe h2{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:21px;
+  letter-spacing:-.01em;
+  margin:0;
+}
+.gruppe .sub{margin:2px 0 12px;font-size:13.5px;color:var(--ink-3)}
+.neben{display:flex;flex-wrap:wrap;gap:8px 56px;align-items:flex-start}
+.neben .gruppe{flex:0 1 auto;min-width:0;max-width:100%}
+.buehne-rahmen{overflow-x:auto;overflow-y:hidden;max-width:100%;-webkit-overflow-scrolling:touch}
+.buehne-mass{position:relative}
+.buehne{position:absolute;left:0;top:0;transform-origin:0 0}
+.buehne svg{position:absolute;left:0;top:0;overflow:visible;pointer-events:none}
+.scrollhinweis{font-size:12px;color:var(--ink-3);margin:6px 0 0}
+
+/* ---------- Karten ---------- */
+.karte{
+  position:absolute;
+  width:150px;
+  min-height:58px;
+  padding:8px 10px 9px 12px;
+  text-align:left;
+  font:inherit;
+  color:inherit;
+  background:var(--card);
+  border:1px solid var(--rule);
+  border-left:3px solid var(--k);
+  border-radius:5px;
+  box-shadow:var(--shadow);
+  cursor:pointer;
+  display:flex;
+  flex-direction:column;
+  gap:2px;
+  transition:opacity .15s, box-shadow .15s, border-color .15s;
+}
+.karte.nord{--k:var(--nord);--kt:var(--nord-tint)}
+.karte.wueste{--k:var(--sand);--kt:var(--sand-tint)}
+.karte.fremd{--k:var(--fremd);--kt:var(--fremd-tint)}
+.karte:hover{border-color:var(--rule-2);border-left-color:var(--k)}
+.karte:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.karte .nm{font-weight:600;font-size:14.5px;line-height:1.25}
+.karte.haupt .nm{font-family:var(--f-display);font-size:17.5px;line-height:1.15}
+.karte.haupt{background:var(--kt)}
+.karte .al{font-size:12px;line-height:1.35;color:var(--ink-2)}
+.karte .tot{font-weight:400;color:var(--ink-3);margin-left:3px}
+.karte .of{
+  position:absolute;
+  top:-8px;
+  right:-6px;
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  line-height:1;
+  padding:3px 5px;
+  border-radius:9px;
+  color:var(--gap);
+  background:var(--gap-tint);
+  border:1px solid var(--gap);
+}
+.karte.platzhalter{
+  width:128px;
+  background:transparent;
+  border:1.5px dashed var(--rule-2);
+  box-shadow:none;
+}
+.karte.platzhalter .nm{font-weight:500;font-style:italic;font-size:13px;color:var(--ink-2)}
+.karte.platzhalter .al{font-style:italic}
+.notiz{
+  position:absolute;
+  width:170px;
+  font-size:12px;
+  line-height:1.35;
+  font-style:italic;
+  color:var(--ink-3);
+  background:none;
+  border:0;
+  padding:0;
+  text-align:left;
+  cursor:pointer;
+}
+.notiz:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.verweis{
+  position:absolute;
+  width:128px;
+  padding:5px 10px 6px;
+  border:1.5px dashed var(--nord);
+  border-radius:18px;
+  background:transparent;
+  font:inherit;
+  color:var(--ink);
+  text-align:center;
+  cursor:pointer;
+}
+.verweis small{display:block;font-family:var(--f-mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
+.verweis span{font-weight:600;font-size:14px}
+.verweis:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+
+/* Auswahl */
+.aktiv .karte, .aktiv .notiz, .aktiv .verweis{opacity:.28}
+.aktiv .bezug{opacity:1}
+.aktiv .gewaehlt{opacity:1;box-shadow:0 0 0 2px var(--k, var(--ink)), var(--shadow)}
+.aktiv .bezug.karte:not(.gewaehlt){box-shadow:0 0 0 1.5px var(--rule-2), var(--shadow)}
+.linie{fill:none;stroke:var(--line);stroke-width:1.4;transition:opacity .15s}
+.linie.ehe{stroke-width:2.2}
+.linie.partner{stroke-width:2.2;stroke-dasharray:7 4}
+.linie.verlobt{stroke-width:2.2;stroke-dasharray:1.5 4;stroke-linecap:round}
+.linie.geschwister{stroke-width:1.4}
+.linie.zieh{stroke-dasharray:5 4}
+.aktiv .linie{opacity:.2}
+.aktiv .linie.an{opacity:1;stroke:var(--ink)}
+
+/* ---------- Seitenleiste ---------- */
+.panel{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  width:min(410px,100%);
+  background:var(--card);
+  border-left:1px solid var(--rule);
+  box-shadow:var(--panel-shadow);
+  overflow-y:auto;
+  padding:calc(22px + env(safe-area-inset-top, 0px)) 24px calc(30px + env(safe-area-inset-bottom, 0px));
+  z-index:10;
+}
+@media (max-width:700px){
+  .panel{top:auto;width:100%;max-height:72vh;border-left:0;border-top:1px solid var(--rule);border-radius:12px 12px 0 0}
+}
+.panel .zu{
+  position:sticky;
+  top:0;
+  float:right;
+  margin:-6px -8px 0 8px;
+  width:34px;height:34px;
+  border:1px solid var(--rule);
+  border-radius:50%;
+  background:var(--card);
+  color:var(--ink-2);
+  font-size:18px;
+  line-height:1;
+  cursor:pointer;
+}
+.panel .zu:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.panel h2{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:28px;
+  line-height:1.1;
+  margin:6px 0 4px;
+  text-wrap:balance;
+}
+.panel .voll{margin:0 0 14px;color:var(--ink-3);font-size:13px}
+.panel h3{
+  font-family:var(--f-mono);
+  font-size:11px;
+  font-weight:500;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  margin:22px 0 8px;
+  padding-top:14px;
+  border-top:1px solid var(--rule);
+}
+.panel dl{margin:0;display:grid;gap:9px}
+.panel dt{font-size:12px;font-weight:600;color:var(--ink-2)}
+.panel dd{margin:1px 0 0;font-size:13.5px;line-height:1.5}
+.panel ul{margin:0;padding-left:18px;font-size:13.5px;line-height:1.5;display:grid;gap:5px}
+.panel p{font-size:13.5px;line-height:1.5}
+.panel a{color:var(--nord)}
+.panel a.p{color:inherit;text-decoration-color:var(--rule-2);text-underline-offset:2px}
+.panel a.p:hover{text-decoration-color:currentColor}
+.panel .quelle{margin:24px 0 0;font-family:var(--f-mono);font-size:11.5px;color:var(--ink-3);word-break:break-all}
+.offen{color:var(--gap);font-weight:600;font-family:var(--f-mono);font-size:.92em}
+
+footer{margin:56px 0 0;padding-top:16px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-3);max-width:80ch}
+footer code{font-family:var(--f-mono);font-size:12px}
+
+@media (prefers-reduced-motion: reduce){
+  *{transition:none!important}
+}
+</style>
+
+<div class="wrap" id="wrap">
+  <header>
+    <p class="eyebrow">Annular · Figuren · Stand 25.09.2026</p>
+    <h1>Wer zu wem gehört</h1>
+    <p class="lede">Alle Figurendateien unter <em>Menschen/</em>, als Stammbaum gelesen. Die Linien kommen aus den Familientabellen der Dateien. Ein Klick auf eine Figur zeigt ihre Angaben und hebt alle hervor, die in ihrer Familie oder ihren Verbindungen vorkommen, auch Freundschaft und Gegnerschaft.</p>
+    <div class="facts">
+      <div class="fact"><b>26</b><span>Figuren mit eigener Datei</span></div>
+      <div class="fact"><b><span class="k-nord">18</span> · <span class="k-wueste">7</span> · <span class="k-fremd">1</span></b><span>Nordvolk · Kel Aman · andere</span></div>
+      <div class="fact"><b>5</b><span>Platzhalter: genannt, aber ohne Namen oder Datei</span></div>
+      <div class="fact warn"><b>3</b><span>Figuren mit offener Stelle (<span class="offen">???</span>) in ihrer Datei</span></div>
+    </div>
+    <div class="legende" aria-label="Legende">
+      <span class="it"><span class="sw nord"></span>Nordvolk</span>
+      <span class="it"><span class="sw wueste"></span>Kel Aman</span>
+      <span class="it"><span class="sw fremd"></span>andere</span>
+      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie ehe" x1="1" y1="5" x2="33" y2="5"/></svg>Ehe</span>
+      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie partner" x1="1" y1="5" x2="33" y2="5"/></svg>Partnerschaft</span>
+      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie verlobt" x1="2" y1="5" x2="33" y2="5"/></svg>Verlobung</span>
+      <span class="it"><svg width="22" height="18" aria-hidden="true"><path class="linie" d="M11 1V9M3 9H19M3 9V17M19 9V17"/></svg>Kinder</span>
+      <span class="it"><svg width="22" height="14" aria-hidden="true"><path class="linie" d="M3 13V3H19V13"/></svg>Geschwister, Eltern nicht im Bild</span>
+      <span class="it"><span class="mini-ghost"></span>ohne Namen oder Datei</span>
+      <span class="it"><span class="offen">???</span>offene Stellen in der Datei</span>
+    </div>
+  </header>
+
+  <section class="gruppe" id="g-familie"></section>
+  <div class="neben" id="neben"></div>
+
+  <footer>
+    Erzeugt am 25.09.2026 mit <code>tools/figuren.py</code> aus den Dateien unter <code>Menschen/</code>. Nicht von Hand bearbeiten. Das Schaubild legt nichts fest: Im Zweifel gilt die Figurendatei. Wo eine Figur im Bild steht, ist Darstellung, keine Entscheidung.
+  </footer>
+</div>
+
+<aside class="panel" id="panel" hidden aria-live="polite"></aside>
+
+<script type="application/json" id="daten">{"knoten": {"Bellbrim": {"id": "Bellbrim", "art": "figur", "name": "Bellbrim", "titel": "Bellbrim", "kultur": "fremd", "haupt": true, "tot": false, "alter": "50 im Finale (Jahr +10)", "offen": 0, "pfad": "Menschen/Andere/Bellbrim.md", "link": "../../Menschen/Andere/Bellbrim.md", "allgemein": [["Rolle", "<b>Gelehrte und Heilerin<\/b> (Autor, 25.09.2026) / Verbündete von Girlin. <i>(Hier stand: Wissenschaftlerin.)<\/i>"], ["Alter", "<b>50 im Finale (Jahr +10)<\/b> (Autor, 25.09.2026) - damit 40 in Jahr 0, <b>41 beim Kennenlernen<\/b> mit Girlin (Jahr +1) und geboren um <b>510<\/b> (560 - 50). Siehe <a href=\"../../Plots/Plot-1/Zeitleiste.md\">Zeitleiste<\/a>. <i>(Hier stand: ~40 beim Kennenlernen.)<\/i>"], ["Herkunft", "<b>Vandalin<\/b> - Ostgermanin aus dem 534 von Byzanz zerschlagenen Vandalenreich in Nordafrika. Keine Kel Aman, wie Girlin eine Fremde in der Wüste. <b>534 verschleppt, mit einem Händlerzug<\/b> (Autor, 25.09.2026), mit etwa 24 (534 - 510)"], ["Erscheinung", "<b>Blasse Haut<\/b> - fällt unter den Kel Aman auf, erklärt sich aus der germanischen Herkunft. Mehr braucht es nicht (Autor, 25.09.2026: reicht so)"], ["Sprachen", "<b>Mehrsprachig<\/b> - <b>Vandalisch<\/b> (ostgermanisch), <b>Griechisch<\/b> und die <b>Sprache der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a><\/b> (Autor, 25.09.2026). Deshalb wandert die Karawane gezielt zu ihr. <b>Ihre Sprache ist der von <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a> ähnlich:<\/b> Die beiden verstehen sich nicht sofort vollständig, können aber vom ersten Treffen an kommunizieren. Ein Konflikt zwischen ihnen entsteht daraus nicht (Autor, 14.09.2026). <i>(Gestrichen 25.09.2026, vom Autor nicht gedeckt: Latein, Berberisch und Handelssprachen.)<\/i>"]], "familie": [["Eltern und Geschwister", "<b>tot, 534<\/b> - beim Fall des Reichs (Autor, 25.09.2026)"], ["Mann, Kinder", "<b>nie<\/b> (Autor, 25.09.2026)"]], "familie_text": [], "verbindungen": ["Freundin: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Kennt ihren Höhlenabschnitt: <a class=\"p\" data-id=\"Abarkan\" href=\"#Abarkan\">Abarkan u-Nahar<\/a>"], "bezug": ["Abarkan", "Girlin"]}, "Azzim-u-Tawan": {"id": "Azzim-u-Tawan", "art": "figur", "name": "Azzim u-Tawan", "titel": "Azzim u-Tawan", "kultur": "wueste", "haupt": true, "tot": false, "alter": "etwa 40 in Jahr 0", "offen": 0, "pfad": "Menschen/Kel-Aman/Azzim-u-Tawan.md", "link": "../../Menschen/Kel-Aman/Azzim-u-Tawan.md", "allgemein": [["Rolle", "Antagonist"], ["Alter", "<b>etwa 40<\/b> in Jahr 0 (Autor, 25.09.2026) - damit etwa 45 beim ersten Auftritt (+5) und etwa 50 im Finale (+10), siehe <a href=\"../../Plots/Plot-1/Zeitleiste.md\">Zeitleiste<\/a>"], ["Name", "Vatersname <i>u-Tawan<\/i> - <b>er trägt ihn nicht mehr, er heißt nur Azzim. Niemand sonst kennt seinen vollen Namen<\/b> (Autor, 25.09.2026). <b>Der Leser erfährt ihn nie<\/b>; im Wiki bleibt der volle Name als Autorenebene (Autor, 25.09.2026)"], ["Herkunft", "<b><a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>, abtrünnig<\/b> - aus einem <b>anderen Clan<\/b> als dem von <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a> (Autor, 25.09.2026). Womit er gebrochen hat: <b>Er verkauft eigene Leute<\/b>, und es gibt <b>Blut in der Sippe<\/b> (Autor, 25.09.2026)"], ["Geschäft", "<b>Sklavenhändler, Schmuggler, Karawanenführer und Räuber<\/b> (Autor, 25.09.2026)"]], "familie": [], "familie_text": ["<b>Er hat mit seinem Clan und seiner Familie gebrochen. Sie spielen keine Rolle<\/b> (Autor, 25.09.2026)."], "verbindungen": ["Gegenspieler von <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a> und <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], "bezug": ["Girlin", "Tibun"]}, "Abarkan": {"id": "Abarkan", "art": "figur", "name": "Abarkan", "titel": "Abarkan", "kultur": "wueste", "haupt": false, "tot": false, "alter": "etwa 60 in Jahr 0", "offen": 0, "pfad": "Menschen/Kel-Aman/Nebenfiguren/Abarkan.md", "link": "../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md", "allgemein": [["Rolle", "Ältester aus dem <a href=\"../../Kulturen/Kel-Aman/README.md#ältestenrat\">Rat<\/a> von <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>"], ["Name", "<b>Abarkan u-Nahar<\/b>"], ["Alter", "<b>etwa 60<\/b> in Jahr 0 (Autor, 25.09.2026)"], ["Herkunft", "Clan der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>"]], "familie": [], "familie_text": ["<b>Spielt keine Rolle<\/b> (Autor, 25.09.2026)."], "verbindungen": ["Häuptling: <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>", "Kennt den Höhlenabschnitt von: <a class=\"p\" data-id=\"Bellbrim\" href=\"#Bellbrim\">Bellbrim<\/a>"], "bezug": ["Bellbrim", "Ishman"]}, "Ishman": {"id": "Ishman", "art": "figur", "name": "Ishman", "titel": "Ishman", "kultur": "wueste", "haupt": false, "tot": false, "alter": "etwa 55 (Jahr 0)", "offen": 0, "pfad": "Menschen/Kel-Aman/Nebenfiguren/Ishman.md", "link": "../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md", "allgemein": [["Rolle", "Häuptling des Clans der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>"], ["Alter", "<b>etwa 55<\/b> (Jahr 0) · etwa 65 im Finale (Jahr +10) - eine Generation über <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>; exakte Zahl nicht festgelegt"], ["Herkunft", "Clan der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>, <a href=\"../../Welt/README.md\">Fezzan<\/a>"]], "familie": [["Neffe", "<a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a> - <b>Schwestersohn<\/b> (Ishman ist Mutterbruder)"], ["Vatersname (<code>u-<\/code>)", "<b>Gulan<\/b> - voller Name: <b>Ishman u-Gulan<\/b>"], ["Schwester", "<a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\"><b>Tanast<\/b><\/a>, <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkans<\/a> Mutter (Autor, 10.09.2026). <b>Sie lebt<\/b>, ebenso ihr Mann <a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\"><b>Werdan<\/b><\/a>"], ["Ehefrau", "ja, <b>ohne Namen<\/b> - <b>keine Kinder<\/b> (Autor, 25.09.2026)"]], "familie_text": [], "verbindungen": ["Neffe: <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a> - Sohn seiner Schwester <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a>", "Verhältnis zu <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>: väterlich, wohlwollend (Autor, 25.09.2026)", "Verhältnis zu <a class=\"p\" data-id=\"Azzim-u-Tawan\" href=\"#Azzim-u-Tawan\">Azzim u-Tawan<\/a>: <b>er verachtet ihn<\/b>; er <b>kennt ihn vom Hörensagen<\/b>, und <b>sie kennen sich von früher<\/b> (Autor, 25.09.2026)"], "bezug": ["Azzim-u-Tawan", "Girlin", "Sekkan", "Tanast", "Werdan"]}, "Sekkan": {"id": "Sekkan", "art": "figur", "name": "Sekkan", "titel": "Sekkan", "kultur": "wueste", "haupt": false, "tot": false, "alter": "etwa 37 bei Beziehungsbeginn (Jahr +3)", "offen": 0, "pfad": "Menschen/Kel-Aman/Nebenfiguren/Sekkan.md", "link": "../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md", "allgemein": [["Rolle", "Neffe des Häuptlings <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a> der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>; Partner <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlins<\/a> ab Jahr +3"], ["Alter", "<b>etwa 37<\/b> bei Beziehungsbeginn (Jahr +3) · etwa 44 im Finale (Jahr +10) - gleicher Jahrgang wie <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>, exakte Zahl nicht festgelegt"], ["Herkunft", "Clan der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>, <a href=\"../../Welt/README.md\">Fezzan<\/a>"]], "familie": [["Vatersname (<code>u-<\/code>)", "<a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\"><b>Werdan<\/b><\/a> - voller Name: <b>Sekkan u-Werdan<\/b>. <b>Er lebt<\/b> (Autor, 10.09.2026)"], ["Geschwister", "<b>keine<\/b> - er ist das einzige Kind von <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a> und <a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\">Werdan<\/a> (Autor, 25.09.2026)"], ["Onkel", "<a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman u-Gulan<\/a>, Häuptling des Clans, <b>etwa 55<\/b> (Jahr 0) - <b>Mutterbruder<\/b>"], ["Mutter", "<a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\"><b>Tanast<\/b><\/a>, Schwester <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishmans<\/a> (Autor, 10.09.2026). <b>Sie lebt<\/b> - über sie läuft die Sippenpflicht, mit der der Clan später hilft"], ["Frühere Ehefrau", "mit einem anderen Mann durchgebrannt - <b>ohne Namen<\/b> (Autor, 25.09.2026). Sie ging <b>ohne das geregelte Verfahren<\/b> (<a href=\"../../Kulturen/Kel-Aman/README.md#ehe-und-trennung\">Ehe und Trennung<\/a>): Zwischen den beiden Sippen steht seither eine ungeregelte Sache"], ["Partnerin", "<a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>, ab Jahr +3. <b>Offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt<\/b> (Autor, 10.09.2026) - vor Tamants Geburt in +4"], ["Tochter", "<a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\"><b>Tamant ult-Sekkan<\/b><\/a>, geboren Jahr +4, im Finale <b>6<\/b> - Girlins drittes Kind. <b>Bei der Geburt ist er nicht da<\/b> (Autor, 09.09.2026): Er ist mit einer Karawane unterwegs"]], "familie_text": [], "verbindungen": ["Partnerin: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Eltern: <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a> (Ishmans Schwester) und <a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\">Werdan<\/a> - beide leben", "Onkel: <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman u-Gulan<\/a>, Häuptling der Kel Aman - Bruder seiner Mutter", "Lebt mit: <a class=\"p\" data-id=\"Bellbrim\" href=\"#Bellbrim\">Bellbrim<\/a>", "Gegenspieler im Finale: <a class=\"p\" data-id=\"Azzim-u-Tawan\" href=\"#Azzim-u-Tawan\">Azzim u-Tawan<\/a>"], "bezug": ["Azzim-u-Tawan", "Bellbrim", "Girlin", "Ishman", "Tamant", "Tanast", "Werdan"]}, "Tamant": {"id": "Tamant", "art": "figur", "name": "Tamant", "titel": "Tamant", "kultur": "wueste", "haupt": false, "tot": false, "alter": "geboren in Jahr +4, im Finale 6", "offen": 0, "pfad": "Menschen/Kel-Aman/Nebenfiguren/Tamant.md", "link": "../../Menschen/Kel-Aman/Nebenfiguren/Tamant.md", "allgemein": [["Rolle", "Tochter von <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a> und <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a> - Girlins drittes lebendes Kind"], ["Name", "<b>Tamant ult-Sekkan<\/b> (Autor, 09.09.2026) - ein <b>Mädchen<\/b>"], ["Alter", "geboren in <b>Jahr +4<\/b>, im Finale <b>6<\/b>"], ["Herkunft", "in der Wüste geboren, bei den <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>"]], "familie": [["Mutter", "<a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a> (bei den Kel Aman: Gilint)"], ["Vater", "<a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a> - bei der Geburt nicht da, er ist mit einer Karawane unterwegs (Autor, 09.09.2026)"], ["Großeltern", "<a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a> und <a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\">Werdan<\/a> - sie nehmen Girlin an als Mutter ihrer Enkelin (Autor, 10.09.2026)"], ["Halbgeschwister", "<a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"]], "familie_text": [], "verbindungen": ["Mutter: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Vater: <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>", "Großeltern: <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a>, <a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\">Werdan<\/a>", "Großonkel: <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>", "Halbgeschwister: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"], "bezug": ["Girlin", "Ishman", "Sekkan", "Tanast", "Tibun", "Truda", "Werdan"]}, "Tanast": {"id": "Tanast", "art": "figur", "name": "Tanast", "titel": "Tanast", "kultur": "wueste", "haupt": false, "tot": false, "alter": "etwa 60 in Jahr 0", "offen": 0, "pfad": "Menschen/Kel-Aman/Nebenfiguren/Tanast.md", "link": "../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md", "allgemein": [["Rolle", "Mutter von <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>, Schwester von <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>"], ["Alter", "<b>etwa 60<\/b> in Jahr 0 (Autor, 25.09.2026) - älter als <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a> (etwa 55)"], ["Herkunft", "Clan der <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>"]], "familie": [["Bruder", "<a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman u-Gulan<\/a>, Häuptling"], ["Ehemann", "<a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\">Werdan<\/a>"], ["Sohn", "<a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a> - <b>ihr einziges Kind<\/b> (Autor, 25.09.2026)"], ["Enkelin", "<a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\">Tamant<\/a>"]], "familie_text": [], "verbindungen": ["Bruder: <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>", "Ehemann: <a class=\"p\" data-id=\"Werdan\" href=\"#Werdan\">Werdan<\/a>", "Sohn: <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>", "Schwiegertochter: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Enkelin: <a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\">Tamant<\/a>"], "bezug": ["Girlin", "Ishman", "Sekkan", "Tamant", "Werdan"]}, "Werdan": {"id": "Werdan", "art": "figur", "name": "Werdan", "titel": "Werdan", "kultur": "wueste", "haupt": false, "tot": false, "alter": "etwa 60 in Jahr 0", "offen": 0, "pfad": "Menschen/Kel-Aman/Nebenfiguren/Werdan.md", "link": "../../Menschen/Kel-Aman/Nebenfiguren/Werdan.md", "allgemein": [["Rolle", "Vater von <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>, Mann von <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a>"], ["Alter", "<b>etwa 60<\/b> in Jahr 0 (Autor, 25.09.2026) - wie <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a>"], ["Herkunft", "<b>aus demselben Clan<\/b> wie <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a> und <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>, aus einer anderen Vaterlinie (Autor, 25.09.2026)"]], "familie": [["Ehefrau", "<a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a>, Schwester von <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>"], ["Sohn", "<a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a> - <b>sein einziges Kind<\/b>, weitere Kinder hat er nicht (Autor, 25.09.2026)"], ["Enkelin", "<a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\">Tamant<\/a>"]], "familie_text": [], "verbindungen": ["Ehefrau: <a class=\"p\" data-id=\"Tanast\" href=\"#Tanast\">Tanast<\/a>", "Sohn: <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>", "Schwager: <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman<\/a>", "Enkelin: <a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\">Tamant<\/a>"], "bezug": ["Ishman", "Sekkan", "Tamant", "Tanast"]}, "Girlin": {"id": "Girlin", "art": "figur", "name": "Girlin", "titel": "Girlin", "kultur": "nord", "haupt": true, "tot": false, "alter": "34 (Auftakt und Verschwinden, Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Girlin.md", "link": "../../Menschen/Nordvolk/Girlin.md", "allgemein": [["Rolle", "Mutter von Tibun"], ["Stand bei den <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>", "Als Sippenlose könnte sie nicht heiraten - Ehe ist dort ein Vertrag zwischen Sippen. Deshalb tritt der <b>Clan an die Stelle ihrer Sippe<\/b>: <a class=\"p\" data-id=\"Ishman\" href=\"#Ishman\">Ishman u-Gulan<\/a> nimmt sie förmlich auf (Autor, 09.09.2026). <b>Als eine der Ihren gilt sie ab der Verbindung mit <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a> (Jahr +3); offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt<\/b> (Autor, 10.09.2026) - also im Lauf von +3/+4, vor Tamants Geburt"], ["Name bei den <a href=\"../../Kulturen/Kel-Aman/README.md\">Kel Aman<\/a>", "<b>Gilint<\/b> (Autor, 09.09.2026) - sie sprechen den fremden Namen kollektiv falsch aus; die Form setzt sich durch und bleibt ihr Name in der Wüste. <b>Keine <code>ult-<\/code>Form<\/b> - sie bleibt namentlich ohne Vaterlinie. Die Form gilt <b>ab den ersten Wochen<\/b>; <b>sie nimmt den Namen an<\/b> (Autor, 10.09.2026). <b>Der Erzähler nennt sie weiter Girlin<\/b> - Gilint sagen nur die Figuren"], ["Alter", "<b>34<\/b> (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) - 10 Jahre in der Wüste, siehe <a href=\"../../Plots/Plot-1/Zeitleiste.md\">Zeitleiste<\/a>. Bei Tibuns Geburt <b>18<\/b>, bei Trudas <b>25<\/b>"], ["Herkunft", "<b>Zugezogen aus einem Nachbarweiler<\/b> - dieselbe Kultur und Sprache, aber nicht dieselben Leute. Er liegt <b>einen Tagesmarsch<\/b> von <a href=\"../../Orte/Skirraa.md\">Skirraa<\/a> entfernt und bleibt <b>ohne Namen<\/b>; <b>sie kam zur Heirat<\/b> (Autor, 25.09.2026)"], ["Herkunftssippe", "<b>Es gibt sie nicht mehr<\/b> (Autor, 09.09.2026). Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. <b>Girlin weiß davon.<\/b> Nach ihrer Toterklärung erhebt deshalb niemand Anspruch. Leer war der Weiler <b>um 541/542<\/b> (Jahr -9/-8); <b>sie erfuhr es über Reisende<\/b> (Autor, 25.09.2026)"]], "familie": [["Sohn", "<a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], ["Tochter", "<a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"], ["Drittes Kind", "<a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\"><b>Tamant ult-Sekkan<\/b><\/a> (Autor, 09.09.2026), ein <b>Mädchen<\/b>. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale <b>6<\/b>. Vater: <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a> - <b>bei der Geburt nicht anwesend<\/b>; es helfen erfahrene Frauen des Clans"], ["Verstorbene Kinder", "<b>drei<\/b> - eines zwischen Tibun und Truda, zwei danach; das letzte in <b>Jahr -1 (549)<\/b> (Autor, 24.09.2026), ein <b>Säugling von wenigen Wochen<\/b>, begraben in einer unmarkierten Grube auf dem Hofgelände"], ["Ehemann", "<a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Partner", "<a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan u-Werdan<\/a>, ab Jahr +3"]], "familie_text": [], "verbindungen": ["Sohn: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>", "Tochter: <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>", "Tochter: <a class=\"p\" data-id=\"Tamant\" href=\"#Tamant\">Tamant<\/a>", "Ehemann: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>", "Partner: <a class=\"p\" data-id=\"Sekkan\" href=\"#Sekkan\">Sekkan<\/a>", "Freundin: <a class=\"p\" data-id=\"Bellbrim\" href=\"#Bellbrim\">Bellbrim<\/a>"], "bezug": ["Bellbrim", "Sekkan", "Semund", "Tamant", "Tibun", "Truda"]}, "Audmar": {"id": "Audmar", "art": "figur", "name": "Audmar", "titel": "Audmar", "kultur": "nord", "haupt": false, "tot": false, "alter": "???", "offen": 4, "pfad": "Menschen/Nordvolk/Nebenfiguren/Audmar.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Audmar.md", "allgemein": [["Rolle", "Schiffszimmerer in <a href=\"../../Orte/Kaupvik.md\">Kaupvik<\/a>; <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibuns<\/a> Ziehvater und neue Bezugsperson"], ["Name", "Urform <i>Audmar<\/i> - <b>Glück, Besitz<\/b> + <b>berühmt<\/b>. Kein Kurzname; er trägt die Urform wie <a class=\"p\" data-id=\"Hadurik\" href=\"#Hadurik\">Hadurik<\/a> und <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a>"], ["Alter", "<span class=\"offen\">???<\/span>"], ["Herkunft", "<a href=\"../../Orte/Kaupvik.md\">Kaupvik<\/a> - alteingesessen, in der Stadt verwurzelt"]], "familie": [["Frau", "<a class=\"p\" data-id=\"Siga\" href=\"#Siga\">Siga<\/a>"], ["Kinder", "<b>keine<\/b> (Autor, 10.09.2026)"]], "familie_text": [], "verbindungen": ["Frau: <a class=\"p\" data-id=\"Siga\" href=\"#Siga\">Siga<\/a>", "Ziehsohn: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], "bezug": ["Siga", "Tibun"]}, "Frida": {"id": "Frida", "art": "figur", "name": "Frida", "titel": "Frida", "kultur": "nord", "haupt": false, "tot": false, "alter": "16 am Verlobungstag (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Frida.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Frida.md", "allgemein": [["Rolle", "Tibuns Jugendliebe (ungesagt)"], ["Alter", "<b>16<\/b> am Verlobungstag (Jahr 0) - gleicher Jahrgang wie <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], ["Herkunft", "<a href=\"../../Orte/Skirraa.md\">Skirraa<\/a>"]], "familie": [["Vater", "<a class=\"p\" data-id=\"Fridun\" href=\"#Fridun\"><b>Fridun<\/b><\/a> (Urform <i>Fridmund<\/i>, Frieden + Schutz; Autor, 23.09.2026) - Bauer in Skirraa, ihr <b>leiblicher<\/b> Vater (Autor, 21.09.2026)"], ["Mutter", "<a class=\"p\" data-id=\"Widgund\" href=\"#Widgund\"><b>Widgund<\/b><\/a> (Urname, Wald, weit + Kampf; Autor, 24.09.2026) - lebt (Jahr 0)"], ["Verlobter", "<a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a>"]], "familie_text": [], "verbindungen": ["Unerwiderte Liebe: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>", "Verlobt mit: <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a>", "Vater: <a class=\"p\" data-id=\"Fridun\" href=\"#Fridun\">Fridun<\/a>", "Mutter: <a class=\"p\" data-id=\"Widgund\" href=\"#Widgund\">Widgund<\/a>"], "bezug": ["Fridun", "Herik", "Tibun", "Widgund"]}, "Fridun": {"id": "Fridun", "art": "figur", "name": "Fridun", "titel": "Fridun", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 45 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Fridun.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Fridun.md", "allgemein": [["Rolle", "Bauer in <a href=\"../../Orte/Skirraa.md\">Skirraa<\/a>, Vater von <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"], ["Name", "Kurzform von <i>Fridmund<\/i> - <b>Frieden<\/b> + <b>Schutz<\/b> (Autor, 23.09.2026)"], ["Alter", "<b>etwa 45<\/b> (Jahr 0) (Autor, 24.09.2026)"], ["Herkunft", "<b>aus <a href=\"../../Orte/Skirraa.md\">Skirraa<\/a><\/b> (Autor, 24.09.2026)"]], "familie": [["Tochter", "<a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a> - er ist ihr <b>leiblicher<\/b> Vater (Autor, 21.09.2026)"], ["Ehefrau", "<a class=\"p\" data-id=\"Widgund\" href=\"#Widgund\"><b>Widgund<\/b><\/a> (Autor, 24.09.2026) - <b>lebt<\/b> (Jahr 0) (Autor, 24.09.2026)"]], "familie_text": [], "verbindungen": ["Ehefrau: <a class=\"p\" data-id=\"Widgund\" href=\"#Widgund\">Widgund<\/a>", "Tochter: <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>", "Künftiger Schwiegersohn: <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a>", "Vater des Bräutigams: <a class=\"p\" data-id=\"Landarik\" href=\"#Landarik\">Landarik<\/a>"], "bezug": ["Frida", "Herik", "Landarik", "Widgund"]}, "Hadurik": {"id": "Hadurik", "art": "figur", "name": "Hadurik", "titel": "Hadurik", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 60 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Hadurik.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Hadurik.md", "allgemein": [["Rolle", "Häuptling von <a href=\"../../Orte/Tingsal.md\">Tingsal<\/a>, regionaler Anführer mit Thinghalle. <b>Gegenüber der <a class=\"p\" data-id=\"Wala-Tingsal\" href=\"#Wala-Tingsal\">Wala von Tingsal<\/a><\/b>: getrennte Sphären - sie entscheidet Götterdinge, er Rechtsdinge -, und <b>wo die Götter sprechen, endet seine Macht<\/b> (Autor, 23.09.2026)"], ["Alter", "<b>etwa 60<\/b> (Jahr 0) · etwa 70 im Finale (Jahr +10) - alt und lange im Amt; exakte Zahl nicht festgelegt"], ["Herkunft", "<a href=\"../../Orte/Tingsal.md\">Tingsal<\/a>"]], "familie": [["Nachfolger", "Ein Erbe <b>existiert<\/b> - er hält die Thinghalle nach Hadurik. <b>Es ist sein Sohn<\/b> (Autor, 23.09.2026)"]], "familie_text": [], "verbindungen": ["Gegenüber: <a class=\"p\" data-id=\"Wala-Tingsal\" href=\"#Wala-Tingsal\">Wala von Tingsal<\/a> - getrennte Sphären; wo die Götter sprechen, endet seine Macht", "Sohn: sein Erbe und Nachfolger"], "bezug": ["Wala-Tingsal"]}, "Herik": {"id": "Herik", "art": "figur", "name": "Herik", "titel": "Herik", "kultur": "nord", "haupt": false, "tot": false, "alter": "17-18 am Verlobungstag (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Herik.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Herik.md", "allgemein": [["Rolle", "Verlobter <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Fridas<\/a>"], ["Alter", "<b>17-18<\/b> am Verlobungstag (Jahr 0) - kaum älter als <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a> und <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"], ["Herkunft", "Hof in der Gegend um <a href=\"../../Orte/Tingsal.md\">Tingsal<\/a>"]], "familie": [["Vater", "<a class=\"p\" data-id=\"Landarik\" href=\"#Landarik\">Landarik<\/a>"], ["Verlobte", "<a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"]], "familie_text": [], "verbindungen": ["Vater: <a class=\"p\" data-id=\"Landarik\" href=\"#Landarik\">Landarik<\/a>", "Verlobt mit: <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>", "Unwissentlicher Rivale von: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], "bezug": ["Frida", "Landarik", "Tibun"]}, "Landarik": {"id": "Landarik", "art": "figur", "name": "Landarik", "titel": "Landarik", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 40 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Landarik.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Landarik.md", "allgemein": [["Name", "Urname <i>Landarik<\/i> - <b>Land<\/b> + <b>mächtig<\/b>. Kein Kurzname; er trägt den Urnamen wie <a class=\"p\" data-id=\"Hadurik\" href=\"#Hadurik\">Hadurik<\/a> und <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a> (Autor, 23.09.2026). <i>Bis 23.09.2026 hieß er Lanke (Urform Landwara) - geändert, weil <code>-wara<\/code> weiblich ist und die Endung <code>-e<\/code> nicht ins Namensmuster passt.<\/i>"], ["Rolle", "Vater <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Heriks<\/a>; Hofbesitzer von auswärts"], ["Alter", "<b>etwa 40<\/b> (Jahr 0) - früh Vater geworden, <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a> ist 17-18"], ["Herkunft", "Gegend um <a href=\"../../Orte/Tingsal.md\">Tingsal<\/a>"]], "familie": [["Sohn", "<a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a>"]], "familie_text": [], "verbindungen": ["Sohn: <a class=\"p\" data-id=\"Herik\" href=\"#Herik\">Herik<\/a>", "Arrangiert die Ehe mit: <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"], "bezug": ["Frida", "Herik"]}, "Millia": {"id": "Millia", "art": "figur", "name": "Millia", "titel": "Millia", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 34 (Jahr 0)", "offen": 3, "pfad": "Menschen/Nordvolk/Nebenfiguren/Millia.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Millia.md", "allgemein": [["Rolle", "Neue Partnerin von <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Alter", "<b>etwa 34<\/b> (Jahr 0) · etwa 44 (Finale) - gleicher Jahrgang wie <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>, exakte Zahl nicht festgelegt"], ["Herkunft", "<a href=\"../../Orte/Skirraa.md\">Skirraa<\/a> - im Weiler aufgewachsen"]], "familie": [["Partner", "<a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Erster Mann", "<b>verstorben<\/b> - Millia ist Witwe (Autor, 10.09.2026). Wer er war und was aus seinem Besitz wurde: <span class=\"offen\">???<\/span>"], ["Kinder", "<b>keine eigenen<\/b> (Autor, 10.09.2026)"]], "familie_text": [], "verbindungen": ["Partner: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>", "Einst Freundin von: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>"], "bezug": ["Girlin", "Semund"]}, "Randwara": {"id": "Randwara", "art": "figur", "name": "Randwara", "titel": "Randwara", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 65 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Randwara.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Randwara.md", "allgemein": [["Rolle", "Mutter von <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>, Großmutter von <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a> und <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"], ["Name", "Urname <i>Randwara<\/i> - <b>Schild<\/b> + <b>Hüterin<\/b>. Kein Kurzname; sie trägt den Urnamen (Autor, 24.09.2026)"], ["Alter", "<b>etwa 65<\/b> (Jahr 0) (Autor, 24.09.2026)"], ["Herkunft", "<b>von auswärts, aus <a href=\"../../Orte/Tingsal.md\">Tingsal<\/a><\/b> (Autor, 24.09.2026)"]], "familie": [["Ehemann", "<a class=\"p\" data-id=\"Sigrik\" href=\"#Sigrik\"><b>Sigrik<\/b><\/a> - Urname, <b>Sieg<\/b> + <b>mächtig<\/b> (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt. Er starb in <b>Jahr -20<\/b> (Autor, 25.09.2026)"], ["Sohn", "<a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Weitere Kinder", "<b>mehrere<\/b>, fortgezogen (Autor, 24.09.2026)"], ["Enkel", "<a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"]], "familie_text": [], "verbindungen": ["Ehemann (tot): <a class=\"p\" data-id=\"Sigrik\" href=\"#Sigrik\">Sigrik<\/a>", "Sohn: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>", "Enkel: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>", "Schwiegertochter: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>"], "bezug": ["Girlin", "Semund", "Sigrik", "Tibun", "Truda"]}, "Semund": {"id": "Semund", "art": "figur", "name": "Semund", "titel": "Semund", "kultur": "nord", "haupt": false, "tot": false, "alter": "35 (Girlins Verschwinden)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Semund.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Semund.md", "allgemein": [["Rolle", "Vater von <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, Ehemann der verschwundenen <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>"], ["Alter", "35 (Girlins Verschwinden) / 45 (Finale), siehe <a href=\"../../Plots/Plot-1/Zeitleiste.md\">Zeitleiste<\/a>"], ["Herkunft", "<a href=\"../../Orte/Skirraa.md\">Skirraa<\/a>"]], "familie": [["Mutter", "<a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a> - lebt in Jahr 0 noch, auf seinem Hof (Autor, 24.09.2026)"], ["Vater", "<a class=\"p\" data-id=\"Sigrik\" href=\"#Sigrik\"><b>Sigrik<\/b><\/a> (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt. Er starb in <b>Jahr -20<\/b> (Autor, 25.09.2026)"], ["Geschwister", "<b>mehrere<\/b>, fortgezogen (Autor, 24.09.2026)"], ["Ehefrau", "<a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a> (verschwunden)"], ["Neue Partnerin", "<a class=\"p\" data-id=\"Millia\" href=\"#Millia\">Millia<\/a>"], ["Sohn", "<a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], ["Tochter", "<a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"]], "familie_text": [], "verbindungen": ["Mutter: <a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a>", "Vater (tot): <a class=\"p\" data-id=\"Sigrik\" href=\"#Sigrik\">Sigrik<\/a>", "Ehefrau (verschwunden): <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Neue Partnerin: <a class=\"p\" data-id=\"Millia\" href=\"#Millia\">Millia<\/a>", "Sohn: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>", "Tochter: <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"], "bezug": ["Girlin", "Millia", "Randwara", "Sigrik", "Tibun", "Truda"]}, "Siga": {"id": "Siga", "art": "figur", "name": "Siga", "titel": "Siga", "kultur": "nord", "haupt": false, "tot": false, "alter": "???", "offen": 5, "pfad": "Menschen/Nordvolk/Nebenfiguren/Siga.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Siga.md", "allgemein": [["Rolle", "Frau des Schiffszimmerers <a class=\"p\" data-id=\"Audmar\" href=\"#Audmar\">Audmar<\/a> in <a href=\"../../Orte/Kaupvik.md\">Kaupvik<\/a>; <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibuns<\/a> Ziehmutter"], ["Name", "Kurzform von <i>Sighild<\/i> - <b>Sieg<\/b> + <b>Kampf<\/b>"], ["Alter", "<span class=\"offen\">???<\/span>"], ["Herkunft", "<a href=\"../../Orte/Kaupvik.md\">Kaupvik<\/a> - alteingesessen, in der Stadt verwurzelt"]], "familie": [["Mann", "<a class=\"p\" data-id=\"Audmar\" href=\"#Audmar\">Audmar<\/a>"], ["Kinder", "<b>keine<\/b> (Autor, 10.09.2026)"]], "familie_text": [], "verbindungen": ["Mann: <a class=\"p\" data-id=\"Audmar\" href=\"#Audmar\">Audmar<\/a>", "Ziehsohn: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], "bezug": ["Audmar", "Tibun"]}, "Sigrik": {"id": "Sigrik", "art": "figur", "name": "Sigrik", "titel": "Sigrik", "kultur": "nord", "haupt": false, "tot": true, "alter": "gleich alt wie Randwara", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Sigrik.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Sigrik.md", "allgemein": [["Rolle", "Vater von <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>, Mann von <a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a> - <b>tot<\/b>"], ["Name", "Urname <i>Sigrik<\/i> - <b>Sieg<\/b> + <b>mächtig<\/b> (Autor, 24.09.2026)"], ["Alter", "<b>gleich alt wie <a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a><\/b> (Autor, 25.09.2026) - bei seinem Tod in Jahr -20 also etwa 45 (Randwara etwa 65 in Jahr 0, minus 20 Jahre)"], ["Herkunft", "<b>aus <a href=\"../../Orte/Skirraa.md\">Skirraa<\/a><\/b> (Autor, 25.09.2026)"]], "familie": [["Ehefrau", "<a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a>"], ["Sohn", "<a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Weitere Kinder", "<b>mehrere<\/b>, fortgezogen (Autor, 24.09.2026)"], ["Enkel", "<a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"]], "familie_text": [], "verbindungen": ["Ehefrau: <a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a>", "Sohn: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>", "Enkel: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>, <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"], "bezug": ["Randwara", "Semund", "Tibun", "Truda"]}, "Truda": {"id": "Truda", "art": "figur", "name": "Truda", "titel": "Truda", "kultur": "nord", "haupt": false, "tot": false, "alter": "9 (Auftakt und Girlins Verschwinden, Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Truda.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Truda.md", "allgemein": [["Rolle", "Jüngere Schwester von <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], ["Alter", "<b>9<\/b> (Auftakt und Girlins Verschwinden, Jahr 0) / 19 (Finale) - <b>7 Jahre jünger<\/b> als Tibun, siehe <a href=\"../../Plots/Plot-1/Zeitleiste.md\">Zeitleiste<\/a>"], ["Herkunft", "<a href=\"../../Orte/Skirraa.md\">Skirraa<\/a>"]], "familie": [["Mutter", "<a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>"], ["Vater", "<a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Bruder", "<a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], ["Großmutter", "<a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a>, Semunds Mutter"], ["Ehemann", "<a class=\"p\" data-id=\"Wulfstein\" href=\"#Wulfstein\"><b>Wulfstein<\/b><\/a> (Autor, 25.09.2026). Sie ist bei <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibuns<\/a> Rückkehr (+9) <b>verheiratet<\/b> und hat einen <b>eigenen Haushalt<\/b> (Autor, 18.09.2026) <b>in <a href=\"../../Orte/Skirraa.md\">Skirraa<\/a><\/b> (Autor, 25.09.2026). <b>Heirat in Jahr +8, mit 17<\/b> (Autor, 25.09.2026)"], ["Kinder", "bei <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibuns<\/a> Rückkehr (+9) <b>keine<\/b> (Autor, 25.09.2026)"]], "familie_text": [], "verbindungen": ["Mutter: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Vater: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>", "Bruder: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>", "Ehemann: <a class=\"p\" data-id=\"Wulfstein\" href=\"#Wulfstein\">Wulfstein<\/a>"], "bezug": ["Girlin", "Randwara", "Semund", "Tibun", "Wulfstein"]}, "Wala-Tingsal": {"id": "Wala-Tingsal", "art": "figur", "name": "Wala von Tingsal", "titel": "Wala von Tingsal (sesshaft)", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 35 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md", "allgemein": [["Rolle", "Heilige Frau / Seherin (<i>Wala/Völva<\/i>) des Nordvolks, <b>sesshaft<\/b> in <a href=\"../../Orte/Tingsal.md\">Tingsal<\/a>"], ["Alter", "<b>etwa 35<\/b> (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt"], ["Herkunft", "<b>auswärts, unbekannt<\/b> - sitzt in <a href=\"../../Orte/Tingsal.md\">Tingsal<\/a>, stammt aber nicht von dort"]], "familie": [["Zwillingsschwester", "<a class=\"p\" data-id=\"Wala-Wandernd\" href=\"#Wala-Wandernd\">Wandernde Wala<\/a>"]], "familie_text": [], "verbindungen": ["Zwillingsschwester: <a class=\"p\" data-id=\"Wala-Wandernd\" href=\"#Wala-Wandernd\">Wandernde Wala<\/a>"], "bezug": ["Wala-Wandernd"]}, "Wala-Wandernd": {"id": "Wala-Wandernd", "art": "figur", "name": "Wandernde Wala", "titel": "Wandernde Wala", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 35 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md", "allgemein": [["Rolle", "Heilige Frau / Seherin (<i>Wala/Völva<\/i>) des Nordvolks, <b>wandernd<\/b>"], ["Alter", "<b>etwa 35<\/b> (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt"], ["Herkunft", "<b>auswärts, unbekannt<\/b> - wie ihre Zwillingsschwester nicht aus der Gegend"]], "familie": [["Zwillingsschwester", "<a class=\"p\" data-id=\"Wala-Tingsal\" href=\"#Wala-Tingsal\">Wala von Tingsal<\/a>"]], "familie_text": [], "verbindungen": ["Zwillingsschwester: <a class=\"p\" data-id=\"Wala-Tingsal\" href=\"#Wala-Tingsal\">Wala von Tingsal<\/a>"], "bezug": ["Wala-Tingsal"]}, "Widgund": {"id": "Widgund", "art": "figur", "name": "Widgund", "titel": "Widgund", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 45 (Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Widgund.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Widgund.md", "allgemein": [["Rolle", "Frau von <a class=\"p\" data-id=\"Fridun\" href=\"#Fridun\">Fridun<\/a>, Mutter von <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"], ["Name", "Urname <i>Widgund<\/i> - <b>Wald, weit<\/b> + <b>Kampf<\/b> (Autor, 24.09.2026)"], ["Alter", "<b>etwa 45<\/b> (Jahr 0) (Autor, 24.09.2026)"], ["Herkunft", "<b>von auswärts, aus einem anderen Weiler<\/b> (Autor, 24.09.2026)"]], "familie": [["Ehemann", "<a class=\"p\" data-id=\"Fridun\" href=\"#Fridun\">Fridun<\/a>"], ["Tochter", "<a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"]], "familie_text": [], "verbindungen": ["Ehemann: <a class=\"p\" data-id=\"Fridun\" href=\"#Fridun\">Fridun<\/a>", "Tochter: <a class=\"p\" data-id=\"Frida\" href=\"#Frida\">Frida<\/a>"], "bezug": ["Frida", "Fridun"]}, "Wulfstein": {"id": "Wulfstein", "art": "figur", "name": "Wulfstein", "titel": "Wulfstein", "kultur": "nord", "haupt": false, "tot": false, "alter": "etwa 20 bei Tibuns Rückkehr (Jahr +9)", "offen": 0, "pfad": "Menschen/Nordvolk/Nebenfiguren/Wulfstein.md", "link": "../../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md", "allgemein": [["Rolle", "Mann von <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>, Schwager von <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>"], ["Name", "Urname <i>Wulfstein<\/i> - <b>Wolf<\/b> + <b>Stein<\/b> (Autor, 25.09.2026)"], ["Alter", "<b>etwa 20<\/b> bei <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibuns<\/a> Rückkehr (Jahr +9) (Autor, 25.09.2026)"], ["Herkunft", "<b>aus <a href=\"../../Orte/Skirraa.md\">Skirraa<\/a><\/b> (Autor, 25.09.2026)"]], "familie": [["Ehefrau", "<a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a> - Heirat in <b>Jahr +8<\/b>, sie ist 17 (Autor, 25.09.2026)"], ["Kinder", "bei <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibuns<\/a> Rückkehr (Jahr +9) <b>keine<\/b> (Autor, 25.09.2026)"]], "familie_text": [], "verbindungen": ["Ehefrau: <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>", "Schwager: <a class=\"p\" data-id=\"Tibun\" href=\"#Tibun\">Tibun<\/a>", "Schwiegervater: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], "bezug": ["Semund", "Tibun", "Truda"]}, "Tibun": {"id": "Tibun", "art": "figur", "name": "Tibun", "titel": "Tibun", "kultur": "nord", "haupt": true, "tot": false, "alter": "16 (Auftakt und Girlins Verschwinden, Jahr 0)", "offen": 0, "pfad": "Menschen/Nordvolk/Tibun.md", "link": "../../Menschen/Nordvolk/Tibun.md", "allgemein": [["Rolle", "Protagonist"], ["Alter", "<b>16<\/b> (Auftakt und Girlins Verschwinden, Jahr 0) · 17 (Aufbruch) · 25 (Rückkehr) · 26 (Finale) - siehe <a href=\"../../Plots/Plot-1/Zeitleiste.md\">Zeitleiste<\/a>"], ["Herkunft", "<a href=\"../../Orte/Skirraa.md\">Skirraa<\/a> (Nordjütland / Vendsyssel)"]], "familie": [["Mutter", "<a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>"], ["Vater", "<a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>"], ["Schwester", "<a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>"], ["Großmutter", "<a class=\"p\" data-id=\"Randwara\" href=\"#Randwara\">Randwara<\/a>, Semunds Mutter"]], "familie_text": [], "verbindungen": ["Mutter: <a class=\"p\" data-id=\"Girlin\" href=\"#Girlin\">Girlin<\/a>", "Vater: <a class=\"p\" data-id=\"Semund\" href=\"#Semund\">Semund<\/a>", "Schwester: <a class=\"p\" data-id=\"Truda\" href=\"#Truda\">Truda<\/a>", "Verbündete: <a class=\"p\" data-id=\"Bellbrim\" href=\"#Bellbrim\">Bellbrim<\/a>"], "bezug": ["Bellbrim", "Girlin", "Randwara", "Semund", "Truda"]}, "Ishman/Ehefrau": {"id": "Ishman/Ehefrau", "art": "platzhalter", "name": "Ehefrau", "alter": "ja, ohne Namen", "offen": 0, "quelle": "Ishman", "text": "ja, <b>ohne Namen<\/b> - <b>keine Kinder<\/b> (Autor, 25.09.2026)", "bezug": ["Ishman"]}, "Sekkan/Frühere Ehefrau": {"id": "Sekkan/Frühere Ehefrau", "art": "platzhalter", "name": "Frühere Ehefrau", "alter": "mit einem anderen Mann durchgebrannt", "offen": 0, "quelle": "Sekkan", "text": "mit einem anderen Mann durchgebrannt - <b>ohne Namen<\/b> (Autor, 25.09.2026). Sie ging <b>ohne das geregelte Verfahren<\/b> (<a href=\"../../Kulturen/Kel-Aman/README.md#ehe-und-trennung\">Ehe und Trennung<\/a>): Zwischen den beiden Sippen steht seither eine ungeregelte Sache", "bezug": ["Sekkan"]}, "Millia/Erster Mann": {"id": "Millia/Erster Mann", "art": "platzhalter", "name": "Erster Mann", "alter": "verstorben", "offen": 1, "quelle": "Millia", "text": "<b>verstorben<\/b> - Millia ist Witwe (Autor, 10.09.2026). Wer er war und was aus seinem Besitz wurde: <span class=\"offen\">???<\/span>", "bezug": ["Millia"]}, "Girlin/Verstorbene Kinder": {"id": "Girlin/Verstorbene Kinder", "art": "platzhalter", "name": "Verstorbene Kinder", "alter": "drei", "offen": 0, "quelle": "Girlin", "text": "<b>drei<\/b> - eines zwischen Tibun und Truda, zwei danach; das letzte in <b>Jahr -1 (549)<\/b> (Autor, 24.09.2026), ein <b>Säugling von wenigen Wochen<\/b>, begraben in einer unmarkierten Grube auf dem Hofgelände", "bezug": ["Semund", "Girlin"]}, "Hadurik/Nachfolger": {"id": "Hadurik/Nachfolger", "art": "platzhalter", "name": "Nachfolger", "alter": "Ein Erbe existiert", "offen": 0, "quelle": "Hadurik", "text": "Ein Erbe <b>existiert<\/b> - er hält die Thinghalle nach Hadurik. <b>Es ist sein Sohn<\/b> (Autor, 23.09.2026)", "bezug": ["Hadurik"]}, "Semund/Geschwister": {"id": "Semund/Geschwister", "art": "notiz", "name": "Geschwister", "alter": "mehrere, fortgezogen", "offen": 0, "quelle": "Semund", "text": "<b>mehrere<\/b>, fortgezogen (Autor, 24.09.2026)", "bezug": ["Semund"]}, "Audmar>Ziehsohn": {"id": "Audmar>Ziehsohn", "art": "verweis", "name": "Ziehsohn", "ziel": "Tibun", "bezug": ["Audmar", "Siga", "Tibun"]}}, "beziehungen": [{"a": "Audmar", "b": "Siga", "art": "ehe"}, {"a": "Frida", "b": "Herik", "art": "verlobt"}, {"a": "Fridun", "b": "Frida", "art": "kind"}, {"a": "Fridun", "b": "Widgund", "art": "ehe"}, {"a": "Girlin", "b": "Sekkan", "art": "partner"}, {"a": "Girlin", "b": "Semund", "art": "ehe"}, {"a": "Girlin", "b": "Tamant", "art": "kind"}, {"a": "Girlin", "b": "Tibun", "art": "kind"}, {"a": "Girlin", "b": "Truda", "art": "kind"}, {"a": "Ishman", "b": "Tanast", "art": "geschwister"}, {"a": "Landarik", "b": "Herik", "art": "kind"}, {"a": "Millia", "b": "Semund", "art": "partner"}, {"a": "Randwara", "b": "Semund", "art": "kind"}, {"a": "Randwara", "b": "Sigrik", "art": "ehe"}, {"a": "Sekkan", "b": "Tamant", "art": "kind"}, {"a": "Semund", "b": "Tibun", "art": "kind"}, {"a": "Semund", "b": "Truda", "art": "kind"}, {"a": "Sigrik", "b": "Semund", "art": "kind"}, {"a": "Tanast", "b": "Sekkan", "art": "kind"}, {"a": "Tanast", "b": "Werdan", "art": "ehe"}, {"a": "Tibun", "b": "Truda", "art": "geschwister"}, {"a": "Truda", "b": "Wulfstein", "art": "ehe"}, {"a": "Wala-Tingsal", "b": "Wala-Wandernd", "art": "geschwister"}, {"a": "Werdan", "b": "Sekkan", "art": "kind"}, {"a": "Widgund", "b": "Frida", "art": "kind"}, {"a": "Ishman", "b": "Ishman/Ehefrau", "art": "ehe", "platzhalter": true}, {"a": "Sekkan", "b": "Sekkan/Frühere Ehefrau", "art": "ehe", "platzhalter": true}, {"a": "Millia", "b": "Millia/Erster Mann", "art": "ehe", "platzhalter": true}, {"a": "Semund", "b": "Girlin/Verstorbene Kinder", "art": "kind", "platzhalter": true}, {"a": "Girlin", "b": "Girlin/Verstorbene Kinder", "art": "kind", "platzhalter": true}, {"a": "Hadurik", "b": "Hadurik/Nachfolger", "art": "kind", "platzhalter": true}, {"a": "Audmar", "b": "Audmar>Ziehsohn", "art": "zieh"}, {"a": "Siga", "b": "Audmar>Ziehsohn", "art": "zieh"}], "gruppen": [{"id": "familie", "titel": "Girlins zwei Familien", "unter": "Skirraa links, der Clan der Kel Aman rechts - Girlin steht dazwischen", "knoten": [{"id": "Sigrik", "x": 0.5, "y": 0}, {"id": "Randwara", "x": 1.5, "y": 0}, {"id": "Werdan", "x": 3.5, "y": 0}, {"id": "Tanast", "x": 4.5, "y": 0}, {"id": "Ishman", "x": 5.5, "y": 0}, {"id": "Ishman/Ehefrau", "x": 6.5, "y": 0}, {"id": "Semund/Geschwister", "x": 1.0, "y": 0.62}, {"id": "Millia/Erster Mann", "x": -1.0, "y": 1}, {"id": "Millia", "x": 0.0, "y": 1}, {"id": "Semund", "x": 1.0, "y": 1}, {"id": "Girlin", "x": 2.5, "y": 1}, {"id": "Sekkan", "x": 4.0, "y": 1}, {"id": "Sekkan/Frühere Ehefrau", "x": 5.0, "y": 1}, {"id": "Girlin/Verstorbene Kinder", "x": 0.3, "y": 2}, {"id": "Tibun", "x": 1.3, "y": 2}, {"id": "Truda", "x": 2.3, "y": 2}, {"id": "Wulfstein", "x": 3.2, "y": 2}, {"id": "Tamant", "x": 4.2, "y": 2}]}, {"id": "frida", "titel": "Fridas Verlobung", "unter": "Skirraa und die Gegend um Tingsal", "knoten": [{"id": "Fridun", "x": 0, "y": 0}, {"id": "Widgund", "x": 1, "y": 0}, {"id": "Landarik", "x": 2.4, "y": 0}, {"id": "Frida", "x": 0.5, "y": 1}, {"id": "Herik", "x": 1.5, "y": 1}]}, {"id": "kaupvik", "titel": "Kaupvik", "unter": "Tibuns Zieheltern", "knoten": [{"id": "Audmar", "x": 0, "y": 0}, {"id": "Siga", "x": 1, "y": 0}, {"id": "Audmar>Ziehsohn", "x": 0.5, "y": 1}]}, {"id": "tingsal", "titel": "Tingsal", "unter": "Häuptling und die beiden Walas", "knoten": [{"id": "Hadurik", "x": 0, "y": 0}, {"id": "Hadurik/Nachfolger", "x": 0, "y": 1}, {"id": "Wala-Tingsal", "x": 1.3, "y": 0}, {"id": "Wala-Wandernd", "x": 2.3, "y": 0}]}, {"id": "wueste", "titel": "Weitere in der Wüste", "unter": "ohne Familie im Bild", "knoten": [{"id": "Bellbrim", "x": 0, "y": 0}, {"id": "Azzim-u-Tawan", "x": 1, "y": 0}, {"id": "Abarkan", "x": 2, "y": 0}]}]}</script>
+<script>
+(function(){
+  var D = JSON.parse(document.getElementById('daten').textContent);
+  var K = D.knoten;
+  var U = 184, ROW = 150, PAD = 22, TOP = 26, NAMEY = 22;
+  var BREITE = {figur:150, platzhalter:128, verweis:128, notiz:170};
+  var KULTUR = {nord:'Nordvolk', wueste:'Kel Aman', fremd:'andere'};
+  var gewaehlt = null;
+  var buehnen = [];
+
+  function el(tag, cls, html){
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (html != null) e.innerHTML = html;
+    return e;
+  }
+  function esc(t){ return String(t).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+
+  /* ---------- Karten ---------- */
+  function karte(k){
+    var b;
+    if (k.art === 'figur'){
+      b = el('button', 'karte ' + k.kultur + (k.haupt ? ' haupt' : ''));
+      b.innerHTML = '<span class="nm">' + esc(k.name) + (k.tot ? '<span class="tot" title="tot">†</span>' : '') + '</span>' +
+        (k.alter ? '<span class="al">' + esc(k.alter).replace('???', '<span class="offen">???</span>') + '</span>' : '') +
+        (k.offen ? '<span class="of" title="offene Stellen in der Datei">' + k.offen + ' ???</span>' : '');
+      b.setAttribute('aria-label', k.name + (k.alter ? ', ' + k.alter : ''));
+    } else if (k.art === 'platzhalter'){
+      b = el('button', 'karte platzhalter');
+      b.innerHTML = '<span class="nm">' + esc(k.name) + '</span><span class="al">' + esc(k.alter) + '</span>' +
+        (k.offen ? '<span class="of">???</span>' : '');
+    } else if (k.art === 'notiz'){
+      b = el('button', 'notiz', esc(k.name) + ': ' + esc(k.alter));
+    } else {
+      b = el('button', 'verweis', '<small>' + esc(k.name) + '</small><span>' + esc(K[k.ziel].name) + ' ↗</span>');
+    }
+    b.type = 'button';
+    b.dataset.id = k.id;
+    b.addEventListener('click', function(ev){
+      ev.stopPropagation();
+      if (k.art === 'verweis'){ waehle(k.ziel, true); } else { waehle(k.id === gewaehlt ? null : k.id); }
+    });
+    return b;
+  }
+
+  /* ---------- Bühne je Gruppe ---------- */
+  function baue(g, ziel){
+    var sec = ziel;
+    sec.innerHTML = '<h2>' + esc(g.titel) + '</h2><p class="sub">' + esc(g.unter) + '</p>';
+    var rahmen = el('div', 'buehne-rahmen');
+    var mass = el('div', 'buehne-mass');
+    var buehne = el('div', 'buehne');
+    var svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    buehne.appendChild(svg);
+    mass.appendChild(buehne); rahmen.appendChild(mass); sec.appendChild(rahmen);
+    var hinweis = el('p', 'scrollhinweis', 'Seitlich scrollen für den Rest des Bildes.');
+    hinweis.hidden = true;
+    sec.appendChild(hinweis);
+
+    var xmin = Infinity;
+    g.knoten.forEach(function(n){ xmin = Math.min(xmin, n.x); });
+    var pos = {};
+    var breite = 0;
+    g.knoten.forEach(function(n){
+      var k = K[n.id];
+      var w = BREITE[k.art];
+      var cx = PAD + (n.x - xmin) * U + BREITE.figur / 2;
+      var left = k.art === 'notiz' ? cx + 12 : cx - w / 2;
+      var top = TOP + n.y * ROW;
+      var b = karte(k);
+      b.style.left = left + 'px';
+      b.style.top = top + 'px';
+      buehne.appendChild(b);
+      pos[n.id] = {el:b, left:left, top:top, w:w, cx:left + w / 2};
+      breite = Math.max(breite, left + w + PAD);
+    });
+    // Höhen erst nach dem Einfügen bekannt
+    var hoehe = 0;
+    Object.keys(pos).forEach(function(id){
+      var p = pos[id];
+      p.h = p.el.offsetHeight;
+      p.w = p.el.offsetWidth;
+      p.cx = p.left + p.w / 2;
+      hoehe = Math.max(hoehe, p.top + p.h + PAD);
+    });
+    buehne.style.width = breite + 'px';
+    buehne.style.height = hoehe + 'px';
+    svg.setAttribute('width', breite);
+    svg.setAttribute('height', hoehe);
+    zeichne(svg, pos);
+    buehnen.push({rahmen:rahmen, mass:mass, buehne:buehne, w:breite, h:hoehe, hinweis:hinweis, gross: ziel.id === 'g-familie'});
+  }
+
+  function pfad(svg, d, cls, ids){
+    var p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    p.setAttribute('d', d);
+    p.setAttribute('class', 'linie ' + (cls || ''));
+    p.dataset.ids = '|' + ids.join('|') + '|';
+    svg.appendChild(p);
+  }
+
+  function zeichne(svg, pos){
+    var da = function(id){ return pos[id]; };
+    var paarMitte = {};
+    var drin = D.beziehungen.filter(function(r){ return da(r.a) && da(r.b); });
+
+    // Paare
+    drin.forEach(function(r){
+      if (['ehe','partner','verlobt'].indexOf(r.art) < 0) return;
+      var a = pos[r.a], b = pos[r.b];
+      var l = a.left < b.left ? a : b, rr = a.left < b.left ? b : a;
+      var y = l.top + NAMEY;
+      var x1 = l.left + l.w, x2 = rr.left;
+      pfad(svg, 'M' + x1 + ' ' + y + 'H' + x2, r.art, [r.a, r.b]);
+      paarMitte[[r.a, r.b].sort().join('+')] = {x:(x1 + x2) / 2, y:y};
+    });
+
+    // Kinder und Ziehkinder: nach Elternpaar bündeln
+    var buendel = {};
+    drin.forEach(function(r){
+      if (r.art !== 'kind' && r.art !== 'zieh') return;
+      var kind = r.b;
+      buendel[kind] = buendel[kind] || {eltern:[], art:r.art, ph:false};
+      buendel[kind].eltern.push(r.a);
+      if (r.platzhalter) buendel[kind].ph = true;
+    });
+    var nachEltern = {};
+    Object.keys(buendel).forEach(function(kind){
+      var e = buendel[kind].eltern.sort().join('+');
+      nachEltern[e] = nachEltern[e] || {eltern:buendel[kind].eltern, kinder:[], art:buendel[kind].art};
+      nachEltern[e].kinder.push({id:kind, ph:buendel[kind].ph});
+    });
+    Object.keys(nachEltern).forEach(function(key){
+      var g = nachEltern[key];
+      var start;
+      if (paarMitte[key]) start = paarMitte[key];
+      else if (g.eltern.length === 1){ var p = pos[g.eltern[0]]; start = {x:p.cx, y:p.top + p.h}; }
+      else {
+        var xs = g.eltern.map(function(id){ return pos[id].cx; });
+        var ys = g.eltern.map(function(id){ return pos[id].top + pos[id].h; });
+        start = {x:(Math.min.apply(null, xs) + Math.max.apply(null, xs)) / 2, y:Math.max.apply(null, ys)};
+      }
+      var tops = g.kinder.map(function(c){ return pos[c.id].top; });
+      var bar = Math.min.apply(null, tops) - 24;
+      var alle = g.eltern.concat(g.kinder.map(function(c){ return c.id; }));
+      var cls = g.art === 'zieh' ? 'zieh' : '';
+      var xs2 = g.kinder.map(function(c){ return pos[c.id].cx; }).concat([start.x]);
+      var d = 'M' + start.x + ' ' + start.y + 'V' + bar;
+      d += 'M' + Math.min.apply(null, xs2) + ' ' + bar + 'H' + Math.max.apply(null, xs2);
+      pfad(svg, d, cls, alle);
+      g.kinder.forEach(function(c){
+        var p = pos[c.id];
+        pfad(svg, 'M' + p.cx + ' ' + bar + 'V' + p.top, cls, g.eltern.concat([c.id]));
+      });
+    });
+
+    // Geschwister ohne gemeinsame Eltern im Bild: Klammer oben
+    drin.forEach(function(r){
+      if (r.art !== 'geschwister') return;
+      var ea = (buendel[r.a] || {eltern:[]}).eltern, eb = (buendel[r.b] || {eltern:[]}).eltern;
+      if (ea.some(function(x){ return eb.indexOf(x) >= 0; })) return;
+      var a = pos[r.a], b = pos[r.b];
+      var y = Math.min(a.top, b.top) - 12;
+      pfad(svg, 'M' + a.cx + ' ' + a.top + 'V' + y + 'H' + b.cx + 'V' + b.top, 'geschwister', [r.a, r.b]);
+    });
+  }
+
+  /* ---------- Einpassen ---------- */
+  function passe(){
+    buehnen.forEach(function(b){
+      var verfuegbar = b.gross ? document.getElementById('g-familie').clientWidth
+                               : Math.min(b.rahmen.parentNode.parentNode.clientWidth, document.getElementById('wrap').clientWidth - 48);
+      var s = Math.min(1, verfuegbar / b.w);
+      s = Math.max(s, 0.8);
+      b.buehne.style.transform = 'scale(' + s + ')';
+      b.mass.style.width = (b.w * s) + 'px';
+      b.mass.style.height = (b.h * s) + 'px';
+      b.hinweis.hidden = b.w * s <= b.rahmen.clientWidth + 1;
+    });
+  }
+
+  /* ---------- Auswahl und Seitenleiste ---------- */
+  function bezug(id){
+    var s = {};
+    s[id] = true;
+    (K[id].bezug || []).forEach(function(x){ s[x] = true; });
+    Object.keys(K).forEach(function(x){ if ((K[x].bezug || []).indexOf(id) >= 0) s[x] = true; });
+    D.beziehungen.forEach(function(r){ if (r.a === id) s[r.b] = true; if (r.b === id) s[r.a] = true; });
+    Object.keys(K).forEach(function(x){ if (K[x].art === 'verweis' && s[x]) s[K[x].ziel] = true; });
+    return s;
+  }
+
+  function waehle(id, scrollen){
+    gewaehlt = id;
+    var wrap = document.getElementById('wrap');
+    wrap.classList.toggle('aktiv', !!id);
+    var s = id ? bezug(id) : {};
+    document.querySelectorAll('.karte, .notiz, .verweis').forEach(function(b){
+      b.classList.toggle('gewaehlt', b.dataset.id === id);
+      b.classList.toggle('bezug', !!s[b.dataset.id]);
+    });
+    document.querySelectorAll('.linie[data-ids]').forEach(function(p){
+      p.classList.toggle('an', !!id && p.dataset.ids.indexOf('|' + id + '|') >= 0);
+    });
+    panel(id);
+    if (id && scrollen){
+      var b = document.querySelector('.karte[data-id="' + CSS.escape(id) + '"]');
+      if (b){ b.scrollIntoView({block:'center', inline:'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}); b.focus({preventScroll:true}); }
+    }
+    try { history.replaceState(null, '', id && K[id].art === 'figur' ? '#' + id : location.pathname + location.search); } catch(e){}
+  }
+
+  function liste(zeilen){
+    return '<dl>' + zeilen.map(function(z){ return '<div><dt>' + z[0] + '</dt><dd>' + z[1] + '</dd></div>'; }).join('') + '</dl>';
+  }
+
+  function panel(id){
+    var p = document.getElementById('panel');
+    if (!id){ p.hidden = true; p.innerHTML = ''; return; }
+    var k = K[id];
+    var h = '<button class="zu" type="button" aria-label="Schließen">×</button>';
+    if (k.art === 'figur'){
+      h += '<p class="eyebrow">' + KULTUR[k.kultur] + ' · ' + (k.haupt ? 'Hauptfigur' : 'Nebenfigur') + '</p>';
+      h += '<h2>' + esc(k.name) + (k.tot ? ' †' : '') + '</h2>';
+      if (k.titel !== k.name) h += '<p class="voll">' + esc(k.titel) + '</p>';
+      h += liste(k.allgemein);
+      if (k.familie.length || k.familie_text.length){
+        h += '<h3>Familie</h3>' + liste(k.familie) + k.familie_text.map(function(t){ return '<p>' + t + '</p>'; }).join('');
+      }
+      if (k.verbindungen.length){
+        h += '<h3>Verbindungen</h3><ul>' + k.verbindungen.map(function(t){ return '<li>' + t + '</li>'; }).join('') + '</ul>';
+      }
+      if (k.offen) h += '<p><span class="offen">???</span> steht ' + k.offen + '-mal in der Datei.</p>';
+      h += '<p class="quelle">Quelle: <a href="' + esc(k.link) + '">' + esc(k.pfad) + '</a></p>';
+    } else {
+      var q = K[k.quelle];
+      h += '<p class="eyebrow">' + (k.art === 'notiz' ? 'Hinweis' : 'Ohne eigene Datei') + '</p>';
+      h += '<h2>' + esc(k.name) + '</h2>';
+      h += '<p class="voll">genannt in der Familientabelle von <a class="p" data-id="' + esc(q.id) + '" href="#' + esc(q.id) + '">' + esc(q.name) + '</a></p>';
+      h += '<p>' + k.text + '</p>';
+      h += '<p class="quelle">Quelle: <a href="' + esc(q.link) + '">' + esc(q.pfad) + '</a></p>';
+    }
+    p.innerHTML = h;
+    p.hidden = false;
+    p.scrollTop = 0;
+    p.querySelector('.zu').addEventListener('click', function(){ waehle(null); });
+  }
+
+  document.getElementById('panel').addEventListener('click', function(ev){
+    var a = ev.target.closest('a.p');
+    if (a && K[a.dataset.id]){ ev.preventDefault(); waehle(a.dataset.id, true); }
+  });
+  document.addEventListener('keydown', function(ev){ if (ev.key === 'Escape' && gewaehlt) waehle(null); });
+  document.getElementById('wrap').addEventListener('click', function(ev){
+    if (gewaehlt && !ev.target.closest('button, a')) waehle(null);
+  });
+
+  /* ---------- Aufbau ---------- */
+  var neben = document.getElementById('neben');
+  D.gruppen.forEach(function(g){
+    var ziel;
+    if (g.id === 'familie') ziel = document.getElementById('g-familie');
+    else { ziel = el('section', 'gruppe'); ziel.id = 'g-' + g.id; neben.appendChild(ziel); }
+    baue(g, ziel);
+  });
+  passe();
+  window.addEventListener('resize', passe);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(function(){
+    buehnen.forEach(function(b){ b.rahmen.parentNode.removeChild(b.rahmen); b.hinweis.remove(); });
+    buehnen = [];
+    D.gruppen.forEach(function(g){ baue(g, document.getElementById('g-' + g.id)); });
+    passe();
+    var h = decodeURIComponent(location.hash.slice(1));
+    if (h && K[h]) waehle(h, true);
+  });
+})();
+</script>
+</body>
+</html>
