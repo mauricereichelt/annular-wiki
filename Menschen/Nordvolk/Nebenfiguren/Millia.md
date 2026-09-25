@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Neue Partnerin von [Semund](Semund.md) |
+| **Rolle** | Zweite Ehefrau von [Semund](Semund.md) |
 | **Alter** | **etwa 34** (Jahr 0) · etwa 44 (Finale) - gleicher Jahrgang wie [Girlin](../Girlin.md), exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) - im Weiler aufgewachsen |
 
@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| **Partner** | [Semund](Semund.md) |
+| **Ehemann** | [Semund](Semund.md) - **eine Ehe** (Autor, 25.09.2026). *(Hier stand: Partner.)* |
 | **Erster Mann** | **verstorben** - Millia ist Witwe (Autor, 10.09.2026). **Er starb in den [Hungerjahren](../../../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) durch einen Unfall beim Holz oder Bauen**; **sein Besitz fiel an seine Sippe**; **er bleibt namenlos** (Autor, 25.09.2026) |
 | **Kinder** | **keine eigenen** (Autor, 10.09.2026) |
 
@@ -70,7 +70,7 @@ Tibun **weiß**, dass Girlin lebt - er sah als Einziger den Ring flippen und sie
 
 ## Verbindungen zu anderen Charakteren
 
-- Partner: [Semund](Semund.md)
+- Ehemann: [Semund](Semund.md)
 - Einst Freundin von: [Girlin](../Girlin.md)
 
 ---

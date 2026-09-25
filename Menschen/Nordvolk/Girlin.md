@@ -24,7 +24,7 @@
 | **Drittes Kind** | [**Tamant ult-Sekkan**](../Kel-Aman/Nebenfiguren/Tamant.md) (Autor, 09.09.2026), ein **Mädchen**. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6**. Vater: [Sekkan u-Iddar](../Kel-Aman/Nebenfiguren/Sekkan.md) - **bei der Geburt nicht anwesend**; es helfen erfahrene Frauen des Clans |
 | **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Randi, zwei danach; das letzte in **Jahr -1 (549)** (Autor, 24.09.2026), ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
 | **Ehemann** | [Semund](Nebenfiguren/Semund.md) |
-| **Partner** | [Sekkan u-Iddar](../Kel-Aman/Nebenfiguren/Sekkan.md), ab Jahr +3 |
+| **Zweiter Ehemann** | [Sekkan u-Iddar](../Kel-Aman/Nebenfiguren/Sekkan.md), zusammen ab Jahr +3 - **eine Ehe nach dem Recht der Kel Aman**, seit sie sich offiziell binden (Autor, 25.09.2026). *(Hier stand: Partner.)* |
 
 ---
 
@@ -91,7 +91,7 @@ Damit ist die Zählung ein **Gradmesser ihrer Entfremdung**: Sagt der Text irgen
 - Tochter: [Randi](Nebenfiguren/Randi.md)
 - Tochter: [Tamant](../Kel-Aman/Nebenfiguren/Tamant.md)
 - Ehemann: [Semund](Nebenfiguren/Semund.md)
-- Partner: [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md)
+- Zweiter Ehemann: [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md)
 - Freundin: [Bellbrim](../Andere/Bellbrim.md)
 
 ---

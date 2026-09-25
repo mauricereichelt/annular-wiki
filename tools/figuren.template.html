@@ -116,14 +116,20 @@ h1{
 }
 .lede em{color:var(--ink)}
 .facts{
-  display:flex;
-  flex-wrap:wrap;
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
   margin:30px 0 0;
   border-top:1px solid var(--rule);
   border-bottom:1px solid var(--rule);
 }
-.fact{flex:1 1 150px;padding:14px 20px 13px;border-left:1px solid var(--rule)}
+.fact{min-width:0;padding:14px 20px 13px;border-left:1px solid var(--rule)}
 .fact:first-child{border-left:0;padding-left:0}
+@media (max-width:700px){
+  .facts{grid-template-columns:1fr 1fr}
+  .fact:nth-child(odd){border-left:0;padding-left:0}
+  .fact:nth-child(n+3){border-top:1px solid var(--rule)}
+  .fact b{font-size:21px;white-space:nowrap}
+}
 .fact b{
   display:block;
   font-family:var(--f-mono);
@@ -148,6 +154,7 @@ h1{
   align-items:center;
 }
 .legende .it{display:inline-flex;align-items:center;gap:8px}
+.legende .it[hidden]{display:none}
 .legende svg{flex:none}
 .legende .sw{width:12px;height:12px;border-radius:2px;flex:none}
 .sw.nord{background:var(--nord)} .sw.wueste{background:var(--sand)} .sw.fremd{background:var(--fremd)}
@@ -353,9 +360,9 @@ footer code{font-family:var(--f-mono);font-size:12px}
       <span class="it"><span class="sw nord"></span>Nordvolk</span>
       <span class="it"><span class="sw wueste"></span>Kel Aman</span>
       <span class="it"><span class="sw fremd"></span>andere</span>
-      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie ehe" x1="1" y1="5" x2="33" y2="5"/></svg>Ehe</span>
-      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie partner" x1="1" y1="5" x2="33" y2="5"/></svg>Partnerschaft</span>
-      <span class="it"><svg width="34" height="10" aria-hidden="true"><line class="linie verlobt" x1="2" y1="5" x2="33" y2="5"/></svg>Verlobung</span>
+      <span class="it" data-art="ehe"><svg width="34" height="10" aria-hidden="true"><line class="linie ehe" x1="1" y1="5" x2="33" y2="5"/></svg>Ehe</span>
+      <span class="it" data-art="partner"><svg width="34" height="10" aria-hidden="true"><line class="linie partner" x1="1" y1="5" x2="33" y2="5"/></svg>Partnerschaft</span>
+      <span class="it" data-art="verlobt"><svg width="34" height="10" aria-hidden="true"><line class="linie verlobt" x1="2" y1="5" x2="33" y2="5"/></svg>Verlobung</span>
       <span class="it"><svg width="22" height="18" aria-hidden="true"><path class="linie" d="M11 1V9M3 9H19M3 9V17M19 9V17"/></svg>Kinder</span>
       <span class="it"><svg width="22" height="14" aria-hidden="true"><path class="linie" d="M3 13V3H19V13"/></svg>Geschwister, Eltern nicht im Bild</span>
       <span class="it"><span class="mini-ghost"></span>ohne Namen oder Datei</span>
@@ -378,6 +385,10 @@ footer code{font-family:var(--f-mono);font-size:12px}
 (function(){
   var D = JSON.parse(document.getElementById('daten').textContent);
   var K = D.knoten;
+  // Linienarten, die im Bild nicht vorkommen, stehen auch nicht in der Legende
+  document.querySelectorAll('.legende [data-art]').forEach(function(el){
+    el.hidden = !D.beziehungen.some(function(r){ return r.art === el.dataset.art; });
+  });
   var U = 184, ROW = 150, PAD = 22, TOP = 26, NAMEY = 22;
   var BREITE = {figur:150, platzhalter:128, verweis:128, notiz:170};
   var KULTUR = {nord:'Nordvolk', wueste:'Kel Aman', fremd:'andere'};

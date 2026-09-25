@@ -20,7 +20,7 @@
 | **Vater** | [**Sigrik**](Sigrik.md) (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt. Er starb in **Jahr -20** (Autor, 25.09.2026) |
 | **Geschwister** | **mehrere**, fortgezogen (Autor, 24.09.2026). **Semund ist der einzige Sohn** (Autor, 25.09.2026) |
 | **Ehefrau** | [Girlin](../Girlin.md) (verschwunden) |
-| **Neue Partnerin** | [Millia](Millia.md) |
+| **Zweite Ehefrau** | [Millia](Millia.md) - **eine Ehe** (Autor, 25.09.2026). *(Hier stand: Neue Partnerin.)* |
 | **Sohn** | [Tibun](../Tibun.md) |
 | **Tochter** | [Randi](Randi.md) |
 
@@ -69,7 +69,7 @@ Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen u
 - Mutter: [Randwara](Randwara.md)
 - Vater (tot): [Sigrik](Sigrik.md)
 - Ehefrau (verschwunden): [Girlin](../Girlin.md)
-- Neue Partnerin: [Millia](Millia.md)
+- Zweite Ehefrau: [Millia](Millia.md)
 - Sohn: [Tibun](../Tibun.md)
 - Tochter: [Randi](Randi.md)
 

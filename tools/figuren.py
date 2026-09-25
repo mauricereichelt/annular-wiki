@@ -46,6 +46,7 @@ ZEILEN = {
     "Mutter": "eltern", "Vater": "eltern", "Vatersname (`u-`)": "eltern",
     "Sohn": "kind", "Tochter": "kind", "Drittes Kind": "kind", "Kinder": "kind",
     "Ehemann": "ehe", "Ehefrau": "ehe", "Mann": "ehe", "Frau": "ehe",
+    "Zweiter Ehemann": "ehe", "Zweite Ehefrau": "ehe",
     "Partner": "partner", "Partnerin": "partner", "Neue Partnerin": "partner",
     "Verlobter": "verlobt", "Verlobte": "verlobt",
     "Bruder": "geschwister", "Schwester": "geschwister",

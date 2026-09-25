@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Neffe des Häuptlings [Ishman](Ishman.md) der [Kel Aman](../../../Kulturen/Kel-Aman/README.md); Partner [Girlins](../../Nordvolk/Girlin.md) ab Jahr +3 |
+| **Rolle** | Neffe des Häuptlings [Ishman](Ishman.md) der [Kel Aman](../../../Kulturen/Kel-Aman/README.md); Ehemann [Girlins](../../Nordvolk/Girlin.md), zusammen ab Jahr +3 |
 | **Alter** | **etwa 37** bei Beziehungsbeginn (Jahr +3) · etwa 44 im Finale (Jahr +10) - gleicher Jahrgang wie [Girlin](../../Nordvolk/Girlin.md), exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | Clan der [Kel Aman](../../../Kulturen/Kel-Aman/README.md), [Fezzan](../../../Welt/README.md) |
 
@@ -21,7 +21,7 @@
 | **Onkel** | [Ishman u-Gulan](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) - **Mutterbruder** |
 | **Mutter** | [**Tanast**](Tanast.md), Schwester [Ishmans](Ishman.md) (Autor, 10.09.2026). **Sie lebt** - über sie läuft die Sippenpflicht, mit der der Clan später hilft |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - **ohne Namen** (Autor, 25.09.2026). Sie ging **ohne das geregelte Verfahren** ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)): Zwischen den beiden Sippen steht seither eine ungeregelte Sache |
-| **Partnerin** | [Girlin](../../Nordvolk/Girlin.md), ab Jahr +3. **Offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt** (Autor, 10.09.2026) - vor Tamants Geburt in +4 |
+| **Ehefrau** | [Girlin](../../Nordvolk/Girlin.md), zusammen ab Jahr +3. **Offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt** (Autor, 10.09.2026) - vor Tamants Geburt in +4. Das ist **eine Ehe nach dem Recht der Kel Aman** (Autor, 25.09.2026). *(Hier stand: Partnerin.)* |
 | **Tochter** | [**Tamant ult-Sekkan**](Tamant.md), geboren Jahr +4, im Finale **6** - Girlins drittes Kind. **Bei der Geburt ist er nicht da** (Autor, 09.09.2026): Er ist mit einer Karawane unterwegs |
 
 ---
@@ -65,7 +65,7 @@ Im Finale bleibt Girlin **bei ihm** - er lebt, gezeichnet: einäugig.
 
 ## Verbindungen zu anderen Charakteren
 
-- Partnerin: [Girlin](../../Nordvolk/Girlin.md)
+- Ehefrau: [Girlin](../../Nordvolk/Girlin.md)
 - Eltern: [Tanast](Tanast.md) (Ishmans Schwester) und [Iddar](Iddar.md) - beide leben
 - Onkel: [Ishman u-Gulan](Ishman.md), Häuptling der Kel Aman - Bruder seiner Mutter
 - Lebt mit: [Bellbrim](../../Andere/Bellbrim.md)

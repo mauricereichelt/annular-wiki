@@ -7,7 +7,7 @@ Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template
 - [Semund](Semund.md) - Vater von Tibun, Ehemann der verschwundenen [Girlin](../Girlin.md)
 - [Randwara](Randwara.md) - Semunds Mutter, lebt auf seinem Hof
 - [Sigrik](Sigrik.md) - Semunds Vater, tot
-- [Millia](Millia.md) - neue Partnerin Semunds, einst Girlins Freundin
+- [Millia](Millia.md) - Semunds zweite Ehefrau, einst Girlins Freundin
 - [Hadurik](Hadurik.md) - Häuptling von [Tingsal](../../../Orte/Tingsal.md)
 - [Wala von Tingsal](Wala-Tingsal.md) - sesshafte Seherin
 - [Wandernde Wala](Wala-Wandernd.md) - wandernde Seherin, ihre Zwillingsschwester
