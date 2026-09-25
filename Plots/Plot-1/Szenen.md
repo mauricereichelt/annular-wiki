@@ -537,7 +537,7 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 
 ### 38 · Truda empfängt ihn
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass er sie verlassen hat, bricht in einem Wutanfall aus ihr heraus.
 
@@ -547,7 +547,7 @@ Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass
 
 > **Einmal, dann still** (Autor, 11.09.2026): Der Ausbruch gilt nur ihm. Hier wird aufgerufen, dass er sie ohne Abschied zurückgelassen hat; *Truda hält ihn für verloren* bleibt das spätere Gespräch.
 
-> **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler oder in der Nähe. Die Szene spielt **im Weiler** - Tibun wohnt zu dieser Zeit auf Semunds Hof. **Nicht an der Tabustelle**: Die meidet sie ebenfalls. Ob ihr Mann dabei ist: offen.
+> **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler oder in der Nähe. Die Szene spielt **im Weiler** - Tibun wohnt zu dieser Zeit auf Semunds Hof. **Nicht an der Tabustelle**: Die meidet sie ebenfalls. **Der Empfang findet auf Semunds Hof statt; ihr Mann [Wulfstein](../../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) ist nicht dabei** (Autor, 25.09.2026).
 
 
 ### 39 · Die Nachricht liegt bereit
@@ -602,7 +602,7 @@ Nach dem Spruch der [Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md
 
 ### 43 · Truda hält ihn für verloren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Er sagt ihr, was er tut.
 

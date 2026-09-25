@@ -20,7 +20,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
-- [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -64,6 +63,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-045: Semund - offene Felder ✓](#c-045-semund---offene-felder-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
+- [C-047: Truda - offene Felder ✓](#c-047-truda---offene-felder-)
 - [C-048: Hadurik - offene Felder ✓](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ✓](#c-049-wala-von-tingsal---offene-felder-)
 - [C-050: Wandernde Wala - offene Felder ✓](#c-050-wandernde-wala---offene-felder-)
@@ -928,7 +928,7 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 ---
 
-### C-047: Truda - offene Felder ○
+### C-047: Truda - offene Felder ✓
 
 [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-trudas-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt - sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
 
@@ -964,6 +964,20 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 > **Korrigiert (18.09.2026):** Hier und in [Truda.md](../Menschen/Nordvolk/Nebenfiguren/Truda.md) stand, sie empfange Tibun **mit 19**. Bei der **Rückkehr (+9)** ist sie **18**; 19 ist ihr Stand im **Finale (+10)**.
 
 **Weiter offen:** frühes Leben, Inspiration, Ehemann, Zeitpunkt der Heirat, Kinder.
+
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Ehemann** | [**Wulfstein**](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) (Urname, Wolf + Stein) - eigene Figurendatei |
+| **Heirat** | **Jahr +8**, Truda ist 17 |
+| **Kinder** | bei Tibuns Rückkehr (+9) **keine** |
+| **Empfang** | **auf Semunds Hof**; Wulfstein ist **nicht dabei** |
+| **Frühes Leben** | bewusst offen |
+| **Inspiration** | Jennie Jacques aus der Serie „Vikings" |
+| **Alter beim Tod des letzten Kindes** | **8** (Jahr -1) statt „7 oder 8"; ebenso Tibun **15** in [C-097](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-) |
+
+Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (Szene 38). Geschlossen.
 ---
 
 ### C-048: Hadurik - offene Felder ✓
@@ -1921,8 +1935,9 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** | *Sighild* | Sieg + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
 | [**Fridun**](../Menschen/Nordvolk/Nebenfiguren/Fridun.md) | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform, Vater von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) ([C-051 ✓](#c-051-frida---offene-felder-)) |
 | [**Randwara**](../Menschen/Nordvolk/Nebenfiguren/Randwara.md) | *Randwara* | Schild + Hüterin | **neu 24.09.2026** - Urname, Mutter von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) ([C-045 ✓](#c-045-semund---offene-felder-)) |
-| **Sigrik** | *Sigrik* | Sieg + mächtig | **neu 24.09.2026** - Urname, Vater von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), tot, ohne eigene Datei. Teilt `Sig-` mit *Sigmund* |
+| [**Sigrik**](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) | *Sigrik* | Sieg + mächtig | **neu 24.09.2026** - Urname, Vater von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), tot. Teilt `Sig-` mit *Sigmund* |
 | [**Widgund**](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) | *Widgund* | Wald, weit + Kampf | **neu 24.09.2026** - Urname, Mutter von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), Frau von [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md). Teilt `-gund` mit *Fridgund* |
+| [**Wulfstein**](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) | *Wulfstein* | Wolf + Stein | **neu 25.09.2026** - Urname, Mann von [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ([C-047 ✓](#c-047-truda---offene-felder-)) |
 | **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk - wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).
@@ -2065,7 +2080,7 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 
 - **Semunds Haus ist schon vor dem Ring ein Haus des Verlusts.** Als Girlin verschwindet, hat die Familie gerade erst ein Kind begraben. Das erklärt Sprachlosigkeit und Erschöpfung im Umgang mit dem Unerklärlichen - und macht [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) schnelle Wiederheirat ([C-095](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-)) lesbar: Er hat nicht ersetzt, er hat aufgehört zu verlieren.
 - **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Truda **kann** sie zurückholen - das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin---charakter--fähigkeiten-)).
-- **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des *Prologs*).
+- **Truda war alt genug, um sich zu erinnern** (8), Tibun ebenfalls (15, also um die Zeit des *Prologs*). *(Angepasst 25.09.2026 an Jahr -1, Autor: hier stand 7 oder 8 bzw. 14 oder 15.)*
 
 **Offen:** ob und wie es im Erzähltext sichtbar wird - ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???** → [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)
 
@@ -4216,7 +4231,7 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 
 Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
 
-Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) und Sigrik.
+Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md), [Sigrik](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) und [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md).
 
 **Zu klären · ???**
 - Welche Namen stören den Autor?

@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| **Ehemann** | **Sigrik** - Urname, **Sieg** + **mächtig** (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt |
+| **Ehemann** | [**Sigrik**](Sigrik.md) - Urname, **Sieg** + **mächtig** (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt |
 | **Sohn** | [Semund](Semund.md) |
 | **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
 | **Enkel** | [Tibun](../Tibun.md), [Truda](Truda.md) |
@@ -48,7 +48,7 @@ bewusst offen (Autor, 24.09.2026)
 
 ## Verbindungen zu anderen Charakteren
 
-- Ehemann (tot): Sigrik
+- Ehemann (tot): [Sigrik](Sigrik.md)
 - Sohn: [Semund](Semund.md)
 - Enkel: [Tibun](../Tibun.md), [Truda](Truda.md)
 - Schwiegertochter: [Girlin](../Girlin.md)

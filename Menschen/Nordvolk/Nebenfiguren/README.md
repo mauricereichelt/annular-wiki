@@ -3,8 +3,10 @@
 Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template](../../Charakter-Template.md)); wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher zu den Hauptfiguren.
 
 - [Truda](Truda.md) - jüngere Schwester von [Tibun](../Tibun.md)
+- [Wulfstein](Wulfstein.md) - Trudas Mann
 - [Semund](Semund.md) - Vater von Tibun, Ehemann der verschwundenen [Girlin](../Girlin.md)
 - [Randwara](Randwara.md) - Semunds Mutter, lebt auf seinem Hof
+- [Sigrik](Sigrik.md) - Semunds Vater, tot
 - [Millia](Millia.md) - neue Partnerin Semunds, einst Girlins Freundin
 - [Hadurik](Hadurik.md) - Häuptling von [Tingsal](../../../Orte/Tingsal.md)
 - [Wala von Tingsal](Wala-Tingsal.md) - sesshafte Seherin

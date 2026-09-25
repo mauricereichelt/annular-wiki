@@ -20,13 +20,14 @@
 | **Vater** | [Semund](Semund.md) |
 | **Bruder** | [Tibun](../Tibun.md) |
 | **Großmutter** | [Randwara](Randwara.md), Semunds Mutter |
-| **Ehemann** | Sie ist bei [Tibuns](../Tibun.md) Rückkehr (+9) **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../../../Orte/Skirraa.md) oder in der Nähe (Autor, 18.09.2026). Wer er ist, wann geheiratet wurde und ob es Kinder gibt: ??? |
+| **Ehemann** | [**Wulfstein**](Wulfstein.md) (Autor, 25.09.2026). Sie ist bei [Tibuns](../Tibun.md) Rückkehr (+9) **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../../../Orte/Skirraa.md) oder in der Nähe (Autor, 18.09.2026). **Heirat in Jahr +8, mit 17** (Autor, 25.09.2026) |
+| **Kinder** | bei [Tibuns](../Tibun.md) Rückkehr (+9) **keine** (Autor, 25.09.2026) |
 
 ---
 
 ## Frühes Leben
 
-???
+bewusst offen (Autor, 25.09.2026)
 
 ---
 
@@ -38,9 +39,9 @@
 
 ## Vor Girlins Verschwinden
 
-Truda war **7 oder 8**, als das jüngste Geschwisterkind starb - alt genug, sich zu erinnern. Ein Jahr später verschwindet die Mutter.
+Truda war **8**, als das jüngste Geschwisterkind starb (Jahr -1; Autor, 25.09.2026 - *hier stand: 7 oder 8*) - alt genug, sich zu erinnern. Ein Jahr später verschwindet die Mutter.
 
-Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt. **Ihre Heirat liegt vor Tibuns Rückkehr** (Autor, 18.09.2026) - das Kleingut steht bei seiner Heimkehr also nicht mehr auf dem Hof des Vaters, sondern in ihrem eigenen Haus. Der **Webkamm** fehlt darin - [Tibun](../Tibun.md) hat ihn sich genommen. **Sie weiß es von Anfang an - und hat nie etwas gesagt** (Autor, 11.09.2026).
+Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt. **Ihre Heirat liegt vor Tibuns Rückkehr** (Autor, 18.09.2026), in **Jahr +8**, mit 17 (Autor, 25.09.2026) - das Kleingut steht bei seiner Heimkehr also nicht mehr auf dem Hof des Vaters, sondern in ihrem eigenen Haus. Der **Webkamm** fehlt darin - [Tibun](../Tibun.md) hat ihn sich genommen. **Sie weiß es von Anfang an - und hat nie etwas gesagt** (Autor, 11.09.2026).
 
 > **Anmerkung (09.09.2026):** Eine Fibel fehlt im Erbe ebenfalls - die **Mantelfibel**, die [Girlin](../Girlin.md) am Leib trug, als sie verschwand. Sie liegt in der Wüste in Girlins Bündel und sollte in den Norden zurück, kommt aber nie an. Truda hat damit alle Fibeln ihrer Mutter außer der einen. Nur als Zusammenhang notiert - ob und wie das im Text vorkommt, ist nicht entschieden.
 
@@ -64,13 +65,13 @@ Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun
 
 > **Korrigiert (18.09.2026):** Hier stand „eine Erwachsene von 19". Bei der **Rückkehr (+9)** ist Truda **18**; 19 ist ihr Stand im **Finale (+10)**, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md).
 
-**Sie ist verheiratet** (Autor, 18.09.2026). Sie tritt Tibun nicht als Kind des Hofes gegenüber, sondern als Frau mit eigenem Haus - der Abstand zwischen der Zehnjährigen von damals und dieser Erwachsenen ist damit auch äußerlich sichtbar. Ob ihr Mann beim Empfang dabei ist: ???
+**Sie ist verheiratet** (Autor, 18.09.2026). Sie tritt Tibun nicht als Kind des Hofes gegenüber, sondern als Frau mit eigenem Haus - der Abstand zwischen der Zehnjährigen von damals und dieser Erwachsenen ist damit auch äußerlich sichtbar. **Ihr Mann [Wulfstein](Wulfstein.md) ist beim Empfang nicht dabei** (Autor, 25.09.2026).
 
 **Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026) - wie alle im Weiler. Zur Werkstatt am Ring geht sie nicht. Sie erfährt von [Tibun](../Tibun.md) selbst, was er dort tut, und **hält ihn für verloren, ohne den Bau gesehen zu haben**. Schon als Neunjährige ging sie nur **bis zum Waldrand** mit.
 
 **Die Begegnungen finden im Weiler statt** (Autor, 18.09.2026). [Tibun](../Tibun.md) wohnt nach der Rückkehr zunächst auf [Semunds](Semund.md) Hof und kommt auch später für Vorräte und zu ihr in den Weiler - **er trägt den Kontakt, nicht sie**.
 
-**Beim Empfang bricht es aus ihr heraus** (Autor, 11.09.2026). Sie ist wütend, und die Verletztheit darüber, dass er sie verlassen hat, kommt in einem Wutanfall heraus. **Einmal - danach ist sie wieder still.** Der Ausbruch gilt nur ihm, danach ist sie wieder die Stille.
+**Beim Empfang bricht es aus ihr heraus** (Autor, 11.09.2026). **Der Empfang findet auf [Semunds](Semund.md) Hof statt** (Autor, 25.09.2026). Sie ist wütend, und die Verletztheit darüber, dass er sie verlassen hat, kommt in einem Wutanfall heraus. **Einmal - danach ist sie wieder still.** Der Ausbruch gilt nur ihm, danach ist sie wieder die Stille.
 
 ---
 
@@ -79,9 +80,12 @@ Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun
 - Mutter: [Girlin](../Girlin.md)
 - Vater: [Semund](Semund.md)
 - Bruder: [Tibun](../Tibun.md)
+- Ehemann: [Wulfstein](Wulfstein.md)
 
 ---
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
+
+- [Jennie Jacques](https://www.imdb.com/de/name/nm3262524/mediaviewer/rm4125259264/?ref_=nmmi_mi_1) aus der Serie „Vikings" (Autor, 25.09.2026)

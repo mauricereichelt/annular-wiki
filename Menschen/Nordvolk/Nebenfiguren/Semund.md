@@ -17,7 +17,7 @@
 | | |
 |---|---|
 | **Mutter** | [Randwara](Randwara.md) - lebt in Jahr 0 noch, auf seinem Hof (Autor, 24.09.2026) |
-| **Vater** | **Sigrik** (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt |
+| **Vater** | [**Sigrik**](Sigrik.md) (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt |
 | **Geschwister** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
 | **Ehefrau** | [Girlin](../Girlin.md) (verschwunden) |
 | **Neue Partnerin** | [Millia](Millia.md) |
@@ -65,6 +65,7 @@ Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen u
 ## Verbindungen zu anderen Charakteren
 
 - Mutter: [Randwara](Randwara.md)
+- Vater (tot): [Sigrik](Sigrik.md)
 - Ehefrau (verschwunden): [Girlin](../Girlin.md)
 - Neue Partnerin: [Millia](Millia.md)
 - Sohn: [Tibun](../Tibun.md)
