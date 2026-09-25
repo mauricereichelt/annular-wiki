@@ -61,6 +61,7 @@ Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen 
 ## Verbindungen zu anderen Charakteren
 
 - Freundin: [Girlin](../Nordvolk/Girlin.md)
+- Kennt ihren Höhlenabschnitt: [Abarkan u-Nahar](../Kel-Aman/Nebenfiguren/Abarkan.md)
 
 ---
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Mutter von [Sekkan](Sekkan.md), Schwester von [Ishman](Ishman.md) |
-| **Alter** | ??? |
+| **Alter** | **etwa 60** in Jahr 0 (Autor, 25.09.2026) - älter als [Ishman](Ishman.md) (etwa 55) |
 | **Herkunft** | Clan der [Kel Aman](../../../Kulturen/Kel-Aman/README.md) |
 
 **Familie**
@@ -18,20 +18,20 @@
 |---|---|
 | **Bruder** | [Ishman u-Gulan](Ishman.md), Häuptling |
 | **Ehemann** | [Werdan](Werdan.md) |
-| **Sohn** | [Sekkan u-Werdan](Sekkan.md) |
+| **Sohn** | [Sekkan u-Werdan](Sekkan.md) - **ihr einziges Kind** (Autor, 25.09.2026) |
 | **Enkelin** | [Tamant](Tamant.md) |
 
 ---
 
 ## Frühes Leben
 
-???
+**Sekkan ist ihr einziges Kind** (Autor, 25.09.2026). Sie war bei seiner Geburt etwa 26 (etwa 60 in Jahr 0, Sekkan etwa 34).
 
 ---
 
 ## Besondere Fähigkeiten
 
-???
+**Keine besonderen** (Autor, 25.09.2026).
 
 ---
 
@@ -42,8 +42,6 @@
 **Sie nimmt [Girlin](../../Nordvolk/Girlin.md) an** (Autor, 10.09.2026) - als Frau ihres Sohnes und Mutter ihrer Enkelin.
 
 **Sekkans Wegzug in Jahr +5 trägt sie schwer** (Autor, 10.09.2026) - kein Bruch, kein Widerspruch, aber sie leidet sichtbar darunter.
-
-Alles Weitere: ???
 
 ---
 
@@ -61,4 +59,4 @@ Alles Weitere: ???
 
 > Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
 
-???
+- [Shohreh Aghdashloo](https://www.imdb.com/de/name/nm0013037/) (Autor, 25.09.2026)

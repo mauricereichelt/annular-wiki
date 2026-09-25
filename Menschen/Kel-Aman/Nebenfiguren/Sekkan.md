@@ -17,6 +17,7 @@
 | | |
 |---|---|
 | **Vatersname** (`u-`) | [**Werdan**](Werdan.md) - voller Name: **Sekkan u-Werdan**. **Er lebt** (Autor, 10.09.2026) |
+| **Geschwister** | **keine** - er ist das einzige Kind von [Tanast](Tanast.md) und [Werdan](Werdan.md) (Autor, 25.09.2026) |
 | **Onkel** | [Ishman u-Gulan](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) - **Mutterbruder** |
 | **Mutter** | [**Tanast**](Tanast.md), Schwester [Ishmans](Ishman.md) (Autor, 10.09.2026). **Sie lebt** - über sie läuft die Sippenpflicht, mit der der Clan später hilft |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - Name ???. Sie ging **ohne das geregelte Verfahren** ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)): Zwischen den beiden Sippen steht seither eine ungeregelte Sache |
