@@ -79,4 +79,6 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 
 ## Inspiration
 
-- ???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../Notizen/Regeln.md#charaktere).
+
+- [Alexander Ludwig](https://www.imdb.com/de/name/nm1573253/?ref_=tt_cst_t_3) (Autor, 25.09.2026)

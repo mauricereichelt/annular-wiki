@@ -93,4 +93,6 @@ Damit ist die Zählung ein **Gradmesser ihrer Entfremdung**: Sagt der Text irgen
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../Notizen/Regeln.md#charaktere).
+
+- [Michelle Fairley](https://www.imdb.com/de/name/nm0265610/mediaviewer/rm3446193664/?ref_=nmmi_mi_23_2) (Autor, 25.09.2026)

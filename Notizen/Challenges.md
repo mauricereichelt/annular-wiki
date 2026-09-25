@@ -18,8 +18,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ○](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-)
 - [C-028: Azzim u-Tawan - Herkunft & Hintergrund ○](#c-028-azzim-u-tawan---herkunft--hintergrund-)
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
-- [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
-- [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -49,6 +47,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-022: Tibuns Reise - Dauer, Motiv, Hof ✓](#c-022-tibuns-reise---dauer-motiv-hof-)
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
 - [C-030: Trudas Alter ✓](#c-030-trudas-alter-)
+- [C-031: Tibun - Inspiration/Besetzung ✓](#c-031-tibun---inspirationbesetzung-)
+- [C-032: Girlin - Inspiration/Besetzung ✓](#c-032-girlin---inspirationbesetzung-)
 - [C-033: Nebenfiguren - eigene Dateien & strukturierte Felder ✓](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)
 - [C-034: Tibuns Lebensgrundlage ✓](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-)
 - [C-035: Aussehen der Ringoberfläche ✓](#c-035-aussehen-der-ringoberfläche-)
@@ -704,15 +704,19 @@ Was treibt Azzim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel un
 
 ---
 
-### C-031: Tibun - Inspiration/Besetzung ○
+### C-031: Tibun - Inspiration/Besetzung ✓
 
 Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../Menschen/Nordvolk/Tibun.md) noch offen. Autorenebene (Todo), keine Story-Frage.
 
+**Entschieden (Autor, 25.09.2026):** Alexander Ludwig. Eingetragen in [Tibun](../Menschen/Nordvolk/Tibun.md#inspiration). Geschlossen.
+
 ---
 
-### C-032: Girlin - Inspiration/Besetzung ○
+### C-032: Girlin - Inspiration/Besetzung ✓
 
 Vorbild/Besetzung für [Girlin](../Menschen/Nordvolk/Girlin.md) noch offen. Autorenebene (Todo), keine Story-Frage.
+
+**Entschieden (Autor, 25.09.2026):** Michelle Fairley. Eingetragen in [Girlin](../Menschen/Nordvolk/Girlin.md#inspiration). Geschlossen.
 
 ---
 
