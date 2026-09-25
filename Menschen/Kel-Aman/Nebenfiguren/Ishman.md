@@ -16,9 +16,9 @@
 
 | | |
 |---|---|
-| **Neffe** | [Sekkan u-Werdan](Sekkan.md) - **Schwestersohn** (Ishman ist Mutterbruder) |
+| **Neffe** | [Sekkan u-Iddar](Sekkan.md) - **Schwestersohn** (Ishman ist Mutterbruder) |
 | **Vatersname** (`u-`) | **Gulan** - voller Name: **Ishman u-Gulan** |
-| **Schwester** | [**Tanast**](Tanast.md), [Sekkans](Sekkan.md) Mutter (Autor, 10.09.2026). **Sie lebt**, ebenso ihr Mann [**Werdan**](Werdan.md) |
+| **Schwester** | [**Tanast**](Tanast.md), [Sekkans](Sekkan.md) Mutter (Autor, 10.09.2026). **Sie lebt**, ebenso ihr Mann [**Iddar**](Iddar.md) |
 | **Ehefrau** | ja, **ohne Namen** - **keine Kinder** (Autor, 25.09.2026) |
 
 ---
@@ -47,13 +47,13 @@
 
 Sein Verhältnis zu Girlin als Fremder ohne Sippe - er ist es, der sie in den Clan aufnimmt ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)) - ist **väterlich, wohlwollend** (Autor, 25.09.2026). Sein Auftreten: passt so (Autor, 25.09.2026).
 
-**Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Die **Vatersnamen unterscheiden sich** (Autor, 09.09.2026): *Ishman u-Gulan* und *Sekkan u-Werdan* - die Sippenpflicht läuft über Ishmans Schwester, nicht über eine gemeinsame Vaterlinie. **Diese Schwester heißt Tanast und lebt** (Autor, 10.09.2026); die Pflicht läuft damit über eine Lebende, nicht über eine Verstorbene.
+**Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Die **Vatersnamen unterscheiden sich** (Autor, 09.09.2026): *Ishman u-Gulan* und *Sekkan u-Iddar* - die Sippenpflicht läuft über Ishmans Schwester, nicht über eine gemeinsame Vaterlinie. **Diese Schwester heißt Tanast und lebt** (Autor, 10.09.2026); die Pflicht läuft damit über eine Lebende, nicht über eine Verstorbene.
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
-- Neffe: [Sekkan u-Werdan](Sekkan.md) - Sohn seiner Schwester [Tanast](Tanast.md)
+- Neffe: [Sekkan u-Iddar](Sekkan.md) - Sohn seiner Schwester [Tanast](Tanast.md)
 - Verhältnis zu [Girlin](../../Nordvolk/Girlin.md): väterlich, wohlwollend (Autor, 25.09.2026)
 - Verhältnis zu [Azzim u-Tawan](../Azzim-u-Tawan.md): **er verachtet ihn**; er **kennt ihn vom Hörensagen**, und **sie kennen sich von früher** (Autor, 25.09.2026)
 

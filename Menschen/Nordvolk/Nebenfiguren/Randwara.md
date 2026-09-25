@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Mutter von [Semund](Semund.md), Großmutter von [Tibun](../Tibun.md) und [Truda](Truda.md) |
+| **Rolle** | Mutter von [Semund](Semund.md), Großmutter von [Tibun](../Tibun.md) und [Randi](Randi.md) |
 | **Name** | Urname *Randwara* - **Schild** + **Hüterin**. Kein Kurzname; sie trägt den Urnamen (Autor, 24.09.2026) |
 | **Alter** | **etwa 65** (Jahr 0) (Autor, 24.09.2026) |
 | **Herkunft** | **von auswärts, aus [Tingsal](../../../Orte/Tingsal.md)** (Autor, 24.09.2026) |
@@ -19,8 +19,8 @@
 |---|---|
 | **Ehemann** | [**Sigrik**](Sigrik.md) - Urname, **Sieg** + **mächtig** (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt. Er starb in **Jahr -20** (Autor, 25.09.2026) |
 | **Sohn** | [Semund](Semund.md) |
-| **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
-| **Enkel** | [Tibun](../Tibun.md), [Truda](Truda.md) |
+| **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026). [Semund](Semund.md) ist der **einzige Sohn** (Autor, 25.09.2026) |
+| **Enkel** | [Tibun](../Tibun.md), [Randi](Randi.md) |
 
 ---
 
@@ -52,7 +52,7 @@ bewusst offen (Autor, 24.09.2026)
 
 - Ehemann (tot): [Sigrik](Sigrik.md)
 - Sohn: [Semund](Semund.md)
-- Enkel: [Tibun](../Tibun.md), [Truda](Truda.md)
+- Enkel: [Tibun](../Tibun.md), [Randi](Randi.md)
 - Schwiegertochter: [Girlin](../Girlin.md)
 
 ---

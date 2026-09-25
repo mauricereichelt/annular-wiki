@@ -82,11 +82,11 @@ GRUPPEN = [
         "unter": "Skirraa links, der Clan der Kel Aman rechts - Girlin steht dazwischen",
         "knoten": [
             ("Sigrik", 0.5, 0), ("Randwara", 1.5, 0),
-            ("Werdan", 3.5, 0), ("Tanast", 4.5, 0), ("Ishman", 5.5, 0), ("Ishman/Ehefrau", 6.5, 0),
+            ("Iddar", 3.5, 0), ("Tanast", 4.5, 0), ("Ishman", 5.5, 0), ("Ishman/Ehefrau", 6.5, 0),
             ("Semund/Geschwister", 1.0, 0.62),
             ("Millia/Erster Mann", -1.0, 1), ("Millia", 0.0, 1), ("Semund", 1.0, 1),
             ("Girlin", 2.5, 1), ("Sekkan", 4.0, 1), ("Sekkan/Frühere Ehefrau", 5.0, 1),
-            ("Girlin/Verstorbene Kinder", 0.3, 2), ("Tibun", 1.3, 2), ("Truda", 2.3, 2),
+            ("Girlin/Verstorbene Kinder", 0.3, 2), ("Tibun", 1.3, 2), ("Randi", 2.3, 2),
             ("Wulfstein", 3.2, 2), ("Tamant", 4.2, 2),
         ],
     },
@@ -96,7 +96,7 @@ GRUPPEN = [
         "unter": "Skirraa und die Gegend um Tingsal",
         "knoten": [
             ("Fridun", 0, 0), ("Widgund", 1, 0), ("Landarik", 2.4, 0),
-            ("Frida", 0.5, 1), ("Herik", 1.5, 1),
+            ("Frida", 0.5, 1), ("Gunthar", 1.5, 1),
         ],
     },
     {

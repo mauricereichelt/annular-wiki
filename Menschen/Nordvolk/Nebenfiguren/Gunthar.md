@@ -1,4 +1,4 @@
-# Herik
+# Gunthar
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Verlobter [Fridas](Frida.md) |
+| **Name** | Urname *Gunthar* - **Kampf** + **Heer** (Autor, 25.09.2026). *Bis 25.09.2026 hieß er Herik (Urform Haririk, Heer + mächtig) - geändert, weil er durch das gemeinsame `-rik` wie der Sohn [Haduriks](Hadurik.md) wirkte.* |
 | **Alter** | **17-18** am Verlobungstag (Jahr 0) - kaum älter als [Tibun](../Tibun.md) und [Frida](Frida.md) |
 | **Herkunft** | Hof in der Gegend um [Tingsal](../../../Orte/Tingsal.md) |
 

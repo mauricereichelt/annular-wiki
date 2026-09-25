@@ -76,13 +76,13 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 ### Schicht 2 - Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip - die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
-- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Landarik folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar - nur unentschieden bleiben ist es nicht.
+- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Randi, Semund, Millia, Hadurik, Frida, Gunthar, Landarik folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar - nur unentschieden bleiben ist es nicht.
 - [x] **Kel-Aman-Namen:** entschieden 31.08.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
 - [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
 
 ### Schicht 3 - Die Ordnung ← **größte Lücke**
-- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** - gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
+- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Randi** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** - gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
 - [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
 - [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
 - [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
@@ -145,7 +145,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 - [x] **3 · Folgentest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
 - [~] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht - dort gibt es keine Orte.
 - [x] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
-  > **Beantwortet (Autor, 22.09.2026): Der Test gilt, aber ohne feste Zahl.** Zwei verständliche Seiten haben: [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) gegen [Tibun](../Menschen/Nordvolk/Tibun.md) · Tibun gegen [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) und Weiler · [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) gegen Tibun · [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und der Clan. [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) bekommt eine zweite Seite: Sein Ansehen hängt daran. *Herkunft: Der Test stammt von Claude (28.08.2026), nicht vom Autor.*
+  > **Beantwortet (Autor, 22.09.2026): Der Test gilt, aber ohne feste Zahl.** Zwei verständliche Seiten haben: [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) gegen [Tibun](../Menschen/Nordvolk/Tibun.md) · Tibun gegen [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) und Weiler · [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) gegen Tibun · [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und der Clan. [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) bekommt eine zweite Seite: Sein Ansehen hängt daran. *Herkunft: Der Test stammt von Claude (28.08.2026), nicht vom Autor.*
 - [~] **6 · Namenstest.** Für den Süden **bestanden**. Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung.
 - [~] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 

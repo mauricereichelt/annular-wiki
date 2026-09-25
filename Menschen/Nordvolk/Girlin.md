@@ -11,7 +11,7 @@
 | **Rolle** | Mutter von Tibun |
 | **Stand bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | Als Sippenlose könnte sie nicht heiraten - Ehe ist dort ein Vertrag zwischen Sippen. Deshalb tritt der **Clan an die Stelle ihrer Sippe**: [Ishman u-Gulan](../Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf (Autor, 09.09.2026). **Als eine der Ihren gilt sie ab der Verbindung mit [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md) (Jahr +3); offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt** (Autor, 10.09.2026) - also im Lauf von +3/+4, vor Tamants Geburt |
 | **Name bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | **Gilint** (Autor, 09.09.2026) - sie sprechen den fremden Namen kollektiv falsch aus; die Form setzt sich durch und bleibt ihr Name in der Wüste. **Keine `ult-`Form** - sie bleibt namentlich ohne Vaterlinie. Die Form gilt **ab den ersten Wochen**; **sie nimmt den Namen an** (Autor, 10.09.2026). **Der Erzähler nennt sie weiter Girlin** - Gilint sagen nur die Figuren |
-| **Alter** | **34** (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) - 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Trudas **25** |
+| **Alter** | **34** (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) - 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Randis **25** |
 | **Herkunft** | **Zugezogen aus einem Nachbarweiler** - dieselbe Kultur und Sprache, aber nicht dieselben Leute. Er liegt **einen Tagesmarsch** von [Skirraa](../../Orte/Skirraa.md) entfernt und bleibt **ohne Namen**; **sie kam zur Heirat** (Autor, 25.09.2026) |
 | **Herkunftssippe** | **Es gibt sie nicht mehr** (Autor, 09.09.2026). Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. **Girlin weiß davon.** Nach ihrer Toterklärung erhebt deshalb niemand Anspruch. Leer war der Weiler **um 541/542** (Jahr -9/-8); **sie erfuhr es über Reisende** (Autor, 25.09.2026) |
 
@@ -20,19 +20,19 @@
 | | |
 |---|---|
 | **Sohn** | [Tibun](Tibun.md) |
-| **Tochter** | [Truda](Nebenfiguren/Truda.md) |
-| **Drittes Kind** | [**Tamant ult-Sekkan**](../Kel-Aman/Nebenfiguren/Tamant.md) (Autor, 09.09.2026), ein **Mädchen**. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6**. Vater: [Sekkan u-Werdan](../Kel-Aman/Nebenfiguren/Sekkan.md) - **bei der Geburt nicht anwesend**; es helfen erfahrene Frauen des Clans |
-| **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Truda, zwei danach; das letzte in **Jahr -1 (549)** (Autor, 24.09.2026), ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
+| **Tochter** | [Randi](Nebenfiguren/Randi.md) |
+| **Drittes Kind** | [**Tamant ult-Sekkan**](../Kel-Aman/Nebenfiguren/Tamant.md) (Autor, 09.09.2026), ein **Mädchen**. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6**. Vater: [Sekkan u-Iddar](../Kel-Aman/Nebenfiguren/Sekkan.md) - **bei der Geburt nicht anwesend**; es helfen erfahrene Frauen des Clans |
+| **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Randi, zwei danach; das letzte in **Jahr -1 (549)** (Autor, 24.09.2026), ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
 | **Ehemann** | [Semund](Nebenfiguren/Semund.md) |
-| **Partner** | [Sekkan u-Werdan](../Kel-Aman/Nebenfiguren/Sekkan.md), ab Jahr +3 |
+| **Partner** | [Sekkan u-Iddar](../Kel-Aman/Nebenfiguren/Sekkan.md), ab Jahr +3 |
 
 ---
 
 ## Frühes Leben
 
-Kam **zur Heirat** mit [Semund](Nebenfiguren/Semund.md) aus einem Nachbarweiler, einen Tagesmarsch entfernt, nach [Skirraa](../../Orte/Skirraa.md) (Autor, 25.09.2026) - eine reguläre Ehe, er ist [Tibuns](Tibun.md) leiblicher Vater. Mit **18** bekommt sie Tibun, mit **25** [Truda](Nebenfiguren/Truda.md). **Drei weitere Kinder überleben nicht** - eines dazwischen, zwei danach, das letzte in Jahr -1 (549). Fünf Schwangerschaften, zwei lebende Kinder: für 550 der Durchschnitt, nicht das Unglück.
+Kam **zur Heirat** mit [Semund](Nebenfiguren/Semund.md) aus einem Nachbarweiler, einen Tagesmarsch entfernt, nach [Skirraa](../../Orte/Skirraa.md) (Autor, 25.09.2026) - eine reguläre Ehe, er ist [Tibuns](Tibun.md) leiblicher Vater. Mit **18** bekommt sie Tibun, mit **25** [Randi](Nebenfiguren/Randi.md). **Drei weitere Kinder überleben nicht** - eines dazwischen, zwei danach, das letzte in Jahr -1 (549). Fünf Schwangerschaften, zwei lebende Kinder: für 550 der Durchschnitt, nicht das Unglück.
 
-Das prägt ihren Willen mehr als alles andere. Sie hat Kinder verloren, die sie **nicht** zurückholen konnte. Tibun und Truda **kann** sie zurückholen - daran hält sie sich fest.
+Das prägt ihren Willen mehr als alles andere. Sie hat Kinder verloren, die sie **nicht** zurückholen konnte. Tibun und Randi **kann** sie zurückholen - daran hält sie sich fest.
 
 Dass sie schon einmal einen Ort verlassen und sich in einer fremden Gemeinschaft eingerichtet hat, ist ihre wichtigste Vorprägung: In der Wüste tut sie zum zweiten Mal, was sie einmal überstanden hat - nur ohne Sprache und ohne Rückweg.
 
@@ -53,7 +53,7 @@ Ein einzelner Weiler, der in diesen Jahren leerläuft, ist damit der Normalfall 
 
 ## Besondere Fähigkeiten
 
-- **Willensstark und zäh - aber ihr Wille gilt ihren Kindern, nicht einem Ort.** Sie will nicht „heim"; sie will [Tibun](Tibun.md) und [Truda](Nebenfiguren/Truda.md) zurück und sie vor allem **wissen lassen, dass es ihr gut geht**.
+- **Willensstark und zäh - aber ihr Wille gilt ihren Kindern, nicht einem Ort.** Sie will nicht „heim"; sie will [Tibun](Tibun.md) und [Randi](Nebenfiguren/Randi.md) zurück und sie vor allem **wissen lassen, dass es ihr gut geht**.
 - **Wolle und Weben** - dasselbe Gewerbe wie in [Skirraa](../../Orte/Skirraa.md). In der Wüste ernährt sie das, bevor [Bellbrim](../Andere/Bellbrim.md) auftaucht: Gewebtes ist Handelsgut, und eine fremde Webart fällt auf. Nützlich zu sein ist der Grund, warum eine Sprachlose geduldet wird.
 - **Sie lernt die Sprache aktiv**, weil sie weiß, dass es ihr hilft - keine Verweigerung, kein Rückzug.
 
@@ -69,7 +69,7 @@ Ein einzelner Weiler, der in diesen Jahren leerläuft, ist damit der Normalfall 
 
 Verschwindet durch den Portalring in die Wüste und durchlebt dort einen eigenen Handlungsstrang (Bellbrim, Azzim u-Tawan, Reaktivierung des Rings). Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
-**Ihr Antrieb in den letzten Jahren ist das Bündel** (Autor, 09.09.2026). Sie will nicht mehr selbst zurück, sondern nur noch, dass ihre Familie weiß, dass sie lebt. Dafür liegt fertig und wetterfest verpackt bereit: eine **Strähne ihres eigenen Haars**, ein **gewebtes Stück** aus ihrer Hand und ihre **Mantelfibel** - ein Stück aus dem Norden, das sie am Leib trug, als sie verschwand. Es ist zugleich das einzige Stück ihres Kleinguts, das [Truda](Nebenfiguren/Truda.md) nicht geerbt hat - es sollte zu ihr zurück und kommt nie an. Kein Schriftstück: **Ihr ist bewusst, dass im Norden niemand lesen kann**, also wählt sie, was ihre Leute auch ohne Schrift deuten.
+**Ihr Antrieb in den letzten Jahren ist das Bündel** (Autor, 09.09.2026). Sie will nicht mehr selbst zurück, sondern nur noch, dass ihre Familie weiß, dass sie lebt. Dafür liegt fertig und wetterfest verpackt bereit: eine **Strähne ihres eigenen Haars**, ein **gewebtes Stück** aus ihrer Hand und ihre **Mantelfibel** - ein Stück aus dem Norden, das sie am Leib trug, als sie verschwand. Es ist zugleich das einzige Stück ihres Kleinguts, das [Randi](Nebenfiguren/Randi.md) nicht geerbt hat - es sollte zu ihr zurück und kommt nie an. Kein Schriftstück: **Ihr ist bewusst, dass im Norden niemand lesen kann**, also wählt sie, was ihre Leute auch ohne Schrift deuten.
 
 Sie richtet es an die **Familie**, nicht an eine einzelne Person, und **weiß nicht, dass [Tibun](Tibun.md) fort ist**: Für sie sind alle noch zu Hause. Sie kommt nie dazu, das Bündel in den Ring zu legen.
 
@@ -88,7 +88,7 @@ Damit ist die Zählung ein **Gradmesser ihrer Entfremdung**: Sagt der Text irgen
 ## Verbindungen zu anderen Charakteren
 
 - Sohn: [Tibun](Tibun.md)
-- Tochter: [Truda](Nebenfiguren/Truda.md)
+- Tochter: [Randi](Nebenfiguren/Randi.md)
 - Tochter: [Tamant](../Kel-Aman/Nebenfiguren/Tamant.md)
 - Ehemann: [Semund](Nebenfiguren/Semund.md)
 - Partner: [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md)

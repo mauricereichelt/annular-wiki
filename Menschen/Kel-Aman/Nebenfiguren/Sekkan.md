@@ -16,8 +16,8 @@
 
 | | |
 |---|---|
-| **Vatersname** (`u-`) | [**Werdan**](Werdan.md) - voller Name: **Sekkan u-Werdan**. **Er lebt** (Autor, 10.09.2026) |
-| **Geschwister** | **keine** - er ist das einzige Kind von [Tanast](Tanast.md) und [Werdan](Werdan.md) (Autor, 25.09.2026) |
+| **Vatersname** (`u-`) | [**Iddar**](Iddar.md) - voller Name: **Sekkan u-Iddar**. **Er lebt** (Autor, 10.09.2026) |
+| **Geschwister** | **keine** - er ist das einzige Kind von [Tanast](Tanast.md) und [Iddar](Iddar.md) (Autor, 25.09.2026) |
 | **Onkel** | [Ishman u-Gulan](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) - **Mutterbruder** |
 | **Mutter** | [**Tanast**](Tanast.md), Schwester [Ishmans](Ishman.md) (Autor, 10.09.2026). **Sie lebt** - über sie läuft die Sippenpflicht, mit der der Clan später hilft |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - **ohne Namen** (Autor, 25.09.2026). Sie ging **ohne das geregelte Verfahren** ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)): Zwischen den beiden Sippen steht seither eine ungeregelte Sache |
@@ -30,9 +30,9 @@
 
 Im Clan aufgewachsen, Blut des Häuptlings [Ishman](Ishman.md) - über die **Mutter** (Autor, 09.09.2026).
 
-**Er lernte vom Vater [Werdan](Werdan.md) und bei [Ishman](Ishman.md)** - beide waren Karawanenmänner. **Er heiratete jung** und **führte früh selbst Karawanen** (Autor, 25.09.2026).
+**Er lernte vom Vater [Iddar](Iddar.md) und bei [Ishman](Ishman.md)** - beide waren Karawanenmänner. **Er heiratete jung** und **führte früh selbst Karawanen** (Autor, 25.09.2026).
 
-**Beide Eltern leben** (Autor, 10.09.2026) - **Tanast** und **Werdan**, in Jahr 0 wie in Jahr +5. Sekkan hat also nicht nur einen Onkel, sondern eine vollständige Herkunftsfamilie im Clan.
+**Beide Eltern leben** (Autor, 10.09.2026) - **Tanast** und **Iddar**, in Jahr 0 wie in Jahr +5. Sekkan hat also nicht nur einen Onkel, sondern eine vollständige Herkunftsfamilie im Clan.
 
 **Sie nehmen [Girlin](../../Nordvolk/Girlin.md) an** (Autor, 10.09.2026): Sie ist die Frau ihres Sohnes und die Mutter ihrer Enkelin - mehr braucht es nicht. Dass sie eine Fremde ist, steht dem nicht im Weg.
 
@@ -66,7 +66,7 @@ Im Finale bleibt Girlin **bei ihm** - er lebt, gezeichnet: einäugig.
 ## Verbindungen zu anderen Charakteren
 
 - Partnerin: [Girlin](../../Nordvolk/Girlin.md)
-- Eltern: [Tanast](Tanast.md) (Ishmans Schwester) und [Werdan](Werdan.md) - beide leben
+- Eltern: [Tanast](Tanast.md) (Ishmans Schwester) und [Iddar](Iddar.md) - beide leben
 - Onkel: [Ishman u-Gulan](Ishman.md), Häuptling der Kel Aman - Bruder seiner Mutter
 - Lebt mit: [Bellbrim](../../Andere/Bellbrim.md)
 - Gegenspieler im Finale: [Azzim u-Tawan](../Azzim-u-Tawan.md)

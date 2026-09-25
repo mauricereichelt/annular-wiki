@@ -69,7 +69,7 @@ Alles hier vom Autor entschieden am 09.09.2026.
 ---
 
 ## Bewohner
-- [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Truda, Semund
+- [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Randi, Semund
 
 ---
 

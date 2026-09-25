@@ -28,7 +28,7 @@ In [Skirraa](../../../Orte/Skirraa.md) aufgewachsen und dort mit [Girlin](../Gir
 
 Dass sie keine Zugezogene ist, nimmt dem Einzug in [Semunds](Semund.md) Haus jede Fremdheit: Der Weiler kennt sie seit ihrer Kindheit, und niemand hat einen Einwand. Für [Tibun](../Tibun.md) verschärft es die Kränkung - die Frau am Webstuhl seiner Mutter ist keine Fremde, sondern die, mit der die Mutter aufgewachsen ist.
 
-**Sie ist Witwe** (Autor, 10.09.2026) - ihr Mann ist tot, **eigene Kinder hat sie keine**. Zwei Verwaiste finden zusammen; der Weiler findet daran nichts. Für [Truda](Truda.md) heißt es, dass keine fremden Geschwister ins Haus kommen: Millia bringt niemanden mit.
+**Sie ist Witwe** (Autor, 10.09.2026) - ihr Mann ist tot, **eigene Kinder hat sie keine**. Zwei Verwaiste finden zusammen; der Weiler findet daran nichts. Für [Randi](Randi.md) heißt es, dass keine fremden Geschwister ins Haus kommen: Millia bringt niemanden mit.
 
 **Er starb in den [Hungerjahren](../../../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) durch einen Unfall beim Holz oder Bauen; sein Besitz fiel an seine Sippe; er bleibt namenlos** (Autor, 25.09.2026).
 
@@ -36,7 +36,7 @@ Dass sie keine Zugezogene ist, nimmt dem Einzug in [Semunds](Semund.md) Haus jed
 
 ## Besondere Fähigkeiten
 
-**Keine besonderen** (Autor, 10.09.2026). Millia ist tüchtig und mehr nicht - sie führt ein Haus, wie man ein Haus führt. Am Webstuhl steht sie, weil einer dort stehen muss; [Truda](Truda.md) webt besser als sie.
+**Keine besonderen** (Autor, 10.09.2026). Millia ist tüchtig und mehr nicht - sie führt ein Haus, wie man ein Haus führt. Am Webstuhl steht sie, weil einer dort stehen muss; [Randi](Randi.md) webt besser als sie.
 
 **Genau das macht sie unangreifbar.** Es gibt an ihr nichts Herausragendes zu bewundern und nichts Falsches zu benennen. Wer sie ablehnen will, muss es ohne Grund tun.
 
@@ -44,15 +44,15 @@ Dass sie keine Zugezogene ist, nimmt dem Einzug in [Semunds](Semund.md) Haus jed
 
 ## Einzug in Semunds Haus
 
-Millia heiratet [Semund](Semund.md) **einen Winter** nach [Girlins](../Girlin.md) Toterklärung - regelkonform, nicht überstürzt. Sie übernimmt **Webstuhl und Herd**, weil ein Haus eine Herrin braucht und ein Webstuhl gebraucht wird; [Trudas](Truda.md) Erbe verwahrt sie.
+Millia heiratet [Semund](Semund.md) **einen Winter** nach [Girlins](../Girlin.md) Toterklärung - regelkonform, nicht überstürzt. Sie übernimmt **Webstuhl und Herd**, weil ein Haus eine Herrin braucht und ein Webstuhl gebraucht wird; [Randis](Randi.md) Erbe verwahrt sie.
 
-Sie tut damit nichts Falsches - und genau das ist die Kränkung für [Tibun](../Tibun.md) und Truda: Der Webstuhl klappert weiter, nur mit anderen Händen. Es gibt kein Unrecht, das man benennen könnte.
+Sie tut damit nichts Falsches - und genau das ist die Kränkung für [Tibun](../Tibun.md) und Randi: Der Webstuhl klappert weiter, nur mit anderen Händen. Es gibt kein Unrecht, das man benennen könnte.
 
 ---
 
 ## Zu Girlins Kindern
 
-**Zu [Truda](Truda.md) findet sie einen Weg, zu [Tibun](../Tibun.md) nicht** (Autor, 10.09.2026). Bei dem Kind gelingt es; beim Sechzehnjährigen nicht.
+**Zu [Randi](Randi.md) findet sie einen Weg, zu [Tibun](../Tibun.md) nicht** (Autor, 10.09.2026). Bei dem Kind gelingt es; beim Sechzehnjährigen nicht.
 
 **Beim Auszug treibt sie mit voran** (Autor, 23.09.2026): Als der Weiler nach dem Spruch der [Wala](Wala-Wandernd.md) darauf drängt, dass [Tibun](../Tibun.md) den Hof verlässt, ist sie es, die es mit vorantreibt; [Semund](Semund.md) gibt nach.
 

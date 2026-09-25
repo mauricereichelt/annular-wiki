@@ -36,7 +36,7 @@ bewusst offen (Autor, 24.09.2026)
 
 ## Bedeutung in der Geschichte
 
-Er verlobt seine Tochter [Frida](Frida.md) mit [Herik](Herik.md), dem Sohn von [Landarik](Landarik.md): ein **Bündnis zwischen Höfen**, von den Vätern arrangiert (siehe [Frida](Frida.md#bedeutung-in-der-geschichte)).
+Er verlobt seine Tochter [Frida](Frida.md) mit [Gunthar](Gunthar.md), dem Sohn von [Landarik](Landarik.md): ein **Bündnis zwischen Höfen**, von den Vätern arrangiert (siehe [Frida](Frida.md#bedeutung-in-der-geschichte)).
 
 ---
 
@@ -44,7 +44,7 @@ Er verlobt seine Tochter [Frida](Frida.md) mit [Herik](Herik.md), dem Sohn von [
 
 - Ehefrau: [Widgund](Widgund.md)
 - Tochter: [Frida](Frida.md)
-- Künftiger Schwiegersohn: [Herik](Herik.md)
+- Künftiger Schwiegersohn: [Gunthar](Gunthar.md)
 - Vater des Bräutigams: [Landarik](Landarik.md)
 
 ---

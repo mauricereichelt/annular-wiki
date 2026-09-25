@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Mann von [Truda](Truda.md), Schwager von [Tibun](../Tibun.md) |
+| **Rolle** | Mann von [Randi](Randi.md), Schwager von [Tibun](../Tibun.md) |
 | **Name** | Urname *Wulfstein* - **Wolf** + **Stein** (Autor, 25.09.2026) |
 | **Alter** | **etwa 20** bei [Tibuns](../Tibun.md) Rückkehr (Jahr +9) (Autor, 25.09.2026) |
 | **Herkunft** | **aus [Skirraa](../../../Orte/Skirraa.md)** (Autor, 25.09.2026) |
@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| **Ehefrau** | [Truda](Truda.md) - Heirat in **Jahr +8**, sie ist 17 (Autor, 25.09.2026) |
+| **Ehefrau** | [Randi](Randi.md) - Heirat in **Jahr +8**, sie ist 17 (Autor, 25.09.2026) |
 | **Kinder** | bei [Tibuns](../Tibun.md) Rückkehr (Jahr +9) **keine** (Autor, 25.09.2026) |
 
 ---
@@ -36,7 +36,7 @@ bewusst offen (Autor, 25.09.2026)
 
 ## Bedeutung in der Geschichte
 
-Er und [Truda](Truda.md) haben einen **eigenen Haushalt in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 25.09.2026). *(Hier stand: in Skirraa oder in der Nähe, Autor 18.09.2026.)*
+Er und [Randi](Randi.md) haben einen **eigenen Haushalt in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 25.09.2026). *(Hier stand: in Skirraa oder in der Nähe, Autor 18.09.2026.)*
 
 **Beim Empfang des zurückgekehrten [Tibun](../Tibun.md) ist er nicht dabei** (Autor, 25.09.2026) - **er ist unterwegs auf der Jagd** (Autor, 25.09.2026).
 
@@ -44,7 +44,7 @@ Er und [Truda](Truda.md) haben einen **eigenen Haushalt in [Skirraa](../../../Or
 
 ## Verbindungen zu anderen Charakteren
 
-- Ehefrau: [Truda](Truda.md)
+- Ehefrau: [Randi](Randi.md)
 - Schwager: [Tibun](../Tibun.md)
 - Schwiegervater: [Semund](Semund.md)
 

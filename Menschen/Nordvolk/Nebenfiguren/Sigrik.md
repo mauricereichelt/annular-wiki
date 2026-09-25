@@ -19,8 +19,8 @@
 |---|---|
 | **Ehefrau** | [Randwara](Randwara.md) |
 | **Sohn** | [Semund](Semund.md) |
-| **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
-| **Enkel** | [Tibun](../Tibun.md), [Truda](Truda.md) |
+| **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026). [Semund](Semund.md) ist der **einzige Sohn** (Autor, 25.09.2026) |
+| **Enkel** | [Tibun](../Tibun.md), [Randi](Randi.md) |
 
 ---
 
@@ -48,7 +48,7 @@
 
 - Ehefrau: [Randwara](Randwara.md)
 - Sohn: [Semund](Semund.md)
-- Enkel: [Tibun](../Tibun.md), [Truda](Truda.md)
+- Enkel: [Tibun](../Tibun.md), [Randi](Randi.md)
 
 ---
 

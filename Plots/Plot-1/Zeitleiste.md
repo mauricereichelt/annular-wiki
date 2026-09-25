@@ -10,7 +10,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 <tr><th>Figur</th><th>Jahr 0 - Auftakt &amp; Verschwinden</th><th>Aufbruch (+1)</th><th>Rückkehr (+9)</th><th>Finale (+10)</th></tr>
 <tr><td>Tibun</td><td><strong>16</strong></td><td>17</td><td>25</td><td>26</td></tr>
 <tr><td>Girlin</td><td><strong>34</strong></td><td>35</td><td>43</td><td>44</td></tr>
-<tr><td>Truda</td><td><strong>9</strong></td><td>10</td><td>18</td><td>19</td></tr>
+<tr><td>Randi</td><td><strong>9</strong></td><td>10</td><td>18</td><td>19</td></tr>
 <tr><td>Semund</td><td><strong>35</strong></td><td>36</td><td>44</td><td>45</td></tr>
 <tr><td>Bellbrim</td><td>(40)</td><td>-</td><td>-</td><td>50</td></tr>
 <tr><td>Azzim u-Tawan</td><td>(~40)</td><td>-</td><td>-</td><td>~50</td></tr>
@@ -18,8 +18,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 > **Geändert am 04.09.2026:** Der Prolog liegt **nicht mehr in Jahr −1**. Beben, Bernstein-Effekt und Blitz liegen alle in **Jahr 0**, jeweils nur wenige Tage auseinander. Damit entfällt die Spalte „Prolog (−1)" - und **Tibun ist beim Bernstein-Effekt 16, nicht 15**.
 
-- **Truda:** 7 Jahre jünger als Tibun.
-- **Girlin:** bei Tibuns Geburt **18**, bei Trudas Geburt **25** (Korrektur vom 31.08.2026).
+- **Randi:** 7 Jahre jünger als Tibun.
+- **Girlin:** bei Tibuns Geburt **18**, bei Randis Geburt **25** (Korrektur vom 31.08.2026).
 - **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0). **Fest ist 50 im Finale** (Autor, 25.09.2026); damit ist sie 40 in Jahr 0 (so in der Tabelle) und 41 beim Kennenlernen in +1, geboren um 510. *(Hier stand: 40 als Richtwert beim Kennenlernen, Kennenlernen in +1 bis +3, offen.)*
 - **Azzim u-Tawan:** **etwa 40 in Jahr 0** (Autor, 25.09.2026); tritt erst ab +5 auf (dann etwa 45), im Finale etwa 50. *(Hier stand: Alter offen.)*
 
@@ -73,11 +73,11 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Warum nicht bei der wandernden Wala:** Niemand weiß, wo sie sich gerade aufhält - **außer ihrer Zwillingsschwester in Tingsal**. Wer eine Wala braucht, geht deshalb dorthin
   - **Die Walas sprechen als eine Stimme** - die Stimme der Götter. Die eine hält sich an das Wort der anderen; die Toterklärung Girlins gilt in Tingsal ohne erneute Prüfung
 - **Die Verlobung** (Autor, 07.09.2026): Nach der Rückkehr der beiden **öffentliche Verlobung**. **Tibun ist sauer** - obwohl er gegen [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) selbst nichts hat. **Er hasst sie nicht, will aber auch nichts von ihr** (Autor, 10.09.2026): keine gute Beziehung, sondern die Abwesenheit eines Vorwurfs. Er will seine Mutter zurück
-  - **Millia ist Witwe und hat keine eigenen Kinder** (Autor, 10.09.2026) - sie bringt niemanden mit ins Haus. **Zu [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) findet sie einen Weg, zu Tibun nicht**
+  - **Millia ist Witwe und hat keine eigenen Kinder** (Autor, 10.09.2026) - sie bringt niemanden mit ins Haus. **Zu [Randi](../../Menschen/Nordvolk/Nebenfiguren/Randi.md) findet sie einen Weg, zu Tibun nicht**
 - **Der Unfall** (entschieden 02.09.2026): Tibun baut etwas und **verletzt dabei eine Nebenfigur**. Dass es geschieht, steht fest. **Er baut ein kleines Wasserrad**, einen ersten, unreifen Versuch seiner Idee (Autor, 15.09.2026). Verletzt wird **ein Gleichaltriger, der ihm beim Bauen hilft** (Autor, 15.09.2026). **Wozu** das Rad dient, **wer** der Gleichaltrige ist und **wie** der Unfall abläuft: **???**
 - **Wirkung - dreifach:** Schuld, Gewissenslast **und Ausschluss durch die Dorfbewohner**. Zusammen mit dem Ring ist das der Antrieb für den Aufbruch; er geht nicht nur zu etwas hin, sondern auch von etwas weg
-- **[Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) bleibt allein** (Autor, 10.09.2026): Sie ist **9**, sie hängt an ihm - und **Tibun kümmert sich nicht um sie**. Er zieht sich zurück und sucht die Mutter. Der Skizzen-Beat *„er muss sich um die kleine Schwester kümmern"* ist damit überholt: Er müsste, und er tut es nicht
-- **Beim Aufbruch verabschiedet er sich nicht von ihr.** Sie ist zehn und erfährt es nicht vorher; **sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig. Erzählt wird das **beiläufig** in den Szenen von Jahr 0 und +1 und **noch einmal aufgerufen bei der Rückkehr** in +9. Für Jahr 0 und +1 keine eigene Szene; **bei der Rückkehr bekommt es eine**: Truda empfängt ihn mit einem Wutanfall (Autor, 11.09.2026)
+- **[Randi](../../Menschen/Nordvolk/Nebenfiguren/Randi.md) bleibt allein** (Autor, 10.09.2026): Sie ist **9**, sie hängt an ihm - und **Tibun kümmert sich nicht um sie**. Er zieht sich zurück und sucht die Mutter. Der Skizzen-Beat *„er muss sich um die kleine Schwester kümmern"* ist damit überholt: Er müsste, und er tut es nicht
+- **Beim Aufbruch verabschiedet er sich nicht von ihr.** Sie ist zehn und erfährt es nicht vorher; **sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig. Erzählt wird das **beiläufig** in den Szenen von Jahr 0 und +1 und **noch einmal aufgerufen bei der Rückkehr** in +9. Für Jahr 0 und +1 keine eigene Szene; **bei der Rückkehr bekommt es eine**: Randi empfängt ihn mit einem Wutanfall (Autor, 11.09.2026)
 
 ### Aufbruch und die Kaupvik-Jahre (Jahr +1 → +9, Tibun 17 → 25)
 
@@ -111,18 +111,18 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Womit er das bezahlt** (Autor, 08.09.2026): aus **Ersparnissen aus [Kaupvik](../../Orte/Kaupvik.md)** (acht Jahre Hafenarbeit und Handel - er kommt nicht mittellos zurück) und aus **dem, was der Wald am Skir hergibt** (Holz schlägt er selbst). Beides zusammen; nichts davon kommt aus dem Weiler, der ihn meidet. Was in einem Winter ohne Helfer davon zu schaffen ist: **???**
 - **Der Konflikt mit dem Weiler** (entschieden 02.09.2026):
   - Die Dorfbewohner **warnen** ihn, sind ängstlich und ärgerlich. **Niemand hilft ihm, er wird gemieden**
-  - **Niemand aus dem Weiler kommt an die Tabustelle** (Autor, 18.09.2026): **[Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) meidet sie ebenso wie die neugierigen Kinder.** Das Tabu hält ohne Ausnahme. Die einzige Person, die den Ort betritt, ist die gerufene **[Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)**
-  - **Der Kontakt läuft deshalb über den Weiler** (Autor, 18.09.2026): **Tibun wohnt zunächst auf [Semunds](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof** und geht für **Vorräte und Werkzeug**, **zu Truda** und **zu Semund** in den Weiler. **Er trägt den Kontakt, niemand kommt zu ihm**
+  - **Niemand aus dem Weiler kommt an die Tabustelle** (Autor, 18.09.2026): **[Randi](../../Menschen/Nordvolk/Nebenfiguren/Randi.md) meidet sie ebenso wie die neugierigen Kinder.** Das Tabu hält ohne Ausnahme. Die einzige Person, die den Ort betritt, ist die gerufene **[Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)**
+  - **Der Kontakt läuft deshalb über den Weiler** (Autor, 18.09.2026): **Tibun wohnt zunächst auf [Semunds](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof** und geht für **Vorräte und Werkzeug**, **zu Randi** und **zu Semund** in den Weiler. **Er trägt den Kontakt, niemand kommt zu ihm**
   - **Der Bruch** (Autor, 18.09.2026): Nachdem die **Wala** die Stelle und sein Tun **erneut und härter als Tabu kennzeichnet**, **muss er auch Semunds Hof verlassen**. **Ab da wohnt er auf der Baustelle.** **Fort weist ihn der Druck aus dem Weiler** (Autor, 23.09.2026), dem Semund nachgibt; **[Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) treibt den Auszug mit voran**. Der Auszug bekommt eine **eigene Szene** ([Szenen](Szenen.md))
   - **Die Warnung erreicht ihn aus allen drei Richtungen** (Autor, 18.09.2026): im Weiler, am Weg zum Bau und auf Semunds Hof
-  - > **Geändert (18.09.2026):** Hier stand *„Truda und neugierige Kinder meiden ihn nicht ganz - sie sind die einzige Verbindung zum Weiler"* (02.09.2026). Diese Verbindung gibt es nicht mehr; der Kontakt läuft umgekehrt, über Tibuns Gänge in den Weiler
+  - > **Geändert (18.09.2026):** Hier stand *„Randi und neugierige Kinder meiden ihn nicht ganz - sie sind die einzige Verbindung zum Weiler"* (02.09.2026). Diese Verbindung gibt es nicht mehr; der Kontakt läuft umgekehrt, über Tibuns Gänge in den Weiler
   - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist selber schuld; die anderen wollen nur nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Damit ist die Frage „Was rettet ihn vor der Vertreibung?" gegenstandslos
   - **[Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn** und verhält sich neutral bis familiär - aber **nur fern vom Ring und unter Vermeidung des Themas**
   - **Die [Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** - die Wala, nicht das Thing (Autor, 11.09.2026). Sie **sieht es sich an** und **deutet es wie zuvor**: Er ist selber schuld. Sie schärft jedem erneut ein, dass dieser Ort den **Zorn der Götter** auf einen lädt - und **lässt ihn gewähren**. **Ihr Motiv** (Autor, 11.09.2026): Sie möchte selbst mehr über den Ring wissen, verlöre dabei aber ihr Gesicht. Gerufen wird sie **über ihre Schwester in [Tingsal](../../Orte/Tingsal.md)**, die entscheidet, ob das Anliegen wichtig oder gerechtfertigt genug ist; wie die Nachricht sie erreicht, ist ein Geheimnis der Zwillinge (Autor, 11.09.2026)
   - **Die Angst bröckelt nicht** (Autor, 10.09.2026): Dass er das Tabu dauerhaft und sichtbar bricht und nichts geschieht, bemerkt **niemand** als Widerlegung - *„die Strafe wird schon noch kommen."* Das Ausbleiben ist Aufschub, kein Beweis. Die erneute Verhärtung durch die Wala trägt auch die **große Wasseranlage**: Der Weiler tut darüber hinaus **nichts** - kein Eingriff, keine Zerstörung, keine Nutzung
-  - **Truda empfängt ihn mit einem Wutanfall** (Autor, 11.09.2026): Die Verletztheit darüber, dass er sie verlassen hat, bricht heraus - **einmal, danach ist sie wieder still**. Eigene Szene bei seiner Ankunft; das Gespräch, in dem er ihr sagt, was er tut, folgt später
-  - **Truda ist inzwischen verheiratet** (Autor, 18.09.2026) und hat einen eigenen Haushalt **in [Skirraa](../../Orte/Skirraa.md)** (Autor, 25.09.2026; *hier stand: oder in der Nähe*). Sie ist bei seiner Rückkehr **18**. Ihr Mann ist [**Wulfstein**](../../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md), geheiratet haben sie in **Jahr +8**, Kinder haben sie bei seiner Rückkehr **keine**. Der Empfang findet **auf [Semunds](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof** statt, Wulfstein ist nicht dabei - er ist auf der Jagd (Autor, 25.09.2026)
-  - **Truda weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn zur Vernunft bringen
+  - **Randi empfängt ihn mit einem Wutanfall** (Autor, 11.09.2026): Die Verletztheit darüber, dass er sie verlassen hat, bricht heraus - **einmal, danach ist sie wieder still**. Eigene Szene bei seiner Ankunft; das Gespräch, in dem er ihr sagt, was er tut, folgt später
+  - **Randi ist inzwischen verheiratet** (Autor, 18.09.2026) und hat einen eigenen Haushalt **in [Skirraa](../../Orte/Skirraa.md)** (Autor, 25.09.2026; *hier stand: oder in der Nähe*). Sie ist bei seiner Rückkehr **18**. Ihr Mann ist [**Wulfstein**](../../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md), geheiratet haben sie in **Jahr +8**, Kinder haben sie bei seiner Rückkehr **keine**. Der Empfang findet **auf [Semunds](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof** statt, Wulfstein ist nicht dabei - er ist auf der Jagd (Autor, 25.09.2026)
+  - **Randi weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn zur Vernunft bringen
 - **Er erfährt erst jetzt vom Tod seiner Großmutter [Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md)** (Autor, 24.09.2026) - sie starb früh in seiner Reise, in Jahr +2 bis +3
 - **Finale:** Erste manuelle Zündung des Skir-Rings
 
@@ -257,7 +257,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - Der **Skir-Ring** flippt mit. **Tibuns geladenes Rad ist davon nicht betroffen** - die Kette liegt im Dachstuhl, der Stromkreis ist offen. Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
 
 ### Der Kampf im Norden (Minuten, kein Tag)
-- Tibun führt an diesem Tag nur einen **Testlauf** durch. Er will nicht reisen: keine Vorräte, keine Waffe, kein Abschied von [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md)
+- Tibun führt an diesem Tag nur einen **Testlauf** durch. Er will nicht reisen: keine Vorräte, keine Waffe, kein Abschied von [Randi](../../Menschen/Nordvolk/Nebenfiguren/Randi.md)
 - Azzim fällt ihm praktisch vor die Füße. Für Tibun ist das nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben - und Azzim kennt Girlin. Eine gemeinsame Sprache haben die beiden nicht; **woran Tibun das erkennt, klärt der Szenentext** (Autor, 22.09.2026)
 - **Azzim begreift erst hier, was ihn geworfen hat** (entschieden 02.09.2026): Er steht vor demselben Ding wie in der Schlucht. Er schließt es **selbst** - nachdem er es zehn Jahre lang nicht wusste. Was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich **nur in seinem Verhalten**, ausgesprochen wird es nie (Autor, 22.09.2026)
   > **Gestrichen (Autor, 11.09.2026):** Hier stand *„in Wasser, das aus dem Nichts kam"* - ein Rest der Bachwasser-Fassung. Es geht kein Wasser mit: Der Wasserfall in der Ringkammer fällt außerhalb der Kugel
@@ -291,5 +291,5 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
   > T: *„Was machen wir jetzt?"*
   > G: *„Jetzt holen wir deine Schwester…"*
 
-- **Der Norden nach Tibuns Verschwinden wird nicht erzählt.** Wer die Tabustelle findet, was aus Truda, Semund und dem Dorf wird, bleibt außerhalb dieses Buches - Stoff für eine weitere Geschichte im Universum
+- **Der Norden nach Tibuns Verschwinden wird nicht erzählt.** Wer die Tabustelle findet, was aus Randi, Semund und dem Dorf wird, bleibt außerhalb dieses Buches - Stoff für eine weitere Geschichte im Universum
 - **Offen:** Wissen beide beim Schlusssatz, was er kostet? Der Ring **tauscht** - man kann niemanden rufen, der nicht schon dort steht. Leichthin gesagt wirkt der Satz naiv; im vollen Bewusstsein gesagt ist er der beste des Buchs · **???**

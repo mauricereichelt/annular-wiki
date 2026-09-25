@@ -18,17 +18,17 @@
 |---|---|
 | **Mutter** | [Randwara](Randwara.md) - lebt in Jahr 0 noch, auf seinem Hof (Autor, 24.09.2026) |
 | **Vater** | [**Sigrik**](Sigrik.md) (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt. Er starb in **Jahr -20** (Autor, 25.09.2026) |
-| **Geschwister** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
+| **Geschwister** | **mehrere**, fortgezogen (Autor, 24.09.2026). **Semund ist der einzige Sohn** (Autor, 25.09.2026) |
 | **Ehefrau** | [Girlin](../Girlin.md) (verschwunden) |
 | **Neue Partnerin** | [Millia](Millia.md) |
 | **Sohn** | [Tibun](../Tibun.md) |
-| **Tochter** | [Truda](Truda.md) |
+| **Tochter** | [Randi](Randi.md) |
 
 ---
 
 ## Frühes Leben
 
-**Er hat den Hof in [Skirraa](../../../Orte/Skirraa.md) von seinem Vater geerbt** (Autor, 15.09.2026), und zwar **vor [Tibuns](../Tibun.md) Geburt** (Autor, 24.09.2026). Seine Mutter [Randwara](Randwara.md) lebt mit auf dem Hof. Seine Geschwister, **mehrere**, sind fortgezogen (Autor, 24.09.2026).
+**Er hat den Hof in [Skirraa](../../../Orte/Skirraa.md) von seinem Vater geerbt** (Autor, 15.09.2026), und zwar **vor [Tibuns](../Tibun.md) Geburt** (Autor, 24.09.2026). Seine Mutter [Randwara](Randwara.md) lebt mit auf dem Hof. Seine Geschwister, **mehrere**, sind fortgezogen (Autor, 24.09.2026). **Er ist der einzige Sohn** (Autor, 25.09.2026) - deshalb erbt er den Hof.
 
 Sein Vater [Sigrik](Sigrik.md) starb in **Jahr -20** (Autor, 25.09.2026), da war Semund etwa 15 (35 in Jahr 0, minus 20 Jahre). **Semund übernimmt den Hof gleich, seine Mutter [Randwara](Randwara.md) führt ihn zuerst, bis er erwachsen ist** - beides gilt (Autor, 25.09.2026).
 
@@ -71,7 +71,7 @@ Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen u
 - Ehefrau (verschwunden): [Girlin](../Girlin.md)
 - Neue Partnerin: [Millia](Millia.md)
 - Sohn: [Tibun](../Tibun.md)
-- Tochter: [Truda](Truda.md)
+- Tochter: [Randi](Randi.md)
 
 ---
 

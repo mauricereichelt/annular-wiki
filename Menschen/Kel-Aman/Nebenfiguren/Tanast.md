@@ -17,8 +17,8 @@
 | | |
 |---|---|
 | **Bruder** | [Ishman u-Gulan](Ishman.md), Häuptling |
-| **Ehemann** | [Werdan](Werdan.md) |
-| **Sohn** | [Sekkan u-Werdan](Sekkan.md) - **ihr einziges Kind** (Autor, 25.09.2026) |
+| **Ehemann** | [Iddar](Iddar.md) |
+| **Sohn** | [Sekkan u-Iddar](Sekkan.md) - **ihr einziges Kind** (Autor, 25.09.2026) |
 | **Enkelin** | [Tamant](Tamant.md) |
 
 ---
@@ -48,7 +48,7 @@
 ## Verbindungen zu anderen Charakteren
 
 - Bruder: [Ishman](Ishman.md)
-- Ehemann: [Werdan](Werdan.md)
+- Ehemann: [Iddar](Iddar.md)
 - Sohn: [Sekkan](Sekkan.md)
 - Schwiegertochter: [Girlin](../../Nordvolk/Girlin.md)
 - Enkelin: [Tamant](Tamant.md)

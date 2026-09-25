@@ -18,7 +18,7 @@
 |---|---|
 | **Vater** | [**Fridun**](Fridun.md) (Urform *Fridmund*, Frieden + Schutz; Autor, 23.09.2026) - Bauer in Skirraa, ihr **leiblicher** Vater (Autor, 21.09.2026) |
 | **Mutter** | [**Widgund**](Widgund.md) (Urname, Wald, weit + Kampf; Autor, 24.09.2026) - lebt (Jahr 0) |
-| **Verlobter** | [Herik](Herik.md) |
+| **Verlobter** | [Gunthar](Gunthar.md) |
 
 ---
 
@@ -36,7 +36,7 @@ Mädchen aus [Skirraa](../../../Orte/Skirraa.md), aufgewachsen auf einem der Hö
 
 ## Bedeutung in der Geschichte
 
-Auslöser der Szene zum Bernstein-Effekt: Am Tag, an dem [Tibun](../Tibun.md) ihr seinen Bernsteinanhänger schenken und **seine Liebe gestehen** will - ein Antrag ist es nicht (Autor, 21.09.2026) -, wird ihre Verlobung mit dem auswärtigen [Herik](Herik.md) verkündet. Die Ehe ist ein **Bündnis zwischen Höfen**, von den Vätern arrangiert - Frida selbst wirkt dabei nicht glücklich.
+Auslöser der Szene zum Bernstein-Effekt: Am Tag, an dem [Tibun](../Tibun.md) ihr seinen Bernsteinanhänger schenken und **seine Liebe gestehen** will - ein Antrag ist es nicht (Autor, 21.09.2026) -, wird ihre Verlobung mit dem auswärtigen [Gunthar](Gunthar.md) verkündet. Die Ehe ist ein **Bündnis zwischen Höfen**, von den Vätern arrangiert - Frida selbst wirkt dabei nicht glücklich.
 
 Tibuns Herzschmerz führt ihn in den Wollstall, wo er den Bernstein-Effekt entdeckt.
 
@@ -49,7 +49,7 @@ Tibuns Herzschmerz führt ihn in den Wollstall, wo er den Bernstein-Effekt entde
 ## Verbindungen zu anderen Charakteren
 
 - Unerwiderte Liebe: [Tibun](../Tibun.md)
-- Verlobt mit: [Herik](Herik.md)
+- Verlobt mit: [Gunthar](Gunthar.md)
 - Vater: [Fridun](Fridun.md)
 - Mutter: [Widgund](Widgund.md)
 

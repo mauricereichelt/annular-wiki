@@ -47,7 +47,7 @@ Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figure
 
 So funktionieren Filiationsnamen auch real: Sie sagen, **wer** jemand ist, nicht wie man ihn ruft. Niemand spricht sein Gegenüber mit dem Vatersnamen an.
 
-Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.09.2026): **Sekkan u-Werdan** und **Ishman u-Gulan** - die Vaterlinien unterscheiden sich, denn Ishman ist Sekkans **Mutterbruder**.
+Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.09.2026): **Sekkan u-Iddar** *(bis 25.09.2026 u-Werdan)* und **Ishman u-Gulan** - die Vaterlinien unterscheiden sich, denn Ishman ist Sekkans **Mutterbruder**.
 
 **Die Namen der Sippe** (Autor, 09./10.09.2026):
 
@@ -55,8 +55,8 @@ Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.
 |---|---|
 | **Ishman u-Gulan** | Häuptling des Clans |
 | [**Tanast**](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) | seine Schwester, Sekkans Mutter - lebt |
-| [**Werdan**](../../Menschen/Kel-Aman/Nebenfiguren/Werdan.md) | Sekkans Vater - lebt |
-| **Sekkan u-Werdan** | Karawanenführer, Ishmans Neffe |
+| [**Iddar**](../../Menschen/Kel-Aman/Nebenfiguren/Iddar.md) | Sekkans Vater - lebt |
+| **Sekkan u-Iddar** | Karawanenführer, Ishmans Neffe |
 | [**Tamant ult-Sekkan**](../../Menschen/Kel-Aman/Nebenfiguren/Tamant.md) | seine Tochter mit Girlin, geboren +4 |
 | **Gilint** | [Girlin](../../Menschen/Nordvolk/Girlin.md) - ohne `ult-`Form, siehe unten |
 | [**Abarkan u-Nahar**](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) | Ältester aus Ishmans Rat - kennt Bellbrims Höhlenabschnitt, sonst ohne Rolle |
@@ -78,7 +78,7 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Ehe ist ein Vertrag zwischen Sippen**, nicht zwischen zwei Personen (Autor, 09.09.2026). Daraus folgt beides:
 
-**Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
+**Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Iddar](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
 
 **Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishman u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
 
@@ -106,7 +106,7 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Fortzuziehen ist extrem unüblich und selten** (Autor, 09.09.2026). Es ist kein Verstoß und wird nicht bestraft - wer geht, wird nicht verstoßen, und der Clan bringt Verständnis auf, wie man es dafür aufbringt, dass ein Kind aus dem Haus geht. Aber es tut kaum jemand.
 
-Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, verliert seine Aufgaben, seinen Platz und die tägliche Nähe. [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) vermisst nach seinem Wegzug in Jahr +5 beides und hat lange damit zu tun.
+Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, verliert seine Aufgaben, seinen Platz und die tägliche Nähe. [Sekkan u-Iddar](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) vermisst nach seinem Wegzug in Jahr +5 beides und hat lange damit zu tun.
 
 **Die Zugehörigkeit endet dabei nicht** - der Schutz durch die Sippe aber praktisch schon: Sie ist nicht vor Ort und nicht schnell genug erreichbar, um sie um Hilfe zu bitten. Das trifft ab Jahr +5 auch [Girlin](../../Menschen/Nordvolk/Girlin.md).
 
@@ -114,7 +114,7 @@ Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob 
 
 ### Was der Ring ihnen bedeutet
 
-**Kein Heiligtum, kein Schatz** (Autor, 09.09.2026). Der Ring in der Wüste ist für die Kel Aman ein **schweres, unheimliches Ding** - sie verehren ihn nicht, und sie sehen in ihm auch keine Beute. Dass er überhaupt bewegt wird, liegt allein an der **Sippenpflicht** gegenüber [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); für die Sache selbst hätte niemand einen Finger gerührt.
+**Kein Heiligtum, kein Schatz** (Autor, 09.09.2026). Der Ring in der Wüste ist für die Kel Aman ein **schweres, unheimliches Ding** - sie verehren ihn nicht, und sie sehen in ihm auch keine Beute. Dass er überhaupt bewegt wird, liegt allein an der **Sippenpflicht** gegenüber [Sekkan u-Iddar](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); für die Sache selbst hätte niemand einen Finger gerührt.
 
 **Geredet wird trotzdem ständig darüber.** Der Ring ist über den ganzen Zug hinweg Thema - Vermutungen, Gerede, Geschichten am Feuer. Nicht Andacht, sondern Beschäftigung mit etwas, das niemand erklären kann.
 

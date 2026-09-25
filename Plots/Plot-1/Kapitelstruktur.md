@@ -102,7 +102,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 - **nach Beat 1 (Suchtrupp):** Tibun trifft das Verschwinden seiner Mutter **sehr hart**
   → in der Skizze kein eigener Beat; im Wiki nur indirekt abgedeckt
 - ~~**nach Beat 2 (Semund + Millia):** Tibun muss sich um seine **kleine Schwester** kümmern~~
-  → **Überholt (Autor, 10.09.2026):** Er kümmert sich **nicht**. Er zieht sich zurück und sucht die Mutter; [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist **9** ([Zeitleiste](Zeitleiste.md)) und bleibt allein. Beim Aufbruch ein Jahr später geht er **ohne Abschied**
+  → **Überholt (Autor, 10.09.2026):** Er kümmert sich **nicht**. Er zieht sich zurück und sucht die Mutter; [Randi](../../Menschen/Nordvolk/Nebenfiguren/Randi.md) ist **9** ([Zeitleiste](Zeitleiste.md)) und bleibt allein. Beim Aufbruch ein Jahr später geht er **ohne Abschied**
 - **zu Beat 3 (Verhältnis zu Millia):** Plot 1 sagt **„Tibun mag Melia nicht"** - die Skizze sagt „hat nichts gegen sie". **Aufgelöst (Autor, 07. und 10.09.2026):** Die Skizze gilt. Er hasst sie nicht, **hat aber auch kein Interesse an einer guten Beziehung** - er will seine Mutter zurück. Kein gutes Verhältnis, sondern die Abwesenheit eines Vorwurfs
 - **zu Beat 4 (Unfall):** Plot 1 verortet den Unfall am **„Blitzeffekt"**, die Skizze am **Wasserrad/Turm**. **???**
 - **nach Beat 4:** Tibun wird von **Alpträumen** geplagt - **im Traum** kommt ihm die Idee für den Generator
@@ -138,7 +138,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 - **Beats 5-10 sind keine Wanderjahre.** Skirraa↔Kaupvik = **~14 Tagesmärsche**. Es gibt **eine Zwischenstation** (Anschluss an eine Gruppe; er lernt zu überleben und zu schweigen), danach **acht Jahre Kaupvik**
 - **Beat 10 (Hafenunfall):** liegt in **Jahr +4/+5**, nicht am Ende. Davor: sammeln ohne zu wissen wie. Danach: Tischmodell bauen
 - **Beat 11 (Rückkehr):** Er geht, weil das Modell **läuft** und Wissen und Bernstein reichen - **er hat recht**. Die Zieheltern bleiben **lebend** zurück
-- **Neu nach Beat 11:** der **Werkstatt-Konflikt** - Warnung, Meidung, keine Vertreibung, die Wala kommt und lässt ihn gewähren, Truda hält ihn für verloren
+- **Neu nach Beat 11:** der **Werkstatt-Konflikt** - Warnung, Meidung, keine Vertreibung, die Wala kommt und lässt ihn gewähren, Randi hält ihn für verloren
 
 ### Girlin (Wüste)
 - **Beat 10 (Navigationswissen) ist gestrichen.** Es gibt **kein Geheimnis** des Häuptlings. Das Hindernis hat drei Phasen: **Zugehörigkeit → Wissen → Bitte**
@@ -242,7 +242,7 @@ Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-O
 | Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** - Transport in die Schlucht, Jahr +7/+8, ein paar Wochen; flach auf einem Schlitten aus Palmstämmen, von Kamelen gezogen (22.09.2026). *Korrigiert: stand „Jahr +5 bis +8"* |
 | Girlin und Neffe | **entschieden** - der **Neffe**, dessen Frau zuvor durchbrennt |
 | Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** - kein Geheimnis; drei Phasen statt Schweigen |
-| Tibun kümmert sich um Truda | **überholt 10.09.2026** - er kümmert sich **nicht** und geht ohne Abschied |
+| Tibun kümmert sich um Randi | **überholt 10.09.2026** - er kümmert sich **nicht** und geht ohne Abschied |
 | Tibun mag Millia nicht | **aufgelöst 10.09.2026** - er hat nichts gegen sie und will auch nichts von ihr |
 | Alpträume / Idee im Traum | **entschieden 15.09.2026** - Albträume um die Mutter; ein eigener Traum zur Winde hilft bei der Idee ([Tibuns Generator](../../Technik/Tibuns-Generator.md#erkenntnismoment)) |
 | Girlin wird entführt und gerettet | **neu** aus [Plot 1](Plot-1.md) |

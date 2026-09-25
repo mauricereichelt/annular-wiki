@@ -1,4 +1,4 @@
-# Werdan
+# Iddar
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Vater von [Sekkan](Sekkan.md), Mann von [Tanast](Tanast.md) |
+| **Name** | **Iddar** (Autor, 25.09.2026). *Bis 25.09.2026 hieß er Werdan - geändert, weil der Name für deutsche Leser nach „werden" klingt.* |
 | **Alter** | **etwa 60** in Jahr 0 (Autor, 25.09.2026) - wie [Tanast](Tanast.md) |
 | **Herkunft** | **aus demselben Clan** wie [Tanast](Tanast.md) und [Ishman](Ishman.md), aus einer anderen Vaterlinie (Autor, 25.09.2026) |
 
@@ -17,7 +18,7 @@
 | | |
 |---|---|
 | **Ehefrau** | [Tanast](Tanast.md), Schwester von [Ishman](Ishman.md) |
-| **Sohn** | [Sekkan u-Werdan](Sekkan.md) - **sein einziges Kind**, weitere Kinder hat er nicht (Autor, 25.09.2026) |
+| **Sohn** | [Sekkan u-Iddar](Sekkan.md) - **sein einziges Kind**, weitere Kinder hat er nicht (Autor, 25.09.2026) |
 | **Enkelin** | [Tamant](Tamant.md) |
 
 ---

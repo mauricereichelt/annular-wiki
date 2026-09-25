@@ -22,7 +22,7 @@ Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste
 
 | Strang | Zentral | Umfeld |
 |---|---|---|
-| Norden | [Tibun](../../Menschen/Nordvolk/Tibun.md) | [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Frida](../../Menschen/Nordvolk/Nebenfiguren/Frida.md) |
+| Norden | [Tibun](../../Menschen/Nordvolk/Tibun.md) | [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Randi](../../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Frida](../../Menschen/Nordvolk/Nebenfiguren/Frida.md) |
 | Wüste | [Girlin](../../Menschen/Nordvolk/Girlin.md) | [Bellbrim](../../Menschen/Andere/Bellbrim.md), [Azzim u-Tawan](../../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Kel Aman](../../Kulturen/Kel-Aman/README.md) |
 
 **Schreibregel zu Girlins Namen** (Autor, 10.09.2026): Die [Kel Aman](../../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) nennen sie **Gilint** - ab den ersten Wochen und dauerhaft; sie nimmt den Namen an. **Der Erzähler nennt sie trotzdem durchgehend Girlin.** *Gilint* steht ausschließlich in Figurenrede. Eine eigene Szene bekommt die Umbenennung nicht, ein beiläufiger Satz im Dialog stellt sie klar.
