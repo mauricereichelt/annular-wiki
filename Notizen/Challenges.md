@@ -3771,6 +3771,8 @@ Entschieden war: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) wird bei 
 
 **Noch offen · ???** Der Hergang der Verletzung - wodurch das Auge verlorengeht und in welchem Moment des Kampfes.
 
+*Nachtrag 25.09.2026:* **Einer von Azzims Männern** verletzt ihn, und **er jagt danach weiter, nur schlechter** (Autor, 25.09.2026). In welchem Moment des Kampfes: weiter ???
+
 ---
 
 ### C-167: Wer folgt Hadurik in Tingsal? ✓

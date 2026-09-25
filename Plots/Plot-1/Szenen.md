@@ -357,7 +357,9 @@ Sie bittet den Clan, den Ring zu holen - **vor [Ishman](../../Menschen/Kel-Aman/
 
 - **Will:** Der Clan soll den Ring in die Schlucht bringen
 - **Hindernis:** Sie muss vor der Versammlung bestehen - zugehörig ist sie seit +3, aber sie bittet um einen Zug, der den Clan enormen Aufwand kostet
-- **Ausgang:** Der Clan sagt zu - aus Sippenpflicht gegenüber Sekkan, nicht ihretwegen.
+- **Ausgang:** Noch keine Zusage - der Clan muss es erst beschließen. Die Zusage kommt in +6 durch einen Boten (Autor, 23.09.2026), und sie kommt aus Sippenpflicht gegenüber Sekkan, nicht ihretwegen.
+
+> **Geändert (25.09.2026):** Hier stand „Der Clan sagt zu". Das widersprach der Entscheidung vom 23.09.2026, dass die Zusage erst in +6 kommt; vom Autor bestätigt.
 
 
 ### 25 · Die Trennung vom Clan
@@ -369,6 +371,8 @@ Die drei lösen sich und ziehen zu Bellbrim.
 - **Will:** Bei Bellbrim am Ring arbeiten
 - **Hindernis:** Aus der Sippe fortzuziehen tut kaum jemand - niemand hält Sekkan auf, und trotzdem kostet es ihn
 - **Ausgang:** Sie ziehen in die Schlucht - im Guten. Ab hier ist Girlin ohne Sippenschutz: nicht ausgestoßen, nur zu weit weg, um zu rufen.
+
+> **[Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) in dieser Szene** (Autor, 25.09.2026): Er ist still traurig - und versteht es ganz. Sein Empfinden bekommt hier seinen Platz.
 
 
 ### 26 · Das Tischmodell

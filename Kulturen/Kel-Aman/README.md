@@ -84,9 +84,9 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 ### Ältestenrat
 
-**Der Häuptling entscheidet nicht allein** (Autor, 10.09.2026): Neben [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) steht ein **Rat der Ältesten**. Das entspricht dem historischen Bild - bei berberischen und nomadischen Gruppen führt der Häuptling und spricht nach außen, gebunden bleibt er an die Versammlung der Familienoberhäupter (berberisch *djemaa*, bei den Tuareg ein Rat der Clanältesten).
+**Der Häuptling entscheidet nicht allein** (Autor, 10.09.2026): Neben [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) steht ein **Rat der Ältesten** *(präzisiert 25.09.2026: Ishman gehört selbst dazu)*. Das entspricht dem historischen Bild - bei berberischen und nomadischen Gruppen führt der Häuptling und spricht nach außen, gebunden bleibt er an die Versammlung der Familienoberhäupter (berberisch *djemaa*, bei den Tuareg ein Rat der Clanältesten).
 
-**Zusammensetzung, Größe und Befugnisse sind offen** · **???** - ebenso, ob der Rat im Erzähltext je auftritt.
+**Zusammensetzung:** **Familienoberhäupter, je Familie einer** (Autor, 25.09.2026). **Er entscheidet mit Mehrheit** über die **Aufnahme Fremder**, über **Hilfe und Pflichten** und über **Streit und Fehden** (Autor, 25.09.2026). **Normaler Handel nicht** - aber [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) Angebot, eine der Ihren in die Sklaverei zu verkaufen, ist Chefsache: **Ishman und der ganze Rat entscheiden gemeinsam** (Autor, 25.09.2026). **Ishman gehört selbst zum Rat** (Autor, 25.09.2026). **Im Erzähltext tritt der Rat in der Szene *Die Bitte* ([Plot 1](../../Plots/Plot-1/Szenen.md)) auf** (Autor, 25.09.2026). *(Hier stand: Zusammensetzung, Größe und Befugnisse offen.)*
 
 **Der Älteste [Abarkan u-Nahar](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht. **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
 
