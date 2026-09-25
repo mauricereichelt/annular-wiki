@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Neffe des Häuptlings [Ishman](Ishman.md) der [Kel Aman](../../../Kulturen/Kel-Aman/README.md); Partner [Girlins](../../Nordvolk/Girlin.md) ab Jahr +3 |
-| **Alter** | **etwa 37** bei Beziehungsbeginn (Jahr +3) · etwa 44 im Finale (Jahr +10) - gleicher Jahrgang wie [Girlin](../../Nordvolk/Girlin.md), exakte Zahl nicht festgelegt |
+| **Alter** | **etwa 37** bei Beziehungsbeginn (Jahr +3) · etwa 44 im Finale (Jahr +10) - gleicher Jahrgang wie [Girlin](../../Nordvolk/Girlin.md), exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | Clan der [Kel Aman](../../../Kulturen/Kel-Aman/README.md), [Fezzan](../../../Welt/README.md) |
 
 **Familie**

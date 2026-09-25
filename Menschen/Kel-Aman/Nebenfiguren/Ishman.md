@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Häuptling des Clans der [Kel Aman](../../../Kulturen/Kel-Aman/README.md) |
-| **Alter** | **etwa 55** (Jahr 0) · etwa 65 im Finale (Jahr +10) - eine Generation über [Sekkan](Sekkan.md); exakte Zahl nicht festgelegt |
+| **Alter** | **etwa 55** (Jahr 0) · etwa 65 im Finale (Jahr +10) - eine Generation über [Sekkan](Sekkan.md); exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | Clan der [Kel Aman](../../../Kulturen/Kel-Aman/README.md), [Fezzan](../../../Welt/README.md) |
 
 **Familie**

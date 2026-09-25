@@ -18,7 +18,7 @@ Der Name ist altnordisch *vegamot*, „Wegbegegnung" - er sagt, wie [Kaupvik](Ka
 
 ## Bedeutung in der Geschichte
 
-**Hier schließt Tibun sich einem Händlerzug an** (Autor, 10.09.2026) - Fernhändler mit Karren und Waren, auf dem Weg nach Süden. Er ist damit zum ersten Mal Teil einer Gruppe, die nicht seine Sippe ist.
+**Hier schließt Tibun sich einem Händlerzug an** (Autor, 10.09.2026) - Fernhändler mit Karren und Waren, auf dem Weg nach Süden. Er ist damit zum ersten Mal Teil einer Gruppe, die nicht seine Sippe ist. **Er und [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) bleiben bis [Kaupvik](Kaupvik.md) beim Zug** (Autor, 25.09.2026).
 
 **Was er dafür gibt: alles, was er hat** (Autor, 10.09.2026):
 
@@ -30,6 +30,8 @@ Der Name ist altnordisch *vegamot*, „Wegbegegnung" - er sagt, wie [Kaupvik](Ka
 
 **Zwei Dinge lernt er dort** (aus der Kapitelskizze): **ohne Sippe zu überleben** und **über den Ring zu schweigen**.
 
+**Den Zug führt ein Fremder aus dem Süden** (Autor, 25.09.2026). Er **bleibt namenlos**; woher genau er kommt, **bleibt unbestimmt**. Tibun verständigt sich mit ihm **mühsam, aber es geht**.
+
 ---
 
 ## Die Fähre
@@ -38,16 +40,9 @@ Der Name ist altnordisch *vegamot*, „Wegbegegnung" - er sagt, wie [Kaupvik](Ka
 
 > **Idee des Autors (10.09.2026), noch nicht als Szene beschlossen:** [Tibun](../Menschen/Nordvolk/Tibun.md) kommt an, **als die Fähre gerade ablegen will**. Er muss rennen und erwischt sie nur, weil er **vom Steg aus den letzten Meter springt**.
 
-**Auf dieser Fähre sitzt [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (Autor, 10.09.2026), der **Schiffszimmerer aus [Kaupvik](Kaupvik.md)**, bei dem Tibun die nächsten acht Jahre wohnen wird - Teil derselben Reisegemeinschaft. Vegamot ist damit nicht nur eine Wegmarke - **hier entsteht die Bindung, die die Kaupvik-Jahre trägt**. Ob Audmar zum selben Händlerzug gehört oder nur mitfährt: **???**
+**Auf dieser Fähre sitzt [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (Autor, 10.09.2026), der **Schiffszimmerer aus [Kaupvik](Kaupvik.md)**, bei dem Tibun die nächsten acht Jahre wohnen wird - Teil derselben Reisegemeinschaft. Vegamot ist damit nicht nur eine Wegmarke - **hier entsteht die Bindung, die die Kaupvik-Jahre trägt**. Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft** (Autor, 25.09.2026).
 
 > Zusammen mit der Sprung-Idee ergibt das eine Pointe: Was aus diesem einen verpassten oder gerade noch erwischten Übergang folgt, sind acht Jahre eines Lebens.
-
----
-
-## Noch offen · ???
-
-- Wie lange er bei dem Zug bleibt und ob er ihn bis Kaupvik begleitet.
-- Wer den Zug führt und ob jemand daraus eine Figur wird.
 
 ---
 

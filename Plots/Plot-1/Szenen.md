@@ -53,7 +53,7 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **48 Szenen** (25 Tibun · 23 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **2 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **48 Szenen** (25 Tibun · 23 Girlin) · **18 vollständig** (Will, Hindernis und Ausgang gesetzt) · **18 mit offenem Hindernis** (`???`), davon **11 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -254,7 +254,9 @@ Er schließt sich in [Vegamot](../../Orte/Vegamot.md) einem **Händlerzug** an, 
 
 > **Idee des Autors (10.09.2026), nicht beschlossen:** Er kommt an, **als die Fähre gerade ablegen will**. Er muss rennen und bekommt sie nur, weil er **vom Steg aus den letzten Meter springt**.
 
-> **Auf der Fähre ist [Audmar](../../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (Autor, 10.09.2026), der Schiffszimmerer, bei dem er die nächsten acht Jahre in [Kaupvik](../../Orte/Kaupvik.md) wohnen wird - Teil derselben Reisegemeinschaft. Beiläufig einführen: Der Leser soll erst später merken, was hier begonnen hat.
+> **Auf der Fähre ist [Audmar](../../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (Autor, 10.09.2026), der Schiffszimmerer, bei dem er die nächsten acht Jahre in [Kaupvik](../../Orte/Kaupvik.md) wohnen wird - Teil derselben Reisegemeinschaft. Er **hat sich dem Händlerzug angeschlossen wie Tibun**; im Norden war er, um Holz auszusuchen, und wegen Verwandtschaft (Autor, 25.09.2026). Beiläufig einführen: Der Leser soll erst später merken, was hier begonnen hat.
+
+> **Der Zugführer** (Autor, 25.09.2026): ein Fremder aus dem Süden, namenlos; woher genau, bleibt unbestimmt. Tibun verständigt sich mit ihm **mühsam, aber es geht**.
 
 
 ### 16 · Ankunft in Kaupvik
@@ -276,11 +278,11 @@ Er kommt bei Audmar und Siga unter - den Schiffszimmerer hat er auf der Fähre k
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Kost gegen Arbeit - nüchtern begonnen. Audmar wird über die Jahre seine neue Bezugsperson.
+- **Ausgang:** Kost gegen Arbeit - und beide sind ihm gegenüber offen und warmherzig. Audmar wird über die Jahre seine neue Bezugsperson.
 
-> **Warum sie ihn nehmen** (Autor, 10.09.2026): Sie **haben keine Kinder**. Das wird nicht ausgesprochen - hier ist es ein Handel, sonst nichts. Erst über die Jahre wird mehr daraus.
+> **Warum sie ihn nehmen** (Autor, 10.09.2026): Sie **haben keine Kinder**. Das wird nicht ausgesprochen - die Abmachung ist Kost gegen Arbeit. **Beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026). Erst über die Jahre sehen sie etwas wie einen Sohn in ihm. *(Hier stand: hier ist es ein Handel, sonst nichts.)*
 
-> **Sigas Gewerbe ist offen** · ???
+> **Sigas Gewerbe** (Autor, 25.09.2026): Netze und Fisch.
 
 
 ### 18 · Sammeln ohne zu wissen wie
@@ -507,8 +509,10 @@ Bellbrim und Girlin bauen weiter.
 Das Modell läuft, Wissen und Bernstein reichen.
 
 - **Will:** Zurück zum Ring am Fluss
-- **Hindernis:** keins - der Aufbruch kostet ihn ausdrücklich nichts
+- **Hindernis:** Die Bitte der Zieheltern, zu bleiben oder wiederzukommen
 - **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
+
+> **Beim Abschied, einmal** (Autor, 25.09.2026): Audmar und Siga hoffen, dass er bleibt oder wiederkommt, um bei ihnen zu leben. Sie sagen es ihm hier - einmal. **Diese Bitte ist das Hindernis** (Autor, 25.09.2026). *(Hier stand als Hindernis: keins - der Aufbruch kostet ihn ausdrücklich nichts.)*
 
 
 ### 36 · Azzim, Auftritt 3

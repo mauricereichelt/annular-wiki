@@ -1314,13 +1314,15 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 | **Ab wann** | **Von Anfang an.** Und zwar, weil er den Mann **schon auf der Reise kennenlernt**: *„Er ist Teil der Reisegemeinschaft auf der Fähre."* |
 | **Warum sie ihn aufnehmen** | **Zwei Gründe zugleich:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht. Und begonnen hat es **nüchtern, als Kost gegen Arbeit**; die Nähe wächst über die Jahre, unabsichtlich. |
 
-**Das verkettet zwei Challenges.** Der Mann steht auf derselben Fähre wie Tibun - der [Limfjord-Querung bei Aggersund](../Orte/Vegamot.md), die aus [C-124 ✓](#c-124-die-zwischenstation---ort-und-gruppe-) stammt. Damit ist die Zwischenstation nicht mehr nur eine Wegmarke: **Dort entsteht die Bindung, die die acht Jahre trägt.** Ob der Mann zum selben **Händlerzug** gehört, dem Tibun sich anschließt, oder nur mitfährt: **???**
+**Das verkettet zwei Challenges.** Der Mann steht auf derselben Fähre wie Tibun - der [Limfjord-Querung bei Aggersund](../Orte/Vegamot.md), die aus [C-124 ✓](#c-124-die-zwischenstation---ort-und-gruppe-) stammt. Damit ist die Zwischenstation nicht mehr nur eine Wegmarke: **Dort entsteht die Bindung, die die acht Jahre trägt.** Ob der Mann zum selben **Händlerzug** gehört, dem Tibun sich anschließt, oder nur mitfährt: **angeschlossen wie Tibun** (Autor, 25.09.2026, siehe unten).
 
 **Der Gegenentwurf zu Semund steht damit:** Ein Mann, der mit ihm arbeitet, ihm etwas beibringt und ihn behält - gegen den Vater, der schweigt und weitermacht.
 
 - Eingetragen in [Kaupvik](../Orte/Kaupvik.md), [Vegamot](../Orte/Vegamot.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szene 15](../Plots/Plot-1/Szenen.md).
 - **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Urform wie bei Hadurik und Herik, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** (Kurzform von *Sighild* - Sieg + Kampf). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
-- **Weiter offen · ???** Sigas Gewerbe, das Alter beider, ob Audmar zum Händlerzug gehört.
+- **Nachgetragen (Autor, 25.09.2026):** Audmar ist in Jahr 0 **etwa 45**, Siga **etwa 42**. Sigas Gewerbe: **Netze und Fisch**.
+- **Präzisiert (Autor, 25.09.2026):** Die Abmachung bleibt **Kost gegen Arbeit**, „nüchtern“ entfällt: Beide sind ihm gegenüber **offen und warmherzig**. Später sehen sie **etwas wie einen Sohn** in ihm und hoffen, er bleibt oder kommt wieder; sie sagen es ihm **beim Abschied, einmal**.
+- **Händlerzug (Autor, 25.09.2026):** Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft**.
 
 ---
 
@@ -2696,6 +2698,8 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 **Anmerkung (Claude):** Damit gilt die Beobachtung aus [C-139 ✓](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-) wieder: Zwischen +5 und +8 hat der Nordstrang deutlich weniger Szenen als der Wüstenstrang; der Wechsel wird dort unregelmäßig. Das ist mit verschränkter Erzählung vereinbar.
 
 Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25).
+
+**Nachtrag (Autor, 25.09.2026):** Der Aufbruch aus Kaupvik hat jetzt ein Hindernis - **die Bitte der Zieheltern, zu bleiben oder wiederzukommen**; sie sagen es ihm beim Abschied, einmal. Der Satz oben, der Aufbruch sei **rein positiv**, gilt damit nicht mehr. **Anmerkung (Claude):** Die Entscheidung vom 15.09. (kein konkreter Verlust) berührt das nicht - eine Bitte ist kein Verlust.
 
 ---
 

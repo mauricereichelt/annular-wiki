@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Häuptling von [Tingsal](../../../Orte/Tingsal.md), regionaler Anführer mit Thinghalle. **Gegenüber der [Wala von Tingsal](Wala-Tingsal.md)**: getrennte Sphären - sie entscheidet Götterdinge, er Rechtsdinge -, und **wo die Götter sprechen, endet seine Macht** (Autor, 23.09.2026) |
-| **Alter** | **etwa 60** (Jahr 0) · etwa 70 im Finale (Jahr +10) - alt und lange im Amt; exakte Zahl nicht festgelegt |
+| **Alter** | **etwa 60** (Jahr 0) · etwa 70 im Finale (Jahr +10) - alt und lange im Amt; exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | [Tingsal](../../../Orte/Tingsal.md) |
 
 **Familie**

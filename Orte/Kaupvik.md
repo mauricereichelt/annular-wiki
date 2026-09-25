@@ -24,10 +24,11 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 - **Audmar ist Schiffszimmerer** - er baut und bessert Boote aus. Tibun arbeitet mit ihm; Holz, Hebel und Zug sind dasselbe Feld, in dem später die **Bootsziehwinde** am Hafen seine Erkenntnis auslöst.
 - **Kennengelernt haben sie sich unterwegs**, nicht in der Stadt: Audmar ist **Teil der Reisegemeinschaft auf der Fähre** bei [Vegamot](Vegamot.md). Tibun kommt deshalb nicht als völlig Fremder in Kaupvik an, sondern mit einer Adresse.
-- **Warum sie ihn aufnehmen:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht. Begonnen hat es trotzdem nüchtern, als **Kost gegen Arbeit**; die Nähe wächst über die Jahre, unabsichtlich.
+- **Warum sie ihn aufnehmen:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht. Die Abmachung ist **Kost gegen Arbeit**, aber **beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026); die Nähe wächst über die Jahre, unabsichtlich. **Später sehen sie etwas wie einen Sohn in ihm** und hoffen, er bleibt oder kommt wieder, um bei ihnen zu leben; **sie sagen es ihm beim Abschied, einmal** (Autor, 25.09.2026). *(Hier stand: Begonnen hat es trotzdem nüchtern.)*
 - **Audmar wird Tibuns neue Bezugsperson** - der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md): einer, der mit ihm arbeitet, ihm etwas beibringt und ihn behält.
 - **Am Ende bleiben beide lebend zurück** (Autor, 02.09.2026), im Guten. Ein Abschied, kein Verlust. Sie sind das, was Tibun aufgibt, nicht das, was ihm genommen wird.
-- Ob Audmar zum selben **Händlerzug** gehört, dem Tibun sich in Vegamot anschließt, oder nur mitfährt: **???** Sigas Gewerbe: **???**
+- Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**, dem Tibun sich in Vegamot anschließt. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft** (Autor, 25.09.2026).
+- **Siga: Netze und Fisch** (Autor, 25.09.2026).
 
 ---
 

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Neue Partnerin von [Semund](Semund.md) |
-| **Alter** | **etwa 34** (Jahr 0) · etwa 44 (Finale) - gleicher Jahrgang wie [Girlin](../Girlin.md), exakte Zahl nicht festgelegt |
+| **Alter** | **etwa 34** (Jahr 0) · etwa 44 (Finale) - gleicher Jahrgang wie [Girlin](../Girlin.md), exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) - im Weiler aufgewachsen |
 
 **Familie**
@@ -17,7 +17,7 @@
 | | |
 |---|---|
 | **Partner** | [Semund](Semund.md) |
-| **Erster Mann** | **verstorben** - Millia ist Witwe (Autor, 10.09.2026). Wer er war und was aus seinem Besitz wurde: ??? |
+| **Erster Mann** | **verstorben** - Millia ist Witwe (Autor, 10.09.2026). **Er starb in den [Hungerjahren](../../../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) durch einen Unfall beim Holz oder Bauen**; **sein Besitz fiel an seine Sippe**; **er bleibt namenlos** (Autor, 25.09.2026) |
 | **Kinder** | **keine eigenen** (Autor, 10.09.2026) |
 
 ---
@@ -30,7 +30,7 @@ Dass sie keine Zugezogene ist, nimmt dem Einzug in [Semunds](Semund.md) Haus jed
 
 **Sie ist Witwe** (Autor, 10.09.2026) - ihr Mann ist tot, **eigene Kinder hat sie keine**. Zwei Verwaiste finden zusammen; der Weiler findet daran nichts. Für [Truda](Truda.md) heißt es, dass keine fremden Geschwister ins Haus kommen: Millia bringt niemanden mit.
 
-Wer ihr erster Mann war, wann er starb und was aus seinem Besitz wurde: **???**
+**Er starb in den [Hungerjahren](../../../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) durch einen Unfall beim Holz oder Bauen; sein Besitz fiel an seine Sippe; er bleibt namenlos** (Autor, 25.09.2026).
 
 ---
 
@@ -77,4 +77,6 @@ Tibun **weiß**, dass Girlin lebt - er sah als Einziger den Ring flippen und sie
 
 ## Inspiration
 
-???
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
+
+- [Charlie Murphy](https://www.imdb.com/de/name/nm3647676/) (Autor, 25.09.2026)

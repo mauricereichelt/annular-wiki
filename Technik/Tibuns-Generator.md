@@ -12,6 +12,8 @@ Tibun kennt den Bernstein-Effekt seit seiner Jugend (**16**, Jahr 0), versteht a
 
 **Der Traum zur Winde** (Autor, 15.09.2026): Nach dem Unfall träumt Tibun davon, und **dieser Traum hilft ihm bei der Ideenfindung**. Er ist von den Albträumen um die Mutter verschieden.
 
+**Audmars Anteil** (Autor, 25.09.2026): Was [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) ihm beibringt - Holz und Werkzeug, Hebel, Zug, Lasten, Geduld im Handwerk - steckt **auch in der Idee**.
+
 > **Korrigiert (15.09.2026):** Hier stand „**15**, Prolog“ und „~9 Jahre (15 → ~24)“. Tibun ist beim Bernstein-Effekt 16, und der gehört zum Anfang, nicht zum Prolog (beides entschieden 04.09.2026). Die Winde liegt in +4/+5.
 
 ---

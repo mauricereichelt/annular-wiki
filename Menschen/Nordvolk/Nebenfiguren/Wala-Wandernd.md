@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **wandernd** |
-| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt |
+| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
 | **Herkunft** | **auswärts, unbekannt** - wie ihre Zwillingsschwester nicht aus der Gegend |
 
 **Familie**
