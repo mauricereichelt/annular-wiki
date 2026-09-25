@@ -18,7 +18,7 @@
 |---|---|
 | **Neffe** | [Sekkan u-Werdan](Sekkan.md) - **Schwestersohn** (Ishman ist Mutterbruder) |
 | **Vatersname** (`u-`) | **Gulan** - voller Name: **Ishman u-Gulan** |
-| **Schwester** | **Tanast**, [Sekkans](Sekkan.md) Mutter (Autor, 10.09.2026). **Sie lebt**, ebenso ihr Mann **Werdan** |
+| **Schwester** | [**Tanast**](Tanast.md), [Sekkans](Sekkan.md) Mutter (Autor, 10.09.2026). **Sie lebt**, ebenso ihr Mann [**Werdan**](Werdan.md) |
 | **Weitere Familie** | ??? |
 
 ---
@@ -53,7 +53,7 @@ Sein Verhältnis zu Girlin als Fremder ohne Sippe - er ist es, der sie in den Cl
 
 ## Verbindungen zu anderen Charakteren
 
-- Neffe: [Sekkan u-Werdan](Sekkan.md) - Sohn seiner Schwester **Tanast**
+- Neffe: [Sekkan u-Werdan](Sekkan.md) - Sohn seiner Schwester [Tanast](Tanast.md)
 - Verhältnis zu [Girlin](../../Nordvolk/Girlin.md): ???
 - Verhältnis zu [Azzim u-Tawan](../Azzim-u-Tawan.md): ???
 

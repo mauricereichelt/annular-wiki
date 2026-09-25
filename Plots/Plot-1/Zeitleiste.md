@@ -13,7 +13,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 <tr><td>Truda</td><td><strong>9</strong></td><td>10</td><td>18</td><td>19</td></tr>
 <tr><td>Semund</td><td><strong>35</strong></td><td>36</td><td>44</td><td>45</td></tr>
 <tr><td>Bellbrim</td><td>(40)</td><td>-</td><td>-</td><td>50</td></tr>
-<tr><td>Azzim u-Tawan</td><td>offen</td><td>-</td><td>-</td><td>offen</td></tr>
+<tr><td>Azzim u-Tawan</td><td>(~40)</td><td>-</td><td>-</td><td>~50</td></tr>
 </table>
 
 > **Geändert am 04.09.2026:** Der Prolog liegt **nicht mehr in Jahr −1**. Beben, Bernstein-Effekt und Blitz liegen alle in **Jahr 0**, jeweils nur wenige Tage auseinander. Damit entfällt die Spalte „Prolog (−1)" - und **Tibun ist beim Bernstein-Effekt 16, nicht 15**.
@@ -21,7 +21,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Truda:** 7 Jahre jünger als Tibun.
 - **Girlin:** bei Tibuns Geburt **18**, bei Trudas Geburt **25** (Korrektur vom 31.08.2026).
 - **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0). **Fest ist 50 im Finale** (Autor, 25.09.2026); damit ist sie 40 in Jahr 0 (so in der Tabelle) und 41 beim Kennenlernen in +1, geboren um 510. *(Hier stand: 40 als Richtwert beim Kennenlernen, Kennenlernen in +1 bis +3, offen.)*
-- **Azzim u-Tawan:** Alter offen.
+- **Azzim u-Tawan:** **etwa 40 in Jahr 0** (Autor, 25.09.2026); tritt erst ab +5 auf (dann etwa 45), im Finale etwa 50. *(Hier stand: Alter offen.)*
 
 ---
 
@@ -159,7 +159,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Warum der Clan hilft: Sippenpflicht.** **Sekkan ist Blut des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md)**. Man tut es für ihn, nicht für sie
   > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor
 - **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, Sekkan und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. **Ohne Streit, aber nicht ohne Preis** (Autor, 09.09.2026): Niemand wird verstoßen, der Clan hat Verständnis. Fortzuziehen ist bei den Kel Aman jedoch **extrem unüblich und selten** - Sekkan vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun
-  - **Seine Mutter [Tanast](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) trägt den Wegzug schwer** (Autor, 10.09.2026). Beide Eltern leben; sie widerspricht nicht und hält ihn nicht fest, aber sie leidet sichtbar. Der Preis ist damit nicht nur Entzug von Aufgaben und Nähe, sondern eine Mutter, die zurückbleibt
+  - **Seine Mutter [Tanast](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) trägt den Wegzug schwer** (Autor, 10.09.2026). Beide Eltern leben; sie widerspricht nicht und hält ihn nicht fest, aber sie leidet sichtbar. Der Preis ist damit nicht nur Entzug von Aufgaben und Nähe, sondern eine Mutter, die zurückbleibt
   - **Girlin nehmen die Eltern an** (Autor, 10.09.2026) - sie ist die Frau ihres Sohnes und die Mutter ihrer Enkelin
 - **Folge:** Girlin ist **ab +5 ohne Sippenschutz**, nicht erst ab +8. Nicht weil man sie ausgestoßen hätte - die Zugehörigkeit bleibt -, sondern weil **die Sippe nicht vor Ort und nicht schnell erreichbar ist** (Autor, 09.09.2026). Ein Schutz, den man nicht rechtzeitig rufen kann, schützt nicht. Was sie trotzdem vier Jahre lang trägt, ist **kein Schutz, sondern Lage**: Die **Schlucht kennen sehr wenige**, und **Azzim ist eine Weile unterwegs** (entschieden 03.09.2026). Auf dem Basar **meiden sie ihn** (Autor, 14.09.2026); wie, ist offen · **???**
   > **Korrigiert:** Die Begründung *„ab Jahr +8 ist sie ungeschützt"* aus ist damit überholt
@@ -223,7 +223,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - Sie hat den Preis also **bezahlt, bevor Tibun ankommt**
 - **Azzims vierter Auftritt ist der Angriff selbst** - er fällt mit dem Finale zusammen
 - **Er bringt drei bis vier eigene Leute mit** (Autor, 10.09.2026) - Männer, die ohnehin für ihn arbeiten. Er dingt niemanden und verspricht keinen Anteil: **der Zug kostet ihn nichts** außer Zeit. Die kleine Zahl trägt den Kampf, weil der enge Fels sie einzeln stellt
-- **[Bellbrim](../../Menschen/Andere/Bellbrim.md) kämpft nicht** (Autor, 10.09.2026). Sie bewacht **[Tamant](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)** und tut sonst nichts - der Kampf bleibt bei [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und Girlin. Mit 50 ist sie keine Kämpferin, und sie hat die wichtigere Aufgabe
+- **[Bellbrim](../../Menschen/Andere/Bellbrim.md) kämpft nicht** (Autor, 10.09.2026). Sie bewacht **[Tamant](../../Menschen/Kel-Aman/Nebenfiguren/Tamant.md)** und tut sonst nichts - der Kampf bleibt bei [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und Girlin. Mit 50 ist sie keine Kämpferin, und sie hat die wichtigere Aufgabe
 - **Die beiden sind in einer benachbarten Kammer** (Autor, 10.09.2026): **sicher und durch eine Tür geschützt**, aber durch ein **Fenster oder ein Loch im Höhlenfels** überschauen sie die **Ringkammer**. Sie sehen Kampf, Zündungen und Tibuns Ankunft (entschieden 03.09.2026) - das Kind als Zeuge, der nicht versteht, was er sieht
   - Damit ist auch die Reichweitenfrage beantwortet: Der Fels trennt sie vom Ring. Was reist, ist allein, was in der Kugel steht ([Portalringe](../../Technik/Portalringe.md)) - die beiden stehen außerhalb
 

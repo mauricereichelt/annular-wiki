@@ -408,7 +408,7 @@ Der Generatorbau verlangt Material, das die Schlucht nicht hergibt. [Der Basar](
 
 ### 29 · Azzim, Auftritt 1
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Azzim u-Tawan - Herkunft & Hintergrund
+> **POV:** Girlin · **Jahr +5** · **Offen:** -
 
 Auf dem Basar spricht ein Sklavenhändler Girlin an, Bellbrim ist dabei - erst mit Angeboten und Versprechungen, dann mit Drohungen.
 

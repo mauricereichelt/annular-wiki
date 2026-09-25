@@ -9,24 +9,33 @@
 | | |
 |---|---|
 | **Rolle** | Antagonist |
-| **Alter** | **???** (Endalter = Anfangsalter + 10, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md)) |
-| **Herkunft** | **???** |
+| **Alter** | **etwa 40** in Jahr 0 (Autor, 25.09.2026) - damit etwa 45 beim ersten Auftritt (+5) und etwa 50 im Finale (+10), siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md) |
+| **Name** | Vatersname *u-Tawan* - **er trägt ihn nicht mehr, er heißt nur Azzim. Niemand sonst kennt seinen vollen Namen** (Autor, 25.09.2026). **Der Leser erfährt ihn nie**; im Wiki bleibt der volle Name als Autorenebene (Autor, 25.09.2026) |
+| **Herkunft** | **[Kel Aman](../../Kulturen/Kel-Aman/README.md), abtrünnig** - aus einem **anderen Clan** als dem von [Ishman](Nebenfiguren/Ishman.md) (Autor, 25.09.2026). Womit er gebrochen hat: **Er verkauft eigene Leute**, und es gibt **Blut in der Sippe** (Autor, 25.09.2026) |
+| **Geschäft** | **Sklavenhändler, Schmuggler, Karawanenführer und Räuber** (Autor, 25.09.2026) |
 
 **Familie**
 
-???
+**Er hat mit seinem Clan und seiner Familie gebrochen. Sie spielen keine Rolle** (Autor, 25.09.2026).
 
 ---
 
 ## Frühes Leben
 
-???
+Kel Aman aus einem anderen Clan als dem von [Ishman](Nebenfiguren/Ishman.md); er hat mit Clan und Familie gebrochen - er verkauft eigene Leute, und es gibt Blut in der Sippe (Autor, 25.09.2026). Mehr braucht es nicht (Autor, 25.09.2026: *„Ich denke, das reicht."*).
 
 ---
 
 ## Besondere Fähigkeiten
 
-???
+- **Kampf, Waffen**
+- **Wüstenkenntnis, Routen**
+- **Verhandeln, Reden**
+- **Kontakte auf dem Basar**
+
+*(alle Autor, 25.09.2026)*
+
+**Charakter:** **charmant, wenn er will**, **grausam** und **stolz** (Autor, 25.09.2026) - dazu Temperament und Ansehen, siehe unten.
 
 ---
 
@@ -34,7 +43,7 @@
 
 Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
-**Wie er auf Girlin kommt** (Autor, 08.09.2026): über **Gerede auf [dem Basar](../../Orte/Basar.md)**. Er hört von der Fremden und sucht sie dort auf - kein Zufallsblick, kein Dritter, der ihn hinschickt. Warum ausgerechnet sie und was das Gerede an ihr betont: **???**
+**Wie er auf Girlin kommt** (Autor, 08.09.2026): über **Gerede auf [dem Basar](../../Orte/Basar.md)**. Er hört von der Fremden und sucht sie dort auf - kein Zufallsblick, kein Dritter, der ihn hinschickt. Warum gerade sie: Das Gerede betont ihre **blasse Haut** - **selten** (Autor, 25.09.2026).
 
 **Erster Auftritt** (Autor, 14.09.2026): in Jahr +5 auf dem Basar, nach Girlins Trennung vom Clan; [Bellbrim](../Andere/Bellbrim.md) ist dabei. Er läuft harmlos ab - ein Gespräch, Angebote und Versprechungen, dann Drohungen, **kein Zugriff**. Girlin entkommt. Er weiß, dass Bellbrim den Basar manchmal besucht, und vermutet, dass auch Girlin wiederkommt.
 
@@ -61,6 +70,8 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 ---
 
 ## Inspiration
+
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../Notizen/Regeln.md#charaktere).
 
 - Schauspieler [Ray Stevenson](https://www.imdb.com/name/nm0829032/mediaviewer/rm3632872960/?ref_=nmmi_mi_13)
 - Blackbeard aus "Black Sails"

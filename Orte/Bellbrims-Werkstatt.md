@@ -8,7 +8,7 @@ Abgelegene Felsschlucht in der Wüste. **Die Schlucht enthält ein großes Höhl
 
 **Bellbrim hat sich über Jahre eingerichtet** (Autor, 10.09.2026) - ihr Abschnitt der Höhlen ist gewachsene Wohnung und Werkstatt, kein Unterschlupf. **Sie wohnt dort allein**, bis [Girlin](../Menschen/Nordvolk/Girlin.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und das Kind in Jahr +5 dazukommen.
 
-**Niemand kennt ihren Höhlenabschnitt** - **außer dem Ältesten [Abarkan u-Nahar](../Kulturen/Kel-Aman/README.md#ältestenrat) aus [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Rat** (Autor, 10.09.2026), also aus [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Sippe. Das ist der Grund, warum die vier hier überhaupt sicher sind. **Für die Handlung hat er keine Bedeutung** - der Name existiert nur für einen möglichen Dialog; er erklärt nur, wie die Verbindung zwischen Clan und Gelehrter zustande kommt ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat)).
+**Niemand kennt ihren Höhlenabschnitt** - **außer dem Ältesten [Abarkan u-Nahar](../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) aus [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Rat** (Autor, 10.09.2026), also aus [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Sippe. Das ist der Grund, warum die vier hier überhaupt sicher sind. **Für die Handlung hat er keine Bedeutung** - der Name existiert nur für einen möglichen Dialog; er erklärt nur, wie die Verbindung zwischen Clan und Gelehrter zustande kommt ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat)).
 
 Das System ist größer als das, was sie nutzt - der bewohnte Teil ist ein Abschnitt, nicht die ganze Höhle.
 

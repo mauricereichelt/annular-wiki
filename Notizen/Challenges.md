@@ -12,8 +12,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
 **Offen**
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
-- [C-028: Azzim u-Tawan - Herkunft & Hintergrund ○](#c-028-azzim-u-tawan---herkunft--hintergrund-)
-- [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -46,6 +44,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-025: Girlin - Charakter & Fähigkeiten ✓](#c-025-girlin---charakter--fähigkeiten-)
 - [C-026: Bellbrim - historische Plausibilität & Herkunft ✓](#c-026-bellbrim---historische-plausibilität--herkunft-)
 - [C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ✓](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-)
+- [C-028: Azzim u-Tawan - Herkunft & Hintergrund ✓](#c-028-azzim-u-tawan---herkunft--hintergrund-)
+- [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ✓](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-030: Trudas Alter ✓](#c-030-trudas-alter-)
 - [C-031: Tibun - Inspiration/Besetzung ✓](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ✓](#c-032-girlin---inspirationbesetzung-)
@@ -734,17 +734,42 @@ Nachgezogen: [Bellbrim](../Menschen/Andere/Bellbrim.md). Geschlossen.
 
 ---
 
-### C-028: Azzim u-Tawan - Herkunft & Hintergrund ○
+### C-028: Azzim u-Tawan - Herkunft & Hintergrund ✓
 
 [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Kel Aman**, der die Bräuche seines Volkes verraten hat (siehe [Kel Aman](../Kulturen/Kel-Aman/README.md)) - zu bestätigen oder zu verwerfen. Berührt C-003.
 
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Herkunft** | **abtrünniger Kel Aman** - der Hook ist bestätigt |
+| **Clan** | **ein anderer** als der von Ishman |
+| **Womit er gebrochen hat** | **Er verkauft eigene Leute**, und es gibt **Blut in der Sippe** |
+| **Familie** | *„Er hat mit seinem Clan und seiner Familie gebrochen. Sie spielen keine Rolle."* |
+| **Name** | Er trägt *u-Tawan* nicht mehr, heißt nur **Azzim**; **niemand sonst kennt seinen vollen Namen**, **der Leser erfährt ihn nie**. Im Wiki bleibt „Azzim u-Tawan" als Autorenebene |
+| **Alter** | **etwa 40** in Jahr 0 |
+| **Frühes Leben** | *„Ich denke, das reicht."* |
+
+Nachgezogen: [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Geschlossen.
+
 ---
 
-### C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○
+### C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ✓
 
 Was treibt Azzim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler - und warum er gerade Girlin/den Ring ins Visier nimmt.
 
 **Nachtrag (22.09.2026):** Den Ring nimmt er nicht ins Visier, er weiß bis zum Ende nichts von ihm (harte Regel, [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)). **Seine zweite Seite: Sein Ansehen hängt daran** (Autor, 22.09.2026) → [C-120 ✓](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-). Charakter, Mittel und Fähigkeiten bleiben offen · **???**
+
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Geschäft** | **Sklavenhändler, Schmuggler, Karawanenführer und Räuber** |
+| **Fähigkeiten und Mittel** | **Kampf, Waffen** · **Wüstenkenntnis, Routen** · **Verhandeln, Reden** · **Kontakte auf dem Basar** |
+| **Charakter** | **charmant, wenn er will**, **grausam**, **stolz** - dazu das Temperament (14.09.) und das Ansehen (22.09.) |
+| **Warum Girlin** | Das Gerede auf dem Basar betont ihre **blasse Haut** - **selten** |
+
+Nachgezogen: [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md). Geschlossen.
 
 ---
 

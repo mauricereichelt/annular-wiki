@@ -54,12 +54,12 @@ Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.
 | Name | Rolle |
 |---|---|
 | **Ishman u-Gulan** | Häuptling des Clans |
-| **Tanast** | seine Schwester, Sekkans Mutter - lebt |
-| **Werdan** | Sekkans Vater - lebt |
+| [**Tanast**](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) | seine Schwester, Sekkans Mutter - lebt |
+| [**Werdan**](../../Menschen/Kel-Aman/Nebenfiguren/Werdan.md) | Sekkans Vater - lebt |
 | **Sekkan u-Werdan** | Karawanenführer, Ishmans Neffe |
-| **Tamant ult-Sekkan** | seine Tochter mit Girlin, geboren +4 |
+| [**Tamant ult-Sekkan**](../../Menschen/Kel-Aman/Nebenfiguren/Tamant.md) | seine Tochter mit Girlin, geboren +4 |
 | **Gilint** | [Girlin](../../Menschen/Nordvolk/Girlin.md) - ohne `ult-`Form, siehe unten |
-| **Abarkan u-Nahar** | Ältester aus Ishmans Rat - kennt Bellbrims Höhlenabschnitt, sonst ohne Rolle |
+| [**Abarkan u-Nahar**](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) | Ältester aus Ishmans Rat - kennt Bellbrims Höhlenabschnitt, sonst ohne Rolle |
 
 **Fremde Namen werden verformt.** [Girlin](../../Menschen/Nordvolk/Girlin.md) heißt bei den Kel Aman **Gilint** (Autor, 09.09.2026). Zwei Dinge geschehen dabei: Das Cluster `-rl-` verliert den einen Liquid - dieselbe Dissimilation, die aus *peregrinus* das Wort *Pilger* macht -, und weil ein Frauenname für sie ein umklammerndes `t` braucht, kommt eines ans Ende. Die falsche Aussprache setzt sich durch und wird ihr Name. Eine `ult-`Form bekommt sie **nicht** - sie bleibt ohne Vaterlinie und damit hörbar sippenlos.
 
@@ -88,7 +88,7 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Zusammensetzung, Größe und Befugnisse sind offen** · **???** - ebenso, ob der Rat im Erzähltext je auftritt.
 
-**Der Älteste Abarkan u-Nahar kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht. **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
+**Der Älteste [Abarkan u-Nahar](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht. **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
 
 ### Wann eine Fremde dazugehört
 
