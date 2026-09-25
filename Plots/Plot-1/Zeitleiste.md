@@ -20,7 +20,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 - **Truda:** 7 Jahre jünger als Tibun.
 - **Girlin:** bei Tibuns Geburt **18**, bei Trudas Geburt **25** (Korrektur vom 31.08.2026).
-- **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0); 40 als Richtwert beim Kennenlernen, 50 im Finale. Die Tabelle führt die 40 bei Jahr 0 - das Kennenlernen liegt aber in +1 bis +3, sie wäre dann 41-43 · **???**
+- **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0). **Fest ist 50 im Finale** (Autor, 25.09.2026); damit ist sie 40 in Jahr 0 (so in der Tabelle) und 41 beim Kennenlernen in +1, geboren um 510. *(Hier stand: 40 als Richtwert beim Kennenlernen, Kennenlernen in +1 bis +3, offen.)*
 - **Azzim u-Tawan:** Alter offen.
 
 ---

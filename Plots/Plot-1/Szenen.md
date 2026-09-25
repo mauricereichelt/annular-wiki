@@ -233,7 +233,7 @@ Er baut ein kleines Wasserrad, und dabei wird jemand verletzt. Der Weiler rückt
 
 ### 14 · Bellbrim
 
-> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim - historische Plausibilität & Herkunft
+> **POV:** Girlin · **Jahr +1** · **Offen:** -
 
 Begegnung mit der Vandalin, die mehrere Sprachen spricht. Die Sprachen sind ähnlich: Die beiden verstehen sich nicht vollständig, können aber vom ersten Treffen an kommunizieren - ohne Konflikt zwischen ihnen (Autor, 14.09.2026).
 

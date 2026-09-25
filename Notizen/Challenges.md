@@ -12,8 +12,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
 **Offen**
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
-- [C-026: Bellbrim - historische Plausibilität & Herkunft ○](#c-026-bellbrim---historische-plausibilität--herkunft-)
-- [C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ○](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-)
 - [C-028: Azzim u-Tawan - Herkunft & Hintergrund ○](#c-028-azzim-u-tawan---herkunft--hintergrund-)
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ○](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
@@ -46,6 +44,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ✓](#c-024-girlin---herkunft--vorgeschichte-)
 - [C-025: Girlin - Charakter & Fähigkeiten ✓](#c-025-girlin---charakter--fähigkeiten-)
+- [C-026: Bellbrim - historische Plausibilität & Herkunft ✓](#c-026-bellbrim---historische-plausibilität--herkunft-)
+- [C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ✓](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-)
 - [C-030: Trudas Alter ✓](#c-030-trudas-alter-)
 - [C-031: Tibun - Inspiration/Besetzung ✓](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ✓](#c-032-girlin---inspirationbesetzung-)
@@ -676,7 +676,7 @@ Nachgezogen: [Girlin](../Menschen/Nordvolk/Girlin.md), [Tibun](../Menschen/Nordv
 
 ---
 
-### C-026: Bellbrim - historische Plausibilität & Herkunft ○
+### C-026: Bellbrim - historische Plausibilität & Herkunft ✓
 
 [Bellbrim](../Menschen/Andere/Bellbrim.md) ist als „Wissenschaftlerin" geführt - für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Berührt C-003.
 
@@ -689,7 +689,7 @@ Was dadurch **neu** offen wird:
 
 Was das löst:
 - **Blasse Haut** - erklärt, ohne Sonderfall zu sein.
-- **Mehrsprachigkeit** - Vandalisch, Latein, dazu Berberisch und Handelssprachen aus den Jahren in der Wüste. Kein Zufall, sondern Biografie: Das Vandalenreich war zweisprachig (germanisch/lateinisch), seine Oberschicht lesekundig.
+- **Mehrsprachigkeit** - Vandalisch, Latein, dazu Berberisch und Handelssprachen aus den Jahren in der Wüste. Kein Zufall, sondern Biografie: Das Vandalenreich war zweisprachig (germanisch/lateinisch), seine Oberschicht lesekundig. *(Gestrichen 25.09.2026: Latein, Berberisch und Handelssprachen waren von Claude hergeleitet, nicht vom Autor gesagt. Entschieden sind Vandalisch, Griechisch und die Sprache der Kel Aman - siehe unten.)*
 - **Die Sprachbarriere bleibt erhalten.** Vandalisch ist *ost*germanisch, [Girlins](../Menschen/Nordvolk/Girlin.md) Sprache proto-nordisch - verwandt, aber rund 500 Jahre auseinander. Verständigung ist mühsam und braucht Monate; sie wird nicht weggeräumt, sondern erzählt. Berührt die Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md). *(Überholt 14.09.2026: Die Sprachen sind ähnlich; die beiden können vom ersten Treffen an kommunizieren, ohne sich vollständig zu verstehen, und daraus entsteht kein Konflikt - Autor, [C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-).)*
 - **Gelehrsamkeit** - ein untergegangenes Reich mit römischem Erbe erklärt Schrift und technisches Wissen, ohne eine „Wissenschaftlerin" von 550 erfinden zu müssen.
 
@@ -699,11 +699,38 @@ Was das löst:
 
 Der letzte Punkt ist der kritische - er entscheidet, ob die Übersetzung glaubwürdig ist oder nach Bequemlichkeit riecht.
 
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Was sie ist** | **Gelehrte und Heilerin** - „Wissenschaftlerin" entfällt |
+| **Alter** | **50 im Finale** fest; damit 41 beim Kennenlernen (+1), geboren um 510 |
+| **Weg in den Fezzan** | **534 verschleppt, mit einem Händlerzug** - mit etwa 24 |
+| **Wie sie frei wurde** | **freigelassen**, und **ihr Herr starb** - beides gilt |
+| **Wie lange dort** | seit 534, beim Kennenlernen (551) also rund 17 Jahre (551 - 534) |
+| **Sprachen** | **Vandalisch, Griechisch, die Sprache der Kel Aman** |
+| **Was „Gelehrte" heißt** | sie hat sich über die Jahre **viel aus allen Naturwissenschaften angelesen**; Schriften **aus dem Haus ihres Herrn** und **vom Basar, von Händlern** |
+| **Familie** | siehe [C-027 ✓](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-) |
+
+Nachgezogen: [Bellbrim](../Menschen/Andere/Bellbrim.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Geschlossen.
+
 ---
 
-### C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ○
+### C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ✓
 
 Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie (Mechanik, Naturkunde, Schrift?), wie wurde sie das, und wie passt das zu C-026?
+
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Herkunftshaus** | **Haus eines Arztes oder Gelehrten** im Vandalenreich |
+| **Eltern und Geschwister** | **tot, 534** - beim Fall des Reichs |
+| **Mann, Kinder** | **nie** |
+| **Fähigkeiten** | Gelehrte und Heilerin; **viel aus allen Naturwissenschaften angelesen** (siehe [C-026 ✓](#c-026-bellbrim---historische-plausibilität--herkunft-)) |
+| **Erscheinung** | blasse Haut - mehr braucht es nicht |
+
+Nachgezogen: [Bellbrim](../Menschen/Andere/Bellbrim.md). Geschlossen.
 
 ---
 
