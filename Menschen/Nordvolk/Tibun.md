@@ -35,6 +35,7 @@ Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Die Fami
 
 - Neugierig und wissbegierig
 - Entdeckt durch Zufall die Eigenschaften von Elektrizität
+- **Seine technische Begabung hat er von keinem geerbt** - weder von [Girlin](Girlin.md) noch von [Semund](Nebenfiguren/Semund.md) (Autor, 25.09.2026)
 
 ---
 

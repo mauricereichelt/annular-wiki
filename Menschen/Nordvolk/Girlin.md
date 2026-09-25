@@ -12,8 +12,8 @@
 | **Stand bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | Als Sippenlose könnte sie nicht heiraten - Ehe ist dort ein Vertrag zwischen Sippen. Deshalb tritt der **Clan an die Stelle ihrer Sippe**: [Ishman u-Gulan](../Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf (Autor, 09.09.2026). **Als eine der Ihren gilt sie ab der Verbindung mit [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md) (Jahr +3); offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt** (Autor, 10.09.2026) - also im Lauf von +3/+4, vor Tamants Geburt |
 | **Name bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | **Gilint** (Autor, 09.09.2026) - sie sprechen den fremden Namen kollektiv falsch aus; die Form setzt sich durch und bleibt ihr Name in der Wüste. **Keine `ult-`Form** - sie bleibt namentlich ohne Vaterlinie. Die Form gilt **ab den ersten Wochen**; **sie nimmt den Namen an** (Autor, 10.09.2026). **Der Erzähler nennt sie weiter Girlin** - Gilint sagen nur die Figuren |
 | **Alter** | **34** (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) - 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Trudas **25** |
-| **Herkunft** | **Zugezogen aus einem Nachbarweiler** - dieselbe Kultur und Sprache, aber nicht dieselben Leute. Welcher Weiler und warum sie kam: ??? |
-| **Herkunftssippe** | **Es gibt sie nicht mehr** (Autor, 09.09.2026). Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. **Girlin weiß davon.** Nach ihrer Toterklärung erhebt deshalb niemand Anspruch. Jahr, Umstände und wie sie es erfuhr: ??? |
+| **Herkunft** | **Zugezogen aus einem Nachbarweiler** - dieselbe Kultur und Sprache, aber nicht dieselben Leute. Er liegt **einen Tagesmarsch** von [Skirraa](../../Orte/Skirraa.md) entfernt und bleibt **ohne Namen**; **sie kam zur Heirat** (Autor, 25.09.2026) |
+| **Herkunftssippe** | **Es gibt sie nicht mehr** (Autor, 09.09.2026). Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. **Girlin weiß davon.** Nach ihrer Toterklärung erhebt deshalb niemand Anspruch. Leer war der Weiler **um 541/542** (Jahr -9/-8); **sie erfuhr es über Reisende** (Autor, 25.09.2026) |
 
 **Familie**
 
@@ -29,13 +29,13 @@
 
 ## Frühes Leben
 
-Kam als Zugezogene nach [Skirraa](../../Orte/Skirraa.md) und heiratete [Semund](Nebenfiguren/Semund.md) - eine reguläre Ehe, er ist [Tibuns](Tibun.md) leiblicher Vater. Mit **18** bekommt sie Tibun, mit **25** [Truda](Nebenfiguren/Truda.md). **Drei weitere Kinder überleben nicht** - eines dazwischen, zwei danach, das letzte in Jahr -1 (549). Fünf Schwangerschaften, zwei lebende Kinder: für 550 der Durchschnitt, nicht das Unglück.
+Kam **zur Heirat** mit [Semund](Nebenfiguren/Semund.md) aus einem Nachbarweiler, einen Tagesmarsch entfernt, nach [Skirraa](../../Orte/Skirraa.md) (Autor, 25.09.2026) - eine reguläre Ehe, er ist [Tibuns](Tibun.md) leiblicher Vater. Mit **18** bekommt sie Tibun, mit **25** [Truda](Nebenfiguren/Truda.md). **Drei weitere Kinder überleben nicht** - eines dazwischen, zwei danach, das letzte in Jahr -1 (549). Fünf Schwangerschaften, zwei lebende Kinder: für 550 der Durchschnitt, nicht das Unglück.
 
 Das prägt ihren Willen mehr als alles andere. Sie hat Kinder verloren, die sie **nicht** zurückholen konnte. Tibun und Truda **kann** sie zurückholen - daran hält sie sich fest.
 
 Dass sie schon einmal einen Ort verlassen und sich in einer fremden Gemeinschaft eingerichtet hat, ist ihre wichtigste Vorprägung: In der Wüste tut sie zum zweiten Mal, was sie einmal überstanden hat - nur ohne Sprache und ohne Rückweg.
 
-**Ihre Herkunftssippe gibt es nicht mehr.** Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. Sie hat es über die Jahre mitbekommen. Als sie in der Wüste landet, liegt hinter ihr nichts mehr außer [Skirraa](../../Orte/Skirraa.md): Ihre Kinder sind der einzige Rückweg, den sie überhaupt noch hat.
+**Ihre Herkunftssippe gibt es nicht mehr.** Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort; **um 541/542** war er leer. **Sie erfuhr es über Reisende** (Autor, 25.09.2026). *(Hier stand: Sie hat es über die Jahre mitbekommen.)* Als sie in der Wüste landet, liegt hinter ihr nichts mehr außer [Skirraa](../../Orte/Skirraa.md): Ihre Kinder sind der einzige Rückweg, den sie überhaupt noch hat.
 
 **Historische Verankerung (Autorenebene, erscheint nie im Erzähltext).** Girlin ist in Jahr 0 (= 550 n.Chr.) 34 und kam mit etwa 18 nach Skirraa; ihre Ehejahre sind damit **ca. 534-550**. In dieses Fenster fallen zwei real belegte Ereignisse:
 
@@ -48,8 +48,6 @@ Ein einzelner Weiler, der in diesen Jahren leerläuft, ist damit der Normalfall 
 
 **Der Bernstein.** Girlin hat [Tibun](Tibun.md) den **Bernsteinanhänger** geschenkt, den er schon lange an einer Kette trägt. Sie hat ihn **als Kind an der Küste gefunden** (Autor, 21.09.2026). Ein Geheimnis ist das nicht - **sie wird nur nie danach gefragt**. Deshalb erfährt es **niemand**, im Erzähltext auch der Leser nicht (Autor, 21.09.2026). *(Präzisiert 21.09.2026: Hier stand, sie verrate die Herkunft nie - das klang nach Absicht.)*
 
-Herkunftsort, Grund des Zuzugs und in welchem Jahr genau der Weiler einging: ???
-
 ---
 
 ## Besondere Fähigkeiten
@@ -59,6 +57,10 @@ Herkunftsort, Grund des Zuzugs und in welchem Jahr genau der Weiler einging: ???
 - **Sie lernt die Sprache aktiv**, weil sie weiß, dass es ihr hilft - keine Verweigerung, kein Rückzug.
 
 **Ihr Ziel ist nicht Rückkehr, sondern Wiedervereinigung.** Sobald ihre Kinder bei ihr sind oder es ihnen erwiesen gut geht, will sie in der Wüste **bleiben** - neue Liebe und das Wüstenkind binden sie dorthin. Daraus folgt der Kernkonflikt des Finales: **Tibun will seine Mutter zurückholen, Girlin will ihre Kinder erreichen.** Zehn Winter lang arbeiten beide an derselben Sache mit unvereinbaren Zielen.
+
+**Ihr Ziel kippt allmählich** (Autor, 25.09.2026) - von „zurück nach Hause" zu „die Kinder erreichen, dann in der Wüste bleiben". Am Ende gibt sie die Rückkehr ganz auf und will nur noch ein Zeichen schicken (siehe unten).
+
+**Tibuns technische Begabung hat er von keinem geerbt** - weder von ihr noch von [Semund](Nebenfiguren/Semund.md) (Autor, 25.09.2026).
 
 ---
 

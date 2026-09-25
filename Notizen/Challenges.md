@@ -12,8 +12,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
 **Offen**
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
-- [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
-- [C-025: Girlin - Charakter & Fähigkeiten ○](#c-025-girlin---charakter--fähigkeiten-)
 - [C-026: Bellbrim - historische Plausibilität & Herkunft ○](#c-026-bellbrim---historische-plausibilität--herkunft-)
 - [C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ○](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-)
 - [C-028: Azzim u-Tawan - Herkunft & Hintergrund ○](#c-028-azzim-u-tawan---herkunft--hintergrund-)
@@ -46,6 +44,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 - [C-022: Tibuns Reise - Dauer, Motiv, Hof ✓](#c-022-tibuns-reise---dauer-motiv-hof-)
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
+- [C-024: Girlin - Herkunft & Vorgeschichte ✓](#c-024-girlin---herkunft--vorgeschichte-)
+- [C-025: Girlin - Charakter & Fähigkeiten ✓](#c-025-girlin---charakter--fähigkeiten-)
 - [C-030: Trudas Alter ✓](#c-030-trudas-alter-)
 - [C-031: Tibun - Inspiration/Besetzung ✓](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ✓](#c-032-girlin---inspirationbesetzung-)
@@ -605,7 +605,7 @@ Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 
 ---
 
-### C-024: Girlin - Herkunft & Vorgeschichte ○
+### C-024: Girlin - Herkunft & Vorgeschichte ✓
 
 [Girlin](../Menschen/Nordvolk/Girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
 
@@ -621,9 +621,22 @@ Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 - **Warum** kam sie nach Skirraa: Heirat, Not, Flucht, Verwaisung? · **???**
 - Lebt dort noch Familie, die zehn Winter später eine Rolle spielen könnte? · **???**
 
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Woher** | aus einem **Nachbarweiler**, **ohne Namen** |
+| **Entfernung** | **ein Tagesmarsch** von Skirraa |
+| **Warum** | **Heirat** |
+| **Familie dort** | beantwortet schon am 09.09.2026: Die Herkunftssippe gibt es nicht mehr, der Weiler ist eingegangen |
+| **Wann eingegangen** | **um 541/542** (Jahr -9/-8) |
+| **Wie sie es erfuhr** | **über Reisende** |
+
+Nachgezogen: [Girlin](../Menschen/Nordvolk/Girlin.md). Geschlossen.
+
 ---
 
-### C-025: Girlin - Charakter & Fähigkeiten ○
+### C-025: Girlin - Charakter & Fähigkeiten ✓
 
 Im Wüsten-Arc überlebt sie zehn Winter, verständigt sich mit [Bellbrim](../Menschen/Andere/Bellbrim.md) und ist am Wassergenerator beteiligt.
 
@@ -650,6 +663,16 @@ Im Wüsten-Arc überlebt sie zehn Winter, verständigt sich mit [Bellbrim](../Me
 - **Wann kippt ihr Ziel** von „zurück" zu „beide zusammenbringen" - mit der neuen Liebe, mit dem Kind, oder früher? · **???**
 - **Was will sie im Finale konkret:** die Kinder in die Wüste holen, oder selbst zurück und dann wieder fort? Betrifft [C-082](#c-082-girlins-entscheidung-zur-rückreise-) unmittelbar. · **???**
 - **Technische Neugier?** Ob die Findigkeit von ihr kommt oder von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) - hier entscheidet sich, ob Tibuns Begabung ein Erbe ist. · **???**
+
+**Entschieden (Autor, 25.09.2026):**
+
+| | |
+|---|---|
+| **Wann kippt ihr Ziel** | **allmählich** |
+| **Was sie im Finale will** | beantwortet durch [C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-): Sie bleibt, gibt die Rückkehr vor dem Kampf auf und will nur ein Zeichen schicken |
+| **Tibuns Begabung** | **von keinem geerbt** - weder von Girlin noch von Semund |
+
+Nachgezogen: [Girlin](../Menschen/Nordvolk/Girlin.md), [Tibun](../Menschen/Nordvolk/Tibun.md). Geschlossen.
 
 ---
 
