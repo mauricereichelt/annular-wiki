@@ -20,7 +20,7 @@
 | **Vater** | [Semund](Semund.md) |
 | **Bruder** | [Tibun](../Tibun.md) |
 | **Großmutter** | [Randwara](Randwara.md), Semunds Mutter |
-| **Ehemann** | [**Wulfstein**](Wulfstein.md) (Autor, 25.09.2026). Sie ist bei [Tibuns](../Tibun.md) Rückkehr (+9) **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../../../Orte/Skirraa.md) oder in der Nähe (Autor, 18.09.2026). **Heirat in Jahr +8, mit 17** (Autor, 25.09.2026) |
+| **Ehemann** | [**Wulfstein**](Wulfstein.md) (Autor, 25.09.2026). Sie ist bei [Tibuns](../Tibun.md) Rückkehr (+9) **verheiratet** und hat einen **eigenen Haushalt** (Autor, 18.09.2026) **in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 25.09.2026). **Heirat in Jahr +8, mit 17** (Autor, 25.09.2026) |
 | **Kinder** | bei [Tibuns](../Tibun.md) Rückkehr (+9) **keine** (Autor, 25.09.2026) |
 
 ---
@@ -65,7 +65,7 @@ Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun
 
 > **Korrigiert (18.09.2026):** Hier stand „eine Erwachsene von 19". Bei der **Rückkehr (+9)** ist Truda **18**; 19 ist ihr Stand im **Finale (+10)**, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md).
 
-**Sie ist verheiratet** (Autor, 18.09.2026). Sie tritt Tibun nicht als Kind des Hofes gegenüber, sondern als Frau mit eigenem Haus - der Abstand zwischen der Zehnjährigen von damals und dieser Erwachsenen ist damit auch äußerlich sichtbar. **Ihr Mann [Wulfstein](Wulfstein.md) ist beim Empfang nicht dabei** (Autor, 25.09.2026).
+**Sie ist verheiratet** (Autor, 18.09.2026). Sie tritt Tibun nicht als Kind des Hofes gegenüber, sondern als Frau mit eigenem Haus - der Abstand zwischen der Zehnjährigen von damals und dieser Erwachsenen ist damit auch äußerlich sichtbar. **Ihr Mann [Wulfstein](Wulfstein.md) ist beim Empfang nicht dabei** - er ist unterwegs auf der Jagd (Autor, 25.09.2026).
 
 **Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026) - wie alle im Weiler. Zur Werkstatt am Ring geht sie nicht. Sie erfährt von [Tibun](../Tibun.md) selbst, was er dort tut, und **hält ihn für verloren, ohne den Bau gesehen zu haben**. Schon als Neunjährige ging sie nur **bis zum Waldrand** mit.
 

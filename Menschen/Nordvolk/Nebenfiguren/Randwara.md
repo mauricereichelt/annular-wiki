@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| **Ehemann** | [**Sigrik**](Sigrik.md) - Urname, **Sieg** + **mächtig** (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt |
+| **Ehemann** | [**Sigrik**](Sigrik.md) - Urname, **Sieg** + **mächtig** (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt. Er starb in **Jahr -20** (Autor, 25.09.2026) |
 | **Sohn** | [Semund](Semund.md) |
 | **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026) |
 | **Enkel** | [Tibun](../Tibun.md), [Truda](Truda.md) |
@@ -37,6 +37,8 @@ bewusst offen (Autor, 24.09.2026)
 ---
 
 ## Bedeutung in der Geschichte
+
+**Nach [Sigriks](Sigrik.md) Tod in Jahr -20 übernimmt Semund den Hof gleich, und sie führt ihn zuerst, bis er erwachsen ist** - beides gilt (Autor, 25.09.2026).
 
 **Sie lebt in Jahr 0 auf Semunds Hof in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 24.09.2026).
 

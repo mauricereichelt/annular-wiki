@@ -972,7 +972,8 @@ Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Men
 | **Ehemann** | [**Wulfstein**](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) (Urname, Wolf + Stein) - eigene Figurendatei |
 | **Heirat** | **Jahr +8**, Truda ist 17 |
 | **Kinder** | bei Tibuns Rückkehr (+9) **keine** |
-| **Empfang** | **auf Semunds Hof**; Wulfstein ist **nicht dabei** |
+| **Empfang** | **auf Semunds Hof**; Wulfstein ist **nicht dabei** - *Nachtrag 25.09.2026:* er ist auf der Jagd |
+| **Haushalt** | *Nachtrag 25.09.2026:* **in Skirraa** (statt „in Skirraa oder in der Nähe") |
 | **Frühes Leben** | bewusst offen |
 | **Inspiration** | Jennie Jacques aus der Serie „Vikings" |
 | **Alter beim Tod des letzten Kindes** | **8** (Jahr -1) statt „7 oder 8"; ebenso Tibun **15** in [C-097](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-) |
