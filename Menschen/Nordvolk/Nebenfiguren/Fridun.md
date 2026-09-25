@@ -53,4 +53,4 @@ Er verlobt seine Tochter [Frida](Frida.md) mit [Herik](Herik.md), dem Sohn von [
 
 > Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../../Notizen/Regeln.md#charaktere).
 
-???
+- [James Cosmo](https://www.imdb.com/de/name/nm0181920/mediaviewer/rm4187196928/?ref_=nmmi_mi_16_2) aus der Serie „Game of Thrones" (Autor, 25.09.2026)
