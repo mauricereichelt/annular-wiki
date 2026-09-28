@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Frau von [Fridun](Fridun.md), Mutter von [Frida](Frida.md) |
+| **Rolle** | Frau von [Fridmund](Fridmund.md), Mutter von [Fridugund](Fridugund.md) |
 | **Name** | Urname *Widgund* - **Wald, weit** + **Kampf** (Autor, 24.09.2026) |
 | **Alter** | **etwa 45** (Jahr 0) (Autor, 24.09.2026) |
 | **Herkunft** | **von auswärts, aus einem anderen Weiler** (Autor, 24.09.2026) |
@@ -17,8 +17,8 @@
 
 | | |
 |---|---|
-| **Ehemann** | [Fridun](Fridun.md) |
-| **Tochter** | [Frida](Frida.md) |
+| **Ehemann** | [Fridmund](Fridmund.md) |
+| **Tochter** | [Fridugund](Fridugund.md) |
 
 ---
 
@@ -36,14 +36,14 @@ bewusst offen (Autor, 24.09.2026)
 
 ## Bedeutung in der Geschichte
 
-**Sie lebt in Jahr 0** (Autor, 24.09.2026). **Sie tritt in [Szene](../../../Plots/Plot-1/Szenen.md) 2 auf**, *Der Bernstein-Effekt*, an Fridas Verlobungstag (Autor, 24.09.2026).
+**Sie lebt in Jahr 0** (Autor, 24.09.2026). **Sie tritt in [Szene](../../../Plots/Plot-1/Szenen.md) 2 auf**, *Der Bernstein-Effekt*, an Fridugunds Verlobungstag (Autor, 24.09.2026).
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
-- Ehemann: [Fridun](Fridun.md)
-- Tochter: [Frida](Frida.md)
+- Ehemann: [Fridmund](Fridmund.md)
+- Tochter: [Fridugund](Fridugund.md)
 
 ---
 

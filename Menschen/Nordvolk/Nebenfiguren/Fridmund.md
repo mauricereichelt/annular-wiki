@@ -1,4 +1,4 @@
-# Fridun
+# Fridmund
 
 ---
 
@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Rolle** | Bauer in [Skirraa](../../../Orte/Skirraa.md), Vater von [Frida](Frida.md) |
-| **Name** | Kurzform von *Fridmund* - **Frieden** + **Schutz** (Autor, 23.09.2026) |
+| **Rolle** | Bauer in [Skirraa](../../../Orte/Skirraa.md), Vater von [Fridugund](Fridugund.md) |
+| **Name** | Urname *Fridmund* - **Frieden** + **Schutz** (Autor, 23.09.2026); trägt ihn als Rufnamen (Autor, 28.09.2026). *Bis 28.09.2026 hieß er Fridun (Kurzform).* |
 | **Alter** | **etwa 45** (Jahr 0) (Autor, 24.09.2026) |
 | **Herkunft** | **aus [Skirraa](../../../Orte/Skirraa.md)** (Autor, 24.09.2026) |
 
@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| **Tochter** | [Frida](Frida.md) - er ist ihr **leiblicher** Vater (Autor, 21.09.2026) |
+| **Tochter** | [Fridugund](Fridugund.md) - er ist ihr **leiblicher** Vater (Autor, 21.09.2026) |
 | **Ehefrau** | [**Widgund**](Widgund.md) (Autor, 24.09.2026) - **lebt** (Jahr 0) (Autor, 24.09.2026) |
 
 ---
@@ -36,14 +36,14 @@ bewusst offen (Autor, 24.09.2026)
 
 ## Bedeutung in der Geschichte
 
-Er verlobt seine Tochter [Frida](Frida.md) mit [Gunthar](Gunthar.md), dem Sohn von [Landarik](Landarik.md): ein **Bündnis zwischen Höfen**, von den Vätern arrangiert (siehe [Frida](Frida.md#bedeutung-in-der-geschichte)).
+Er verlobt seine Tochter [Fridugund](Fridugund.md) mit [Gunthar](Gunthar.md), dem Sohn von [Landarik](Landarik.md): ein **Bündnis zwischen Höfen**, von den Vätern arrangiert (siehe [Fridugund](Fridugund.md#bedeutung-in-der-geschichte)).
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
 - Ehefrau: [Widgund](Widgund.md)
-- Tochter: [Frida](Frida.md)
+- Tochter: [Fridugund](Fridugund.md)
 - Künftiger Schwiegersohn: [Gunthar](Gunthar.md)
 - Vater des Bräutigams: [Landarik](Landarik.md)
 

@@ -20,7 +20,7 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 ## Die Zieheltern (Autor, 10.09.2026)
 
-**Tibun wohnt die ganzen acht Jahre bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** - alteingesessen, verwurzelt, mit Platz in der Stadt (Namen: Autor, 10.09.2026).
+**Tibun wohnt die ganzen acht Jahre bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harihild](../Menschen/Nordvolk/Nebenfiguren/Harihild.md)** - alteingesessen, verwurzelt, mit Platz in der Stadt (Namen: Autor, 10.09.2026).
 
 - **Audmar ist Schiffszimmerer** - er baut und bessert Boote aus. Tibun arbeitet mit ihm; Holz, Hebel und Zug sind dasselbe Feld, in dem später die **Bootsziehwinde** am Hafen seine Erkenntnis auslöst.
 - **Kennengelernt haben sie sich unterwegs**, nicht in der Stadt: Audmar ist **Teil der Reisegemeinschaft auf der Fähre** bei [Vegamot](Vegamot.md). Tibun kommt deshalb nicht als völlig Fremder in Kaupvik an, sondern mit einer Adresse.
@@ -28,7 +28,7 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 - **Audmar wird Tibuns neue Bezugsperson** - der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md): einer, der mit ihm arbeitet, ihm etwas beibringt und ihn behält.
 - **Am Ende bleiben beide lebend zurück** (Autor, 02.09.2026), im Guten. Ein Abschied, kein Verlust. Sie sind das, was Tibun aufgibt, nicht das, was ihm genommen wird.
 - Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**, dem Tibun sich in Vegamot anschließt. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft** (Autor, 25.09.2026).
-- **Siga: Netze und Fisch** (Autor, 25.09.2026).
+- **Harihild: Netze und Fisch** (Autor, 25.09.2026).
 
 ---
 

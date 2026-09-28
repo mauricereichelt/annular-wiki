@@ -17,14 +17,14 @@
 
 | | |
 |---|---|
-| **Frau** | [Siga](Siga.md) |
+| **Frau** | [Harihild](Harihild.md) |
 | **Kinder** | **keine** (Autor, 10.09.2026) |
 
 ---
 
 ## Frühes Leben
 
-**Sohn eines Schiffszimmerers.** Er und [Siga](Siga.md) sind **ungewollt kinderlos** (Autor, 25.09.2026).
+**Sohn eines Schiffszimmerers.** Er und [Harihild](Harihild.md) sind **ungewollt kinderlos** (Autor, 25.09.2026).
 
 ---
 
@@ -40,7 +40,7 @@
 
 **Kennengelernt haben sich die beiden unterwegs** (Autor, 10.09.2026), nicht in der Stadt: Audmar ist **Teil der Reisegemeinschaft auf der Fähre** bei [Vegamot](../../../Orte/Vegamot.md). Tibun kommt deshalb nicht als völlig Fremder in Kaupvik an, sondern mit einer Adresse. Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**; **beide bleiben bis Kaupvik beim Zug**. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft** (Autor, 25.09.2026).
 
-**Warum er ihn aufnimmt:** Er und [Siga](Siga.md) **haben keine Kinder** - eine Lücke, in die Tibun passt, ohne dass es jemand ausspricht. Die Abmachung ist **Kost gegen Arbeit**, aber **beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026); die Nähe wächst über die Jahre, unabsichtlich. **Später sehen sie etwas wie einen Sohn in ihm** und hoffen, er bleibt oder kommt wieder, um bei ihnen zu leben; **sie sagen es ihm beim Abschied, einmal** (Autor, 25.09.2026). *(Hier stand: Begonnen hat es trotzdem nüchtern.)*
+**Warum er ihn aufnimmt:** Er und [Harihild](Harihild.md) **haben keine Kinder** - eine Lücke, in die Tibun passt, ohne dass es jemand ausspricht. Die Abmachung ist **Kost gegen Arbeit**, aber **beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026); die Nähe wächst über die Jahre, unabsichtlich. **Später sehen sie etwas wie einen Sohn in ihm** und hoffen, er bleibt oder kommt wieder, um bei ihnen zu leben; **sie sagen es ihm beim Abschied, einmal** (Autor, 25.09.2026). *(Hier stand: Begonnen hat es trotzdem nüchtern.)*
 
 **Er ist der Gegenentwurf zu [Semund](Semund.md)** - einer, der mit Tibun arbeitet, ihm etwas beibringt und ihn behält, gegen den Vater, der schweigt und weitermacht. Damit trägt er die emotionale Achse der acht Kaupvik-Jahre.
 
@@ -50,7 +50,7 @@
 
 ## Verbindungen zu anderen Charakteren
 
-- Frau: [Siga](Siga.md)
+- Frau: [Harihild](Harihild.md)
 - Ziehsohn: [Tibun](../Tibun.md)
 
 ---

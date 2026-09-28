@@ -1,4 +1,4 @@
-# Siga
+# Harihild
 
 ---
 
@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Frau des Schiffszimmerers [Audmar](Audmar.md) in [Kaupvik](../../../Orte/Kaupvik.md); [Tibuns](../Tibun.md) Ziehmutter |
-| **Name** | Kurzform von *Sighild* - **Sieg** + **Kampf** |
+| **Name** | Urname *Harihild* - **Heer** + **Kampf**, mit Bindevokal (Autor, 28.09.2026). *Bis 28.09.2026 hieß sie Siga (Kurzform von Sighild).* |
 | **Alter** | **etwa 42** (Jahr 0) · etwa 52 im Finale (Jahr +10) - etwa drei Jahre jünger als [Audmar](Audmar.md) (Autor, 25.09.2026) |
 | **Herkunft** | [Kaupvik](../../../Orte/Kaupvik.md) - alteingesessen, in der Stadt verwurzelt |
 

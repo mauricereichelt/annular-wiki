@@ -77,22 +77,22 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt ein Blitz an der Schafschere über.
+Verlobungstag, wenige Tage nach dem Beben. Fridugund nimmt die Kette nicht an; kurz darauf springt ein Blitz an der Schafschere über.
 
-- **Will:** Frida seine Liebe gestehen und sie für sich gewinnen - die Kette hat er schon lange. Ein Antrag ist es nicht (Autor, 21.09.2026)
+- **Will:** Fridugund seine Liebe gestehen und sie für sich gewinnen - die Kette hat er schon lange. Ein Antrag ist es nicht (Autor, 21.09.2026)
 - **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Gunthar verlobt, der besseren Partie
 - **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
 
 > **Hinweis fürs Schreiben (Claude):** Aufladen braucht **Reibung**, am stärksten Bernstein an Wolle - Werfen allein lädt nichts. Die Entladung knistert und ist im Dunkeln als blau-weißer Blitz zu sehen ([Elektrizität](../../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)).
 
 > **Beim Überarbeiten nachziehen** (Liste 21.09.2026): Der alte Szenentext *Die Entdeckung* ruht bis November und widerspricht dem Wiki an diesen Stellen:
-> - **Name:** Jolyl heißt jetzt **Frida**, Lanke heißt jetzt **Landarik** (23.09.2026)
+> - **Name:** Jolyl heißt jetzt **Fridugund** (28.09.2026), Lanke heißt jetzt **Landarik** (23.09.2026)
 > - **Schauplatz:** Die Verlobung wird **beim Großbauern** im kleinen Rahmen verkündet - kein Dorf- oder Marktplatz, kein Rednerpodest, keine Versammlung. [Skirraa](../../Orte/Skirraa.md) ist ein **Weiler**, kein Dorf
 > - **Milieu:** keine Fischer, keine Bootsbauer - Skirraa lebt von Tierzucht auf Heide und Moor
 > - **Bernstein:** kein Fund im Flussbett - ein **Geschenk der Mutter**, das er schon lange trägt ([Tibun](../../Menschen/Nordvolk/Tibun.md#der-bernstein))
 > - **Gunthar und Landarik:** beide **ortsfremd**, aus der Gegend um Tingsal; Landarik ist Hofbesitzer, kein Bootsbauer. **Keine Freundschaft** zwischen Tibun und Gunthar, Tibun kennt ihn kaum (Autor, 21.09.2026)
-> - **Fridas Familie:** ihr **leiblicher Vater**, ein Bauer aus Skirraa - kein Stiefvater, keine zugezogene Mutter (Autor, 21.09.2026). *Nachtrag 24.09.2026:* Fridas Mutter [Widgund](../../Menschen/Nordvolk/Nebenfiguren/Widgund.md) stammt von auswärts, aus einem anderen Weiler - laut Autor gilt beides
-> - **Kein Antrag:** Tibun will Frida seine **Liebe gestehen** (Autor, 21.09.2026)
+> - **Fridugunds Familie:** ihr **leiblicher Vater**, ein Bauer aus Skirraa - kein Stiefvater, keine zugezogene Mutter (Autor, 21.09.2026). *Nachtrag 24.09.2026:* Fridugunds Mutter [Widgund](../../Menschen/Nordvolk/Nebenfiguren/Widgund.md) stammt von auswärts, aus einem anderen Weiler - laut Autor gilt beides
+> - **Kein Antrag:** Tibun will Fridugund seine **Liebe gestehen** (Autor, 21.09.2026)
 > - **Kein Brand:** nur kurz angesengte Flusen - kein Feuer, keine Brandblasen, kein verkohltes Stück aus dem Stein
 
 > **[Widgund](../../Menschen/Nordvolk/Nebenfiguren/Widgund.md) tritt auf** (Autor, 24.09.2026).
@@ -181,35 +181,35 @@ Der Sand liegt für alle sichtbar an der Skir. Die Wala deutet den Sand als Zeic
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Tibun streitet ob seiner Version, missachtet das Tabu, Randi begleitet ihn bis zum Waldrand, sorgt sich, petzt, Tibun bekommt Ärger mit Semund, er fordert die Götterstrafe heraus, Glaubenskrise (Wala hat Unrecht, keine Strafe), Dorf beginnt ihn zu meiden.
+Tibun streitet ob seiner Version, missachtet das Tabu, Randlaug begleitet ihn bis zum Waldrand, sorgt sich, petzt, Tibun bekommt Ärger mit Semund, er fordert die Götterstrafe heraus, Glaubenskrise (Wala hat Unrecht, keine Strafe), Dorf beginnt ihn zu meiden.
 
 - **Will:** Dass der Vater an Girlin festhält - er weiß ja, dass sie lebt
 - **Hindernis:** Semund hat sie für tot erklärt
-- **Ausgang:** Für Tibun ein Verrat. Gegen Millia selbst hat er nichts - er will aber auch nichts von ihr.
+- **Ausgang:** Für Tibun ein Verrat. Gegen Mildirun selbst hat er nichts - er will aber auch nichts von ihr.
 
-> **Randi beiläufig mitführen** (Autor, 10.09.2026): Sie hängt an ihm und ist da - **er kümmert sich nicht um sie**. Er sucht die Mutter, die Neunjährige bleibt allein. Nicht ausstellen, nur nebenherlaufen lassen.
+> **Randlaug beiläufig mitführen** (Autor, 10.09.2026): Sie hängt an ihm und ist da - **er kümmert sich nicht um sie**. Er sucht die Mutter, die Neunjährige bleibt allein. Nicht ausstellen, nur nebenherlaufen lassen.
 
 > **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
 
 
-### 11 · Tibuns Vater und Millia
+### 11 · Tibuns Vater und Mildirun
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Semund und Millia reisen nach Tingsal (Erlaubnis der Wala), der Vater will Tibun mitnehmen, Tibun will nicht.
+Semund und Mildirun reisen nach Tingsal (Erlaubnis der Wala), der Vater will Tibun mitnehmen, Tibun will nicht.
 
 - **Will:** Dass der Vater an Girlin festhält - er weiß ja, dass sie lebt
 - **Hindernis:** Semund hat sie für tot erklärt
-- **Ausgang:** Für Tibun ein Verrat. Gegen Millia selbst hat er nichts - er will aber auch nichts von ihr.
+- **Ausgang:** Für Tibun ein Verrat. Gegen Mildirun selbst hat er nichts - er will aber auch nichts von ihr.
 
 > **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
 
 
-### 12 · Semunds und Millias Verlobung
+### 12 · Semunds und Mildiruns Verlobung
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer, obwohl er gegen Millia nichts hat.
+Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer, obwohl er gegen Mildirun nichts hat.
 
 - **Will:** ???
 - **Hindernis:** ???
@@ -228,7 +228,7 @@ Er baut ein kleines Wasserrad, und dabei wird jemand verletzt. Der Weiler rückt
 - **Hindernis:** Meidung durch die Dorfbewohner
 - **Ausgang:** Ein Gleichaltriger, der ihm hilft, wird verletzt; schwere Gewissensbisse. Schuld, Gewissenslast und Ausschluss - zusammen der Antrieb zum Aufbruch. Er geht - fort von der Schuld und hin zum Wissen.
 
-> **Kein Abschied von Randi** (Autor, 10.09.2026): Er geht **ohne ein Wort** zu ihr. Sie ist zehn und erfährt es nicht vorher. Beiläufig zeigen, nicht kommentieren - die Rechnung dafür kommt bei seiner Rückkehr, in der Szene *Randi empfängt ihn*.
+> **Kein Abschied von Randlaug** (Autor, 10.09.2026): Er geht **ohne ein Wort** zu ihr. Sie ist zehn und erfährt es nicht vorher. Beiläufig zeigen, nicht kommentieren - die Rechnung dafür kommt bei seiner Rückkehr, in der Szene *Randlaug empfängt ihn*.
 
 
 ### 14 · Bellbrim
@@ -274,7 +274,7 @@ Hafenarbeit an der Schlei - er kommt mit einer Adresse an, nicht als völlig Fre
 
 > **POV:** Tibun · **Jahr +1** · **Offen:** -
 
-Er kommt bei Audmar und Siga unter - den Schiffszimmerer hat er auf der Fähre kennengelernt.
+Er kommt bei Audmar und Harihild unter - den Schiffszimmerer hat er auf der Fähre kennengelernt.
 
 - **Will:** ???
 - **Hindernis:** ???
@@ -282,7 +282,7 @@ Er kommt bei Audmar und Siga unter - den Schiffszimmerer hat er auf der Fähre k
 
 > **Warum sie ihn nehmen** (Autor, 10.09.2026): Sie **haben keine Kinder**. Das wird nicht ausgesprochen - die Abmachung ist Kost gegen Arbeit. **Beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026). Erst über die Jahre sehen sie etwas wie einen Sohn in ihm. *(Hier stand: hier ist es ein Handel, sonst nichts.)*
 
-> **Sigas Gewerbe** (Autor, 25.09.2026): Netze und Fisch.
+> **Harihilds Gewerbe** (Autor, 25.09.2026): Netze und Fisch.
 
 
 ### 18 · Sammeln ohne zu wissen wie
@@ -335,7 +335,7 @@ Girlins Tochter **Tamant ult-Sekkan** wird in der Wüste geboren - **als eigene 
 
 Mit der Geburt verschiebt sich, was sie will.
 
-- **Will:** Nach Hause - zu Tibun und Randi
+- **Will:** Nach Hause - zu Tibun und Randlaug
 - **Hindernis:** Sie hat jetzt zwei Familien und kann nur eine haben
 - **Ausgang:** Aus „nach Hause gehen“ wird „ich bleibe“. Sechs Jahre vor dem Finale - und der Entschluss wackelt noch.
 
@@ -512,7 +512,7 @@ Das Modell läuft, Wissen und Bernstein reichen.
 - **Hindernis:** Die Bitte der Zieheltern, zu bleiben oder wiederzukommen
 - **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
 
-> **Beim Abschied, einmal** (Autor, 25.09.2026): Audmar und Siga hoffen, dass er bleibt oder wiederkommt, um bei ihnen zu leben. Sie sagen es ihm hier - einmal. **Diese Bitte ist das Hindernis** (Autor, 25.09.2026). *(Hier stand als Hindernis: keins - der Aufbruch kostet ihn ausdrücklich nichts.)*
+> **Beim Abschied, einmal** (Autor, 25.09.2026): Audmar und Harihild hoffen, dass er bleibt oder wiederkommt, um bei ihnen zu leben. Sie sagen es ihm hier - einmal. **Diese Bitte ist das Hindernis** (Autor, 25.09.2026). *(Hier stand als Hindernis: keins - der Aufbruch kostet ihn ausdrücklich nichts.)*
 
 
 ### 36 · Azzim, Auftritt 3
@@ -538,22 +538,22 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 - **Hindernis:** Der Weiler warnt ihn; niemand hilft, er wird gemieden
 - **Ausgang:** Er baut überdacht über der Tabustelle weiter.
 
-> **Niemand kommt dorthin** (Autor, 18.09.2026): Das Tabu hält ausnahmslos - auch Randi und die neugierigen Kinder nicht. Die einzige Ausnahme ist die gerufene Wala in *Die Wala lässt ihn gewähren*.
+> **Niemand kommt dorthin** (Autor, 18.09.2026): Das Tabu hält ausnahmslos - auch Randlaug und die neugierigen Kinder nicht. Die einzige Ausnahme ist die gerufene Wala in *Die Wala lässt ihn gewähren*.
 
 > **Er wohnt zunächst auf Semunds Hof** (Autor, 18.09.2026) und geht täglich hinaus zum Bau. Erst nach dem Spruch der Wala **zieht er auf die Baustelle**. Bis dahin ist der Bau Arbeitsplatz, danach auch sein Zuhause.
 
 
-### 38 · Randi empfängt ihn
+### 38 · Randlaug empfängt ihn
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** -
 
-Nach acht Jahren steht ihm Randi gegenüber, und die Verletztheit darüber, dass er sie verlassen hat, bricht in einem Wutanfall aus ihr heraus.
+Nach acht Jahren steht ihm Randlaug gegenüber, und die Verletztheit darüber, dass er sie verlassen hat, bricht in einem Wutanfall aus ihr heraus.
 
 - **Will:** ???
 - **Hindernis:** ???
 - **Ausgang:** Ein einziger Ausbruch - danach ist sie wieder still.
 
-> **Einmal, dann still** (Autor, 11.09.2026): Der Ausbruch gilt nur ihm. Hier wird aufgerufen, dass er sie ohne Abschied zurückgelassen hat; *Randi hält ihn für verloren* bleibt das spätere Gespräch.
+> **Einmal, dann still** (Autor, 11.09.2026): Der Ausbruch gilt nur ihm. Hier wird aufgerufen, dass er sie ohne Abschied zurückgelassen hat; *Randlaug hält ihn für verloren* bleibt das spätere Gespräch.
 
 > **Sie ist 18 und verheiratet** (Autor, 18.09.2026): Sie hat einen eigenen Haushalt im Weiler *(präzisiert 25.09.2026, hier stand: im Weiler oder in der Nähe)*. Die Szene spielt **im Weiler** - Tibun wohnt zu dieser Zeit auf Semunds Hof. **Nicht an der Tabustelle**: Die meidet sie ebenfalls. **Der Empfang findet auf Semunds Hof statt; ihr Mann [Wulfstein](../../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) ist nicht dabei**, er ist auf der Jagd (Autor, 25.09.2026).
 
@@ -592,7 +592,7 @@ Sie wird gerufen und sieht es sich an.
 - **Hindernis:** Sie verlöre ihr Gesicht, wenn sie selbst mehr über den Ring wissen wollte
 - **Ausgang:** Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein - und lässt ihn gewähren.
 
-> **Das ist der Wendepunkt** (Autor, 18.09.2026): Weil sie die Stelle und sein Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun Semunds Hof verlassen** und wohnt ab hier auf der Baustelle. Sie vertreibt ihn nicht - ihre Deutung nimmt ihm das Quartier. **Fort weist ihn der Druck aus dem Weiler** (Autor, 23.09.2026), dem Semund nachgibt; **[Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) treibt den Auszug mit voran**. Er bekommt eine **eigene Szene** (*Der Auszug vom Hof*).
+> **Das ist der Wendepunkt** (Autor, 18.09.2026): Weil sie die Stelle und sein Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun Semunds Hof verlassen** und wohnt ab hier auf der Baustelle. Sie vertreibt ihn nicht - ihre Deutung nimmt ihm das Quartier. **Fort weist ihn der Druck aus dem Weiler** (Autor, 23.09.2026), dem Semund nachgibt; **[Mildirun](../../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) treibt den Auszug mit voran**. Er bekommt eine **eigene Szene** (*Der Auszug vom Hof*).
 
 
 ### 42 · Der Auszug vom Hof
@@ -602,13 +602,13 @@ Sie wird gerufen und sieht es sich an.
 Nach dem Spruch der [Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) drängt der Weiler, und [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) gibt nach.
 
 - **Will:** ???
-- **Hindernis:** Der Druck aus dem Weiler - [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) treibt den Auszug mit voran
+- **Hindernis:** Der Druck aus dem Weiler - [Mildirun](../../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) treibt den Auszug mit voran
 - **Ausgang:** Tibun verlässt den Hof und wohnt ab hier auf der Baustelle.
 
-> **Eigene Szene** (Autor, 23.09.2026): **Nicht Semund weist ihn fort**, sondern der **Druck aus dem Weiler**, dem er nachgibt. **Millia treibt den Auszug mit voran.**
+> **Eigene Szene** (Autor, 23.09.2026): **Nicht Semund weist ihn fort**, sondern der **Druck aus dem Weiler**, dem er nachgibt. **Mildirun treibt den Auszug mit voran.**
 
 
-### 43 · Randi hält ihn für verloren
+### 43 · Randlaug hält ihn für verloren
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** -
 
@@ -618,11 +618,11 @@ Er sagt ihr, was er tut.
 - **Hindernis:** ???
 - **Ausgang:** ???
 
-> **Was zwischen ihnen steht** (Autor, 10.09.2026): Er hat sich nach dem Verschwinden der Mutter nicht um sie gekümmert und ist **ohne Abschied** gegangen. Sie hat sich verlassen gefühlt. Aufgerufen wird das beim Empfang (*Randi empfängt ihn*, Autor, 11.09.2026) - einmal, danach ist sie wieder still. **Dass er ihr jetzt von sich aus sagt, was er tut, ist der Gegensatz dazu.**
+> **Was zwischen ihnen steht** (Autor, 10.09.2026): Er hat sich nach dem Verschwinden der Mutter nicht um sie gekümmert und ist **ohne Abschied** gegangen. Sie hat sich verlassen gefühlt. Aufgerufen wird das beim Empfang (*Randlaug empfängt ihn*, Autor, 11.09.2026) - einmal, danach ist sie wieder still. **Dass er ihr jetzt von sich aus sagt, was er tut, ist der Gegensatz dazu.**
 
-> **Streichvermerk (05.09.2026):** Hier stand „Randi will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
+> **Streichvermerk (05.09.2026):** Hier stand „Randlaug will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
 
-> **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Randi meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. Das Gespräch findet **im Weiler** statt; **er** kommt zu ihr, nicht umgekehrt.
+> **Sie hat den Bau nie gesehen** (Autor, 18.09.2026): Randlaug meidet die Tabustelle ebenfalls. Sie kennt nur, was er ihr erzählt - und hält ihn trotzdem für verloren. Das Gespräch findet **im Weiler** statt; **er** kommt zu ihr, nicht umgekehrt.
 
 
 ### 44 · Zweifel und Bestätigung

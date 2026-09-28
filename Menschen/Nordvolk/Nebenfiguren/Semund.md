@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Vater von [Tibun](../Tibun.md), Ehemann der verschwundenen [Girlin](../Girlin.md) |
+| **Name** | Kurzform von *Sigimund* - **Sieg** + **Schutz**. Urform mit Bindevokal (Autor, 28.09.2026), vorher *Sigmund* |
 | **Alter** | 35 (Girlins Verschwinden) / 45 (Finale), siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md) |
 | **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) |
 
@@ -20,9 +21,9 @@
 | **Vater** | [**Sigrik**](Sigrik.md) (Autor, 24.09.2026) - tot, Semund hat den Hof von ihm geerbt. Er starb in **Jahr -20** (Autor, 25.09.2026) |
 | **Geschwister** | **mehrere**, fortgezogen (Autor, 24.09.2026). **Semund ist der einzige Sohn** (Autor, 25.09.2026) |
 | **Ehefrau** | [Girlin](../Girlin.md) (verschwunden) |
-| **Zweite Ehefrau** | [Millia](Millia.md) - **eine Ehe** (Autor, 25.09.2026). *(Hier stand: Neue Partnerin.)* |
+| **Zweite Ehefrau** | [Mildirun](Mildirun.md) - **eine Ehe** (Autor, 25.09.2026). *(Hier stand: Neue Partnerin.)* |
 | **Sohn** | [Tibun](../Tibun.md) |
-| **Tochter** | [Randi](Randi.md) |
+| **Tochter** | [Randlaug](Randlaug.md) |
 
 ---
 
@@ -48,19 +49,19 @@ Sein Vater [Sigrik](Sigrik.md) starb in **Jahr -20** (Autor, 25.09.2026), da war
 
 Semund und [Girlin](../Girlin.md) haben **drei Kinder verloren** - das letzte in **Jahr -1 (549)** (Autor, 24.09.2026). Das letzte war ein **Säugling von wenigen Wochen** (Autor, 08.09.2026). Es liegt nach dem Brauch des Nordvolks **auf dem Hofgelände**, in einer unmarkierten Grube nahe am Haus - kein Grabhügel, kein Stein; nur die Familie kennt die Stelle (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern)).
 
-Im Erzähltext wird der Verlust **mit einem einzigen Satz** sichtbar - beiläufig genannt, nie ausgeführt. Ob die Stelle in einer Szene vorkommt, entscheidet sich beim Schreiben. Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Millia](Millia.md): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
+Im Erzähltext wird der Verlust **mit einem einzigen Satz** sichtbar - beiläufig genannt, nie ausgeführt. Ob die Stelle in einer Szene vorkommt, entscheidet sich beim Schreiben. Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Mildirun](Mildirun.md): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
 
 ---
 
 ## Bedeutung in der Geschichte
 
-Hält [Girlin](../Girlin.md) für **tot** und bindet sich **rasch** neu an [Millia](Millia.md) - für [Tibun](../Tibun.md) ein schmerzhafter Bruch. Versucht, nach Girlins Verschwinden Stabilität für die Familie zu schaffen. Führt den **Schaf- und Wollhof** der Familie in [Skirraa](../../../Orte/Skirraa.md) weiter - Herde, Schur und Stoffherstellung -, auch während Tibuns rund achtjähriger Reise (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)).
+Hält [Girlin](../Girlin.md) für **tot** und bindet sich **rasch** neu an [Mildirun](Mildirun.md) - für [Tibun](../Tibun.md) ein schmerzhafter Bruch. Versucht, nach Girlins Verschwinden Stabilität für die Familie zu schaffen. Führt den **Schaf- und Wollhof** der Familie in [Skirraa](../../../Orte/Skirraa.md) weiter - Herde, Schur und Stoffherstellung -, auch während Tibuns rund achtjähriger Reise (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)).
 
 Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen und sie wegteleportieren. Semunds rascher Ersatz ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang**.
 
 **Bei Tibuns Rückkehr nimmt er ihn auf** (Autor, 18.09.2026). Der Sohn, der ohne Abschied ging und nun an der Tabustelle baut, **wohnt zunächst auf dem Hof**. Semund duldet ihn neutral bis familiär - fern vom Ring und unter Vermeidung des Themas.
 
-**Die Duldung hat eine Grenze.** Nachdem die [Wala](Wala-Wandernd.md) die Stelle und Tibuns Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun den Hof verlassen** und zieht auf die Baustelle. **Fort weist ihn der Druck aus dem Weiler** (Autor, 23.09.2026) - Semund tut es nicht aus eigenem Entschluss, er gibt nach. **[Millia](Millia.md) treibt den Auszug mit voran** (Autor, 23.09.2026).
+**Die Duldung hat eine Grenze.** Nachdem die [Wala](Wala-Wandernd.md) die Stelle und Tibuns Tun **erneut und härter als Tabu** kennzeichnet, **muss Tibun den Hof verlassen** und zieht auf die Baustelle. **Fort weist ihn der Druck aus dem Weiler** (Autor, 23.09.2026) - Semund tut es nicht aus eigenem Entschluss, er gibt nach. **[Mildirun](Mildirun.md) treibt den Auszug mit voran** (Autor, 23.09.2026).
 
 ---
 
@@ -69,9 +70,9 @@ Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen u
 - Mutter: [Randwara](Randwara.md)
 - Vater (tot): [Sigrik](Sigrik.md)
 - Ehefrau (verschwunden): [Girlin](../Girlin.md)
-- Zweite Ehefrau: [Millia](Millia.md)
+- Zweite Ehefrau: [Mildirun](Mildirun.md)
 - Sohn: [Tibun](../Tibun.md)
-- Tochter: [Randi](Randi.md)
+- Tochter: [Randlaug](Randlaug.md)
 
 ---
 

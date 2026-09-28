@@ -20,7 +20,7 @@
 | **Mutter** | [Girlin](../../Nordvolk/Girlin.md) (bei den Kel Aman: Gilint) |
 | **Vater** | [Sekkan u-Iddar](Sekkan.md) - bei der Geburt nicht da, er ist mit einer Karawane unterwegs (Autor, 09.09.2026) |
 | **Großeltern** | [Tanast](Tanast.md) und [Iddar](Iddar.md) - sie nehmen Girlin an als Mutter ihrer Enkelin (Autor, 10.09.2026) |
-| **Halbgeschwister** | [Tibun](../../Nordvolk/Tibun.md), [Randi](../../Nordvolk/Nebenfiguren/Randi.md) |
+| **Halbgeschwister** | [Tibun](../../Nordvolk/Tibun.md), [Randlaug](../../Nordvolk/Nebenfiguren/Randlaug.md) |
 
 ---
 
@@ -50,7 +50,7 @@ Geboren in **Jahr +4** in der Wüste, im Clan. **Ab Jahr +5** lebt sie mit [Girl
 - Vater: [Sekkan](Sekkan.md)
 - Großeltern: [Tanast](Tanast.md), [Iddar](Iddar.md)
 - Großonkel: [Ishman](Ishman.md)
-- Halbgeschwister: [Tibun](../../Nordvolk/Tibun.md), [Randi](../../Nordvolk/Nebenfiguren/Randi.md)
+- Halbgeschwister: [Tibun](../../Nordvolk/Tibun.md), [Randlaug](../../Nordvolk/Nebenfiguren/Randlaug.md)
 
 ---
 

@@ -64,5 +64,50 @@ Innerhalb des Jahres gilt dreierlei nebeneinander:
 
 ---
 
+## Namensmuster (Autor, 31.08.2026, überarbeitet 28.09.2026)
+
+1. **Zweigliedrig.** Jeder Urname besteht aus zwei Sinngliedern aus dem Vorrat unten.
+2. **Rufname ist Urname oder Kurzform.** Kurzform = Erstglied + Koseendung. Viele Figuren tragen den Urnamen als Rufnamen.
+3. **Koseendungen** (Autor, 31.08.2026, erweitert 28.09.2026):
+
+   | Endung | für | Beleg aus Runeninschriften |
+   |---|---|---|
+   | `-un` | m. | - |
+   | `-ila` | m. | *wiwila* (Veblungsnes, Norwegen, erste Hälfte 6. Jh.) |
+   | `-in`, `-a` | w. | - |
+   | `-o` | w. | *lamo* (Skovgarde, Dänemark), *fino* (Berga, Schweden) - ob Frauennamen, ist in der Forschung umstritten |
+   | `-so` | w. | *hariso* (Himlingoje, Seeland) - der Stammvokal bleibt: *Hari-so* |
+   | `-u` | w. | *mairlu* (Tanem, Norwegen) |
+   | `-i` | beide | - |
+
+   Belege nach [Jacobsson, *Men and women in the older runic inscriptions of Scandinavia*](https://www.khm.uio.no/english/research/publications/7th-symposium-preprints/documents/Jacobsson.pdf) und [Nordic Socio-onomastics](https://www.nordicsocioonomastics.org/a-personal-names-status-change/) (Veblungsnes).
+4. **Bindevokal - möglich, nicht Pflicht** (Autor, 28.09.2026). Der Stammvokal des Erstglieds kann zwischen den Gliedern stehen, wie in Runeninschriften der Zeit: *Hlewagastir* (Gallehus, Südjütland, um 400), *Hathuwulafr*, *Hariwulafr* (Istaby, 7. Jh.). Beide Formen gelten: [Fridugund](../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) trägt ihn, ihr Vater [Fridmund](../../Menschen/Nordvolk/Nebenfiguren/Fridmund.md) nicht.
+5. **Vatersname statt Familienname:** `-sun` (Sohn) / `-dohtar` (Tochter). *Tibun Semundsun.*
+6. **Keine Götterelemente.** `Thor-`, `Tiw-`, `Ing-` sind ausgeschlossen - sie führten die Götternamen am [Epitheta-Prinzip](#religion---epitheta-prinzip) vorbei wieder ein.
+7. **Keine Sonderzeichen.** Deutsche Tastatur: `th` statt Thorn, `d` statt Eth, keine Längenstriche.
+
+**Elementvorrat**
+
+| Erstglied | mit Bindevokal | Bedeutung | Zweitglied | Bedeutung |
+|---|---|---|---|---|
+| `Hroth-` | `Hrothi-` | Ruhm | `-rik` | mächtig |
+| `Theud-` | `Theudo-` | Volk | `-bern` | Bär |
+| `Gair-` | `Gaira-` | Speer | `-mund` | Schutz |
+| `Hathu-`, `Gunth-` | `Hathu-`, `Gunthi-` | Kampf | `-gast` | Gast, Fremder |
+| `Hari-` | `Hari-` | Heer | `-harja` | Heer |
+| `Wulf-` | `Wulfa-` | Wolf | `-mar` | berühmt |
+| `Rand-` | ??? | Schild | `-wulf` | Wolf |
+| `Sig-` | `Sigi-` | Sieg | `-stein` | Stein |
+| `Aud-` | `Auda-` | Besitz, Glück | `-lind` | Lindenschild, mild *(w.)* |
+| `Frid-` | `Fridu-` | Frieden | `-hild`, `-gund` | Kampf *(w.)* |
+| `Land-` | `Landa-` | Land | `-run` | Geheimnis *(w.)* |
+| `Mild-` | `Mildi-` | mild | `-frid` | Frieden *(w.)* |
+| `Wid-` | `Widu-` | Wald, weit | `-wara` | Hüterin *(w.)* |
+| `Thrud-` | `Thrudi-` | Kraft | `-laug` | geweiht *(w.)* |
+
+> **Belege für den Bindevokal:** `Hathu-`, `Hari-` (Istaby) und `Widu-` (Himlingoje, Seeland: *widuhudar*) aus Runeninschriften. Die übrigen Formen folgen rekonstruierten Namensformen des Urgermanischen (Wiktionary: *Hrothiriks*, *Theudoriks*, *Gaizariks*, *Gunthiharjaz*, *Wulfariks*, *Sigimunduz*, *Audawulfaz*, *Frithuriks*). `Mildi-` ist nur erschlossen, ein Namensbeleg fehlt. Für `Rand-` sind die Quellen uneinheitlich.
+
+---
+
 ## Sprache und Redewendungen
 Noch nicht ausgearbeitet.

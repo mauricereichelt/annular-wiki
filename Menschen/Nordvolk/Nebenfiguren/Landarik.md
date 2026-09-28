@@ -35,7 +35,7 @@
 
 ## Bedeutung in der Geschichte
 
-Reist von auswärts nach [Skirraa](../../../Orte/Skirraa.md) und bittet um [Fridas](Frida.md) Hand für seinen Sohn [Gunthar](Gunthar.md). Die Verlobung wird beim Großbauern besiegelt - für die Familien ein **Bündnis zwischen Höfen**, für [Tibun](../Tibun.md) das Ende seiner Hoffnung.
+Reist von auswärts nach [Skirraa](../../../Orte/Skirraa.md) und bittet um [Fridugunds](Fridugund.md) Hand für seinen Sohn [Gunthar](Gunthar.md). Die Verlobung wird beim Großbauern besiegelt - für die Familien ein **Bündnis zwischen Höfen**, für [Tibun](../Tibun.md) das Ende seiner Hoffnung.
 
 Reine Funktionsfigur der Verlobungsszene: **Nach dem Prolog taucht er nicht wieder auf** (Autor, 23.09.2026).
 
@@ -44,7 +44,7 @@ Reine Funktionsfigur der Verlobungsszene: **Nach dem Prolog taucht er nicht wied
 ## Verbindungen zu anderen Charakteren
 
 - Sohn: [Gunthar](Gunthar.md)
-- Arrangiert die Ehe mit: [Frida](Frida.md)
+- Arrangiert die Ehe mit: [Fridugund](Fridugund.md)
 
 ---
 

@@ -17,7 +17,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
-- [C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ○](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -48,7 +47,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-027: Bellbrim - Vorgeschichte, Familie & Fähigkeiten ✓](#c-027-bellbrim---vorgeschichte-familie--fähigkeiten-)
 - [C-028: Azzim u-Tawan - Herkunft & Hintergrund ✓](#c-028-azzim-u-tawan---herkunft--hintergrund-)
 - [C-029: Azzim u-Tawan - Charakter, Motivation & Fähigkeiten ✓](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)
-- [C-030: Randis Alter ✓](#c-030-randis-alter-)
+- [C-030: Randlaugs Alter ✓](#c-030-randlaugs-alter-)
 - [C-031: Tibun - Inspiration/Besetzung ✓](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ✓](#c-032-girlin---inspirationbesetzung-)
 - [C-033: Nebenfiguren - eigene Dateien & strukturierte Felder ✓](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)
@@ -60,16 +59,16 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-041: Bernstein - Geschenk der Mutter ✓](#c-041-prolog---bernstein-fundort-)
-- [C-042: Prolog - Nebenfiguren Frida, Gunthar, Landarik ✓](#c-042-prolog---nebenfiguren-frida-gunthar-landarik-)
+- [C-042: Prolog - Nebenfiguren Fridugund, Gunthar, Landarik ✓](#c-042-prolog---nebenfiguren-fridugund-gunthar-landarik-)
 - [C-043: Herzschmerz-Rahmen bleibt, Bernstein der Mutter als Bezug ✓](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Bernstein - Kindheitsfund an der Küste, kein Geheimnis ✓](#c-044-herkunft-von-girlins-bernstein-)
 - [C-045: Semund - offene Felder ✓](#c-045-semund---offene-felder-)
-- [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
-- [C-047: Randi - offene Felder ✓](#c-047-randi---offene-felder-)
+- [C-046: Mildirun - offene Felder ✓](#c-046-mildirun---offene-felder-)
+- [C-047: Randlaug - offene Felder ✓](#c-047-randlaug---offene-felder-)
 - [C-048: Hadurik - offene Felder ✓](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ✓](#c-049-wala-von-tingsal---offene-felder-)
 - [C-050: Wandernde Wala - offene Felder ✓](#c-050-wandernde-wala---offene-felder-)
-- [C-051: Frida - offene Felder ✓](#c-051-frida---offene-felder-)
+- [C-051: Fridugund - offene Felder ✓](#c-051-fridugund---offene-felder-)
 - [C-052: Gunthar - offene Felder ✓](#c-052-gunthar---offene-felder-)
 - [C-053: Landarik - offene Felder ✓](#c-053-landarik---offene-felder-)
 - [C-054: Tingsal - Halle & Thing sind nur Weltenbau ✓](#c-054-tingsal---halle--thinggeschehen-)
@@ -86,7 +85,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-066: Prolog - Bernstein-Herkunft nachziehen ✓](#c-066-prolog---bernstein-herkunft-nachziehen-)
 - [C-067: Gunthar und Landarik - ortsfremd, keine Freundschaft ✓](#c-067-prolog---rollen-von-gunthar-und-landarik-nachziehen-)
 - [C-068: Prolog - Brand und Brandblasen nachziehen ✓](#c-068-prolog---brand-und-brandblasen-nachziehen-)
-- [C-069: Frida - leiblicher Vater, kein Stiefvater ✓](#c-069-prolog---fridas-familie-und-stiefvater-)
+- [C-069: Fridugund - leiblicher Vater, kein Stiefvater ✓](#c-069-prolog---fridugunds-familie-und-stiefvater-)
 - [C-070: Prolog - Dateikopf und Versionszeile ✓](#c-070-prolog---dateikopf-und-versionszeile-)
 - [C-071: Liebesgeständnis statt Heiratsantrag ✓](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
 - [C-072: Prolog - Textfassung 2.2 oder 2.3 ✓](#c-072-prolog---textfassung-22-oder-23-)
@@ -94,8 +93,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-074: Haptik der Ringoberfläche ✓](#c-074-haptik-der-ringoberfläche-)
 - [C-075: Ist das Ringmaterial ein Metall? ✓](#c-075-ist-das-ringmaterial-ein-metall-)
 - [C-076: Abklingdauer des grünen Leuchtens ✓](#c-076-abklingdauer-des-grünen-leuchtens-)
-- [C-077: Tibun und Randi nach Girlins Verschwinden ✓](#c-077-tibun-und-randi-nach-girlins-verschwinden-)
-- [C-078: Tibuns Verhältnis zu Millia ✓](#c-078-tibuns-verhältnis-zu-millia-)
+- [C-077: Tibun und Randlaug nach Girlins Verschwinden ✓](#c-077-tibun-und-randlaug-nach-girlins-verschwinden-)
+- [C-078: Tibuns Verhältnis zu Mildirun ✓](#c-078-tibuns-verhältnis-zu-mildirun-)
 - [C-079: Albträume ja - der Traum zur Winde hilft bei der Idee ✓](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
@@ -204,6 +203,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-187: Geladene Kette - Hinweis fürs Schreiben ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)
 - [C-189: Der Weiler-Konflikt - Auszug vom Hof, eigene Szene ✓](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
 - [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
+- [C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ✓](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)
 
 ---
 
@@ -582,10 +582,10 @@ Eingetragen in [Portalringe.md](../Technik/Portalringe.md).
   1. **Bernstein** - Material für seinen Reibungsgenerator (C-002).
   2. **Wissen über den Portalring** - der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../Menschen/Nordvolk/Girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional - der frühere Zweifel am Reisegrund ist ausgeräumt.
   3. **Mechanik allgemein** - Handwerk und Technik für seine späteren Erfindungen.
-  4. **Schmerz/Aufbruch:** Semunds **rascher** neuer Bund mit [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) (alle halten Girlin für tot) ist für Tibun ein Verrat - denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
+  4. **Schmerz/Aufbruch:** Semunds **rascher** neuer Bund mit [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) (alle halten Girlin für tot) ist für Tibun ein Verrat - denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
 - **Hof:** **Semund** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
 
-**Verwandtschaft & Millia geklärt:** Semund = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Millia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun - der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt - und treibt ihn mit fort. Überall vereinheitlicht.
+**Verwandtschaft & Mildirun geklärt:** Semund = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Mildirun (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun - der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt - und treibt ihn mit fort. Überall vereinheitlicht.
 **Zeitliche Einordnung** der Wanderschaft: geklärt in [C-023 ✓](#c-023-zeitleiste--altersgerüst-) (Aufbruch Jahr +1 mit 17, Rückkehr Jahr +9 mit 25).
 
 ---
@@ -594,13 +594,13 @@ Eingetragen in [Portalringe.md](../Technik/Portalringe.md).
 
 Vollständiges Altersgerüst in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) festgelegt (Jahre relativ zu Girlins Verschwinden = Jahr 0; Ankerfigur Tibun, Alter = 16 + Jahr):
 - **Auftakt (Jahr 0):** Tibun **16** entdeckt den Bernstein-Effekt, versteht ihn noch nicht. *(Korrigiert 04.09.2026 - stand vorher als Prolog in Jahr −1 mit Tibun 15; Jahr −1 entfällt, siehe [C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-).)*
-- **Verschwinden (Jahr 0):** Tibun **16**, Girlin **34**, Semund **35**, Randi **9**.
+- **Verschwinden (Jahr 0):** Tibun **16**, Girlin **34**, Semund **35**, Randlaug **9**.
 - **Aufbruch (Jahr +1):** Tibun **17** verlässt Skirraa (~1 Jahr nach dem Verschwinden).
 - **Wanderschaft:** ~**8 Jahre**; Erkenntnismoment + Tischmodell-Prototyp in **Kaupvik** (löst den früheren Ordnungs-Konflikt: Reise/Kaupvik → Idee → Bau).
 - **Rückkehr (Jahr +9):** Tibun **25**, direkt zum Ring.
-- **Finale (Jahr +10):** Tibun **26** vollendet die große Wasseranlage und zündet den Ring; Girlin **44**, Semund **45**, Bellbrim **50**, Randi **19**.
+- **Finale (Jahr +10):** Tibun **26** vollendet die große Wasseranlage und zündet den Ring; Girlin **44**, Semund **45**, Bellbrim **50**, Randlaug **19**.
 - **Parallelität gelöst:** Girlin ist **genau 10 Jahre** in der Wüste (Jahr 0 → +10). Tibuns erste Zündung und die Reaktivierung in der Wüste sind **dasselbe Ereignis** (beide Ringe flippen simultan, C-012) - kein Zufall.
-- **Semund/Millia:** überall auf **rasch** vereinheitlicht (konsistent mit C-022).
+- **Semund/Mildirun:** überall auf **rasch** vereinheitlicht (konsistent mit C-022).
 Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 
 ---
@@ -642,7 +642,7 @@ Im Wüsten-Arc überlebt sie zehn Winter, verständigt sich mit [Bellbrim](../Me
 
 **Entschieden (Autor, 31.08.2026):**
 
-**Sie ist willensstark und zäh - aber ihr Wille gilt ihren Kindern, nicht einem Ort.** Das ist die entscheidende Unterscheidung. Sie will nicht „heim". Sie will [Tibun](../Menschen/Nordvolk/Tibun.md) und [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) zurück - und, noch davor: sie **wissen lassen, dass es ihr gut geht**.
+**Sie ist willensstark und zäh - aber ihr Wille gilt ihren Kindern, nicht einem Ort.** Das ist die entscheidende Unterscheidung. Sie will nicht „heim". Sie will [Tibun](../Menschen/Nordvolk/Tibun.md) und [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) zurück - und, noch davor: sie **wissen lassen, dass es ihr gut geht**.
 
 **Sie lernt die Sprache aktiv**, weil sie erkennt, dass ihr das hilft. Keine Verweigerung, kein Rückzug: Sie arbeitet an ihrer Lage, statt sie zu erleiden. (Dauer und Verlauf → offene Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).)
 
@@ -773,9 +773,9 @@ Nachgezogen: [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md). Geschlossen.
 
 ---
 
-### C-030: Randis Alter ✓
+### C-030: Randlaugs Alter ✓
 
-[Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) ist **7 Jahre jünger** als Tibun: **9** (Jahr 0) / 19 (Finale). *(Die frühere Angabe 8 im Prolog entfällt mit Jahr −1.)* Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
+[Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) ist **7 Jahre jünger** als Tibun: **9** (Jahr 0) / 19 (Finale). *(Die frühere Angabe 8 im Prolog entfällt mit Jahr −1.)* Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
 
 ---
 
@@ -798,7 +798,7 @@ Vorbild/Besetzung für [Girlin](../Menschen/Nordvolk/Girlin.md) noch offen. Auto
 ### C-033: Nebenfiguren - eigene Dateien & strukturierte Felder ✓
 
 Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Nebenfiguren/` je Region (nach [charakter-template.md](../Menschen/Charakter-Template.md)), mit README-Index. Wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher.
-- **Nordvolk:** [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
+- **Nordvolk:** [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
 - **Walas:** als **zwei getrennte Dateien** angelegt (sesshaft/wandernd, Zwillingsschwestern), Rollen weiter offen.
 - **Kel Aman & Andere:** Ordner + README-Index angelegt, noch ohne Figuren.
 - SUMMARY.md, Region-READMEs und alle eingehenden Links (u. a. [tibun.md](../Menschen/Nordvolk/Tibun.md), [girlin.md](../Menschen/Nordvolk/Girlin.md), [zeitleiste.md](../Plots/Plot-1/Zeitleiste.md), [tingsal.md](../Orte/Tingsal.md), [sonstiges.md](../Orte/sonstiges.md)) nachgezogen; alte Sammel-`nebenfiguren.md` entfernt.
@@ -905,17 +905,17 @@ Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland is
 
 **Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie *(präzisiert 21.09.2026: kein Geheimnis, sie wird nie gefragt, siehe [C-044](#c-044-herkunft-von-girlins-bernstein-))* - **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein-)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-). **Umsetzung in der Szene offen** (siehe [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-)).
 
-**Geschlossen (21.09.2026):** Auf Autorenebene ist nichts mehr offen. Gemeint ist der **Bernsteinanhänger an Tibuns Kette**, den er schon lange trägt (Autor, 04.09.2026) und den Frida am Verlobungstag nicht annimmt - nicht der Bernstein für das Rad, den er in Kaupvik sammelt. Die Frage nach dem Fundort ist damit gegenstandslos. Offen bleibt nur, was eine eigene Challenge hat: die **Herkunft** des Steins ([C-044](#c-044-herkunft-von-girlins-bernstein-)) und die **Umsetzung in der Szene** ([C-066](#c-066-prolog---bernstein-herkunft-nachziehen-), ruht bis November). Nachgetragen in [Girlin](../Menschen/Nordvolk/Girlin.md#frühes-leben), [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein) und der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt) - die Entscheidung stand bisher nur hier.
+**Geschlossen (21.09.2026):** Auf Autorenebene ist nichts mehr offen. Gemeint ist der **Bernsteinanhänger an Tibuns Kette**, den er schon lange trägt (Autor, 04.09.2026) und den Fridugund am Verlobungstag nicht annimmt - nicht der Bernstein für das Rad, den er in Kaupvik sammelt. Die Frage nach dem Fundort ist damit gegenstandslos. Offen bleibt nur, was eine eigene Challenge hat: die **Herkunft** des Steins ([C-044](#c-044-herkunft-von-girlins-bernstein-)) und die **Umsetzung in der Szene** ([C-066](#c-066-prolog---bernstein-herkunft-nachziehen-), ruht bis November). Nachgetragen in [Girlin](../Menschen/Nordvolk/Girlin.md#frühes-leben), [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein) und der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt) - die Entscheidung stand bisher nur hier.
 
 ---
 
-### C-042: Prolog - Nebenfiguren Frida, Gunthar, Landarik ✓
+### C-042: Prolog - Nebenfiguren Fridugund, Gunthar, Landarik ✓
 
-Die Szene führt **Frida** (Liebe Tibuns), **Gunthar** (Sohn des Bootsbauers, Tibuns Freund) und **Landarik** (Bootsbauer) ein - keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)). Frida taucht im späteren Kanon nicht wieder auf - Rolle klären.
+Die Szene führt **Fridugund** (Liebe Tibuns), **Gunthar** (Sohn des Bootsbauers, Tibuns Freund) und **Landarik** (Bootsbauer) ein - keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-)). Fridugund taucht im späteren Kanon nicht wieder auf - Rolle klären.
 
-**Entschieden:** **Frida** = Mädchen aus Skirraa (lokal). **Gunthar** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" - schärft Tibuns Stich. **Landarik** = Gunthars Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-) **angelegt** ([Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog---rollen-von-gunthar-und-landarik-nachziehen-)) - die Namen stimmen, die Rollen noch nicht.
+**Entschieden:** **Fridugund** = Mädchen aus Skirraa (lokal). **Gunthar** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" - schärft Tibuns Stich. **Landarik** = Gunthars Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren---eigene-dateien--strukturierte-felder-) **angelegt** ([Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog---rollen-von-gunthar-und-landarik-nachziehen-)) - die Namen stimmen, die Rollen noch nicht.
 
-**Restliche offene Felder** je Figur ausgelagert: [C-051 Frida](#c-051-frida---offene-felder-), [C-052 Gunthar](#c-052-gunthar---offene-felder-), [C-053 Landarik](#c-053-landarik---offene-felder-).
+**Restliche offene Felder** je Figur ausgelagert: [C-051 Fridugund](#c-051-fridugund---offene-felder-), [C-052 Gunthar](#c-052-gunthar---offene-felder-), [C-053 Landarik](#c-053-landarik---offene-felder-).
 
 **Geschlossen (21.09.2026):** Auf Autorenebene ist hier nichts mehr offen. Die Umsetzung in der Szene steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) ([C-067 ✓](#c-067-prolog---rollen-von-gunthar-und-landarik-nachziehen-)); die offenen Felder der drei Figuren laufen in C-051 bis C-053 weiter.
 
@@ -923,11 +923,11 @@ Die Szene führt **Frida** (Liebe Tibuns), **Gunthar** (Sohn des Bootsbauers, Ti
 
 ### C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ✓
 
-Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridas Verlobung mit Gunthar) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
+Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridugunds Verlobung mit Gunthar) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
 
-**Entschieden:** Herzschmerz-Rahmen (Frida) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog---bernstein-fundort-): Der Bernstein stammt von **Girlin**; **wenige Tage später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik - genau das Material, mit dem Tibun später den Ring zünden will.
+**Entschieden:** Herzschmerz-Rahmen (Fridugund) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog---bernstein-fundort-): Der Bernstein stammt von **Girlin**; **wenige Tage später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik - genau das Material, mit dem Tibun später den Ring zünden will.
 
-> **Korrigiert am 04.09.2026 (Autor):** Hier stand *Tibun verschenkt das Muttergeschenk an Frida*. Das ist falsch - **Tibun verschenkt die Kette nicht, Frida nimmt sie nicht an.** Die Kette hat er zudem **schon lange**, sie ist nicht neu. Der Payoff läuft damit über die **Abweisung**, nicht über eine Übergabe. Wie es von dort zum Funken kommt, ist offen · **???**
+> **Korrigiert am 04.09.2026 (Autor):** Hier stand *Tibun verschenkt das Muttergeschenk an Fridugund*. Das ist falsch - **Tibun verschenkt die Kette nicht, Fridugund nimmt sie nicht an.** Die Kette hat er zudem **schon lange**, sie ist nicht neu. Der Payoff läuft damit über die **Abweisung**, nicht über eine Übergabe. Wie es von dort zum Funken kommt, ist offen · **???**
 
 **Geschlossen (21.09.2026):** Wie es von der Abweisung zum Funken kommt - was mit der Kette geschieht, woran sich der Stein auflädt, warum Tibun im Stall ist, ob der Fluss vorkommt -, **klärt der Autor im Szenentext** (Autor, 21.09.2026). Keine spätere Szene hängt daran; der Rahmen steht schon: Funke nach [C-039](#c-039-prolog---funke-entzündet-wolle-), Aufladen nur durch Reibung ([Elektrizität](../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)). Hinweis fürs Schreiben in [Szenen.md](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Nachgefragt, weil es spätere Szenen betrifft: **Tibun behält den Anhänger**, er ist ihm sehr wichtig (Autor, 21.09.2026) - eingetragen bei [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein).
 
@@ -955,7 +955,7 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 ### C-045: Semund - offene Felder ✓
 
-[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Millia) ist über [C-022](#c-022-tibuns-reise---dauer-motiv-hof-) geklärt - die Person dahinter nicht.
+[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Mildirun) ist über [C-022](#c-022-tibuns-reise---dauer-motiv-hof-) geklärt - die Person dahinter nicht.
 
 **Teilentscheidung (Autor, 08.09.2026):** Semunds Können liegt beim **Vieh** - Hirte und Züchter, der den Tieren ansieht, was ihnen fehlt. Bei Menschen hat er diese Sicherheit nicht: **schweigsam, arbeitet statt zu reden, hält aus.** Genau daran entzündet sich [Tibuns](../Menschen/Nordvolk/Tibun.md) Vorwurf - der Vater sagt nichts und macht weiter. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md). **Weiter offen:** frühes Leben, Inspiration.
 
@@ -975,18 +975,18 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 **Randwara (Autor, 24.09.2026):** bekommt eine **eigene Figurendatei**, tritt in **Szenen vor Tibuns Aufbruch (Jahr 0/+1)** auf und **stirbt während Tibuns Reise**. Ihre übrigen Felder (Alter, Herkunft, frühes Leben, Fähigkeiten, Szenen, Todesjahr, Inspiration) stehen auf `???`. *Nachtrag 24.09.2026:* inzwischen beantwortet, siehe [Randwara.md](../Menschen/Nordvolk/Nebenfiguren/Randwara.md); ihr Mann heißt **Sigrik**.
 
-**Fridun (Autor, 24.09.2026):** bekommt ebenfalls eine **eigene Figurendatei** - *„Genau so wie auch Fridun eigentlich..."* Seine offenen Felder stehen auf `???`. *Nachtrag 24.09.2026:* inzwischen beantwortet bis auf die Inspiration, siehe [Fridun.md](../Menschen/Nordvolk/Nebenfiguren/Fridun.md); seine Frau heißt **Widgund** und hat eine eigene Datei.
+**Fridmund (Autor, 24.09.2026):** bekommt ebenfalls eine **eigene Figurendatei** - *„Genau so wie auch Fridmund eigentlich..."* Seine offenen Felder stehen auf `???`. *Nachtrag 24.09.2026:* inzwischen beantwortet bis auf die Inspiration, siehe [Fridmund.md](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md); seine Frau heißt **Widgund** und hat eine eigene Datei.
 
-- [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Satz, sie übernehme Webstuhl und Herd, weil ein Haus eine Herrin braucht, **bleibt** trotz Randwara im Haus (Autor, 24.09.2026).
-- Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randwara.md](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Fridun.md](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Tibun.md](../Menschen/Nordvolk/Tibun.md) und [Randi.md](../Menschen/Nordvolk/Nebenfiguren/Randi.md).
+- [Mildiruns](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) Satz, sie übernehme Webstuhl und Herd, weil ein Haus eine Herrin braucht, **bleibt** trotz Randwara im Haus (Autor, 24.09.2026).
+- Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randwara.md](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Fridmund.md](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Tibun.md](../Menschen/Nordvolk/Tibun.md) und [Randlaug.md](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md).
 
 ---
 
-### C-046: Millia - offene Felder ✓
+### C-046: Mildirun - offene Felder ✓
 
-[Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md): Alter, Herkunft, Fähigkeiten, Inspiration standen auf `???`. Ihre Funktion (Girlins frühere Freundin, Semunds schneller Ersatz) war geklärt; Vorgeschichte und Charakter nicht.
+[Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md): Alter, Herkunft, Fähigkeiten, Inspiration standen auf `???`. Ihre Funktion (Girlins frühere Freundin, Semunds schneller Ersatz) war geklärt; Vorgeschichte und Charakter nicht.
 
-**Teilentscheidung (Autor, 08.09.2026):** Millia ist **etwa so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (gleicher Jahrgang, etwa 34 in Jahr 0; exakte Zahl nicht festgelegt) und stammt **aus [Skirraa](../Orte/Skirraa.md)** selbst - dort aufgewachsen, daher die Freundschaft. Damit ist der Ersatz weder eine jüngere noch eine fremde Frau: Es gibt für [Tibun](../Menschen/Nordvolk/Tibun.md) nichts zu benennen, was falsch wäre.
+**Teilentscheidung (Autor, 08.09.2026):** Mildirun ist **etwa so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (gleicher Jahrgang, etwa 34 in Jahr 0; exakte Zahl nicht festgelegt) und stammt **aus [Skirraa](../Orte/Skirraa.md)** selbst - dort aufgewachsen, daher die Freundschaft. Damit ist der Ersatz weder eine jüngere noch eine fremde Frau: Es gibt für [Tibun](../Menschen/Nordvolk/Tibun.md) nichts zu benennen, was falsch wäre.
 
 ---
 
@@ -995,11 +995,11 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 | Frage | Antwort |
 |---|---|
 | **Vorher gebunden?** | **Witwe.** Ihr Mann ist tot. Zwei Verwaiste finden zusammen; der Weiler findet daran nichts. |
-| **Eigene Kinder** | **Keine.** Sie bringt niemanden mit ins Haus - [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) bekommt keine fremden Geschwister. |
-| **Fähigkeiten** | **Nichts Besonderes.** Tüchtig und mehr nicht. Am Webstuhl steht sie, weil einer dort stehen muss; Randi webt besser. |
-| **Zu Girlins Kindern** | **Zu Randi findet sie einen Weg, zu Tibun nicht.** Beim Kind gelingt es, beim Sechzehnjährigen nicht. |
+| **Eigene Kinder** | **Keine.** Sie bringt niemanden mit ins Haus - [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) bekommt keine fremden Geschwister. |
+| **Fähigkeiten** | **Nichts Besonderes.** Tüchtig und mehr nicht. Am Webstuhl steht sie, weil einer dort stehen muss; Randlaug webt besser. |
+| **Zu Girlins Kindern** | **Zu Randlaug findet sie einen Weg, zu Tibun nicht.** Beim Kind gelingt es, beim Sechzehnjährigen nicht. |
 
-**Präzisierung zu [C-078 ✓](#c-078-tibuns-verhältnis-zu-millia-)** (Autor, 10.09.2026): **Tibun hasst sie nicht - er hat aber auch kein Interesse an einer guten Beziehung.** *„Er will seine Mutter zurück haben."* Die bisherige Formulierung *„gutes Verhältnis zu Millia"* war damit zu warm: Es ist kein gutes Verhältnis, sondern die **Abwesenheit eines Vorwurfs**. Nachgezogen in [Szenen 10, 11, 12](../Plots/Plot-1/Szenen.md).
+**Präzisierung zu [C-078 ✓](#c-078-tibuns-verhältnis-zu-mildirun-)** (Autor, 10.09.2026): **Tibun hasst sie nicht - er hat aber auch kein Interesse an einer guten Beziehung.** *„Er will seine Mutter zurück haben."* Die bisherige Formulierung *„gutes Verhältnis zu Mildirun"* war damit zu warm: Es ist kein gutes Verhältnis, sondern die **Abwesenheit eines Vorwurfs**. Nachgezogen in [Szenen 10, 11, 12](../Plots/Plot-1/Szenen.md).
 
 **Dass sie nichts Besonderes kann, ist der Punkt.** An ihr gibt es nichts zu bewundern und nichts zu beanstanden. Wer sie ablehnen will, muss es ohne Grund tun - und genau das kann Tibun nicht, weshalb der Konflikt bei [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) bleibt, wo er hingehört.
 
@@ -1007,13 +1007,13 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 ---
 
-### C-047: Randi - offene Felder ✓
+### C-047: Randlaug - offene Felder ✓
 
-[Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-randis-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt - sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
+[Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-randlaugs-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt - sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
 
-**Teilentscheidung (Autor, 08.09.2026):** Randi bekommt eine eigene Rolle: **Sie empfängt den zurückgekehrten [Tibun](../Menschen/Nordvolk/Tibun.md)** - mit **18**, nach acht Jahren *(korrigiert 18.09.2026: 18 bei der Rückkehr, 19 erst im Finale)*. Sie ist damit die Instanz, vor der sein Weggang eine Rechnung hat.
+**Teilentscheidung (Autor, 08.09.2026):** Randlaug bekommt eine eigene Rolle: **Sie empfängt den zurückgekehrten [Tibun](../Menschen/Nordvolk/Tibun.md)** - mit **18**, nach acht Jahren *(korrigiert 18.09.2026: 18 bei der Rückkehr, 19 erst im Finale)*. Sie ist damit die Instanz, vor der sein Weggang eine Rechnung hat.
 
-Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md)** - die Kunst der Mutter ist an sie gegangen, nicht an die Frau am Webstuhl. Und sie ist als Erwachsene **ruhig, ihrem Vater [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) sehr ähnlich** ([C-045](#c-045-semund---offene-felder-): schweigsam, arbeitet statt zu reden).
+Charakter: **Sie webt besser als [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md)** - die Kunst der Mutter ist an sie gegangen, nicht an die Frau am Webstuhl. Und sie ist als Erwachsene **ruhig, ihrem Vater [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) sehr ähnlich** ([C-045](#c-045-semund---offene-felder-): schweigsam, arbeitet statt zu reden).
 
 **Das ist die schärfste Pointe des Nordstrangs:** Tibun wirft dem Vater vor, dass er nichts sagt und weitermacht - und findet bei der Rückkehr genau das in seiner Schwester wieder. Aus dem verspielten, neugierigen Kind ist die stille Erwachsene geworden, während er weg war.
 
@@ -1023,24 +1023,24 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 |---|---|
 | **Der Empfang** | Sie ist **wütend**; die Verletztheit darüber, dass er sie verlassen hat, bricht in einem **Wutanfall** heraus |
 | **Ruhe und Wut** | **Einmal, dann still** - der Ausbruch gilt nur ihm, danach ist sie wieder die Stille |
-| **Wo** | **Eigene Szene bei seiner Ankunft** (*Randi empfängt ihn*); *Randi hält ihn für verloren* bleibt das spätere Gespräch |
+| **Wo** | **Eigene Szene bei seiner Ankunft** (*Randlaug empfängt ihn*); *Randlaug hält ihn für verloren* bleibt das spätere Gespräch |
 | **Der Webkamm** | Sie weiß es **von Anfang an** und hat **nie etwas gesagt** |
 
-Damit bekommt das Verlassen in +9 **doch eine eigene Szene** - [C-077 ✓](#c-077-tibun-und-randi-nach-girlins-verschwinden-) hatte keine vorgesehen. Die Pointe (er findet bei ihr das Schweigen des Vaters) bleibt: Nach dem einen Ausbruch ist sie still.
+Damit bekommt das Verlassen in +9 **doch eine eigene Szene** - [C-077 ✓](#c-077-tibun-und-randlaug-nach-girlins-verschwinden-) hatte keine vorgesehen. Die Pointe (er findet bei ihr das Schweigen des Vaters) bleibt: Nach dem einen Ausbruch ist sie still.
 
 **Anmerkung (Claude):** Den Diebstahl, den sie ihm vorhalten könnte, erwähnt sie nie. Heraus bricht, was sich nicht vorhalten lässt wie ein Gegenstand - dass er ohne ein Wort ging.
 
-Nachgezogen: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
+Nachgezogen: [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
 
-**Entschieden (Autor, 18.09.2026):** Randi ist bei Tibuns Rückkehr **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../Orte/Skirraa.md) oder in der Nähe. Sie steht ihm nicht mehr als Kind des Hofes gegenüber, sondern als erwachsene Frau mit eigenem Haus. Wer der Mann ist, wann geheiratet wurde und ob es Kinder gibt: ???
+**Entschieden (Autor, 18.09.2026):** Randlaug ist bei Tibuns Rückkehr **verheiratet** und hat einen **eigenen Haushalt** in [Skirraa](../Orte/Skirraa.md) oder in der Nähe. Sie steht ihm nicht mehr als Kind des Hofes gegenüber, sondern als erwachsene Frau mit eigenem Haus. Wer der Mann ist, wann geheiratet wurde und ob es Kinder gibt: ???
 
 **Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026). Sie kommt nicht zur Werkstatt - ebenso wenig wie die neugierigen Kinder. Damit ändert sich [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-): Es gibt am Bau **keine Verbindung zum Weiler** mehr → [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-). Der Kontakt zu ihr bleibt, er findet nur **anderswo** statt.
 
 **Die Begegnungen finden im Weiler statt** (Autor, 18.09.2026): Tibun wohnt zunächst auf [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof und geht auch später für Vorräte und zu ihr in den Weiler ([C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)). **Er trägt den Kontakt, nicht sie.**
 
-**Anmerkung (Claude):** Für *Randi hält ihn für verloren* schärft das die Szene: Sie hält ihn für verloren, **ohne den Bau je gesehen zu haben** - sie kennt nur, was er ihr sagt.
+**Anmerkung (Claude):** Für *Randlaug hält ihn für verloren* schärft das die Szene: Sie hält ihn für verloren, **ohne den Bau je gesehen zu haben** - sie kennt nur, was er ihr sagt.
 
-> **Korrigiert (18.09.2026):** Hier und in [Randi.md](../Menschen/Nordvolk/Nebenfiguren/Randi.md) stand, sie empfange Tibun **mit 19**. Bei der **Rückkehr (+9)** ist sie **18**; 19 ist ihr Stand im **Finale (+10)**.
+> **Korrigiert (18.09.2026):** Hier und in [Randlaug.md](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) stand, sie empfange Tibun **mit 19**. Bei der **Rückkehr (+9)** ist sie **18**; 19 ist ihr Stand im **Finale (+10)**.
 
 **Weiter offen:** frühes Leben, Inspiration, Ehemann, Zeitpunkt der Heirat, Kinder.
 
@@ -1049,7 +1049,7 @@ Nachgezogen: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Tibun](../Men
 | | |
 |---|---|
 | **Ehemann** | [**Wulfstein**](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) (Urname, Wolf + Stein) - eigene Figurendatei |
-| **Heirat** | **Jahr +8**, Randi ist 17 |
+| **Heirat** | **Jahr +8**, Randlaug ist 17 |
 | **Kinder** | bei Tibuns Rückkehr (+9) **keine** |
 | **Empfang** | **auf Semunds Hof**; Wulfstein ist **nicht dabei** - *Nachtrag 25.09.2026:* er ist auf der Jagd |
 | **Haushalt** | *Nachtrag 25.09.2026:* **in Skirraa** (statt „in Skirraa oder in der Nähe") |
@@ -1057,7 +1057,7 @@ Nachgezogen: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Tibun](../Men
 | **Inspiration** | Jennie Jacques aus der Serie „Vikings" |
 | **Alter beim Tod des letzten Kindes** | **8** (Jahr -1) statt „7 oder 8"; ebenso Tibun **15** in [C-097](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-) |
 
-Nachgezogen: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (Szene 38). Geschlossen.
+Nachgezogen: [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (Szene 38). Geschlossen.
 ---
 
 ### C-048: Hadurik - offene Felder ✓
@@ -1130,33 +1130,33 @@ Nachgezogen: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Wulfstein](..
 
 ---
 
-### C-051: Frida - offene Felder ✓
+### C-051: Fridugund - offene Felder ✓
 
-[Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog---nebenfiguren-frida-gunthar-landarik-)): Tritt sie nach dem Prolog noch einmal auf?
+[Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog---nebenfiguren-fridugund-gunthar-landarik-)): Tritt sie nach dem Prolog noch einmal auf?
 
-**Teilentscheidung (Autor, 08.09.2026):** Frida ist im Prolog **16**, gleicher Jahrgang wie [Tibun](../Menschen/Nordvolk/Tibun.md). Ein **Wiederauftreten nach dem Prolog ist möglich, aber unwichtig** - der Plot hängt nicht daran, festgelegt ist nichts. Eingetragen in [Frida.md](../Menschen/Nordvolk/Nebenfiguren/Frida.md). **Weiter offen:** Fähigkeiten, Inspiration, Name ihres Vaters.
+**Teilentscheidung (Autor, 08.09.2026):** Fridugund ist im Prolog **16**, gleicher Jahrgang wie [Tibun](../Menschen/Nordvolk/Tibun.md). Ein **Wiederauftreten nach dem Prolog ist möglich, aber unwichtig** - der Plot hängt nicht daran, festgelegt ist nichts. Eingetragen in [Fridugund.md](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md). **Weiter offen:** Fähigkeiten, Inspiration, Name ihres Vaters.
 
 **Entschieden (Autor, 23.09.2026):**
 
 | | |
 |---|---|
-| **Name des Vaters** | **Fridun** |
+| **Name des Vaters** | **Fridmund** |
 | **Fähigkeiten** | **Keine besonderen** |
 | **Wiederauftreten** | **Ja** - **vor Tibuns Aufbruch (Jahr 0/+1)** und **bei seiner Rückkehr (+9/+10)** |
 | **Begegnung mit Tibun** | **Ja**, beide Male |
 | **In welcher Lage** | Klärt der Autor beim Schreiben |
 | **Inspiration** | Georgia Hirst aus der Serie „Vikings" |
 
-- Fridun ist die Kurzform von **Fridmund** (Frieden + Schutz, Autor, 23.09.2026) nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-).
-- Eingetragen in [Frida.md](../Menschen/Nordvolk/Nebenfiguren/Frida.md).
+- Fridmund ist die Kurzform von **Fridmund** (Frieden + Schutz, Autor, 23.09.2026) nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-).
+- Eingetragen in [Fridugund.md](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md).
 
 ---
 
 ### C-052: Gunthar - offene Felder ✓
 
-[Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog---nebenfiguren-frida-gunthar-landarik-)).
+[Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog---nebenfiguren-fridugund-gunthar-landarik-)).
 
-**Teilentscheidung (Autor, 08.09.2026):** Gunthar ist im Prolog **17-18** - kaum älter als [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) und [Tibun](../Menschen/Nordvolk/Tibun.md). Damit werden zwei fast Gleichaltrige verheiratet: Die Väter handeln, die Beteiligten nicht. Kein Altersgefälle, das Fridas Unglück erklären würde - es reicht, dass niemand sie gefragt hat. **Wiederauftreten möglich, aber unwichtig** (wie [C-051](#c-051-frida---offene-felder-)). Eingetragen in [Gunthar.md](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md). **Weiter offen:** Fähigkeiten, Inspiration.
+**Teilentscheidung (Autor, 08.09.2026):** Gunthar ist im Prolog **17-18** - kaum älter als [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) und [Tibun](../Menschen/Nordvolk/Tibun.md). Damit werden zwei fast Gleichaltrige verheiratet: Die Väter handeln, die Beteiligten nicht. Kein Altersgefälle, das Fridugunds Unglück erklären würde - es reicht, dass niemand sie gefragt hat. **Wiederauftreten möglich, aber unwichtig** (wie [C-051](#c-051-fridugund---offene-felder-)). Eingetragen in [Gunthar.md](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md). **Weiter offen:** Fähigkeiten, Inspiration.
 
 **Entschieden (Autor, 23.09.2026):**
 
@@ -1198,7 +1198,7 @@ Nachgezogen: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Wulfstein](..
 
 [Tingsal](../Orte/Tingsal.md) ist als Häuptlingssitz und Thingplatz gesetzt, aber die **Halle** (Aufbau, Größe, Nutzung) und der **Ablauf eines Things** sind nicht ausgearbeitet. Relevant, sobald eine Szene dort spielt. Historisch verankerbar an der Hallenkultur der Vendelzeit. Berührt [C-009](#c-009-häuptling-von-tingsal-) (Hadurik als Hausherr).
 
-**Entschieden (Autor, 15.09.2026): In Plot 1 spielt keine Szene in Tingsal** - weder in der Halle noch beim Thing. Tingsal wird nur erwähnt (Semund und Millia reisen dorthin). Halle und Thing sind damit **Weltenbau**; ausgearbeitet werden sie erst, wenn eine Geschichte dort spielt. Eingetragen in [Tingsal](../Orte/Tingsal.md).
+**Entschieden (Autor, 15.09.2026): In Plot 1 spielt keine Szene in Tingsal** - weder in der Halle noch beim Thing. Tingsal wird nur erwähnt (Semund und Mildirun reisen dorthin). Halle und Thing sind damit **Weltenbau**; ausgearbeitet werden sie erst, wenn eine Geschichte dort spielt. Eingetragen in [Tingsal](../Orte/Tingsal.md).
 
 ---
 
@@ -1267,7 +1267,7 @@ Neuer Beat aus der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil-
 
 Offene Punkte:
 - **Womit experimentiert er?** Die Skizze notiert „(Wasserrad / **Turm ???**)" - Wasserrad ist gesetzt, ein Turm als zweite Bauform ist die offene Frage des Autors. Ein Turm wäre eine deutlich größere, sichtbarere Konstruktion im Weiler und bräuchte einen Zweck (Fallhöhe? Aussicht?).
-- **Wer** wird verletzt (Nebenfigur oder [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md)?) und **wie schwer**?
+- **Wer** wird verletzt (Nebenfigur oder [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md)?) und **wie schwer**?
 - Ist der Unfall **Mitauslöser** für Tibuns Aufbruch? Die Skizze setzt ihn direkt davor - das legt eine Kausalkette (Schuld → Flucht) nahe, die die Zeitleiste noch nicht kennt.
 
 **Ergänzung aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 7):** Dort experimentiert Tibun mit dem **„Blitzeffekt"** und verletzt dabei jemanden - nicht am Wasserrad. Das ist mit dem Kanon **nicht vereinbar**: [C-002](#c-002-tibuns-elektrizitätsquelle-) und [Elektrizität](../Technik/Elektrizitaet.md) legen fest, dass statische Entladung einen schmerzhaften Funken erzeugt, aber **keine Verletzung** - die Gefahr am Generator kommt ausdrücklich aus dem *mechanischen* Teil. Dieselbe Kollision wurde im Prolog schon einmal gelöst ([C-039](#c-039-prolog---funke-entzündet-wolle-)).
@@ -1276,7 +1276,7 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 
 **Teilentschieden (Autor, 02.09.2026) - fürs Buch-Gerüst festgehalten:**
 - **Der Unfall passiert.** Das steht fest und ist damit gesetzter Bestandteil der Ereigniskette (Jahr 0/+1).
-- **Verletzt wird eine Nebenfigur** - nicht [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), nicht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md).
+- **Verletzt wird eine Nebenfigur** - nicht [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), nicht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md).
 - **Wirkung - dreifach:** Schuld, Gewissenslast **und Ausschluss durch die Dorfbewohner**. Zusammen mit dem Ring treibt ihn das fort; er geht nicht nur zu etwas hin, sondern auch von etwas weg.
 
 **Bewusst noch nicht entschieden · ???**
@@ -1319,8 +1319,8 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 **Der Gegenentwurf zu Semund steht damit:** Ein Mann, der mit ihm arbeitet, ihm etwas beibringt und ihn behält - gegen den Vater, der schweigt und weitermacht.
 
 - Eingetragen in [Kaupvik](../Orte/Kaupvik.md), [Vegamot](../Orte/Vegamot.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szene 15](../Plots/Plot-1/Szenen.md).
-- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Urform wie bei Hadurik und Gunthar, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** (Kurzform von *Sighild* - Sieg + Kampf). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
-- **Nachgetragen (Autor, 25.09.2026):** Audmar ist in Jahr 0 **etwa 45**, Siga **etwa 42**. Sigas Gewerbe: **Netze und Fisch**.
+- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Urform wie bei Hadurik und Gunthar, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **Siga** (Kurzform von *Sighild* - Sieg + Kampf; seit 28.09.2026 [Harihild](../Menschen/Nordvolk/Nebenfiguren/Harihild.md)). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
+- **Nachgetragen (Autor, 25.09.2026):** Audmar ist in Jahr 0 **etwa 45**, Harihild **etwa 42**. Harihilds Gewerbe: **Netze und Fisch**.
 - **Präzisiert (Autor, 25.09.2026):** Die Abmachung bleibt **Kost gegen Arbeit**, „nüchtern“ entfällt: Beide sind ihm gegenüber **offen und warmherzig**. Später sehen sie **etwas wie einen Sohn** in ihm und hoffen, er bleibt oder kommt wieder; sie sagen es ihm **beim Abschied, einmal**.
 - **Händlerzug (Autor, 25.09.2026):** Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft**.
 
@@ -1426,9 +1426,9 @@ Die Prolog-Szene *Die Entdeckung* steht wieder auf der **Originalfassung des Aut
 
 > **Nachgeprüft am 05.09.2026:** Die Datei trägt inzwischen die Kopfzeile **„ver 2.3"**, nicht mehr 2.2 - [C-072 ✓](#c-072-prolog---textfassung-22-oder-23-) ist dort umgesetzt. An der Lage ändert das nichts: die Kanon-Anpassungen fehlen in beiden Fassungen gleichermaßen. Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** - der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
 
-Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-) (Schauplatz), [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-) (Milieu), [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-) (Bernstein), [C-067](#c-067-prolog---rollen-von-gunthar-und-landarik-nachziehen-) (Gunthar/Landarik), [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-) (Feuer), [C-069](#c-069-prolog---fridas-familie-und-stiefvater-) (Fridas Familie), [C-070](#c-070-prolog---dateikopf-und-versionszeile-) (Dateikopf), [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-) (Alter).
+Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-) (Schauplatz), [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-) (Milieu), [C-066](#c-066-prolog---bernstein-herkunft-nachziehen-) (Bernstein), [C-067](#c-067-prolog---rollen-von-gunthar-und-landarik-nachziehen-) (Gunthar/Landarik), [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-) (Feuer), [C-069](#c-069-prolog---fridugunds-familie-und-stiefvater-) (Fridugunds Familie), [C-070](#c-070-prolog---dateikopf-und-versionszeile-) (Dateikopf), [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-) (Alter).
 
-[C-038](#c-038-prolog---ortsmaßstab-in-skirraa-), [C-040](#c-040-prolog---fischerdorf-vs-heide-weiler-), [C-041](#c-041-prolog---bernstein-fundort-) und [C-042](#c-042-prolog---nebenfiguren-frida-gunthar-landarik-) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt - die inhaltlichen Entscheidungen selbst bleiben gültig.
+[C-038](#c-038-prolog---ortsmaßstab-in-skirraa-), [C-040](#c-040-prolog---fischerdorf-vs-heide-weiler-), [C-041](#c-041-prolog---bernstein-fundort-) und [C-042](#c-042-prolog---nebenfiguren-fridugund-gunthar-landarik-) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt - die inhaltlichen Entscheidungen selbst bleiben gültig.
 
 **Geschlossen (Autor, 21.09.2026):** Alle Kanon-Anpassungen sind entschieden. Was im Szenentext nachzuziehen ist, steht als Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt) - ohne C-Nummern, damit sie auch ohne diese Datei lesbar bleibt. Die Szene selbst ruht weiter bis November. Zum Begriff: Die alte Szene *Die Entdeckung* ist seit dem 04.09.2026 **nicht mehr der Prolog**, sondern Szene 2 im Anfang; der Prolog ist nur das Beben.
 
@@ -1460,7 +1460,7 @@ Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 ents
 
 ### C-067: Prolog - Rollen von Gunthar und Landarik nachziehen ✓
 
-In der Szene ist **Landarik** der Bootsbauer **aus dem Dorf** und **Gunthar** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog---nebenfiguren-frida-gunthar-landarik-) und in [Gunthar.md](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md)/[Landarik.md](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Gunthar die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Gunthar erhalten bleiben soll - sie schärft den Stich anders als die Fremdheit.
+In der Szene ist **Landarik** der Bootsbauer **aus dem Dorf** und **Gunthar** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog---nebenfiguren-fridugund-gunthar-landarik-) und in [Gunthar.md](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md)/[Landarik.md](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Gunthar die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Gunthar erhalten bleiben soll - sie schärft den Stich anders als die Fremdheit.
 
 **Entschieden (Autor, 21.09.2026):** **Keine Freundschaft** - Gunthar bleibt ortsfremd, Tibun kennt ihn kaum. Damit bleibt nur Textarbeit; steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
 
@@ -1474,13 +1474,13 @@ In der Szene fangen Wollreste **Feuer**, Tibun löscht mit bloßen Händen und t
 
 ---
 
-### C-069: Prolog - Fridas Familie und Stiefvater ✓
+### C-069: Prolog - Fridugunds Familie und Stiefvater ✓
 
-Die Szene gibt Frida eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-frida---offene-felder-)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug - und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-))? Danach Wiki-Datei nachtragen.
+Die Szene gibt Fridugund eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-fridugund---offene-felder-)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug - und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-))? Danach Wiki-Datei nachtragen.
 
-**Entschieden (Autor, 21.09.2026):** Frida hat ihren **leiblichen Vater**, einen Bauern aus Skirraa - wie in [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) schon geführt. Stiefvater und zugezogene Mutter entfallen, die Frage nach dem Gewerbe damit auch. Der Name des Vaters bleibt in [C-051](#c-051-frida---offene-felder-). Textarbeit steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
+**Entschieden (Autor, 21.09.2026):** Fridugund hat ihren **leiblichen Vater**, einen Bauern aus Skirraa - wie in [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) schon geführt. Stiefvater und zugezogene Mutter entfallen, die Frage nach dem Gewerbe damit auch. Der Name des Vaters bleibt in [C-051](#c-051-fridugund---offene-felder-). Textarbeit steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Geschlossen.
 
-*Nachtrag 24.09.2026:* Fridas Mutter [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) stammt von auswärts, aus einem anderen Weiler. Auf die Frage, ob das der Streichung der zugezogenen Mutter widerspricht: **beides gilt** (Autor, 24.09.2026).
+*Nachtrag 24.09.2026:* Fridugunds Mutter [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) stammt von auswärts, aus einem anderen Weiler. Auf die Frage, ob das der Streichung der zugezogenen Mutter widerspricht: **beides gilt** (Autor, 24.09.2026).
 
 ---
 
@@ -1494,15 +1494,15 @@ Die Szene begann mit einer Textzeile statt einer Markdown-Überschrift; Versions
 
 ### C-071: Prolog - Tibuns Alter und Heiratsantrag ✓
 
-In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Landariks Bitte)?
+In der Szene will Tibun **um Fridugunds Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Landariks Bitte)?
 
 > **Aktualisiert am 04.09.2026:** Tibun ist in dieser Szene **16**, nicht 15 - Bernstein-Effekt und Verschwinden liegen beide in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Die Frage bleibt, das Alter ändert sich.
 
 **Historischer Befund (Claude, 14.09.2026):** Ein eigener Antrag passt nicht. In den frühen germanischen Rechten wird die Ehe zwischen den Familien geschlossen: Der Vormund der Braut, meist der Vater, gibt sie, und der Bräutigam oder seine Sippe verhandelt und zahlt den Brautpreis. Ein Sechzehnjähriger ohne eigenen Hof wird dabei nicht ernst genommen. Genau so läuft es im Prolog bei Landarik, der für seinen Sohn anfragt. **Einschränkung:** Die Quellen sind jünger als 550 (festländische Volksrechte ab dem 6. Jh., nordische Rechte erst 12./13. Jh.). Für Jütland um 550 gibt es keine direkte Überlieferung, nur den gemeinsamen Grundzug.
 
-**Autor (14.09.2026):** Wenn der Antrag historisch nicht passt, ändert er die Szene. **Vielleicht will Tibun Frida nur seine Liebe gestehen** - noch nicht festgelegt · ???
+**Autor (14.09.2026):** Wenn der Antrag historisch nicht passt, ändert er die Szene. **Vielleicht will Tibun Fridugund nur seine Liebe gestehen** - noch nicht festgelegt · ???
 
-**Entschieden (Autor, 21.09.2026):** **Liebesgeständnis, kein Antrag.** Tibun will Frida sagen, was er fühlt - das passt zum historischen Befund oben. Eingetragen in [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md#bedeutung-in-der-geschichte) und [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein). Geschlossen.
+**Entschieden (Autor, 21.09.2026):** **Liebesgeständnis, kein Antrag.** Tibun will Fridugund sagen, was er fühlt - das passt zum historischen Befund oben. Eingetragen in [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt), [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md#bedeutung-in-der-geschichte) und [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein). Geschlossen.
 
 ---
 
@@ -1515,7 +1515,7 @@ Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheide
 **Geschlossen (Autor, 05.09.2026).** Die Entscheidung war getroffen und ausgeführt, der Marker stand nur nicht nach; mit der bis November ruhenden Szene ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)) bleibt hier nichts offen.
 
 Die Unterschiede (2.2 → 2.3):
-1. „Als Tibun **Frida** das erste mal sah" → „Als Tibun **sie** …" - besser, der Name steht zwei Sätze vorher.
+1. „Als Tibun **Fridugund** das erste mal sah" → „Als Tibun **sie** …" - besser, der Name steht zwei Sätze vorher.
 2. „Platz für die vielen **Schafe**" → „für die vielen **Tiere**" - schlechter: im selben Satz folgt „Geruch der vielen Tiere".
 3. „Doch **nun** brachte ihn das Ganze auf eine andere Idee" → „Doch **damals** …" - **Zeitbruch:** „damals" verweist in die Kindheitserinnerung, der Folgesatz spielt aber im Stall.
 4. „Tibun rieb den Stein **nun** schneller" → ohne „nun" - hängt an Punkt 3, verstärkt den fehlenden Zeitanker.
@@ -1569,11 +1569,11 @@ Nicht bloß Kosmetik - die Dauer entscheidet mit über [C-014](#c-014-karawanen-
 **Entschieden (Autor, 08.09.2026):** **3 Sekunden**, gerechnet **ab dem Moment, in dem Flip bzw. Transport abgeschlossen ist** - mit stetig abnehmender Helligkeit, kein abruptes Erlöschen. Damit gilt die alte Autorennotiz („einige Sekunden") in präzisierter Form. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). **Folge für [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-):** Drei abklingende Sekunden reichen nicht, damit jemand erst durch das Licht aufmerksam wird. Wer den Ring in der Wüste leuchten sieht, muss ohnehin schon hingesehen haben - oder das Auffällige ist nicht das Licht, sondern was danach dasteht.
 ---
 
-### C-077: Tibun und Randi nach Girlins Verschwinden ✓
+### C-077: Tibun und Randlaug nach Girlins Verschwinden ✓
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 5): *„Er muss sich um seine kleine Schwester kümmern."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) und im Wiki vollständig.
 
-Die Zahlen tragen den Beat: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
+Die Zahlen tragen den Beat: [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
 
 ---
 
@@ -1581,35 +1581,35 @@ Die Zahlen tragen den Beat: [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) 
 
 | Frage | Antwort |
 |---|---|
-| **Kümmert er sich?** | **Nein. Er zieht sich zurück.** Er sucht die Mutter, statt sich um die Schwester zu kümmern; Randi bleibt allein. |
+| **Kümmert er sich?** | **Nein. Er zieht sich zurück.** Er sucht die Mutter, statt sich um die Schwester zu kümmern; Randlaug bleibt allein. |
 | **Abschied beim Aufbruch** | **Keiner.** Er geht ohne ein Wort - sie ist zehn. |
 | **Was sie denkt** | **Sie fühlt sich verlassen.** Zweiter Verlust in zwei Jahren. |
-| **Wie es erzählt wird** | **Beiläufig in den bestehenden Szenen von Jahr 0 und +1** und **noch einmal aufgerufen bei der Rückkehr** in +9. **Keine eigene Szene.** *(11.09.2026: Der Empfang in +9 bekommt doch eine → [C-047](#c-047-randi---offene-felder-).)* |
+| **Wie es erzählt wird** | **Beiläufig in den bestehenden Szenen von Jahr 0 und +1** und **noch einmal aufgerufen bei der Rückkehr** in +9. **Keine eigene Szene.** *(11.09.2026: Der Empfang in +9 bekommt doch eine → [C-047](#c-047-randlaug---offene-felder-).)* |
 
 **Der Skizzen-Beat ist damit überholt.** *„Er muss sich um seine kleine Schwester kümmern"* gilt nicht mehr - er müsste, und er tut es nicht. Vermerkt in der [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
-**Was das für den Nordstrang bedeutet:** Tibuns Vorwurf an den Vater - der hält nicht an Girlin fest - steht jetzt neben seinem eigenen Versäumnis an der Schwester. Beide lassen jemanden zurück; nur der eine merkt es nicht. Das ist die Rechnung, die [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) mit 18 aufmacht ([C-047](#c-047-randi---offene-felder-)), und es schärft den Kontrast zu Jahr +9, wo er ihr von sich aus sagt, was er tut.
+**Was das für den Nordstrang bedeutet:** Tibuns Vorwurf an den Vater - der hält nicht an Girlin fest - steht jetzt neben seinem eigenen Versäumnis an der Schwester. Beide lassen jemanden zurück; nur der eine merkt es nicht. Das ist die Rechnung, die [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) mit 18 aufmacht ([C-047](#c-047-randlaug---offene-felder-)), und es schärft den Kontrast zu Jahr +9, wo er ihr von sich aus sagt, was er tut.
 
-- Eingetragen in [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md) (10, 13).
-- **Beantwortet nicht** die übrigen Felder von [C-047](#c-047-randi---offene-felder-) (frühes Leben, Inspiration, Webkamm, was sie ihm bei der Rückkehr sagt).
+- Eingetragen in [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md) (10, 13).
+- **Beantwortet nicht** die übrigen Felder von [C-047](#c-047-randlaug---offene-felder-) (frühes Leben, Inspiration, Webkamm, was sie ihm bei der Rückkehr sagt).
 
 ---
 
-### C-078: Tibuns Verhältnis zu Millia ✓
+### C-078: Tibuns Verhältnis zu Mildirun ✓
 
 Direkter Widerspruch zwischen den beiden Autorenfassungen:
 - **[Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 6):** *„Vater heiratet neu (Melia). Tibun mag Melia nicht."*
 - **[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) (Tibun 3):** *„Tibun hat nichts gegen sie, verurteilt aber seinen Vater, weil er die Mutter aufgibt / zu früh"*
 
 Das Wiki folgt bisher der Skizze ([C-022 ✓](#c-022-tibuns-reise---dauer-motiv-hof-)). Die beiden Fassungen erzählen aber **verschiedene Geschichten**:
-- **Skizze:** Der Konflikt ist sauber auf [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) fokussiert. [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) bleibt unschuldig, was sie interessanter macht - sie war Girlins Freundin und steht selbst in einer unmöglichen Lage.
+- **Skizze:** Der Konflikt ist sauber auf [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) fokussiert. [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) bleibt unschuldig, was sie interessanter macht - sie war Girlins Freundin und steht selbst in einer unmöglichen Lage.
 - **Plot 1:** Klassischer Stiefmutter-Konflikt. Emotional unmittelbarer, aber deutlich abgegriffener - und er verschiebt die Schuld weg vom Vater, wo sie dramaturgisch hingehört.
 
 **Tendenz (Claude): Skizze.** „Er hat nichts gegen sie und trotzdem hält er es nicht aus" ist der schwierigere und lohnendere Satz.
 
-**Aussage des Autors (07.09.2026):** In der Szene *Semunds und Millias Verlobung* ist Tibun **sauer trotz gutem Verhältnis zu Millia** ([Szenen.md](../Plots/Plot-1/Szenen.md)). Das ist die **Skizzen-Fassung** - der Konflikt sitzt bei Semund, Millia bleibt unschuldig. Die Plot-1-Fassung ("Tibun mag Melia nicht") ist damit inhaltlich überholt. **Entschieden (Autor, 07.09.2026):** Die Skizzen-Fassung gilt.
+**Aussage des Autors (07.09.2026):** In der Szene *Semunds und Mildiruns Verlobung* ist Tibun **sauer trotz gutem Verhältnis zu Mildirun** ([Szenen.md](../Plots/Plot-1/Szenen.md)). Das ist die **Skizzen-Fassung** - der Konflikt sitzt bei Semund, Mildirun bleibt unschuldig. Die Plot-1-Fassung ("Tibun mag Melia nicht") ist damit inhaltlich überholt. **Entschieden (Autor, 07.09.2026):** Die Skizzen-Fassung gilt.
 
-**Präzisiert (Autor, 10.09.2026)** über [C-046 ✓](#c-046-millia---offene-felder-): *„Tibun hasst sie nicht. Er hat aber auch kein Interesse an einer guten Beziehung. Er will seine Mutter zurück haben."* **„Gutes Verhältnis" ist damit zu warm.** Es ist kein gutes Verhältnis, sondern die Abwesenheit eines Vorwurfs - er hat nichts gegen sie und will auch nichts von ihr. [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) findet zu [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) einen Weg, zu ihm nicht.
+**Präzisiert (Autor, 10.09.2026)** über [C-046 ✓](#c-046-mildirun---offene-felder-): *„Tibun hasst sie nicht. Er hat aber auch kein Interesse an einer guten Beziehung. Er will seine Mutter zurück haben."* **„Gutes Verhältnis" ist damit zu warm.** Es ist kein gutes Verhältnis, sondern die Abwesenheit eines Vorwurfs - er hat nichts gegen sie und will auch nichts von ihr. [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) findet zu [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) einen Weg, zu ihm nicht.
 
 ---
 
@@ -1657,7 +1657,7 @@ Berührt [C-060](#c-060-girlin-und-der-neffe-): In Plot 1 steht die Entführung 
 
 ### C-081: Girlins drittes Kind in der Wüste ✓
 
-Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* - es ist ihr **drittes** (nach Tibun und Randi). Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
+Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* - es ist ihr **drittes** (nach Tibun und Randlaug). Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
 
 [Girlin](../Menschen/Nordvolk/Girlin.md) ist **zehn Jahre** in der Wüste (Jahr 0 → +10, [C-023 ✓](#c-023-zeitleiste--altersgerüst-)), von 34 bis 44. Ein Kind in dieser Zeit ist biologisch selbstverständlich und folgt zwingend aus der Beziehung, die die Skizze ohnehin ansetzt ([C-060](#c-060-girlin-und-der-neffe-)). Die Frage ist nicht, ob es plausibel ist, sondern **was es mit dem Finale macht**.
 
@@ -1679,11 +1679,11 @@ Daraus folgt: Die Beziehung ([C-060](#c-060-girlin-und-der-neffe-)) beginnt spä
 
 **Vater entschieden (Autor, 31.08.2026): der Neffe des Häuptlings** → [C-060 ✓](#c-060-girlin-und-der-neffe-).
 
-**Folge aus dem beschlossenen Finale:** Girlin **bleibt** in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - die Wahl „Kind bleibt / Kind kommt mit / sie bleibt" ist damit zugunsten der dritten Möglichkeit entschieden, und zwar **bevor** Tibun ankommt. Der Rückkehr-Antrieb bricht dadurch nicht, weil er sich verlagert: nicht sie geht heim, sondern [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) soll geholt werden.
+**Folge aus dem beschlossenen Finale:** Girlin **bleibt** in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - die Wahl „Kind bleibt / Kind kommt mit / sie bleibt" ist damit zugunsten der dritten Möglichkeit entschieden, und zwar **bevor** Tibun ankommt. Der Rückkehr-Antrieb bricht dadurch nicht, weil er sich verlagert: nicht sie geht heim, sondern [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) soll geholt werden.
 
-**Entschieden (Autor, 09.09.2026): Es ist ein Mädchen und heißt [Tamant ult-Sekkan](../Menschen/Nordvolk/Girlin.md).** Damit zieht [Girlin](../Menschen/Nordvolk/Girlin.md) in der Wüste eine Tochter groß, während die erste - [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) - ohne sie aufwächst. Der Spiegel des Nordstrangs ist damit gesetzt, ohne dass ihn jemand aussprechen muss.
+**Entschieden (Autor, 09.09.2026): Es ist ein Mädchen und heißt [Tamant ult-Sekkan](../Menschen/Nordvolk/Girlin.md).** Damit zieht [Girlin](../Menschen/Nordvolk/Girlin.md) in der Wüste eine Tochter groß, während die erste - [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) - ohne sie aufwächst. Der Spiegel des Nordstrangs ist damit gesetzt, ohne dass ihn jemand aussprechen muss.
 
-**Randi erfährt es nicht im Buch.** Nach dem Ende reisen **Girlin und [Tibun](../Menschen/Nordvolk/Tibun.md) gemeinsam** in den Norden, um Randi zu sehen und zu holen - **das liegt außerhalb des Erzählten** (Autor, 09.09.2026). Das Buch endet vor dieser Reise; ob Randi je von Tamant erfährt, ist damit keine Frage mehr, die der Text beantwortet.
+**Randlaug erfährt es nicht im Buch.** Nach dem Ende reisen **Girlin und [Tibun](../Menschen/Nordvolk/Tibun.md) gemeinsam** in den Norden, um Randlaug zu sehen und zu holen - **das liegt außerhalb des Erzählten** (Autor, 09.09.2026). Das Buch endet vor dieser Reise; ob Randlaug je von Tamant erfährt, ist damit keine Frage mehr, die der Text beantwortet.
 
 **Weiterhin offen:** Wo Tamant während des Finales ist → [C-112](#c-112-das-wüstenkind-während-des-finales-). Wer bei ihrer Geburt hilft → [C-174](#c-174-wer-bei-tamants-geburt-hilft-) · **???**
 
@@ -1701,7 +1701,7 @@ Hängt unmittelbar an [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-): *
 
 **Entschieden (Autor, 31.08.2026): Sie reist gar nicht - sie hat sich entschieden zu BLEIBEN.**
 
-Die Frage war falsch gestellt. Nach zehn Jahren gibt Girlin die Rückkehr auf: Sie wählt das Wüstenkind und den Mann und begräbt Tibun und Randi in sich. **Der Entschluss fällt vor dem Kampf**, also bevor Tibun ankommt.
+Die Frage war falsch gestellt. Nach zehn Jahren gibt Girlin die Rückkehr auf: Sie wählt das Wüstenkind und den Mann und begräbt Tibun und Randlaug in sich. **Der Entschluss fällt vor dem Kampf**, also bevor Tibun ankommt.
 
 **Warum das die stärkere Fassung ist:** Sie hat den Preis **bereits bezahlt**, als ihr Sohn durch den Ring fällt. Damit ist das Wiedersehen eine **Gnade, die sie nicht mehr erwartet hat**, statt einer Belohnung für Ausdauer - und der Ring nimmt ihr nicht im letzten Moment die schwerste Wahl ihres Lebens ab. Der umgekehrte Weg (sie entscheidet sich zu reisen, dann kommt Tibun) hätte ihren Verzicht durch das Timing entwertet.
 
@@ -2005,22 +2005,22 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 | Name | Urform | Bedeutung | Ergebnis |
 |---|---|---|---|
-| **[Girlin](../Menschen/Nordvolk/Girlin.md)** | *Gairlind* | Speer + Lindenschild | **bleibt** - passt ohne Eingriff |
+| **[Girlin](../Menschen/Nordvolk/Girlin.md)** | *Gairalind* | Speer + Lindenschild | **bleibt** - passt ohne Eingriff. Urform mit Bindevokal (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)), vorher *Gairlind* |
 | **[Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md)** | *Hathurik* | Kampf + mächtig | **bleibt** - bereits korrekt zweigliedrig |
 | **Herik** → [**Gunthar**](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md) | *Gunthar* | Kampf + Heer | **umbenannt (Autor, 25.09.2026)** - vorher Urform *Haririk* (Heer + mächtig); durch das gemeinsame `-rik` wirkte er wie der Sohn [Haduriks](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). Urname ohne Kurzform, wie bisher |
 | **Lanke** → [**Landarik**](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) | *Landarik* | Land + mächtig | **umbenannt 23.09.2026** ([C-053 ✓](#c-053-landarik---offene-felder-)) - vorher Urform *Landwara*, doch `-wara` ist weiblich und `-e` keine Endung des Musters. Trägt jetzt den Urnamen |
-| **[Tibun](../Menschen/Nordvolk/Tibun.md)** | *Theudbern* | Volk + Bär | **bleibt** - Kurzform *Theubun* → Tibun |
-| **Semban** → [**Semund**](../Menschen/Nordvolk/Nebenfiguren/Semund.md) | *Sigmund* | Sieg + Schutz | **umbenannt** |
-| **Mellia** → [**Millia**](../Menschen/Nordvolk/Nebenfiguren/Millia.md) | *Mildhild* | mild + Kampf | **umbenannt** |
-| **Tara** → **Truda** → [**Randi**](../Menschen/Nordvolk/Nebenfiguren/Randi.md) | *Randhild* | Schild + Kampf | **umbenannt** - „Tara" ist irisch, kein germanisches Element passt. **Erneut umbenannt (Autor, 25.09.2026):** *Truda* (Urform *Thrudhild*, Kraft + Kampf) reimte sich auf [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md). Teilt `Rand-` mit ihrer Großmutter [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md) |
-| **Jolyl** → [**Frida**](../Menschen/Nordvolk/Nebenfiguren/Frida.md) | *Fridgund* | Frieden + Kampf | **umbenannt** - „Jolyl" war nicht deutbar |
+| **[Tibun](../Menschen/Nordvolk/Tibun.md)** | *Theudobern* | Volk + Bär | **bleibt** - Kurzform *Theubun* → Tibun. Urform mit Bindevokal (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)), vorher *Theudbern* |
+| **Semban** → [**Semund**](../Menschen/Nordvolk/Nebenfiguren/Semund.md) | *Sigimund* | Sieg + Schutz | **umbenannt**. Urform mit Bindevokal (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)), vorher *Sigmund* |
+| **Mellia** → **Millia** → [**Mildirun**](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) | *Mildirun* | mild + Geheimnis | **umbenannt**. **Erneut umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Millia* (Urform *Mildhild*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, mit Bindevokal |
+| **Tara** → **Truda** → **Randi** → [**Randlaug**](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) | *Randlaug* | Schild + geweiht | **umbenannt** - „Tara" ist irisch, kein germanisches Element passt. **Erneut umbenannt (Autor, 25.09.2026):** *Truda* (Urform *Thrudhild*, Kraft + Kampf) reimte sich auf *Frida* (heute [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md)). Teilt `Rand-` mit ihrer Großmutter [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md). **Erneut umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Randi* (Urform *Randhild*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, ohne Bindevokal |
+| **Jolyl** → **Frida** → [**Fridugund**](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) | *Fridugund* | Frieden + Kampf | **umbenannt** - „Jolyl" war nicht deutbar. **Erneut umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Frida* (Urform *Fridgund*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, mit Bindevokal |
 | **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** | *Audmar* | Glück, Besitz + berühmt | **neu 10.09.2026** - Urform, bewusst nicht auf `-un` ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
-| **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** | *Sighild* | Sieg + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
-| [**Fridun**](../Menschen/Nordvolk/Nebenfiguren/Fridun.md) | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform, Vater von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) ([C-051 ✓](#c-051-frida---offene-felder-)) |
+| **Siga** → [**Harihild**](../Menschen/Nordvolk/Nebenfiguren/Harihild.md) | *Harihild* | Heer + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)). **Umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Siga* (Urform *Sighild*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, mit Bindevokal |
+| **Fridun** → [**Fridmund**](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md) | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform *Fridun*; **umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)), trägt jetzt den Urnamen, ohne Bindevokal. Vater von [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) ([C-051 ✓](#c-051-fridugund---offene-felder-)) |
 | [**Randwara**](../Menschen/Nordvolk/Nebenfiguren/Randwara.md) | *Randwara* | Schild + Hüterin | **neu 24.09.2026** - Urname, Mutter von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) ([C-045 ✓](#c-045-semund---offene-felder-)) |
-| [**Sigrik**](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) | *Sigrik* | Sieg + mächtig | **neu 24.09.2026** - Urname, Vater von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), tot. Teilt `Sig-` mit *Sigmund* |
-| [**Widgund**](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) | *Widgund* | Wald, weit + Kampf | **neu 24.09.2026** - Urname, Mutter von [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), Frau von [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md). Teilt `-gund` mit *Fridgund* |
-| [**Wulfstein**](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) | *Wulfstein* | Wolf + Stein | **neu 25.09.2026** - Urname, Mann von [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) ([C-047 ✓](#c-047-randi---offene-felder-)) |
+| [**Sigrik**](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) | *Sigrik* | Sieg + mächtig | **neu 24.09.2026** - Urname, Vater von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), tot. Teilt `Sig-` mit *Sigimund* |
+| [**Widgund**](../Menschen/Nordvolk/Nebenfiguren/Widgund.md) | *Widgund* | Wald, weit + Kampf | **neu 24.09.2026** - Urname, Mutter von [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md), Frau von [Fridmund](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md). Teilt `-gund` mit *Fridugund* |
+| [**Wulfstein**](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md) | *Wulfstein* | Wolf + Stein | **neu 25.09.2026** - Urname, Mann von [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) ([C-047 ✓](#c-047-randlaug---offene-felder-)) |
 | **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk - wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).
@@ -2035,7 +2035,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 ### C-093: Prolog - Namen nach C-092 nachziehen ✓
 
-Die Szenenablage wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im *Prolog* steht deshalb weiter **Jolyl** statt **Frida** ([C-092](#c-092-namenssystem-des-nordvolks-)). Beim nächsten Überarbeitungsdurchgang nachziehen - zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
+Die Szenenablage wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im *Prolog* steht deshalb weiter **Jolyl** statt **Fridugund** ([C-092](#c-092-namenssystem-des-nordvolks-)). Beim nächsten Überarbeitungsdurchgang nachziehen - zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
 
 **Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
 
@@ -2085,7 +2085,7 @@ Der Ort wird **nicht abgesperrt und nicht bewacht** - er wird gemieden. Die Wala
 
 ### C-095: Wann gilt eine Verschwundene als tot - und wann darf Semund neu heiraten? ✓
 
-Semunds schnelle Neubindung an [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) ist ein tragender Konflikt zwischen ihm und [Tibun](../Menschen/Nordvolk/Tibun.md) - hing rechtlich aber bisher in der Luft. Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt die Frage als eigene A-Entscheidung.
+Semunds schnelle Neubindung an [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) ist ein tragender Konflikt zwischen ihm und [Tibun](../Menschen/Nordvolk/Tibun.md) - hing rechtlich aber bisher in der Luft. Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt die Frage als eigene A-Entscheidung.
 
 **Grundlage jetzt vorhanden:** Mit [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) erklärt die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) [Girlin](../Menschen/Nordvolk/Girlin.md) **öffentlich für tot**. Das ist kein Gerücht und keine Vermutung, sondern ein Spruch der höchsten religiösen Autorität, die die Region kennt - damit ist Semund **nicht Verlassener, sondern Witwer**, und eine neue Ehe ist regelkonform.
 
@@ -2095,7 +2095,7 @@ Semunds schnelle Neubindung an [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia
 - **Frist: ein Winter.** Semund darf im Jahr nach der Toterklärung neu heiraten, nicht früher. Das ist kurz genug, dass Tibun es als Verrat empfindet, und lang genug, dass es keiner ist.
 - **Der Spruch der Wala genügt.** Keine Beurkundung durch das [Thing](../Orte/Tingsal.md) nötig - die religiöse Autorität entscheidet über Leben und Tod einer Verschwundenen, nicht die rechtliche. Für [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) heißt das: Er hat mit der Sache zunächst nichts zu tun.
 
-**Ergänzt (Autor, 07.09.2026): Semund und Millia holen die Erlaubnis in [Tingsal](../Orte/Tingsal.md).** Die beiden reisen dorthin und lassen sich die Neubindung **von der Wala erlauben**; nach der Rückkehr folgt die **öffentliche Verlobung**. Semund will Tibun auf die Reise mitnehmen - Tibun will nicht. Beides steht als eigene Szene in [Szenen.md](../Plots/Plot-1/Szenen.md).
+**Ergänzt (Autor, 07.09.2026): Semund und Mildirun holen die Erlaubnis in [Tingsal](../Orte/Tingsal.md).** Die beiden reisen dorthin und lassen sich die Neubindung **von der Wala erlauben**; nach der Rückkehr folgt die **öffentliche Verlobung**. Semund will Tibun auf die Reise mitnehmen - Tibun will nicht. Beides steht als eigene Szene in [Szenen.md](../Plots/Plot-1/Szenen.md).
 
 Das widerspricht der Frist und dem Vorrang der religiösen Autorität nicht: Erlaubt wird die Ehe weiterhin von einer **Wala**, nicht vom Thing - Tingsal ist nur der Ort, an dem sie zu erreichen ist.
 
@@ -2111,15 +2111,15 @@ Das widerspricht der Frist und dem Vorrang der religiösen Autorität nicht: Erl
 
 | | |
 |---|---|
-| **[Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) erbt das Kleingut** | Schmuck, Fibeln, die Truhe - verwahrt, bis sie heiratet. Sie ist neun, also verwaltet es faktisch das Haus, und damit [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md). |
-| **Millia übernimmt Webstuhl und Herd** | Ein Gewichtswebstuhl ist kein Andenken, sondern das wichtigste Arbeitsgerät im Haus. Ihn zehn Winter ungenutzt stehen zu lassen, kann sich niemand leisten - Sentimentalität ist dieser Epoche fremd. Ein Haus braucht eine Herrin. |
+| **[Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) erbt das Kleingut** | Schmuck, Fibeln, die Truhe - verwahrt, bis sie heiratet. Sie ist neun, also verwaltet es faktisch das Haus, und damit [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md). |
+| **Mildirun übernimmt Webstuhl und Herd** | Ein Gewichtswebstuhl ist kein Andenken, sondern das wichtigste Arbeitsgerät im Haus. Ihn zehn Winter ungenutzt stehen zu lassen, kann sich niemand leisten - Sentimentalität ist dieser Epoche fremd. Ein Haus braucht eine Herrin. |
 | **[Tibun](../Menschen/Nordvolk/Tibun.md) erbt nichts** | Er ist der Einzige, der weiß, dass sie lebt - und der Einzige, dem nichts von ihr bleibt. |
-| **Er nimmt sich den Webkamm** | Ein Stück ihres Frauenguts, das rechtlich Randi zusteht. Ein kleiner Diebstahl an der eigenen Schwester, den er zehn Winter mit sich trägt. |
+| **Er nimmt sich den Webkamm** | Ein Stück ihres Frauenguts, das rechtlich Randlaug zusteht. Ein kleiner Diebstahl an der eigenen Schwester, den er zehn Winter mit sich trägt. |
 | **Die Herkunftssippe** | hat keinen Anspruch, weil Kinder da sind - **könnte** ihn aber erheben. Als Konfliktlinie verfügbar, nicht gesetzt. · **???** → [C-161](#c-161-erhebt-girlins-herkunftssippe-anspruch-) |
 
 **Warum der Webkamm und nicht ein Bernstein:** Der Bernstein ist im Plot bereits besetzt - er ist der Schlüssel zur [Elektrizität](../Technik/Elektrizitaet.md). Wäre das Erinnerungsstück an die Mutter zugleich das Werkzeug, das sie zurückholt, wird die Geschichte glatt und rutscht in Richtung Deus ex Machina. Der Webkamm ist besser, **weil er nichts kann**: Werkzeug statt Schmuck, Arbeit statt Wert. - **Regel dazu:** Der Kamm bleibt ein Kamm. Horn und Knochen laden sich beim Reiben zwar auf, aber daraus einen stillen Vorgriff auf Tibuns Entdeckung zu machen, wäre derselbe Fehler.
 
-**Die eigentliche Kränkung: niemand tut etwas Böses.** Der Webstuhl klappert weiter, nur mit anderen Händen. Für Tibun und Randi ist das die tägliche Bestätigung, dass die Mutter ersetzt wurde - und es gibt kein Unrecht, das man benennen könnte.
+**Die eigentliche Kränkung: niemand tut etwas Böses.** Der Webstuhl klappert weiter, nur mit anderen Händen. Für Tibun und Randlaug ist das die tägliche Bestätigung, dass die Mutter ersetzt wurde - und es gibt kein Unrecht, das man benennen könnte.
 
 **Ausdrücklich gestrichen (Autor):** die Frage, was rechtlich gilt, wenn eine für tot Erklärte nach zehn Wintern zurückkommt. Ein äußerst seltener Randfall - er wird nicht als Rechtsfrage behandelt. Was im Finale daraus wird, entscheidet die Erzählung, nicht das Recht → [C-082](#c-082-girlins-entscheidung-zur-rückreise-).
 
@@ -2137,7 +2137,7 @@ Das ist für 550 auffällig früh. Germanische Frauen heirateten nach den antike
 |---|---|---|---|---|---|
 | **Girlin** | 33 | **34** | 35 | 43 | **44** |
 
-Bei [Randis](../Menschen/Nordvolk/Nebenfiguren/Randi.md) Geburt war sie **25**. [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (35 beim Verschwinden) war bei Tibuns Geburt **19** - ein stimmiges Paar.
+Bei [Randlaugs](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) Geburt war sie **25**. [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (35 beim Verschwinden) war bei Tibuns Geburt **19** - ein stimmiges Paar.
 
 **Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Plot-1/README](../Plots/Plot-1/README.md), C-023, [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) (Wüstenjahre jetzt 34 → 44).
 
@@ -2147,14 +2147,14 @@ Bei [Randis](../Menschen/Nordvolk/Nebenfiguren/Randi.md) Geburt war sie **25**. 
 
 ### C-097: Girlins Kinderfolge - die neun Jahre Lücke ✓
 
-Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur---girlins-alter-)) fiel eine Lücke, die vorher niemandem auffiel: [Tibun](../Menschen/Nordvolk/Tibun.md) geboren bei [Girlin](../Menschen/Nordvolk/Girlin.md) **18**, [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) bei **25**, Verschwinden mit **34**. Sieben Jahre zwischen den Kindern, danach neun Jahre ohne ein weiteres - bei einer verheirateten Frau in einer Gesellschaft ohne Verhütung. Ohne Erklärung eine stille Abweichung vom Authentizitätsprinzip.
+Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur---girlins-alter-)) fiel eine Lücke, die vorher niemandem auffiel: [Tibun](../Menschen/Nordvolk/Tibun.md) geboren bei [Girlin](../Menschen/Nordvolk/Girlin.md) **18**, [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) bei **25**, Verschwinden mit **34**. Sieben Jahre zwischen den Kindern, danach neun Jahre ohne ein weiteres - bei einer verheirateten Frau in einer Gesellschaft ohne Verhütung. Ohne Erklärung eine stille Abweichung vom Authentizitätsprinzip.
 
 **Entschieden (Autor, 31.08.2026): Es gab drei weitere Kinder. Keines hat überlebt.**
 
 | | |
 |---|---|
-| **Eines** | zwischen Tibun und Randi (Girlin ~21-23) |
-| **Zwei** | nach Randi |
+| **Eines** | zwischen Tibun und Randlaug (Girlin ~21-23) |
+| **Zwei** | nach Randlaug |
 | **Das letzte** | **kurz vor Girlins Verschwinden** - **Jahr -1 (549)** (Autor, 24.09.2026, [C-045](#c-045-semund---offene-felder-)). *(Hier stand: ein bis zwei Winter davor, Girlin 32 oder 33, genaues Jahr ???)* |
 
 Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebenden Kindern. Das ist für 550 kein Unglück, sondern der **Durchschnitt** - grob jedes dritte bis vierte Kind erreichte das Erwachsenenalter nicht.
@@ -2162,8 +2162,8 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 #### Was das trägt
 
 - **Semunds Haus ist schon vor dem Ring ein Haus des Verlusts.** Als Girlin verschwindet, hat die Familie gerade erst ein Kind begraben. Das erklärt Sprachlosigkeit und Erschöpfung im Umgang mit dem Unerklärlichen - und macht [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) schnelle Wiederheirat ([C-095](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-)) lesbar: Er hat nicht ersetzt, er hat aufgehört zu verlieren.
-- **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Randi **kann** sie zurückholen - das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin---charakter--fähigkeiten-)).
-- **Randi war alt genug, um sich zu erinnern** (8), Tibun ebenfalls (15, also um die Zeit des *Prologs*). *(Angepasst 25.09.2026 an Jahr -1, Autor: hier stand 7 oder 8 bzw. 14 oder 15.)*
+- **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Randlaug **kann** sie zurückholen - das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin---charakter--fähigkeiten-)).
+- **Randlaug war alt genug, um sich zu erinnern** (8), Tibun ebenfalls (15, also um die Zeit des *Prologs*). *(Angepasst 25.09.2026 an Jahr -1, Autor: hier stand 7 oder 8 bzw. 14 oder 15.)*
 
 **Offen:** ob und wie es im Erzähltext sichtbar wird - ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???** → [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)
 
@@ -2237,7 +2237,7 @@ Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wa
 - **Womit baut er?** Bauholz, Arbeitskraft und Werkzeug sind in dieser Epoche teuer. Wovon bezahlt er das nach acht Jahren Wanderschaft? → [C-163](#c-163-womit-tibun-die-werkstatt-bezahlt-)
 - **Duldet oder verbietet das Dorf es?** Ein Tabubruch dieser Größe verlangt eine Reaktion - Warnung, Boykott, Gewalt, Anrufung des Things.
 - **Was tut die Wala?** Ihr Urteil hat den Sand zum Zeichen der Götter erklärt - Tibun stellt ein Dach darüber. **Dass sie zurückkehrt und bei ihrem Spruch bleibt, ist entschieden** (Autor, 08.09.2026, [C-050](#c-050-wandernde-wala---offene-felder-)); wie sie auf die Werkstatt reagiert, gehört zu [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-).
-- **Wie steht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) dazu**, und wie [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) → [C-077](#c-077-tibun-und-randi-nach-girlins-verschwinden-)?
+- **Wie steht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) dazu**, und wie [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) → [C-077](#c-077-tibun-und-randlaug-nach-girlins-verschwinden-)?
 - **Was rettet ihn davor, vertrieben zu werden?** Ohne Antwort steht die Werkstatt nicht zehn Monate, geschweige denn bis zum Finale.
 
 Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) und hält den Konduktor trocken *(11.09.2026: kein Konduktor - die Ladung sitzt auf dem Rad, [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-))* - was in Nordjütland das größte praktische Problem der ganzen Anlage ist. Der Bau löst also ein technisches Problem und schafft ein gesellschaftliches.
@@ -2247,12 +2247,12 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 **Entschieden (Autor, 02.09.2026) - der Konflikt ist Ansteckungsangst, kein Vertreibungskonflikt.**
 
 - **Das Dorf:** Die Bewohner **warnen** ihn; sie sind **ängstlich und ärgerlich**. **Niemand hilft ihm, er wird gemieden.**
-- **[Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) und neugierige Kinder meiden ihn nicht ganz** - die einzige verbliebene Verbindung zum Weiler. *(Geändert 18.09.2026: **Randi und die neugierigen Kinder meiden die Tabustelle ebenfalls** (Autor). **Niemand aus dem Weiler kommt an den Bau**; die einzige Ausnahme ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md). Der Kontakt zu Randi bleibt bestehen - siehe [C-047](#c-047-randi---offene-felder-) -, er findet nur woanders statt. Wo der Weiler-Konflikt Tibun erreicht: [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-).)*
+- **[Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) und neugierige Kinder meiden ihn nicht ganz** - die einzige verbliebene Verbindung zum Weiler. *(Geändert 18.09.2026: **Randlaug und die neugierigen Kinder meiden die Tabustelle ebenfalls** (Autor). **Niemand aus dem Weiler kommt an den Bau**; die einzige Ausnahme ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md). Der Kontakt zu Randlaug bleibt bestehen - siehe [C-047](#c-047-randlaug---offene-felder-) -, er findet nur woanders statt. Wo der Weiler-Konflikt Tibun erreicht: [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-).)*
 - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist **selber schuld**; die anderen wollen lediglich nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Die Frage *„Was rettet ihn vor der Vertreibung?"* ist damit gegenstandslos und gestrichen.
 - **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn**, neutral bis familiär - aber **nur fern vom Ring** und **unter Vermeidung des Themas**. *(Ergänzt 18.09.2026: Tibun **wohnt zunächst auf dem Hof**. Die Duldung hat eine Grenze - nach dem erneuten, härteren Spruch der Wala **muss er den Hof verlassen** und zieht auf die Baustelle. Wer ihn fortweist: [C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-).)*
 - **Die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing) *(11.09.2026: die Wala, nicht das Thing)*. Sie **sieht es sich an**, **deutet es wie zuvor** - er ist selber schuld - und **schärft jedem erneut ein, dass dieser Ort den Zorn der Götter auf einen lädt**. Sie **lässt ihn gewähren**.
   - Als Motiv im Raum, vom Autor mit *vielleicht* formuliert und deshalb nicht beschlossen: dass sie **selbst mehr über den Ring wissen möchte**, dabei aber ihr **Gesicht verlöre** · **???** → [C-050](#c-050-wandernde-wala---offene-felder-) *(11.09.2026: gilt, Autor)*
-- **Randi weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn **zur Vernunft bringen** → [C-077](#c-077-tibun-und-randi-nach-girlins-verschwinden-).
+- **Randlaug weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn **zur Vernunft bringen** → [C-077](#c-077-tibun-und-randlaug-nach-girlins-verschwinden-).
 
 **Weiterhin offen · ???** Womit er baut - Bauholz, Werkzeug und Arbeitskraft; da ihm niemand hilft, muss er alles allein bewältigen oder kaufen → [C-163](#c-163-womit-tibun-die-werkstatt-bezahlt-).
 
@@ -2475,7 +2475,7 @@ Das fällt sauber aus der Kettenlösung selbst und braucht keine Sonderregel.
 
 Das Buch endet mit: *„Was machen wir jetzt?" - „Jetzt holen wir deine Schwester…"* ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)).
 
-**Das Problem steckt in der eigenen Mechanik.** Der Ring **tauscht** - man kann niemanden rufen, der nicht schon dort steht. [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) müsste im Augenblick der Zündung im Nordring stehen, und es gibt keinen Boten, keine Nachricht, keine Verabredung über viertausend Kilometer. Ein aufmerksamer Leser weiß das nach vierhundert Seiten.
+**Das Problem steckt in der eigenen Mechanik.** Der Ring **tauscht** - man kann niemanden rufen, der nicht schon dort steht. [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) müsste im Augenblick der Zündung im Nordring stehen, und es gibt keinen Boten, keine Nachricht, keine Verabredung über viertausend Kilometer. Ein aufmerksamer Leser weiß das nach vierhundert Seiten.
 
 **Damit ist der Satz eines von beidem:**
 - **leichthin gesagt** → er liest sich naiv, und die Mechanik straft ihn ab;
@@ -2483,7 +2483,7 @@ Das Buch endet mit: *„Was machen wir jetzt?" - „Jetzt holen wir deine Schwes
 
 Der Unterschied steckt in **einer halben Zeile davor**, nicht in der Handlung · **???** *(erledigt 11.09.2026, s. u.)*
 
-**Prämisse prüfen (Claude, 11.09.2026):** Der Satz *„es gibt keinen Boten"* übersieht einen Weg, den das Wiki inzwischen hergibt. Der Ring hat **keine Ladezeit** ([C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)) - dort ist ausdrücklich von Tibuns **geplanten späteren Reisen** die Rede. Nach dem Finale steht auf **beiden** Seiten eine Zündanlage: der Wüstengenerator in der Ringkammer und Tibuns Anlage am Skir. Denkbar wäre also: **Tibun selbst ist der Bote.** Er reist über den Wüstengenerator zurück und kommt mit Randi über seine eigene Anlage wieder.
+**Prämisse prüfen (Claude, 11.09.2026):** Der Satz *„es gibt keinen Boten"* übersieht einen Weg, den das Wiki inzwischen hergibt. Der Ring hat **keine Ladezeit** ([C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)) - dort ist ausdrücklich von Tibuns **geplanten späteren Reisen** die Rede. Nach dem Finale steht auf **beiden** Seiten eine Zündanlage: der Wüstengenerator in der Ringkammer und Tibuns Anlage am Skir. Denkbar wäre also: **Tibun selbst ist der Bote.** Er reist über den Wüstengenerator zurück und kommt mit Randlaug über seine eigene Anlage wieder.
 
 Ob das trägt, hängt an [C-178](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-) - was die Anlage im Norden nach Zündung 2 tut. Trägt es, kippt die Frage: Der Satz ist dann weder naiv noch Trotz gegen ein Unmögliches, sondern ein Plan mit Preis - Tibun müsste zurück in den Weiler, der ihn meidet, und noch zweimal durch den Ring.
 
@@ -2775,7 +2775,7 @@ Die Prüfliste verlangt **drei Konflikte, bei denen beide Seiten verständlich s
 
 **Zu klären · ???**
 - Bekommt **Azzim** eine zweite Seite (Schulden, eigene Leute, eigene Vergangenheit als Ware) - oder bleibt er bewusst flach?
-- Falls flach: **welcher dritte Konflikt** trägt stattdessen? Kandidaten: der **Neffe**, der für Girlin seine Sippe verliert ([C-061](#c-061-navigationswissen-des-häuptlings-)); **Randi** gegen Tibun ([C-077](#c-077-tibun-und-randi-nach-girlins-verschwinden-)).
+- Falls flach: **welcher dritte Konflikt** trägt stattdessen? Kandidaten: der **Neffe**, der für Girlin seine Sippe verliert ([C-061](#c-061-navigationswissen-des-häuptlings-)); **Randlaug** gegen Tibun ([C-077](#c-077-tibun-und-randlaug-nach-girlins-verschwinden-)).
 
 Berührt [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-), [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-).
 
@@ -2787,7 +2787,7 @@ Berührt [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-), [C-029](#c-029-
 | Frage | Antwort |
 |---|---|
 | **Gilt der Konflikttest?** | **Ja, aber ohne feste Zahl.** |
-| **Welche Konflikte haben zwei verständliche Seiten?** | Semund gegen Tibun · Tibun gegen Wala und Weiler · Randi gegen Tibun · Sekkan und der Clan |
+| **Welche Konflikte haben zwei verständliche Seiten?** | Semund gegen Tibun · Tibun gegen Wala und Weiler · Randlaug gegen Tibun · Sekkan und der Clan |
 | **Bekommt Azzim eine zweite Seite?** | **Ja: Sein Ansehen hängt daran.** Seine Leute folgen ihm persönlich; ein Anführer, den eine Fremde und ein Clan abweisen, verliert vor ihnen das Gesicht und am Ende die Leute (Ausgestaltung aus Claudes Vorschlag, vom Autor bestätigt 22.09.2026). |
 
 Gewählt aus vier Vorschlägen von Claude; nicht gewählt: *selbst einmal Ware*, *im Recht nach Brauch*, *sein Handel bricht weg*.
@@ -3126,7 +3126,7 @@ Aus [C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-) (03.09.2026):
 
 **Die härtere Frage ist die Lesbarkeit.** Wenn es ein Schriftstück ist:
 - **Girlin kann vermutlich nicht schreiben** ([C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)); [Bellbrim](../Menschen/Andere/Bellbrim.md) als Gelehrte schon.
-- **Wer im Norden könnte es lesen?** [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) vermutlich nicht - und [Tibun](../Menschen/Nordvolk/Tibun.md) ist zu diesem Zeitpunkt seit Jahren fort.
+- **Wer im Norden könnte es lesen?** [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) vermutlich nicht - und [Tibun](../Menschen/Nordvolk/Tibun.md) ist zu diesem Zeitpunkt seit Jahren fort.
 - **In welcher Schrift und Sprache?** Runen kämen infrage, aber nicht Bellbrims Schrift.
 
 Denkbar ist, dass Girlin das gar nicht bedenkt - dass sie etwas schickt, ohne zu wissen, ob es ankommt oder verstanden wird. Das wäre Verzweiflung statt Planung.
@@ -3215,9 +3215,9 @@ Damit **entfällt Jahr −1 vollständig.** Der Bernstein-Effekt lag bisher ein 
 
 **Wichtigste Folge: Tibun ist beim Bernstein-Effekt 16, nicht 15.**
 
-**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), *Szenen-Log*, [Regeln](Regeln.md), [C-006](#c-006-tibuns-alter-bei-erfindungen-), [C-023](#c-023-zeitleiste--altersgerüst-), [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-).
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), *Szenen-Log*, [Regeln](Regeln.md), [C-006](#c-006-tibuns-alter-bei-erfindungen-), [C-023](#c-023-zeitleiste--altersgerüst-), [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-).
 
-**Was dadurch gewonnen ist:** Die Erzählung läuft jetzt **chronologisch** - der frühere Rücksprung von Jahr 0 nach −1 entfällt. Und der Bernstein wird zum Doppelverlust: Tibun wird von Frida abgewiesen und verliert wenige Tage später die Mutter, von der der Stein stammt ([C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)).
+**Was dadurch gewonnen ist:** Die Erzählung läuft jetzt **chronologisch** - der frühere Rücksprung von Jahr 0 nach −1 entfällt. Und der Bernstein wird zum Doppelverlust: Tibun wird von Fridugund abgewiesen und verliert wenige Tage später die Mutter, von der der Stein stammt ([C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)).
 
 > **Hinweis:** Die vorhandene Prolog-Szene ist alt und wird ohnehin überarbeitet (Autor, 04.09.2026) - Einzelheiten daraus gelten nicht als Kanon.
 
@@ -3335,7 +3335,7 @@ Aufgefallen am 04.09.2026 bei der maschinellen Prüfung von [Szenen.md](../Plots
 | 19 | Azzim, Auftritt 1 | Girlin | Azzim will sie als Ware |
 | 30 | Azzim, Auftritt 2 | Girlin | Azzim will sie kaufen oder eintauschen |
 | 34 | Azzim, Auftritt 3 | Girlin | Azzim will zugreifen |
-| 39 | Randi hält ihn für verloren | Tibun | Randi will ihn zur Vernunft bringen |
+| 39 | Randlaug hält ihn für verloren | Tibun | Randlaug will ihn zur Vernunft bringen |
 | 41 | Der Angriff - Zündung 1 | Girlin | Azzim will die Schlucht nehmen |
 
 **Warum das zählt:** Wenn *Will* mal die POV-Figur meint und mal die Gegenfigur, sagt die Kennzahl *„vollständig: Ziel, Hindernis, Ausgang"* nicht mehr dasselbe über alle Szenen. In diesen fünf ist **das Ziel der POV-Figur unbenannt** - Girlin und Tibun sind darin Objekt der Handlung, nicht Subjekt. Sie zählen aber als vollständig.
@@ -3344,7 +3344,7 @@ Aufgefallen am 04.09.2026 bei der maschinellen Prüfung von [Szenen.md](../Plots
 
 **Umgesetzt am selben Tag:** In den fünf Szenen steht *Will* jetzt auf `???`; der bisherige Satz bleibt als **Streichvermerk am Ort** stehen, damit nichts verloren geht und sichtbar bleibt, warum dort eine Lücke ist. Die Konvention steht im Abschnitt *Die Felder* von [Szenen.md](../Plots/Plot-1/Szenen.md).
 
-**Was daraus folgt:** Die Kennzahl *vollständig* fiel von 21 auf **17** - die fünf Szenen galten vorher zu Unrecht als fertig. **Was die POV-Figur in diesen fünf Szenen will, ist Buchinhalt und weiter offen** - es gehört zu [C-077](#c-077-tibun-und-randi-nach-girlins-verschwinden-) (Randi), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) und [C-133](#c-133-azzims-leute-für-den-angriff-) (Finale) sowie zu Girlins Zeichnung ([C-025](#c-025-girlin---charakter--fähigkeiten-)).
+**Was daraus folgt:** Die Kennzahl *vollständig* fiel von 21 auf **17** - die fünf Szenen galten vorher zu Unrecht als fertig. **Was die POV-Figur in diesen fünf Szenen will, ist Buchinhalt und weiter offen** - es gehört zu [C-077](#c-077-tibun-und-randlaug-nach-girlins-verschwinden-) (Randlaug), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) und [C-133](#c-133-azzims-leute-für-den-angriff-) (Finale) sowie zu Girlins Zeichnung ([C-025](#c-025-girlin---charakter--fähigkeiten-)).
 
 ---
 
@@ -3673,7 +3673,7 @@ Aus [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semu
 
 Nach [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) hat die Herkunftssippe **keinen Anspruch**, weil Kinder da sind - sie **könnte** ihn aber erheben.
 
-**Entschieden (Autor, 09.09.2026): Niemand kommt, weil es niemanden mehr gibt.** [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftsweiler ist **während ihrer Ehejahre** eingegangen - **erst Hungerjahre, dann eine Seuche**, die den geschwächten Ort leerräumt. Nach der Toterklärung meldet sich deshalb niemand; die Konfliktlinie um [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Neubindung und [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Einzug entfällt ersatzlos.
+**Entschieden (Autor, 09.09.2026): Niemand kommt, weil es niemanden mehr gibt.** [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftsweiler ist **während ihrer Ehejahre** eingegangen - **erst Hungerjahre, dann eine Seuche**, die den geschwächten Ort leerräumt. Nach der Toterklärung meldet sich deshalb niemand; die Konfliktlinie um [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Neubindung und [Mildiruns](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) Einzug entfällt ersatzlos.
 
 **Girlin weiß davon.** Sie hat es über die Jahre mitbekommen. Als sie in der Wüste landet, gibt es hinter ihr nichts mehr außer Skirraa - ihre Kinder sind der einzige Rückweg, den sie hat. Das verschärft ihr Ziel aus [C-024](#c-024-girlin---herkunft--vorgeschichte-): Wiedervereinigung, nicht Rückkehr.
 
@@ -4071,7 +4071,7 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.2026): Zwischen Jahr +1 und +9 verliert [Tibun](../Menschen/Nordvolk/Tibun.md) etwas.
 
 **Was feststeht und nicht verletzt werden darf:**
-- Die Zieheltern [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md) bleiben am Ende **lebend und im Guten** zurück (Autor, 02.09.2026)
+- Die Zieheltern [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harihild](../Menschen/Nordvolk/Nebenfiguren/Harihild.md) bleiben am Ende **lebend und im Guten** zurück (Autor, 02.09.2026)
 - Der Aufbruch in +9 ist ein Erfolg: Das Tischmodell läuft, Wissen und Bernstein reichen ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md))
 
 **Zu klären · ???**
@@ -4248,12 +4248,12 @@ Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](
 
 Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 
-**Entschieden (Autor, 18.09.2026):** **Niemand aus dem Weiler kommt an die Tabustelle.** [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) meidet sie, und die neugierigen Kinder meiden sie ebenfalls. Der Satz vom 02.09.2026, die beiden seien *„die einzige verbliebene Verbindung zum Weiler"*, gilt nicht mehr. Die einzige Person, die den Ort betritt, ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) - einmal, und sie lässt ihn gewähren.
+**Entschieden (Autor, 18.09.2026):** **Niemand aus dem Weiler kommt an die Tabustelle.** [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) meidet sie, und die neugierigen Kinder meiden sie ebenfalls. Der Satz vom 02.09.2026, die beiden seien *„die einzige verbliebene Verbindung zum Weiler"*, gilt nicht mehr. Die einzige Person, die den Ort betritt, ist die gerufene [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) - einmal, und sie lässt ihn gewähren.
 
 **Befund (Claude):** Damit hat der Nordstrang zwischen Rückkehr und Finale keinen Schauplatz mehr für seinen einzigen Konflikt.
 - Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) hält fest: Weil Tibuns Aufbruch aus [Kaupvik](../Orte/Kaupvik.md) nichts kostet, muss der Konflikt der Jahre +9/+10 **vollständig vom Dorf kommen** ([C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)). Das Dorf kommt jetzt aber nirgends hin.
 - Die Szene *Der Weiler warnt und meidet* kann nicht mehr am Bau spielen.
-- Dasselbe gilt für den Empfang und *Randi hält ihn für verloren* ([C-047](#c-047-randi---offene-felder-)).
+- Dasselbe gilt für den Empfang und *Randlaug hält ihn für verloren* ([C-047](#c-047-randlaug---offene-felder-)).
 - Offen ist damit vor allem, **ob Tibun überhaupt in den Weiler geht**. Tut er es nicht, erreicht ihn niemand und der Konflikt bleibt ein Zustand ohne Szene. Tut er es, wird jeder Gang dorthin zur Konfliktszene - dann braucht er dafür einen Grund. *(Beantwortet 18.09.2026, siehe unten.)*
 
 **Anmerkung (Claude):** Die Entscheidung ist für sich stark. Ein Tabu, das **ausnahmslos** hält, ist glaubwürdiger als eines mit Schlupfloch, und Tibuns Einsamkeit beim Bau wird vollständig - er baut den ganzen Winter, ohne dass ein Mensch danach sieht. Sie verlangt nur, dass die Begegnungen anderswo stattfinden.
@@ -4262,16 +4262,16 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 
 | | |
 |---|---|
-| **Wohnen, erste Phase** | Auf **[Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof**. Dort und im Weiler begegnet er auch **[Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md) wieder** |
+| **Wohnen, erste Phase** | Auf **[Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof**. Dort und im Weiler begegnet er auch **[Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) wieder** |
 | **Der Bruch** | Nachdem die **[Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)** die Stelle und sein Tun **erneut und härter als Tabu kennzeichnet**, **muss er auch Semunds Hof verlassen** |
 | **Wohnen, zweite Phase** | Ab da wohnt er **auf der Baustelle** |
-| **Gänge in den Weiler** | **Vorräte und Werkzeug**, **zu Randi**, **zu Semund** |
+| **Gänge in den Weiler** | **Vorräte und Werkzeug**, **zu Randlaug**, **zu Semund** |
 | **Die Warnung** | Kommt **aus allen drei Richtungen**: im Weiler, am Weg zum Bau und auf Semunds Hof |
 
 **Was das löst (Anmerkung, Claude):**
 - **Der Konflikt hat jetzt einen Ort und eine Steigerung.** Solange er auf dem Hof wohnt, ist jeder Abend am Herd eine Begegnung; danach ist er draußen. Aus einem Zustand wird eine Kurve.
 - **Er kostet jetzt etwas.** Tibun verliert das Dach über dem Kopf - der erste konkrete Verlust des Nordstrangs seit Jahr +1 (vergleiche [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-), das den Verlust für die **Kaupvik-Jahre** zurückgenommen hat; dieser hier liegt in +9/+10).
-- **Die Wala-Szene wird zum Wendepunkt.** Die vorhandene Szenenfolge trägt das ohne Umstellung: *Die Werkstatt an der Tabustelle* → *Randi empfängt ihn* → *Der Weiler warnt und meidet* → **Die Wala lässt ihn gewähren** → *Randi hält ihn für verloren*. Alles davor spielt vom Hof aus, alles danach vom Bau aus.
+- **Die Wala-Szene wird zum Wendepunkt.** Die vorhandene Szenenfolge trägt das ohne Umstellung: *Die Werkstatt an der Tabustelle* → *Randlaug empfängt ihn* → *Der Weiler warnt und meidet* → **Die Wala lässt ihn gewähren** → *Randlaug hält ihn für verloren*. Alles davor spielt vom Hof aus, alles danach vom Bau aus.
 - **Die Wala wird dadurch schärfer.** Sie *lässt ihn gewähren* - und genau ihr Spruch nimmt ihm das Quartier. Sie muss ihn nicht vertreiben; ihre Deutung tut es.
 
 **Befund (Claude) - zwei Dinge, die der Auszug nach sich zieht:**
@@ -4281,10 +4281,10 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 **Zu klären · ???**
 - **Wer weist ihn vom Hof?** Semund selbst, oder der Druck aus dem Weiler, dem Semund nachgibt? Beides steht mit *Semund duldet ihn, neutral bis familiär* in Spannung.
 - **Bekommt der Auszug eine eigene Szene**, oder passiert er zwischen zwei Szenen?
-- **Wie erlebt Millia das**, die mit im Haus ist?
+- **Wie erlebt Mildirun das**, die mit im Haus ist?
 - **Ob die Warnung aus allen drei Richtungen in eine Szene fällt** oder sich über mehrere verteilt - Zuschnittfrage, siehe [C-143 ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-).
 
-Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md).
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*, *Der Weiler warnt und meidet*), [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md).
 
 
 **Entschieden (Autor, 23.09.2026):**
@@ -4292,10 +4292,10 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots
 | Frage | Antwort |
 |---|---|
 | **Wer weist Tibun vom Hof?** | **Der Druck aus dem Weiler** - Semund gibt nach, er tut es nicht aus eigenem Entschluss |
-| **Wie erlebt Millia das?** | **Sie treibt den Auszug mit voran** |
-| **Eigene Szene?** | **Ja** - *Der Auszug vom Hof*, zwischen dem Spruch der Wala und *Randi hält ihn für verloren* |
+| **Wie erlebt Mildirun das?** | **Sie treibt den Auszug mit voran** |
+| **Eigene Szene?** | **Ja** - *Der Auszug vom Hof*, zwischen dem Spruch der Wala und *Randlaug hält ihn für verloren* |
 
-- Eingetragen in [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen.md](../Plots/Plot-1/Szenen.md).
+- Eingetragen in [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen.md](../Plots/Plot-1/Szenen.md).
 - Die Zuschnittfrage (ob die Warnung aus allen drei Richtungen in eine Szene fällt) klärt der Autor beim Umbau der Szenenliste ([C-143 ✓](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)).
 - Die beiden Befunde zum Leben auf der Baustelle - **Feuer unter einem Reetdach im Winter** und der **Schlafplatz außerhalb der Tauschkugel** - laufen in [C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-) weiter.
 
@@ -4314,14 +4314,50 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 
 ---
 
-### C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ○
+### C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ✓
 
 Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
 
-Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randi](../Menschen/Nordvolk/Nebenfiguren/Randi.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridun.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md). Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md), [Sigrik](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) und [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md).
+Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randi](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Harihild.md) *(alte Namen, Stand 23.09.2026)*. Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md), [Sigrik](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) und [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md). *(Diese Eingrenzung ist eine Einschätzung von Claude, nicht vom Autor.)*
 
-**Zu klären · ???**
-- Welche Namen stören den Autor?
-- Soll sich das Muster selbst ändern oder nur einzelne Namen?
+**Antwort (Autor, 28.09.2026)**
+
+| | |
+|---|---|
+| **Stören** | Randi, Frida, Millia, Siga - und: *„Alle haben nur 2 Silben, irgendwie klingt das alles sehr ähnlich."* |
+| **Ansatz** | Einzelne Namen tauschen · Bindevokal ins Muster · Neue Koseendungen |
+
+**Befund (Claude, 28.09.2026)** - warum die Namen deutsch klingen:
+1. Die Koseendungen `-i`, `-a`, `-in` fallen mit heutigen deutschen Kosenamen zusammen (Andi, Frieda, Milli, `-lin`).
+2. Viele Erstglieder sind im Deutschen noch Wörter: `Frid-`, `Sig-`, `Mild-`, `Land-`, `Wulf-`.
+3. Die Urnamen sind Vorfahren deutscher Vornamen (Gunthar → Günther, Audmar → Otmar).
+4. Dem Vorrat fehlte der Bindevokal, den Runeninschriften der Zeit bewahren. Hadurik und Landarik hatten ihn schon.
+
+Belegte Kurzform-Endungen (ältere Runeninschriften Skandinaviens, nach Jacobsson, *Men and women in the older runic inscriptions*): `-o` (*lamo*, *fino*), `-so` (*hariso*, Himlingoje, 210-320), `-ko` (*aluko*, Forde, 520-570), `-u` (*mairlu*); männlich die Verkleinerung `-ila` (*wiwila*, Veblungsnes, erste Hälfte 6. Jh.). Bei den Namen auf `-o` ist das Geschlecht in der Forschung umstritten; `-ko` erinnert heute an japanische Frauennamen.
+
+**Entschieden und umgesetzt (Autor, 28.09.2026)** - Gesamtliste vom Autor freigegeben:
+
+| vorher | jetzt | Bindevokal |
+|---|---|---|
+| Randi (*Randhild*) | **Randlaug** - Schild + geweiht | nein |
+| Frida (*Fridgund*) | **Fridugund** - Frieden + Kampf | ja |
+| Millia (*Mildhild*) | **Mildirun** - mild + Geheimnis | ja |
+| Siga (*Sighild*) | **Harihild** - Heer + Kampf | ja |
+| Fridun (Kurzform von *Fridmund*) | **Fridmund** - Urname als Rufname | nein |
+| Urformen von Tibun, Girlin, Semund | *Theudobern*, *Gairalind*, *Sigimund* | ja |
+
+Unverändert: Tibun, Girlin, Semund (Rufnamen), Hadurik, Landarik, Gunthar, Randwara, Audmar, Sigrik, Widgund, Wulfstein. Das Muster mit Elementvorrat steht jetzt im Wiki unter [Nordvolk - Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026). Umbenannt in allen Dateien samt Dateinamen, [SUMMARY.md](../SUMMARY.md), Challenge-Titeln und Ankern. Nicht angefasst: das überholte [Kapitelraster](Schaubilder/Kapitelraster.html) (wie bei früheren Umbenennungen).
+
+**Entschieden (Autor, 28.09.2026) - Muster:**
+
+| | |
+|---|---|
+| **Neue Koseendungen** | `-o`, `-so`, `-u` (w.), `-ila` (m.) |
+| **Alte Endungen** | `-un`, `-in`, `-a`, `-i` bleiben |
+| **Bindevokal** | möglich, nicht Pflicht |
+
+Eingetragen in [Nordvolk - Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026).
+
+**Geschlossen (Autor, 28.09.2026).**
 
 ---

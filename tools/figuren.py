@@ -62,7 +62,7 @@ PAARE = ("ehe", "partner", "verlobt")
 PLATZHALTER = {
     ("Ishman", "Ehefrau"): ("paar", "ehe", ["Ishman"]),
     ("Sekkan", "Frühere Ehefrau"): ("paar", "ehe", ["Sekkan"]),
-    ("Millia", "Erster Mann"): ("paar", "ehe", ["Millia"]),
+    ("Mildirun", "Erster Mann"): ("paar", "ehe", ["Mildirun"]),
     ("Girlin", "Verstorbene Kinder"): ("kind", None, ["Semund", "Girlin"]),
     ("Hadurik", "Nachfolger"): ("kind", None, ["Hadurik"]),
     ("Semund", "Geschwister"): ("notiz", None, ["Semund"]),
@@ -71,7 +71,7 @@ PLATZHALTER = {
 # Verweise auf eine Figur in einer anderen Gruppe (Quelle: Verbindungen).
 # Schluessel: (Quelldatei, Beschriftung der Verbindung). Wert: von wem die Linie ausgeht.
 VERWEISE = {
-    ("Audmar", "Ziehsohn"): ["Audmar", "Siga"],
+    ("Audmar", "Ziehsohn"): ["Audmar", "Harihild"],
 }
 
 # Platz im Bild: (Knoten, Spalte, Zeile). Spalten sind Kartenbreiten, Zeilen Generationen.
@@ -85,26 +85,26 @@ GRUPPEN = [
             ("Sigrik", 0.5, 0), ("Randwara", 1.5, 0),
             ("Iddar", 3.5, 0), ("Tanast", 4.5, 0), ("Ishman", 5.5, 0), ("Ishman/Ehefrau", 6.5, 0),
             ("Semund/Geschwister", 1.0, 0.62),
-            ("Millia/Erster Mann", -1.0, 1), ("Millia", 0.0, 1), ("Semund", 1.0, 1),
+            ("Mildirun/Erster Mann", -1.0, 1), ("Mildirun", 0.0, 1), ("Semund", 1.0, 1),
             ("Girlin", 2.5, 1), ("Sekkan", 4.0, 1), ("Sekkan/Frühere Ehefrau", 5.0, 1),
-            ("Girlin/Verstorbene Kinder", 0.3, 2), ("Tibun", 1.3, 2), ("Randi", 2.3, 2),
+            ("Girlin/Verstorbene Kinder", 0.3, 2), ("Tibun", 1.3, 2), ("Randlaug", 2.3, 2),
             ("Wulfstein", 3.2, 2), ("Tamant", 4.2, 2),
         ],
     },
     {
-        "id": "frida",
-        "titel": "Fridas Verlobung",
+        "id": "fridugund",
+        "titel": "Fridugunds Verlobung",
         "unter": "Skirraa und die Gegend um Tingsal",
         "knoten": [
-            ("Fridun", 0, 0), ("Widgund", 1, 0), ("Landarik", 2.4, 0),
-            ("Frida", 0.5, 1), ("Gunthar", 1.5, 1),
+            ("Fridmund", 0, 0), ("Widgund", 1, 0), ("Landarik", 2.4, 0),
+            ("Fridugund", 0.5, 1), ("Gunthar", 1.5, 1),
         ],
     },
     {
         "id": "kaupvik",
         "titel": "Kaupvik",
         "unter": "Tibuns Zieheltern",
-        "knoten": [("Audmar", 0, 0), ("Siga", 1, 0), ("Audmar>Ziehsohn", 0.5, 1)],
+        "knoten": [("Audmar", 0, 0), ("Harihild", 1, 0), ("Audmar>Ziehsohn", 0.5, 1)],
     },
     {
         "id": "tingsal",
