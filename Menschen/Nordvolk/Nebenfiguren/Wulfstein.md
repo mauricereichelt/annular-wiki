@@ -17,6 +17,7 @@
 
 | | |
 |---|---|
+| **Eltern** | **spielen keine Rolle** (Autor, 28.09.2026) |
 | **Ehefrau** | [Randlaug](Randlaug.md) - Heirat in **Jahr +8**, sie ist 17 (Autor, 25.09.2026) |
 | **Kinder** | bei [Tibuns](../Tibun.md) Rückkehr (Jahr +9) **keine** (Autor, 25.09.2026) |
 
@@ -39,6 +40,8 @@ bewusst offen (Autor, 25.09.2026)
 Er und [Randlaug](Randlaug.md) haben einen **eigenen Haushalt in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 25.09.2026). *(Hier stand: in Skirraa oder in der Nähe, Autor 18.09.2026.)*
 
 **Beim Empfang des zurückgekehrten [Tibun](../Tibun.md) ist er nicht dabei** (Autor, 25.09.2026) - **er ist unterwegs auf der Jagd** (Autor, 25.09.2026).
+
+**Gegenüber [Tibun](../Tibun.md) steht er in +9 und +10 zum Weiler** (Autor, 28.09.2026).
 
 ---
 

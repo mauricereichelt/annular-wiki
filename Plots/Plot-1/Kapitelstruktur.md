@@ -143,7 +143,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 ### Girlin (Wüste)
 - **Beat 10 (Navigationswissen) ist gestrichen.** Es gibt **kein Geheimnis** des Häuptlings. Das Hindernis hat drei Phasen: **Zugehörigkeit → Wissen → Bitte**
   - **Zugehörigkeit** ist geklärt (Autor, 10.09.2026): Girlin gilt **ab der Verbindung mit Sekkan in +3** als eine der Ihren; offiziell binden sich die beiden, als sie die Schwangerschaft bemerkt
-  - **Die Bitte ergeht vor Ishman und dem Ältestenrat** (Autor, 10.09.2026), förmlich vor der Versammlung - der Häuptling entscheidet nicht allein ([Kel Aman](../../Kulturen/Kel-Aman/README.md#ältestenrat))
+  - **Die Bitte ergeht vor Ishmalen und dem Ältestenrat** (Autor, 10.09.2026), förmlich vor der Versammlung - der Häuptling entscheidet nicht allein ([Kel Aman](../../Kulturen/Kel-Aman/README.md#ältestenrat))
 - **Beat 11 (Transport):** Der Clan hilft aus **Sippenpflicht** - Sekkan ist Blut des Häuptlings. **Nicht** wegen Wasser
 - **Neu nach Beat 11:** Der Clan **zieht weiter**; Girlin, Sekkan und Kind **bleiben** bei Bellbrim. **Ohne Sippenschutz ist sie ab +5**, nicht erst ab +8 (korrigiert 10.09.2026, siehe [Zeitleiste](Zeitleiste.md)) - nicht verstoßen, aber die Sippe ist nicht vor Ort
 - **Beat 13 (Azzim) rückt nach vorn:** **mehrfache** Begegnungen vor dem Finale. Er **weiß nichts vom Ring** und erfährt es in der Wüste nie; sein Motiv sind **Menschen**

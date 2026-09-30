@@ -8,6 +8,8 @@ Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template
 - [Randwara](Randwara.md) - Semunds Mutter, lebt auf seinem Hof
 - [Sigrik](Sigrik.md) - Semunds Vater, tot
 - [Mildirun](Mildirun.md) - Semunds zweite Ehefrau, einst Girlins Freundin
+- [Mildiwara](Mildiwara.md) - Tochter von Semund und Mildirun, geboren Jahr +2
+- [Sigibern](Sigibern.md) - Sohn von Semund und Mildirun, geboren Jahr +4
 - [Hadurik](Hadurik.md) - Häuptling von [Tingsal](../../../Orte/Tingsal.md)
 - [Wala von Tingsal](Wala-Tingsal.md) - sesshafte Seherin
 - [Wandernde Wala](Wala-Wandernd.md) - wandernde Seherin, ihre Zwillingsschwester
@@ -17,4 +19,4 @@ Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template
 - [Gunthar](Gunthar.md) - Hofsohn von auswärts, Fridugunds Verlobter
 - [Landarik](Landarik.md) - Gunthars Vater, arrangiert die Verlobung
 - [Audmar](Audmar.md) - Schiffszimmerer in [Kaupvik](../../../Orte/Kaupvik.md), Tibuns Ziehvater
-- [Harihild](Harihild.md) - Audmars Frau, Tibuns Ziehmutter
+- [Harahild](Harahild.md) - Audmars Frau, Tibuns Ziehmutter

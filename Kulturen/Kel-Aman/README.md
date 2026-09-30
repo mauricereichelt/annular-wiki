@@ -31,9 +31,12 @@ Prägend und für Szenen nutzbar - Recherche, vom Autor übernommen (22.09.2026)
 | Muster | Beispiele |
 |---|---|
 | Frauennamen umklammert ein `t` (`t…t`) | *Timrat*, *Tamellat*, *Tazerit* |
-| Männernamen enden konsonantisch oder auf `-an`/`-en` | *Nahar*, *Ishmar*, *Masin*, *Gulan*, *Mastan* |
+| Männernamen enden konsonantisch oder auf `-an`, `-en`/`-assen`, `-as`, `-on` (erweitert: Autor, 28.09.2026) | *Masin*, *Gulan*, *Mastan*, *Sekkan*, *Ishmalen*, *Ikkedas*, *Nabaon* |
+| Zwei bis vier Silben; Frauennamen mit `t…t` dürfen länger werden (Autor, 28.09.2026) | *Azzim*, *Abarkan*, *Ishmalen*, *Tamellat* |
 | Abstammung statt Familienname: `u-` „Sohn des", `ult-` „Tochter des" | *Masin u-Gulan* |
 | Gruppen mit `Kel-` „die von…" | *Kel Garama* |
+
+> **Vorbild für die Endungen** sind Berbernamen des 6. Jahrhunderts, überliefert bei Prokop und bei Corippus (*Iohannis*, um 550): `-an` *Guenfan*, *Carcasan* · `-as` *Antalas*, *Iaudas*, *Cutzinas*, *Mastigas* · `-en` *Ielidassen* · `-on` *Cabaon*. Häufig ist der Anlaut `I-` (*Iaudas*, *Ierna*, *Ielidassen*). Die Formen sind durch Griechisch und Latein gefiltert; `-as` kann auch deren Fallendung sein. Belegte Frauennamen der Zeit fehlen. Das Filiations-`u-` ist antik belegt: libysche Grabinschriften schreiben *X w-Y*, „X, Sohn des Y".
 
 Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figuren** (Autor, 08.09.2026) - nicht nur dort, wo Rang oder Herkunft betont wird.
 
@@ -42,24 +45,24 @@ Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figure
 | Situation | Form |
 |---|---|
 | **Anrede** unter Anwesenden | nur der Rufname - *„Abarkan"*, *„Sekkan"* |
-| **Einführung** einer Figur | volle Form - *„Abarkan u-Nahar"* |
+| **Einführung** einer Figur | volle Form - *„Abarkan u-Nabaon"* |
 | **Rede über** einen Abwesenden | volle Form, wo es der Klarheit dient |
 
 So funktionieren Filiationsnamen auch real: Sie sagen, **wer** jemand ist, nicht wie man ihn ruft. Niemand spricht sein Gegenüber mit dem Vatersnamen an.
 
-Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.09.2026): **Sekkan u-Iddar** *(bis 25.09.2026 u-Werdan)* und **Ishman u-Gulan** - die Vaterlinien unterscheiden sich, denn Ishman ist Sekkans **Mutterbruder**.
+Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.09.2026): **Sekkan u-Ikkedas** *(bis 28.09.2026 u-Iddar, bis 25.09.2026 u-Werdan)* und **Ishmalen u-Gulan** - die Vaterlinien unterscheiden sich, denn Ishmalen ist Sekkans **Mutterbruder**.
 
 **Die Namen der Sippe** (Autor, 09./10.09.2026):
 
 | Name | Rolle |
 |---|---|
-| **Ishman u-Gulan** | Häuptling des Clans |
-| [**Tanast**](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) | seine Schwester, Sekkans Mutter - lebt |
-| [**Iddar**](../../Menschen/Kel-Aman/Nebenfiguren/Iddar.md) | Sekkans Vater - lebt |
-| **Sekkan u-Iddar** | Karawanenführer, Ishmans Neffe |
+| **Ishmalen u-Gulan** | Häuptling des Clans |
+| [**Tanast ult-Gulan**](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) | seine Schwester, Sekkans Mutter - lebt, stirbt in Jahr +8 während des Transports |
+| [**Ikkedas u-Aferdassen**](../../Menschen/Kel-Aman/Nebenfiguren/Ikkedas.md) | Sekkans Vater - lebt, auch im Finale |
+| **Sekkan u-Ikkedas** | Karawanenführer, Ishmalens Neffe |
 | [**Tamant ult-Sekkan**](../../Menschen/Kel-Aman/Nebenfiguren/Tamant.md) | seine Tochter mit Girlin, geboren +4 |
 | **Gilint** | [Girlin](../../Menschen/Nordvolk/Girlin.md) - ohne `ult-`Form, siehe unten |
-| [**Abarkan u-Nahar**](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) | Ältester aus Ishmans Rat - kennt Bellbrims Höhlenabschnitt, sonst ohne Rolle |
+| [**Abarkan u-Nabaon**](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) | Ältester aus Ishmalens Rat - kennt Bellbrims Höhlenabschnitt, sonst ohne Rolle |
 
 **Fremde Namen werden verformt.** [Girlin](../../Menschen/Nordvolk/Girlin.md) heißt bei den Kel Aman **Gilint** (Autor, 09.09.2026). Zwei Dinge geschehen dabei: Das Cluster `-rl-` verliert den einen Liquid - dieselbe Dissimilation, die aus *peregrinus* das Wort *Pilger* macht -, und weil ein Frauenname für sie ein umklammerndes `t` braucht, kommt eines ans Ende. Die falsche Aussprache setzt sich durch und wird ihr Name. Eine `ult-`Form bekommt sie **nicht** - sie bleibt ohne Vaterlinie und damit hörbar sippenlos.
 
@@ -78,17 +81,19 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Ehe ist ein Vertrag zwischen Sippen**, nicht zwischen zwei Personen (Autor, 09.09.2026). Daraus folgt beides:
 
-**Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Iddar](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
+**Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Ikkedas](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
 
-**Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishman u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
+**Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishmalen u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
 
 ### Ältestenrat
 
-**Der Häuptling entscheidet nicht allein** (Autor, 10.09.2026): Neben [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) steht ein **Rat der Ältesten** *(präzisiert 25.09.2026: Ishman gehört selbst dazu)*. Das entspricht dem historischen Bild - bei berberischen und nomadischen Gruppen führt der Häuptling und spricht nach außen, gebunden bleibt er an die Versammlung der Familienoberhäupter (berberisch *djemaa*, bei den Tuareg ein Rat der Clanältesten).
+**Der Häuptling entscheidet nicht allein** (Autor, 10.09.2026): Neben [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) steht ein **Rat der Ältesten** *(präzisiert 25.09.2026: Ishmalen gehört selbst dazu)*. Das entspricht dem historischen Bild - bei berberischen und nomadischen Gruppen führt der Häuptling und spricht nach außen, gebunden bleibt er an die Versammlung der Familienoberhäupter (berberisch *djemaa*, bei den Tuareg ein Rat der Clanältesten).
 
-**Zusammensetzung:** **Familienoberhäupter, je Familie einer** (Autor, 25.09.2026). **Er entscheidet mit Mehrheit** über die **Aufnahme Fremder**, über **Hilfe und Pflichten** und über **Streit und Fehden** (Autor, 25.09.2026). **Normaler Handel nicht** - aber [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) Angebot, eine der Ihren in die Sklaverei zu verkaufen, ist Chefsache: **Ishman und der ganze Rat entscheiden gemeinsam** (Autor, 25.09.2026). **Ishman gehört selbst zum Rat** (Autor, 25.09.2026). **Im Erzähltext tritt der Rat in der Szene *Die Bitte* ([Plot 1](../../Plots/Plot-1/Szenen.md)) auf** (Autor, 25.09.2026). *(Hier stand: Zusammensetzung, Größe und Befugnisse offen.)*
+**Zusammensetzung:** **Familienoberhäupter, je Familie einer** (Autor, 25.09.2026). **Er entscheidet mit Mehrheit** über die **Aufnahme Fremder**, über **Hilfe und Pflichten** und über **Streit und Fehden** (Autor, 25.09.2026). **Normaler Handel nicht** - aber [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) Angebot, eine der Ihren in die Sklaverei zu verkaufen, ist Chefsache: **Ishmalen und der ganze Rat entscheiden gemeinsam** (Autor, 25.09.2026). **Ishmalen gehört selbst zum Rat** (Autor, 25.09.2026). **Im Erzähltext tritt der Rat in der Szene *Die Bitte* ([Plot 1](../../Plots/Plot-1/Szenen.md)) auf** (Autor, 25.09.2026). *(Hier stand: Zusammensetzung, Größe und Befugnisse offen.)*
 
-**Der Älteste [Abarkan u-Nahar](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht. **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
+**Das Häuptlingsamt ist erblich** (Autor, 28.09.2026): [Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Gulan.md) war vor seinem Sohn [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) Häuptling. Ishmalen hat keine Kinder; sein Nachfolger ist **nicht [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)** (Autor, 28.09.2026). Wer es wird, liegt **außerhalb der Erzählzeit** (Autor, 28.09.2026).
+
+**Der Älteste [Abarkan u-Nabaon](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht, **bis zum Transport** des Rings (+8); danach kennt ihn der ganze Clan. In +1 führt er die Karawane zu ihr (Autor, 28.09.2026). **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
 
 ### Wann eine Fremde dazugehört
 
@@ -106,15 +111,15 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Fortzuziehen ist extrem unüblich und selten** (Autor, 09.09.2026). Es ist kein Verstoß und wird nicht bestraft - wer geht, wird nicht verstoßen, und der Clan bringt Verständnis auf, wie man es dafür aufbringt, dass ein Kind aus dem Haus geht. Aber es tut kaum jemand.
 
-Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, verliert seine Aufgaben, seinen Platz und die tägliche Nähe. [Sekkan u-Iddar](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) vermisst nach seinem Wegzug in Jahr +5 beides und hat lange damit zu tun.
+Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, verliert seine Aufgaben, seinen Platz und die tägliche Nähe. [Sekkan u-Ikkedas](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) vermisst nach seinem Wegzug in Jahr +5 beides und hat lange damit zu tun.
 
 **Die Zugehörigkeit endet dabei nicht** - der Schutz durch die Sippe aber praktisch schon: Sie ist nicht vor Ort und nicht schnell genug erreichbar, um sie um Hilfe zu bitten. Das trifft ab Jahr +5 auch [Girlin](../../Menschen/Nordvolk/Girlin.md).
 
-Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishman Girlin aufnimmt und ob sie und Sekkan tatsächlich heiraten.
+Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishmalen Girlin aufnimmt und ob sie und Sekkan tatsächlich heiraten.
 
 ### Was der Ring ihnen bedeutet
 
-**Kein Heiligtum, kein Schatz** (Autor, 09.09.2026). Der Ring in der Wüste ist für die Kel Aman ein **schweres, unheimliches Ding** - sie verehren ihn nicht, und sie sehen in ihm auch keine Beute. Dass er überhaupt bewegt wird, liegt allein an der **Sippenpflicht** gegenüber [Sekkan u-Iddar](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); für die Sache selbst hätte niemand einen Finger gerührt.
+**Kein Heiligtum, kein Schatz** (Autor, 09.09.2026). Der Ring in der Wüste ist für die Kel Aman ein **schweres, unheimliches Ding** - sie verehren ihn nicht, und sie sehen in ihm auch keine Beute. Dass er überhaupt bewegt wird, liegt allein an der **Sippenpflicht** gegenüber [Sekkan u-Ikkedas](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); für die Sache selbst hätte niemand einen Finger gerührt.
 
 **Geredet wird trotzdem ständig darüber.** Der Ring ist über den ganzen Zug hinweg Thema - Vermutungen, Gerede, Geschichten am Feuer. Nicht Andacht, sondern Beschäftigung mit etwas, das niemand erklären kann.
 

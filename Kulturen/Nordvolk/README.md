@@ -94,7 +94,7 @@ Innerhalb des Jahres gilt dreierlei nebeneinander:
 | `Theud-` | `Theudo-` | Volk | `-bern` | Bär |
 | `Gair-` | `Gaira-` | Speer | `-mund` | Schutz |
 | `Hathu-`, `Gunth-` | `Hathu-`, `Gunthi-` | Kampf | `-gast` | Gast, Fremder |
-| `Hari-` | `Hari-` | Heer | `-harja` | Heer |
+| `Hari-` | `Hari-`, `Hara-` | Heer | `-harja` | Heer |
 | `Wulf-` | `Wulfa-` | Wolf | `-mar` | berühmt |
 | `Rand-` | ??? | Schild | `-wulf` | Wolf |
 | `Sig-` | `Sigi-` | Sieg | `-stein` | Stein |
@@ -105,7 +105,7 @@ Innerhalb des Jahres gilt dreierlei nebeneinander:
 | `Wid-` | `Widu-` | Wald, weit | `-wara` | Hüterin *(w.)* |
 | `Thrud-` | `Thrudi-` | Kraft | `-laug` | geweiht *(w.)* |
 
-> **Belege für den Bindevokal:** `Hathu-`, `Hari-` (Istaby) und `Widu-` (Himlingoje, Seeland: *widuhudar*) aus Runeninschriften. Die übrigen Formen folgen rekonstruierten Namensformen des Urgermanischen (Wiktionary: *Hrothiriks*, *Theudoriks*, *Gaizariks*, *Gunthiharjaz*, *Wulfariks*, *Sigimunduz*, *Audawulfaz*, *Frithuriks*). `Mildi-` ist nur erschlossen, ein Namensbeleg fehlt. Für `Rand-` sind die Quellen uneinheitlich.
+> **Belege für den Bindevokal:** `Hathu-`, `Hari-` (Istaby) und `Widu-` (Himlingoje, Seeland: *widuhudar*) aus Runeninschriften. Die übrigen Formen folgen rekonstruierten Namensformen des Urgermanischen (Wiktionary: *Hrothiriks*, *Theudoriks*, *Gaizariks*, *Gunthiharjaz*, *Wulfariks*, *Sigimunduz*, *Audawulfaz*, *Frithuriks*). `Mildi-` ist nur erschlossen, ein Namensbeleg fehlt. Für `Rand-` sind die Quellen uneinheitlich. **`Hara-` ist eine Variante des Autors** (Autor, 29.09.2026) - ohne Beleg, getragen von [Harahild](../../Menschen/Nordvolk/Nebenfiguren/Harahild.md).
 
 ---
 

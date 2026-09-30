@@ -166,7 +166,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ✓](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
 - [C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
-- [C-152: Ishman - Häuptling der Kel Aman ✓](#c-152-ishman---häuptling-der-kel-aman-)
+- [C-152: Ishmalen - Häuptling der Kel Aman ✓](#c-152-ishmalen---häuptling-der-kel-aman-)
 - [C-153: Haduriks Nachfolge in Tingsal ✓](#c-153-haduriks-nachfolge-in-tingsal-)
 - [C-154: Woher die Autorität der Walas kommt ✓](#c-154-woher-die-autorität-der-walas-kommt-)
 - [C-155: Breite und Tiefe des Skir ✓](#c-155-breite-und-tiefe-des-skir-)
@@ -184,7 +184,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
 - [C-169: Das Wasserrad am Skir - verengter Lauf, iterativ ✓](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
-- [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
+- [C-170: Vatersnamen für Sekkan und Ishmalen ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-)
 - [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
 - [C-173: Der Staubschleier hat auch Skirraa getroffen ✓](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
@@ -743,7 +743,7 @@ Nachgezogen: [Bellbrim](../Menschen/Andere/Bellbrim.md). Geschlossen.
 | | |
 |---|---|
 | **Herkunft** | **abtrünniger Kel Aman** - der Hook ist bestätigt |
-| **Clan** | **ein anderer** als der von Ishman |
+| **Clan** | **ein anderer** als der von Ishmalen |
 | **Womit er gebrochen hat** | **Er verkauft eigene Leute**, und es gibt **Blut in der Sippe** |
 | **Familie** | *„Er hat mit seinem Clan und seiner Familie gebrochen. Sie spielen keine Rolle."* |
 | **Name** | Er trägt *u-Tawan* nicht mehr, heißt nur **Azzim**; **niemand sonst kennt seinen vollen Namen**, **der Leser erfährt ihn nie**. Im Wiki bleibt „Azzim u-Tawan" als Autorenebene |
@@ -994,7 +994,7 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 | Frage | Antwort |
 |---|---|
-| **Vorher gebunden?** | **Witwe.** Ihr Mann ist tot. Zwei Verwaiste finden zusammen; der Weiler findet daran nichts. |
+| **Vorher gebunden?** | **Witwe.** Ihr Mann ist tot. Zwei Verwitwete *(korrigiert (Autor, 28.09.2026): stand „Verwaiste")* finden zusammen; der Weiler findet daran nichts. |
 | **Eigene Kinder** | **Keine.** Sie bringt niemanden mit ins Haus - [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) bekommt keine fremden Geschwister. |
 | **Fähigkeiten** | **Nichts Besonderes.** Tüchtig und mehr nicht. Am Webstuhl steht sie, weil einer dort stehen muss; Randlaug webt besser. |
 | **Zu Girlins Kindern** | **Zu Randlaug findet sie einen Weg, zu Tibun nicht.** Beim Kind gelingt es, beim Sechzehnjährigen nicht. |
@@ -1303,6 +1303,8 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 
 **Teilentschieden (Autor, 02.09.2026):** Die Zieheltern **bleiben am Ende zurück** - lebend, im Guten. Ein Abschied, kein Verlust, kein Bruch. Sie sind damit das, was Tibun aufgibt, nicht das, was ihm genommen wird.
 
+**Nachtrag (Autor, 29.09.2026):** „Ein Abschied, kein Verlust" und „das, was Tibun aufgibt, nicht das, was ihm genommen wird" gelten nicht mehr - **der Abschied tut allen dreien weh**. Lebend und im Guten bleibt. Nachgezogen: [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md), [Kaupvik](../Orte/Kaupvik.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
+
 ---
 
 **Entschieden (Autor, 10.09.2026).**
@@ -1319,8 +1321,8 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 **Der Gegenentwurf zu Semund steht damit:** Ein Mann, der mit ihm arbeitet, ihm etwas beibringt und ihn behält - gegen den Vater, der schweigt und weitermacht.
 
 - Eingetragen in [Kaupvik](../Orte/Kaupvik.md), [Vegamot](../Orte/Vegamot.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szene 15](../Plots/Plot-1/Szenen.md).
-- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Urform wie bei Hadurik und Gunthar, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **Siga** (Kurzform von *Sighild* - Sieg + Kampf; seit 28.09.2026 [Harihild](../Menschen/Nordvolk/Nebenfiguren/Harihild.md)). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
-- **Nachgetragen (Autor, 25.09.2026):** Audmar ist in Jahr 0 **etwa 45**, Harihild **etwa 42**. Harihilds Gewerbe: **Netze und Fisch**.
+- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Urform wie bei Hadurik und Gunthar, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **Siga** (Kurzform von *Sighild* - Sieg + Kampf; seit 28.09.2026 Harihild, seit 29.09.2026 [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md)). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
+- **Nachgetragen (Autor, 25.09.2026):** Audmar ist in Jahr 0 **etwa 45**, Harahild **etwa 42**. Harahilds Gewerbe: **Netze und Fisch**.
 - **Präzisiert (Autor, 25.09.2026):** Die Abmachung bleibt **Kost gegen Arbeit**, „nüchtern“ entfällt: Beide sind ihm gegenüber **offen und warmherzig**. Später sehen sie **etwas wie einen Sohn** in ihm und hoffen, er bleibt oder kommt wieder; sie sagen es ihm **beim Abschied, einmal**.
 - **Händlerzug (Autor, 25.09.2026):** Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft**.
 
@@ -1928,7 +1930,7 @@ Die alten Namen (**„Sahrin", „Sahar", „Sahrinai"**, ebenso **Assim**, **Is
 | Regel | Erklärung | Beispiel |
 |---|---|---|
 | **Frauennamen umklammert ein `t`** | Echtes berberisches Femininum-Muster (`t…t`). Macht das Geschlecht ohne Erklärung hörbar. | *Tamellat*, *Timrat*, *Tazerit* |
-| **Männernamen enden konsonantisch** oder auf `-an`/`-en` | Nach belegten libyschen Namen (Masinissa, Iugurtha, Gulussa, Mastanabal, Nubel). | *Masin*, *Gulan*, *Mastan*, *Iddar*, *Nubar* |
+| **Männernamen enden konsonantisch** oder auf `-an`/`-en` | Nach belegten libyschen Namen (Masinissa, Iugurtha, Gulussa, Mastanabal, Nubel). | *Masin*, *Gulan*, *Mastan*, *Ikkedas*, *Nubar* |
 | **Abstammung mit `u-` (Sohn) / `ult-` (Tochter)** | Berberische Filiation, ersetzt den Familiennamen. | *Masin u-Gulan* |
 | **Gruppen mit `Kel-` = „die von…"** | Bildungsweise der Wüstenberber für Stammesnamen. | *Kel Garama* |
 
@@ -1951,6 +1953,8 @@ Damit ist jeder künftige Name prüfbar - der Namenstest des [Weltenbau-Leitfade
 | Ishem (m) | **Ishmar** |
 | Tiberan (m) | **gestrichen** - zu nah an *Tibun*, über zwei Stränge hinweg verwechselbar |
 | Werdan (m) | **Iddar** (Autor, 25.09.2026) - „Werdan" klang für deutsche Leser nach „werden". Sein Sohn heißt damit **Sekkan u-Iddar** |
+
+**Nachtrag (Autor, 28.09.2026):** Die Namen waren alle zweisilbig und zu gleichförmig. Umbenannt: Iddar → **Ikkedas**, Ishman → **Ishmalen**, Abarkans Vater Nahar → **Nabaon**. Das Muster ist um die Endungen `-en`/`-assen`, `-as`, `-on` und um zwei bis vier Silben erweitert, nach Berbernamen des 6. Jahrhunderts bei Prokop und Corippus - siehe [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster).
 
 Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst. (`Menschen/Wuestenvolk/Kel-Aman.md` ist seit dem 05.09.2026 in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) aufgelöst; der Figurenordner heißt seit dem 05.09.2026 `Menschen/Kel-Aman/`.)
 
@@ -2015,7 +2019,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **Tara** → **Truda** → **Randi** → [**Randlaug**](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) | *Randlaug* | Schild + geweiht | **umbenannt** - „Tara" ist irisch, kein germanisches Element passt. **Erneut umbenannt (Autor, 25.09.2026):** *Truda* (Urform *Thrudhild*, Kraft + Kampf) reimte sich auf *Frida* (heute [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md)). Teilt `Rand-` mit ihrer Großmutter [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md). **Erneut umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Randi* (Urform *Randhild*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, ohne Bindevokal |
 | **Jolyl** → **Frida** → [**Fridugund**](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) | *Fridugund* | Frieden + Kampf | **umbenannt** - „Jolyl" war nicht deutbar. **Erneut umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Frida* (Urform *Fridgund*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, mit Bindevokal |
 | **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** | *Audmar* | Glück, Besitz + berühmt | **neu 10.09.2026** - Urform, bewusst nicht auf `-un` ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
-| **Siga** → [**Harihild**](../Menschen/Nordvolk/Nebenfiguren/Harihild.md) | *Harihild* | Heer + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)). **Umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Siga* (Urform *Sighild*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, mit Bindevokal |
+| **Siga** → Harihild → [**Harahild**](../Menschen/Nordvolk/Nebenfiguren/Harahild.md) | *Harahild* | Heer + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)). **Umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)): *Siga* (Urform *Sighild*) klang wie ein deutscher Spitzname. Trägt jetzt den Urnamen, mit Bindevokal. **Erneut umbenannt** (Autor, 29.09.2026): Harihild → Harahild |
 | **Fridun** → [**Fridmund**](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md) | *Fridmund* | Frieden + Schutz | **neu 23.09.2026** - Kurzform *Fridun*; **umbenannt** (Autor, 28.09.2026, [C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)), trägt jetzt den Urnamen, ohne Bindevokal. Vater von [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) ([C-051 ✓](#c-051-fridugund---offene-felder-)) |
 | [**Randwara**](../Menschen/Nordvolk/Nebenfiguren/Randwara.md) | *Randwara* | Schild + Hüterin | **neu 24.09.2026** - Urname, Mutter von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) ([C-045 ✓](#c-045-semund---offene-felder-)) |
 | [**Sigrik**](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) | *Sigrik* | Sieg + mächtig | **neu 24.09.2026** - Urname, Vater von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), tot. Teilt `Sig-` mit *Sigimund* |
@@ -2372,7 +2376,7 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 - Er ist **Vater von Girlins drittem Kind** ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)).
 - **Neu (02.09.2026):** Nach dem Transport **löst er sich mit Girlin und dem Kind vom Clan** und bleibt bei [Bellbrim](../Menschen/Andere/Bellbrim.md) ([C-061](#c-061-navigationswissen-des-häuptlings-)).
 
-> **Überholt (09.09.2026, [C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)):** Hier stand, er verliere dafür seine Sippe - *der teuerste Preis, den im Buch jemand außer Tibun zahlt*. Der Wegzug ist einvernehmlich; niemand wird verstoßen. Der Preis bleibt, aber als **Entzug**: Fortzuziehen ist extrem unüblich, und Sekkan vermisst Sippe und Aufgaben ([C-176 ✗](#c-176-sekkans-preis-ist-entfallen-)).
+> **Überholt (09.09.2026, [C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-)):** Hier stand, er verliere dafür seine Sippe - *der teuerste Preis, den im Buch jemand außer Tibun zahlt*. Der Wegzug ist einvernehmlich; niemand wird verstoßen. Der Preis bleibt, aber als **Entzug**: Fortzuziehen ist extrem unüblich, und Sekkan vermisst Sippe und Aufgaben ([C-176 ✗](#c-176-sekkans-preis-ist-entfallen-)).
 - Im Finale bleibt Girlin **bei ihm** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - er muss also stark genug sein, dass diese Entscheidung einleuchtet.
 
 **Handlungen entschieden (Autor, 03.09.2026) - die Lücke ist geschlossen.** Er hat jetzt vier eigene Handlungen:
@@ -2388,7 +2392,7 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 
 Eigene Datei angelegt: [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); Name in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) nachgezogen.
 
-**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-).
+**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-).
 
 ---
 
@@ -2400,7 +2404,7 @@ Aus [C-060 ✓](#c-060-girlin-und-der-neffe-): Die Frau des Neffen verlässt ihn
 
 **Trennung ja, aber geregelt.** Eine Frau kann die Ehe von sich aus beenden - das Recht steht ihr zu. Es läuft über ihre Sippe und mit einem Ausgleich. [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Frau hat also nicht das Recht gebrochen, sondern das **Verfahren**: Sie ging einfach. Zwischen den beiden Sippen steht seither eine ungeregelte Sache. Damit ist der Beat weder folgenlos noch eine Blutsache - er ist eine offene Rechnung.
 
-**Girlin kann als Sippenlose nicht heiraten** - es gibt niemanden, der den Vertrag schließen könnte. Deshalb tritt der **Clan an die Stelle ihrer Sippe**: [Ishman u-Gulan](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe. Das gibt der Zugehörigkeit einen greifbaren Akt statt eines Gefühls - und verteuert [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Bruch in Jahr +5 zusätzlich: Er verlässt dann nicht nur seine eigene Sippe, sondern auch die, die Girlin gerade erst bekommen hat. Wann die Aufnahme geschieht → [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
+**Girlin kann als Sippenlose nicht heiraten** - es gibt niemanden, der den Vertrag schließen könnte. Deshalb tritt der **Clan an die Stelle ihrer Sippe**: [Ishmalen u-Gulan](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) nimmt sie förmlich auf, der Clan wird ihre Sippe. Das gibt der Zugehörigkeit einen greifbaren Akt statt eines Gefühls - und verteuert [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Bruch in Jahr +5 zusätzlich: Er verlässt dann nicht nur seine eigene Sippe, sondern auch die, die Girlin gerade erst bekommen hat. Wann die Aufnahme geschieht → [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
 
 **Weiter offen · ???** Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch **Gewalt** folgt oder es bei der offenen Rechnung bleibt. Ob Sekkan und Girlin nach der Aufnahme tatsächlich heiraten.
 
@@ -3051,7 +3055,7 @@ Berührt [C-103](#c-103-transportlogistik-des-wüstenrings-) und [C-125](#c-125-
 | **Wie erfährt sie, dass es so weit ist?** | Von allem ein wenig: Das Verhältnis ist gut, es gibt **Boten und Nachrichten** - und **ein so großer Clan fällt auf**, wenn er in die Nähe des Basars kommt |
 
 - Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8) und [Szene 31](../Plots/Plot-1/Szenen.md#31--der-transport).
-- Wer die Bitte hört, steht bereits fest: **Ishman und der Ältestenrat** (Autor, 10.09.2026).
+- Wer die Bitte hört, steht bereits fest: **Ishmalen und der Ältestenrat** (Autor, 10.09.2026).
 
 ---
 
@@ -3475,7 +3479,7 @@ Die alte Volksseite sah vor, dass [Bellbrim](../Menschen/Andere/Bellbrim.md) von
 
 **Entschieden (Autor, 10.09.2026): Der Hook entfällt.** [Bellbrim](../Menschen/Andere/Bellbrim.md) profitiert **nicht** vom Wissen der Kel Aman - weder Sternkarten noch verborgene Wasserstellen. **Was sie kann, bringt sie selbst mit.**
 
-**Was das ordnet:** Sie steht dem Clan nicht als Schuldnerin gegenüber. Ihr Verhältnis zu den Kel Aman läuft allein über [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und über den einen Ältesten, der ihren Höhlenabschnitt kennt ([Abarkan u-Nahar](../Kulturen/Kel-Aman/README.md#ältestenrat)) - nicht über eine Wissensschuld. Das passt zu [C-061 ✗](#c-061-navigationswissen-des-häuptlings-), wo das zurückgehaltene Navigationswissen des Häuptlings bereits gestrichen wurde.
+**Was das ordnet:** Sie steht dem Clan nicht als Schuldnerin gegenüber. Ihr Verhältnis zu den Kel Aman läuft allein über [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und über den einen Ältesten, der ihren Höhlenabschnitt kennt ([Abarkan u-Nabaon](../Kulturen/Kel-Aman/README.md#ältestenrat)) - nicht über eine Wissensschuld. Das passt zu [C-061 ✗](#c-061-navigationswissen-des-häuptlings-), wo das zurückgehaltene Navigationswissen des Häuptlings bereits gestrichen wurde.
 
 **Nicht mit entschieden:** Ob die Kel Aman solches Wissen **haben**, ist damit nicht beantwortet - die Zeile *„Älteste als Wissensbewahrer: alte Sternkarten, verborgene Routen"* steht weiter im ungeprüften Altmaterial der [Kulturbeschreibung](../Kulturen/Kel-Aman/README.md). Entschieden ist nur, dass Bellbrim es nicht bekommt.
 
@@ -3495,7 +3499,7 @@ Die Frage hat Gewicht, weil [Girlin](../Menschen/Nordvolk/Girlin.md) im Finale *
 
 ---
 
-### C-152: Ishman - Häuptling der Kel Aman ✓
+### C-152: Ishmalen - Häuptling der Kel Aman ✓
 
 Der **Häuptling des Clans** trägt an mehreren Stellen Gewicht - er ist [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Onkel, und die **Sippenpflicht ihm gegenüber** ist der einzige Grund, warum der Clan den Ring überhaupt transportiert ([C-061 ✗](#c-061-navigationswissen-des-häuptlings-)). Trotzdem hat er weder Namen noch Alter noch Eigenschaften und keine eigene Datei.
 
@@ -3503,11 +3507,11 @@ Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Ja
 
 **Teilentscheidung (Autor, 08.09.2026):** Der Häuptling ist in Jahr 0 **etwa 55**, also rund zwanzig Jahre älter als [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) - eine ganze Generation über ihm, Onkel im klassischen Sinn. Im Finale (Jahr +10) wäre er etwa 65.
 
-**Er heißt Ishman** (Autor, 08.09.2026). Der Name folgt dem Muster der [Kel Aman](../Kulturen/Kel-Aman/README.md) (Männernamen auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Eigene Datei angelegt: [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md).
+**Er heißt Ishmalen** (Autor, 08.09.2026). Der Name folgt dem Muster der [Kel Aman](../Kulturen/Kel-Aman/README.md) (Männernamen auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Eigene Datei angelegt: [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md).
 
-> **Einwand notiert, vom Autor überstimmt:** Die Endung `-man` liest sich auf Deutsch unwillkürlich als „Mann", und Ishman/Sekkan sind im Fließtext leicht zu verwechseln. Der Autor hat sich bewusst für die Sippenähnlichkeit entschieden.
+> **Einwand notiert, vom Autor überstimmt:** Die Endung `-man` liest sich auf Deutsch unwillkürlich als „Mann", und Ishmalen/Sekkan sind im Fließtext leicht zu verwechseln. Der Autor hat sich bewusst für die Sippenähnlichkeit entschieden.
 
-**Entschieden (Autor, 09.09.2026): Ishman ist ein gütiger, freundlicher alter Herr.** Der Vatersname steht seit [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-): **Ishman u-Gulan**.
+**Entschieden (Autor, 09.09.2026): Ishmalen ist ein gütiger, freundlicher alter Herr.** Der Vatersname steht seit [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-): **Ishmalen u-Gulan**.
 
 **Es gibt keinen Bruch in Jahr +5.** Niemand im Clan hat ein Problem damit, dass [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) fortzieht. Er wird vermisst und seine Fähigkeiten fehlen, aber er wird nicht verstoßen: Der Clan hat Verständnis, so wie man Verständnis dafür hat, dass ein Kind aus dem Haus geht. Kein Bann, kein Spruch, kein Streit.
 
@@ -3515,7 +3519,7 @@ Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Ja
 
 **Weiter offen · ???** Ob es für den Weggang überhaupt eine Szene braucht, wenn niemand widerspricht. Sein Auftreten im Einzelnen. Was die Güte im Konflikt mit [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) bedeutet: Ein freundlicher alter Mann, der Sippenpflicht über ein Kaufangebot stellt, muss trotzdem hart genug sein, um ihn abzuweisen.
 
-**Nachgezogen:** [Ishman.md](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md), [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
+**Nachgezogen:** [Ishmalen.md](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md), [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
 
 ---
 
@@ -3604,7 +3608,7 @@ Das Hindernis vor dem Transport hat drei Phasen - **Zugehörigkeit → Wissen �
 
 - **Zugehörig ist sie ab der Verbindung mit [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) in Jahr +3.** Wer zu einem der Ihren gehört, gehört dazu - es braucht weder Jahre noch eine Prüfung noch das Kind.
 - **Offiziell binden sich die beiden, als [Girlin](../Menschen/Nordvolk/Girlin.md) die Schwangerschaft bemerkt** - im Lauf von +3/+4, vor Tamants Geburt. Das Kind ist der **Anlass**, nicht die Bedingung. Damit ist auch die offene Frage aus [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-) beantwortet, ob die beiden sich binden.
-- **Die Bitte ergeht vor [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) und dem Ältestenrat** - förmlich vor der Versammlung, nicht unter vier Augen. Der Häuptling entscheidet nicht allein ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat), festgelegt am selben Tag).
+- **Die Bitte ergeht vor [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) und dem Ältestenrat** - förmlich vor der Versammlung, nicht unter vier Augen. Der Häuptling entscheidet nicht allein ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat), festgelegt am selben Tag).
 
 **Was das für [Szene *Die Bitte*](../Plots/Plot-1/Szenen.md) heißt:** Das Hindernis ist nicht mehr ihre Zugehörigkeit - die steht seit +3. Es ist die Versammlung selbst: Sie bittet um einen Zug, der den Clan enormen Aufwand kostet ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)).
 
@@ -3632,11 +3636,11 @@ Eingetragen in [Portalringe - Haptik](../Technik/Portalringe.md#haptik).
 
 Aus [C-090 ✓](#c-090-kel-aman---eigenname-und-namenssystem-) beim Lückenaudit (08.09.2026) ausgelagert; dort als „kleiner Restpunkt" notiert.
 
-Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstammungsform `u-` („Sohn des") und `ult-` („Tochter des"). [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) trägt sie, [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nicht.
+Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstammungsform `u-` („Sohn des") und `ult-` („Tochter des"). [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) trägt sie, [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) nicht.
 
 **Entschieden (Autor, 08.09.2026): Die Filiation taucht im Erzähltext auf, und zwar bei allen Figuren.** Nicht nur dort, wo Rang oder Herkunft betont wird - wer genannt wird, wird mit Vatersnamen genannt. Das macht die Form zum hörbaren Merkmal der Kultur statt zu einem Ehrentitel für wenige.
 
-**Folge:** Jede Kel-Aman-Figur braucht einen Vatersnamen. Für [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) fehlt er → [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-).
+**Folge:** Jede Kel-Aman-Figur braucht einen Vatersnamen. Für [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) fehlt er → [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-).
 
 **Präzisiert (Autor, 10.09.2026): Die Filiation identifiziert, sie ist keine Anrede.** In der **Anrede** unter Anwesenden steht nur der Rufname (*„Abarkan"*); die volle Form gehört zur **Einführung** einer Figur und zur **Rede über** einen Abwesenden. So funktionieren Filiationsnamen auch real - sie sagen, wer jemand ist, nicht wie man ihn ruft. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster).
 
@@ -3680,6 +3684,8 @@ Nach [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-sem
 **Historisch trägt das ohne Abstriche.** Girlin ist in Jahr 0 (= 550 n.Chr.) 34 und kam mit etwa 18 nach [Skirraa](../Orte/Skirraa.md); ihre Ehejahre sind also **ca. 534-550**. In dieses Fenster fallen zwei belegte Ereignisse: der **Staubschleier von 536/537** (Vulkanwinter, mehrere Jahre ohne Ernte - in Skandinavien archäologisch als Bevölkerungseinbruch mit reihenweise aufgegebenen Höfen fassbar; er hallt später als *Fimbulwinter* nach) und ab **541 die Justinianische Pest** (Yersinia pestis, in Gräbern Süddeutschlands und Englands nachgewiesen; für Skandinavien ist der direkte Nachweis dünn, die Handelswege dorthin gab es). Ein einzelner Weiler, der in diesen Jahren leergeht, ist der Normalfall, nicht die Ausnahme.
 
 **Weiter offen · ???** Welcher Weiler es war und wo er lag → [C-024](#c-024-girlin---herkunft--vorgeschichte-). In welchem Jahr genau er einging, ob Girlin damals noch Leute dort hatte, und **wie sie es erfahren hat**. Ob im Erzähltext eine Ursache benannt wird - keine Figur der Epoche könnte eine Seuche als solche bezeichnen; sie kennen nur, was sie sehen.
+
+*Nachtrag 28.09.2026:* **Ihre Eltern und Geschwister starben mit dem Weiler** (Autor, 28.09.2026) - ob sie damals noch Leute dort hatte, ist damit beantwortet. Wann er leer war (um 541/542) und wie sie es erfuhr (über Reisende) steht seit 25.09.2026 in [Girlin](../Menschen/Nordvolk/Girlin.md).
 
 ---
 
@@ -3772,11 +3778,11 @@ Entschieden war: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) wird bei 
 
 **Entschieden (Autor, 08.09.2026): Er verliert das linke Auge.** Die Folge ist **bleibend und von außen sichtbar** - der Angriff bleibt über das Finale hinaus an ihm ablesbar.
 
-**Noch offen · ???** Was das für ihn als Jäger und Wegekenner bedeutet - ob er weitermachen kann und wie er sich umstellt.
+**Damals offen:** Was das für ihn als Jäger und Wegekenner bedeutet - ob er weitermachen kann und wie er sich umstellt. *(Beantwortet 25./28.09.2026, siehe unten.)*
 
-**Noch offen · ???** Der Hergang der Verletzung - wodurch das Auge verlorengeht und in welchem Moment des Kampfes.
+**Damals offen:** Der Hergang der Verletzung - wodurch das Auge verlorengeht und in welchem Moment des Kampfes. *(Beantwortet 25./28.09.2026, siehe unten.)*
 
-*Nachtrag 25.09.2026:* **Einer von Azzims Männern** verletzt ihn, und **er jagt danach weiter, nur schlechter** (Autor, 25.09.2026). In welchem Moment des Kampfes: weiter ???
+*Nachtrag 25.09.2026:* **Einer von Azzims Männern** verletzt ihn, und **er jagt danach weiter, nur schlechter** (Autor, 25.09.2026). *Nachtrag 28.09.2026:* In welchem Moment des Kampfes, **klärt der Szenentext**; **Wegekenner bleibt er** (Autor, 28.09.2026).
 
 ---
 
@@ -3830,7 +3836,7 @@ Nachgezogen: [Skirraa](../Orte/Skirraa.md), [Tibuns Generator](../Technik/Tibuns
 
 ---
 
-### C-170: Vatersnamen für Sekkan und Ishman ✓
+### C-170: Vatersnamen für Sekkan und Ishmalen ✓
 
 Aus [C-159 ✓](#c-159-filiation-im-erzähltext-der-kel-aman-) ausgelagert (08.09.2026).
 
@@ -3840,44 +3846,44 @@ Entschieden ist: Die Filiation `u-`/`ult-` steht im Erzähltext **bei allen Figu
 
 | Figur | Voller Name | Anmerkung |
 |---|---|---|
-| [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) | **Sekkan u-Iddar** | |
-| [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) | **Ishman u-Gulan** | |
+| [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) | **Sekkan u-Ikkedas** | |
+| [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) | **Ishmalen u-Gulan** | |
 | [Girlin](../Menschen/Nordvolk/Girlin.md) | **Gilint** | keine `ult-`Form |
 
-**Ishman ist Sekkans Mutterbruder.** Die Sippenpflicht, mit der der Clan später hilft, läuft also über Ishmans Schwester - deshalb unterscheiden sich die beiden Vatersnamen hörbar. Sekkans Mutter hat noch keinen Namen · **???**
+**Ishmalen ist Sekkans Mutterbruder.** Die Sippenpflicht, mit der der Clan später hilft, läuft also über Ishmalens Schwester - deshalb unterscheiden sich die beiden Vatersnamen hörbar. Sekkans Mutter hat noch keinen Namen · **???**
 
 **Girlin heißt in der Wüste Gilint.** Die Kel Aman sprechen den fremden Namen kollektiv falsch aus, und die falsche Form setzt sich durch: Das Cluster `-rl-` verliert einen Liquid (dieselbe Dissimilation wie in *peregrinus* → *Pilger*), und weil ein Frauenname bei ihnen ein umklammerndes `t` braucht, kommt eines ans Ende. Eine `ult-`Form bekommt sie ausdrücklich **nicht** - sie bleibt namentlich ohne Vaterlinie und damit hörbar sippenlos. Das entkoppelt den Namen von [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-): Zugehörigkeit entscheidet sich dort, nicht am Namen.
 
 **Ausgelagert:** Erzählstelle der Umbenennung → [C-172](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-). Namen und Verbleib von Sekkans Eltern → [C-171](#c-171-sekkans-eltern---namen-und-verbleib-).
 
-Eingetragen in [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishman.md](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md) und [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster).
+Eingetragen in [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishmalen.md](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md) und [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster).
 
 ---
 
 ### C-171: Sekkans Eltern - Namen und Verbleib ✓
 
-Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-) ausgelagert (09.09.2026).
+Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-) ausgelagert (09.09.2026).
 
-Mit dem Vatersnamen steht fest, dass [Sekkan u-Iddar](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) einen Vater namens **Iddar** hat und dass seine Mutter die Schwester [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) ist. Beide Personen sind sonst leer.
+Mit dem Vatersnamen steht fest, dass [Sekkan u-Ikkedas](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) einen Vater namens **Ikkedas** hat und dass seine Mutter die Schwester [Ishmalens](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) ist. Beide Personen sind sonst leer.
 
 **Entschieden (Autor, 10.09.2026):**
 
-- **Die Mutter heißt Tanast** - Ishmans Schwester, Trägerin der Sippenpflicht. Der Name folgt dem Muster der Kel Aman (Frauennamen von `t` umklammert).
+- **Die Mutter heißt Tanast** - Ishmalens Schwester, Trägerin der Sippenpflicht. Der Name folgt dem Muster der Kel Aman (Frauennamen von `t` umklammert).
 - **Beide Eltern leben**, in Jahr 0 wie in Jahr +5. Sekkan hat also eine vollständige Herkunftsfamilie im Clan, nicht nur einen Onkel.
 - **Sie nehmen [Girlin](../Menschen/Nordvolk/Girlin.md) an**: Sie ist die Frau ihres Sohnes und die Mutter ihrer Enkelin - dass sie eine Fremde ist, steht dem nicht im Weg.
 - **Tanast trägt den Wegzug in +5 schwer.** Kein Widerspruch, kein Bruch - aber sie leidet sichtbar. Damit ist Sekkans Preis nicht nur Entzug von Aufgaben und Nähe, sondern eine Mutter, die zurückbleibt und es nicht verbirgt.
 
-**Was das an bestehenden Festlegungen ändert:** nichts, es verschärft sie. *„Niemand verstößt ihn, der Clan hat Verständnis"* ([C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)) bleibt gültig - Verständnis und Schmerz schließen sich nicht aus. Der Wegzug bleibt streitfrei und wird trotzdem teurer.
+**Was das an bestehenden Festlegungen ändert:** nichts, es verschärft sie. *„Niemand verstößt ihn, der Clan hat Verständnis"* ([C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-)) bleibt gültig - Verständnis und Schmerz schließen sich nicht aus. Der Wegzug bleibt streitfrei und wird trotzdem teurer.
 
-Eingetragen in [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md), [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) (Namenstabelle der Sippe) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
+Eingetragen in [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md), [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) (Namenstabelle der Sippe) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 
-**Offen bleibt · ???** Ob Tanast und Iddar im Erzähltext auftreten oder nur genannt werden, und ob es für Tanasts Reaktion eine Szene braucht.
+**Offen bleibt · ???** Ob Tanast und Ikkedas im Erzähltext auftreten oder nur genannt werden, und ob es für Tanasts Reaktion eine Szene braucht.
 
 ---
 
 ### C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓
 
-Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-) ausgelagert (09.09.2026).
+Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-) ausgelagert (09.09.2026).
 
 Entschieden ist: [Girlin](../Menschen/Nordvolk/Girlin.md) heißt bei den [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) **Gilint**, weil sie ihren Namen kollektiv falsch aussprechen und die falsche Form sich durchsetzt.
 
@@ -3922,7 +3928,7 @@ Aus [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) ausgelagert (09.09.2
 **Entschieden (Autor, 09.09.2026):**
 
 - **Es helfen die erfahrenen Frauen des Clans.** Keine Rolle, kein Amt, kein besonderer Stand - die Älteren, die es können.
-- **Der Stand der Gebärenden spielt keine Rolle.** Die Hilfe hängt **nicht** daran, ob [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Girlin schon aufgenommen hat: Bei einer Geburt fragt niemand danach. Damit ist dieser Punkt von [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-) entkoppelt.
+- **Der Stand der Gebärenden spielt keine Rolle.** Die Hilfe hängt **nicht** daran, ob [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) Girlin schon aufgenommen hat: Bei einer Geburt fragt niemand danach. Damit ist dieser Punkt von [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-) entkoppelt.
 - **[Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) ist nicht da** - er ist mit einer Karawane unterwegs. Girlin bekommt das Kind ohne ihn, unter Frauen eines fremden Volkes.
 - **Die Geburt ist eine eigene Szene**, nicht hinter dem Schnitt. [Szene *Das dritte Kind*](../Plots/Plot-1/Szenen.md) hat damit ein Hindernis: Sie ist allein unter Fremden.
 
@@ -3934,11 +3940,11 @@ Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#geburt), [Zeitleiste](.
 
 ### C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓
 
-Aufgefallen bei [C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-) (09.09.2026).
+Aufgefallen bei [C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-) (09.09.2026).
 
 Zwei Entscheidungen stehen nebeneinander und ergeben zusammen eine offene Frage:
 - Der Clan **nimmt [Girlin](../Menschen/Nordvolk/Girlin.md) förmlich auf** und wird ihre Sippe ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)).
-- Der Wegzug in Jahr +5 ist **einvernehmlich** - niemand wird verstoßen ([C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)).
+- Der Wegzug in Jahr +5 ist **einvernehmlich** - niemand wird verstoßen ([C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-)).
 
 **Daraus folgt die Frage:** Endet die Zugehörigkeit mit dem Wegzug, oder besteht sie fort - nur eben auf Entfernung? Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) sagte bisher, Girlin sei **ab +5 ohne Sippenschutz**; die Stelle steht jetzt auf `???`.
 
@@ -3952,7 +3958,7 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots
 
 ### C-176: Sekkans Preis ist entfallen ✗
 
-**Zurückgezogen am 09.09.2026 - die Prämisse war falsch.** Angelegt in der Annahme, mit dem einvernehmlichen Wegzug ([C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)) sei [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Preis ersatzlos entfallen.
+**Zurückgezogen am 09.09.2026 - die Prämisse war falsch.** Angelegt in der Annahme, mit dem einvernehmlichen Wegzug ([C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-)) sei [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Preis ersatzlos entfallen.
 
 **Der Autor hat klargestellt:** Der Preis bleibt. **Fortzuziehen ist bei den Kel Aman extrem unüblich und selten** - Sekkan tut etwas, das kaum jemand tut. Es ist nur keine Strafe, sondern **Entzug**: Er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun.
 
@@ -4071,7 +4077,7 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.2026): Zwischen Jahr +1 und +9 verliert [Tibun](../Menschen/Nordvolk/Tibun.md) etwas.
 
 **Was feststeht und nicht verletzt werden darf:**
-- Die Zieheltern [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harihild](../Menschen/Nordvolk/Nebenfiguren/Harihild.md) bleiben am Ende **lebend und im Guten** zurück (Autor, 02.09.2026)
+- Die Zieheltern [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md) bleiben am Ende **lebend und im Guten** zurück (Autor, 02.09.2026)
 - Der Aufbruch in +9 ist ein Erfolg: Das Tischmodell läuft, Wissen und Bernstein reichen ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md))
 
 **Zu klären · ???**
@@ -4318,7 +4324,7 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 
 Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
 
-Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randi](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Harihild.md) *(alte Namen, Stand 23.09.2026)*. Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md), [Sigrik](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) und [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md). *(Diese Eingrenzung ist eine Einschätzung von Claude, nicht vom Autor.)*
+Betroffen sind vor allem die Kurzformen nach [C-092 ✓](#c-092-namenssystem-des-nordvolks-) (Erstglied + `-un`, `-in`/`-a`, `-i`): [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Randi](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Frida](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md), [Fridun](../Menschen/Nordvolk/Nebenfiguren/Fridmund.md), [Siga](../Menschen/Nordvolk/Nebenfiguren/Harahild.md) *(alte Namen, Stand 23.09.2026)*. Den Urnamen tragen bereits [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md), [Randwara](../Menschen/Nordvolk/Nebenfiguren/Randwara.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md), [Sigrik](../Menschen/Nordvolk/Nebenfiguren/Sigrik.md) und [Wulfstein](../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md). *(Diese Eingrenzung ist eine Einschätzung von Claude, nicht vom Autor.)*
 
 **Antwort (Autor, 28.09.2026)**
 
@@ -4342,7 +4348,7 @@ Belegte Kurzform-Endungen (ältere Runeninschriften Skandinaviens, nach Jacobsso
 | Randi (*Randhild*) | **Randlaug** - Schild + geweiht | nein |
 | Frida (*Fridgund*) | **Fridugund** - Frieden + Kampf | ja |
 | Millia (*Mildhild*) | **Mildirun** - mild + Geheimnis | ja |
-| Siga (*Sighild*) | **Harihild** - Heer + Kampf | ja |
+| Siga (*Sighild*) | **Harihild** - Heer + Kampf *(seit 29.09.2026 Harahild, Autor)* | ja |
 | Fridun (Kurzform von *Fridmund*) | **Fridmund** - Urname als Rufname | nein |
 | Urformen von Tibun, Girlin, Semund | *Theudobern*, *Gairalind*, *Sigimund* | ja |
 

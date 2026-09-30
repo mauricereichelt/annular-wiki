@@ -9,8 +9,9 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **sesshaft** in [Tingsal](../../../Orte/Tingsal.md) |
-| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
-| **Herkunft** | **auswärts, unbekannt** - sitzt in [Tingsal](../../../Orte/Tingsal.md), stammt aber nicht von dort |
+| **Name** | **kein Eigenname** - nur der Titel *Wala*, auch im Erzähltext (Autor, 29.09.2026) |
+| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt (Autor, 28.09.2026); exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
+| **Herkunft** | **auswärts, unbekannt** - sitzt in [Tingsal](../../../Orte/Tingsal.md), stammt aber nicht von dort (Autor, 28.09.2026) |
 
 **Familie**
 
@@ -22,7 +23,7 @@
 
 ## Frühes Leben
 
-**Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte.
+**Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte (Autor, 28.09.2026).
 
 Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Ihre Autorität ruht auf **vier Säulen zugleich** (Autor, 08.09.2026):
 
@@ -31,7 +32,7 @@ Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Ihre Autorität ruh
 3. **Die Zwillingsgeburt selbst** - zwei Frauen mit einer Stimme gelten als Zeichen, nicht als Zufall.
 4. **Das Fremdsein selbst** - gerade weil sie zu keiner Sippe gehören, gelten sie als unparteiisch. Kein Hof, an dem ihr Spruch etwas gewinnt.
 
-Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe, Zeichen und Unparteilichkeit tun es zusammen.
+Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe, Zeichen und Unparteilichkeit tun es zusammen (Autor, 28.09.2026).
 
 > **Anmerkung (Claude):** Die Jahre ohne Sommer beginnen 536/537 (siehe [Girlin](../Girlin.md#frühes-leben)). Bei etwa 35 in Jahr 0 (= 550) waren die Zwillinge damals etwa 21 (35 - 14); die Vorhersage lag davor.
 
@@ -39,16 +40,16 @@ Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe
 
 ## Besondere Fähigkeiten
 
-- Seherin des Nordvolks (*Wala/Völva*), historisch belegt mit politischem Einfluss (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md))
+- Seherin des Nordvolks (*Wala/Völva*), historisch belegt mit politischem Einfluss (Autor, 28.09.2026) (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md))
 - **Heil- und Kräuterkunde** - wie ihre Zwillingsschwester (Autor, 23.09.2026)
 
 ---
 
 ## Bedeutung in der Geschichte
 
-Sitzt im regionalen Zentrum [Tingsal](../../../Orte/Tingsal.md) (Häuptlingssitz, ein Tagesmarsch von [Skirraa](../../../Orte/Skirraa.md)). **Veleda-Modell:** abgesondert, hochgeehrt, über Mittler befragt.
+Sitzt im regionalen Zentrum [Tingsal](../../../Orte/Tingsal.md) (Häuptlingssitz, ein Tagesmarsch von [Skirraa](../../../Orte/Skirraa.md)). **Man befragt sie direkt** (Autor, 28.09.2026). *(Hier stand ohne Autorenvermerk: „Veleda-Modell: abgesondert, hochgeehrt, über Mittler befragt" - widersprach dem direkten Zugang, Autor 11.09.2026.)*
 
-Weiß **nichts** vom vergrabenen Ring am Skir.
+Weiß **nichts** vom vergrabenen Ring am Skir (Autor, 28.09.2026).
 
 **Sie ist die erreichbare Wala** (Autor, 07.09.2026). Wo ihre wandernde Zwillingsschwester sich aufhält, weiß **nur sie** - für alle anderen ist Tingsal die einzige Adresse, an der eine Wala sicher anzutreffen ist.
 
@@ -67,6 +68,8 @@ Weiß **nichts** vom vergrabenen Ring am Skir.
 ## Verbindungen zu anderen Charakteren
 
 - Zwillingsschwester: [Wandernde Wala](Wala-Wandernd.md)
+- Getrennte Sphären mit: [Hadurik](Hadurik.md)
+- Erlaubt die Verlobung von: [Semund](Semund.md) und [Mildirun](Mildirun.md)
 
 ---
 

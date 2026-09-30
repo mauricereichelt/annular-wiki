@@ -51,16 +51,17 @@ ZEILEN = {
     "Verlobter": "verlobt", "Verlobte": "verlobt",
     "Bruder": "geschwister", "Schwester": "geschwister",
     "Zwillingsschwester": "geschwister", "Geschwister": "geschwister",
-    "Großmutter": "abgeleitet", "Großeltern": "abgeleitet", "Enkel": "abgeleitet",
+    "Großmutter": "abgeleitet", "Großväter": "abgeleitet", "Großeltern": "abgeleitet", "Enkel": "abgeleitet",
     "Enkelin": "abgeleitet", "Onkel": "abgeleitet", "Neffe": "abgeleitet",
-    "Halbgeschwister": "abgeleitet",
+    "Halbgeschwister": "abgeleitet", "Großvater": "abgeleitet", "Stiefmutter": "abgeleitet",
+    "Zieheltern": "abgeleitet", "Schwiegersohn": "abgeleitet", "Schwiegertochter": "abgeleitet",
 }
 PAARE = ("ehe", "partner", "verlobt")
 
 # Figuren ohne eigene Datei, die in einer Familienzeile stehen.
 # Schluessel: (Quelldatei, Zeilenbeschriftung). Wert: Beziehung im Bild.
 PLATZHALTER = {
-    ("Ishman", "Ehefrau"): ("paar", "ehe", ["Ishman"]),
+    ("Ishmalen", "Ehefrau"): ("paar", "ehe", ["Ishmalen"]),
     ("Sekkan", "Frühere Ehefrau"): ("paar", "ehe", ["Sekkan"]),
     ("Mildirun", "Erster Mann"): ("paar", "ehe", ["Mildirun"]),
     ("Girlin", "Verstorbene Kinder"): ("kind", None, ["Semund", "Girlin"]),
@@ -71,7 +72,7 @@ PLATZHALTER = {
 # Verweise auf eine Figur in einer anderen Gruppe (Quelle: Verbindungen).
 # Schluessel: (Quelldatei, Beschriftung der Verbindung). Wert: von wem die Linie ausgeht.
 VERWEISE = {
-    ("Audmar", "Ziehsohn"): ["Audmar", "Harihild"],
+    ("Audmar", "Ziehsohn"): ["Audmar", "Harahild"],
 }
 
 # Platz im Bild: (Knoten, Spalte, Zeile). Spalten sind Kartenbreiten, Zeilen Generationen.
@@ -82,13 +83,15 @@ GRUPPEN = [
         "titel": "Girlins zwei Familien",
         "unter": "Skirraa links, der Clan der Kel Aman rechts - Girlin steht dazwischen",
         "knoten": [
-            ("Sigrik", 0.5, 0), ("Randwara", 1.5, 0),
-            ("Iddar", 3.5, 0), ("Tanast", 4.5, 0), ("Ishman", 5.5, 0), ("Ishman/Ehefrau", 6.5, 0),
-            ("Semund/Geschwister", 1.0, 0.62),
-            ("Mildirun/Erster Mann", -1.0, 1), ("Mildirun", 0.0, 1), ("Semund", 1.0, 1),
-            ("Girlin", 2.5, 1), ("Sekkan", 4.0, 1), ("Sekkan/Frühere Ehefrau", 5.0, 1),
-            ("Girlin/Verstorbene Kinder", 0.3, 2), ("Tibun", 1.3, 2), ("Randlaug", 2.3, 2),
-            ("Wulfstein", 3.2, 2), ("Tamant", 4.2, 2),
+            ("Aferdassen", 3.5, 0), ("Gulan", 5.5, 0),
+            ("Sigrik", 0.5, 1), ("Randwara", 1.5, 1),
+            ("Ikkedas", 3.5, 1), ("Tanast", 4.5, 1), ("Ishmalen", 5.5, 1), ("Ishmalen/Ehefrau", 6.5, 1),
+            ("Semund/Geschwister", 1.0, 1.62),
+            ("Mildirun/Erster Mann", -1.0, 2), ("Mildirun", 0.0, 2), ("Semund", 1.0, 2),
+            ("Girlin", 2.5, 2), ("Sekkan", 4.0, 2), ("Sekkan/Frühere Ehefrau", 5.0, 2),
+            ("Mildiwara", -2.0, 3), ("Sigibern", -1.0, 3),
+            ("Girlin/Verstorbene Kinder", 0.65, 3), ("Tibun", 1.5, 3), ("Randlaug", 2.5, 3),
+            ("Wulfstein", 3.45, 3), ("Tamant", 4.4, 3),
         ],
     },
     {
@@ -104,7 +107,7 @@ GRUPPEN = [
         "id": "kaupvik",
         "titel": "Kaupvik",
         "unter": "Tibuns Zieheltern",
-        "knoten": [("Audmar", 0, 0), ("Harihild", 1, 0), ("Audmar>Ziehsohn", 0.5, 1)],
+        "knoten": [("Audmar", 0, 0), ("Harahild", 1, 0), ("Audmar>Ziehsohn", 0.5, 1)],
     },
     {
         "id": "tingsal",
@@ -119,7 +122,10 @@ GRUPPEN = [
         "id": "wueste",
         "titel": "Weitere in der Wüste",
         "unter": "ohne Familie im Bild",
-        "knoten": [("Bellbrim", 0, 0), ("Azzim-u-Tawan", 1, 0), ("Abarkan", 2, 0)],
+        "knoten": [
+            ("Tawan", 1, 0), ("Nabaon", 2, 0),
+            ("Bellbrim", 0, 1), ("Azzim-u-Tawan", 1, 1), ("Abarkan", 2, 1),
+        ],
     },
 ]
 
@@ -232,7 +238,7 @@ def kurz(text):
 def erster_figurenlink(text, datei, figuren):
     """Figur, auf die die Zelle zeigt: nur ein Link ganz am Anfang zaehlt.
 
-    "[Tanast](Tanast.md), Schwester [Ishmans](Ishman.md)" -> Tanast.
+    "[Tanast](Tanast.md), Schwester [Ishmalens](Ishmalen.md)" -> Tanast.
     "keine - er ist das einzige Kind von [Tanast](...)" -> keine Figur.
     """
     m = re.match(r"\s*(?:\*\*)?\[([^\]]+)\]\(([^)\s]+)\)", text)

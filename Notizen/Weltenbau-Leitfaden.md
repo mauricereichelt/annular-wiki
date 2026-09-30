@@ -146,7 +146,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 - [~] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht - dort gibt es keine Orte.
 - [x] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
   > **Beantwortet (Autor, 22.09.2026): Der Test gilt, aber ohne feste Zahl.** Zwei verständliche Seiten haben: [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) gegen [Tibun](../Menschen/Nordvolk/Tibun.md) · Tibun gegen [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) und Weiler · [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) gegen Tibun · [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und der Clan. [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) bekommt eine zweite Seite: Sein Ansehen hängt daran. *Herkunft: Der Test stammt von Claude (28.08.2026), nicht vom Autor.*
-- [~] **6 · Namenstest.** Für den Süden **bestanden**. Für den Norden ist das Muster entschieden (31.08.2026, überarbeitet 28.09.2026).
+- [x] **6 · Namenstest.** **Bestanden** - für den Süden und für den Norden (Autor, 28.09.2026).
 - [~] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 
 ---

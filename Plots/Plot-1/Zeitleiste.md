@@ -50,7 +50,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### 2. Der Bernstein-Effekt
 - Tibun entdeckt zufällig die elektrischen Eigenschaften von Bernstein
-  - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Blitz an der Schafschere im Wollstall
+  - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Blitz an der Schafschere im Wollstall (Autor, 29.09.2026)
 - Er versteht das Prinzip noch **nicht** - die Einsicht kommt erst Jahre später in Kaupvik
 - **Die Kette ist nicht neu** - Tibun hat sie schon lange (Autor, 04.09.2026)
 - **Die Verlobungsfeier liegt bewusst nur Tage nach dem Beben** (Autor, 14.09.2026) - ein Fest gegen die Angst
@@ -84,7 +84,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 **Umgebaut am 02.09.2026**. Die frühere Fassung ließ ihn *acht Jahre über den Ochsenweg wandern* - das war nie stimmig: Skirraa↔Kaupvik sind **~14 Tagesmärsche**, also zwei bis drei Wochen. Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre.
 
 - **Konflikt/Antrieb:** Suche nach der Mutter, Bernstein, Wissen über den Ring, Mechanik - dazu Schuld und Ausschluss nach dem Unfall
-- **Die Zieheltern** (Autor, 10.09.2026): Tibun wohnt **von Anfang an** bei [**Audmar**](../../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [**Harihild**](../../Menschen/Nordvolk/Nebenfiguren/Harihild.md) aus [Kaupvik](../../Orte/Kaupvik.md). **Audmar ist Schiffszimmerer**; kennengelernt haben sie sich **auf der Fähre bei [Vegamot](../../Orte/Vegamot.md)**, als Teil derselben Reisegemeinschaft
+- **Die Zieheltern** (Autor, 10.09.2026): Tibun wohnt **von Anfang an** bei [**Audmar**](../../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [**Harahild**](../../Menschen/Nordvolk/Nebenfiguren/Harahild.md) aus [Kaupvik](../../Orte/Kaupvik.md). **Audmar ist Schiffszimmerer**; kennengelernt haben sie sich **auf der Fähre bei [Vegamot](../../Orte/Vegamot.md)**, als Teil derselben Reisegemeinschaft
   - **Warum sie ihn nehmen:** Sie **haben keine Kinder**; die Abmachung ist **Kost gegen Arbeit**, und beide sind ihm gegenüber **offen und warmherzig** (Autor, 25.09.2026). Die Nähe wächst über die Jahre, unabsichtlich; später sehen sie **etwas wie einen Sohn** in ihm und hoffen, dass er bleibt oder wiederkommt. Sie sagen es ihm **beim Abschied, einmal** (Autor, 25.09.2026)
   - **Audmar wird die neue Bezugsperson** - der Gegenentwurf zu [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md). Beide bleiben am Ende **lebend zurück** (Autor, 02.09.2026), im Guten
 - Rund ein Jahr nach Girlins Verschwinden verlässt Tibun Skirraa
@@ -99,9 +99,9 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **+5 bis +9:** Bau des **Tischmodells** (Prototyp des Bernsteinrad-Generators), weiter Bernstein
 - **In den Kaupvik-Jahren verliert Tibun nichts Konkretes** (Autor, 15.09.2026). Die Zeit ist geprägt von **Arbeit, Lernen, Bernsteinhandel, Bernsteinsuche und seinen Experimenten**
 - **Aufbruch in Jahr +9:** Das Tischmodell **läuft**, und er hält Wissen und Bernstein für ausreichend - **er hat damit recht**. Kein Irrtum, kein Scheitern im Maßstab
-- **Die Zieheltern bleiben zurück** - lebend, im Guten. Ein Abschied, kein Verlust
+- **Die Zieheltern bleiben zurück** - lebend, im Guten. **Der Abschied tut allen dreien weh** (Autor, 29.09.2026). *(Hier stand: „Ein Abschied, kein Verlust".)*
 - **In Skirraa hält das Tabu** (Autor, 10.09.2026): Die [Sandstelle](../../Orte/Skirraa.md) wird die ganzen acht Jahre **gemieden wie am ersten Tag**, und **man erzählt davon** - Kindern zur Warnung. Der Ort bleibt präsent, ohne dass ihn jemand betritt
-- **Folge:** Weil der Aufbruch nichts kostet, muss der Konflikt der Jahre +9/+10 **vollständig vom Dorf kommen**.
+- *(Hier stand ohne Autorenvermerk: „Folge: Weil der Aufbruch nichts kostet, muss der Konflikt der Jahre +9/+10 vollständig vom Dorf kommen." - vom Autor gestrichen 29.09.2026, der Abschied tut allen dreien weh.)*
 
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
 - Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Fluss
@@ -123,6 +123,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Randlaug empfängt ihn mit einem Wutanfall** (Autor, 11.09.2026): Die Verletztheit darüber, dass er sie verlassen hat, bricht heraus - **einmal, danach ist sie wieder still**. Eigene Szene bei seiner Ankunft; das Gespräch, in dem er ihr sagt, was er tut, folgt später
   - **Randlaug ist inzwischen verheiratet** (Autor, 18.09.2026) und hat einen eigenen Haushalt **in [Skirraa](../../Orte/Skirraa.md)** (Autor, 25.09.2026; *hier stand: oder in der Nähe*). Sie ist bei seiner Rückkehr **18**. Ihr Mann ist [**Wulfstein**](../../Menschen/Nordvolk/Nebenfiguren/Wulfstein.md), geheiratet haben sie in **Jahr +8**, Kinder haben sie bei seiner Rückkehr **keine**. Der Empfang findet **auf [Semunds](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof** statt, Wulfstein ist nicht dabei - er ist auf der Jagd (Autor, 25.09.2026)
   - **Randlaug weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn zur Vernunft bringen
+  - **Auf dem Hof leben zwei Halbgeschwister, die er nie gesehen hat** (Autor, 28.09.2026): [Mildiwara](../../Menschen/Nordvolk/Nebenfiguren/Mildiwara.md), geboren in +2, und [Sigibern](../../Menschen/Nordvolk/Nebenfiguren/Sigibern.md), geboren in +4 - Kinder von Semund und Mildirun, bei seiner Rückkehr etwa 7 und 5. Mildiwara spielt darüber hinaus keine Rolle (Autor, 28.09.2026); **Sigibern ist der neue Hoferbe** (Autor, 28.09.2026). Das Erbe **kommt im Buch nicht zur Sprache** (Autor, 28.09.2026).
 - **Er erfährt erst jetzt vom Tod seiner Großmutter [Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md)** (Autor, 24.09.2026) - sie starb früh in seiner Reise, in Jahr +2 bis +3
 - **Finale:** Erste manuelle Zündung des Skir-Rings
 
@@ -138,8 +139,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
   - **Woher sie es weiß** (Autor, 11.09.2026): Beim Sturz sieht sie den Ring noch - das letzte Bild vor der Ohnmacht. In der Wüste liegt sie wieder in einem Ring gleicher Form, um sie Erde, Steine und die Birke aus Vilund. Die Kel Aman haben in der Nacht das Leuchten gesehen; das erfährt sie erst, wenn man sich verständigen kann · **???**
-- Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist
-- **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md)**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
+- Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist. **[Abarkan](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) führt die Karawane zu ihr** - nur er kennt ihren Höhlenabschnitt (Autor, 10./28.09.2026)
+- **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md)**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 
 ### Das Kind und der Entschluss (Jahr +3 → +5)
 
@@ -156,7 +157,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### Die Bitte und die Trennung (Jahr +5)
 - **Das Hindernis hatte drei Phasen** (02.09.2026): Zugehörigkeit → Wissen → Bitte. Erst als feststeht, dass man den Ring **auslösen** kann, lohnt der Transport überhaupt
 - **Girlin bittet selbst.** Sie ist stark und unabhängig; Sekkan bittet nicht für sie. **Er unterstützt sie, und sein Einfluss hilft** - sie arbeiten als Team (entschieden 03.09.2026)
-- **Warum der Clan hilft: Sippenpflicht.** **Sekkan ist Blut des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md)**. Man tut es für ihn, nicht für sie
+- **Warum der Clan hilft: Sippenpflicht.** **Sekkan ist Blut des Häuptlings [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md)**. Man tut es für ihn, nicht für sie
   > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor
 - **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, Sekkan und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. **Ohne Streit, aber nicht ohne Preis** (Autor, 09.09.2026): Niemand wird verstoßen, der Clan hat Verständnis. Fortzuziehen ist bei den Kel Aman jedoch **extrem unüblich und selten** - Sekkan vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun
   - **Seine Mutter [Tanast](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) trägt den Wegzug schwer** (Autor, 10.09.2026). Beide Eltern leben; sie widerspricht nicht und hält ihn nicht fest, aber sie leidet sichtbar. Der Preis ist damit nicht nur Entzug von Aufgaben und Nähe, sondern eine Mutter, die zurückbleibt
@@ -200,11 +201,12 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Folgerung (Claude):** Flach liegt der Ring nur auf seiner Stirnseite auf, einem Kreisband von 3,30 m Außen-Ø. Die Querhölzer des Schlittens müssen deshalb mindestens 3,30 m überspannen
   - **Die Strecke bekommt keine eigene Angabe** (Autor, 22.09.2026) - die Dauer von ein paar Wochen reicht
   > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor. Den Schlitten hat der Autor am 22.09.2026 selbst gewählt; Piste und Route bleiben gestrichen
-- **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** - er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Darüber entscheiden [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) und der ganze Ältestenrat gemeinsam** (Autor, 25.09.2026). **Der Clan schützt sie dort** (Autor, 14.09.2026). **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
+- **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** - er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Darüber entscheiden [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) und der ganze Ältestenrat gemeinsam** (Autor, 25.09.2026). **Der Clan schützt sie dort** (Autor, 14.09.2026). **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
   - **Er verliert den Zug** und sieht **nicht**, wohin der Ring gebracht wird (entschieden 03.09.2026). Deshalb muss er die Schlucht später erst finden
   - **Offen:** Verlauf und Einzelheiten der Verhandlung - für das Gerüst ohne Belang · **???**
+- **[Tanast](../../Menschen/Kel-Aman/Nebenfiguren/Tanast.md) stirbt während des Transports** (Jahr +8), **nach Azzims Verhandlung**, an Alter oder Krankheit (Autor, 28.09.2026). [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) ist dabei. **Die Zusage steht über ihren Tod hinaus** - der Clan führt den Transport zu Ende (Autor, 28.09.2026)
 - **Ziel:** die **Schlucht** bei Bellbrim - Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem
-- **Jahr +8: Der Ring liegt in der Schlucht.** Der Clan zieht weiter
+- **Jahr +8: Der Ring liegt in der Schlucht.** Der Clan zieht weiter. **Ab jetzt kennt der ganze Clan den Ort** (Autor, 28.09.2026)
   - Genauer: in der **Ringkammer** des Höhlensystems (Autor, 10.09.2026) - der Kammer, durch die der unterirdische **Wasserfall** fällt. Ring und Kraftquelle liegen damit am selben Ort ([Bellbrims Werkstatt](../../Orte/Bellbrims-Werkstatt.md#die-ringkammer))
 - **Der Ring wird nie aufgerichtet** (entschieden 03.09.2026). Er liegt, wie jeder Ring liegt - Aufrichten wäre unnötig. Damit ist die offene Frage nach der Wiederaufstellung des Rings beantwortet
 

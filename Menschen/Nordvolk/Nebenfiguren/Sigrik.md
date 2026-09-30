@@ -17,10 +17,11 @@
 
 | | |
 |---|---|
-| **Ehefrau** | [Randwara](Randwara.md) |
+| **Vater** | ohne Namen - **Sigrik erbte den Hof von ihm** (Autor, 28.09.2026) |
+| **Ehefrau** | [Randwara](Randwara.md) - kam **zur Heirat** mit ihm aus [Tingsal](../../../Orte/Tingsal.md) (Autor, 28.09.2026) |
 | **Sohn** | [Semund](Semund.md) |
 | **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026). [Semund](Semund.md) ist der **einzige Sohn** (Autor, 25.09.2026) |
-| **Enkel** | [Tibun](../Tibun.md), [Randlaug](Randlaug.md) |
+| **Enkel** | [Tibun](../Tibun.md), [Randlaug](Randlaug.md), [Mildiwara](Mildiwara.md), [Sigibern](Sigibern.md) - alle nach seinem Tod geboren |
 
 ---
 
@@ -38,7 +39,7 @@
 
 ## Bedeutung in der Geschichte
 
-**Er ist tot.** [Semund](Semund.md) hat den Hof in [Skirraa](../../../Orte/Skirraa.md) von ihm geerbt (Autor, 15.09.2026), vor [Tibuns](../Tibun.md) Geburt (Autor, 24.09.2026). **Er starb in Jahr -20 (530)** (Autor, 25.09.2026); Semund war da etwa 15 (35 in Jahr 0, minus 20 Jahre).
+**Er ist tot.** [Semund](Semund.md) hat den Hof in [Skirraa](../../../Orte/Skirraa.md) von ihm geerbt (Autor, 15.09.2026), vor [Tibuns](../Tibun.md) Geburt (Autor, 24.09.2026). **Er starb in Jahr -20 (530)** (Autor, 25.09.2026) - woran, **spielt keine Rolle** (Autor, 28.09.2026); Semund war da etwa 15 (35 in Jahr 0, minus 20 Jahre).
 
 **Semund übernimmt den Hof gleich, [Randwara](Randwara.md) führt ihn zuerst, bis er erwachsen ist** - auf die Frage, wer den Hof bis dahin führt, gilt beides (Autor, 25.09.2026).
 
@@ -48,7 +49,7 @@
 
 - Ehefrau: [Randwara](Randwara.md)
 - Sohn: [Semund](Semund.md)
-- Enkel: [Tibun](../Tibun.md), [Randlaug](Randlaug.md)
+- Enkel: [Tibun](../Tibun.md), [Randlaug](Randlaug.md), [Mildiwara](Mildiwara.md), [Sigibern](Sigibern.md) - alle nach seinem Tod geboren
 
 ---
 

@@ -24,6 +24,9 @@
 | **Zweite Ehefrau** | [Mildirun](Mildirun.md) - **eine Ehe** (Autor, 25.09.2026). *(Hier stand: Neue Partnerin.)* |
 | **Sohn** | [Tibun](../Tibun.md) |
 | **Tochter** | [Randlaug](Randlaug.md) |
+| **Verstorbene Kinder** | drei, mit Girlin - das letzte in Jahr -1 (Autor, 24.09.2026) |
+| **Tochter** | [Mildiwara](Mildiwara.md), mit Mildirun, geboren in Jahr +2 - lebt bei Tibuns Rückkehr (Autor, 28.09.2026) |
+| **Sohn** | [Sigibern](Sigibern.md), mit Mildirun, geboren in Jahr +4 - lebt bei Tibuns Rückkehr; **der neue Hoferbe** (Autor, 28.09.2026) |
 
 ---
 
@@ -37,11 +40,11 @@ Sein Vater [Sigrik](Sigrik.md) starb in **Jahr -20** (Autor, 25.09.2026), da war
 
 ## Besondere Fähigkeiten
 
-**Hirte und Züchter.** Sein Können liegt beim Vieh: Er liest den Tieren an, was ihnen fehlt, und weiß, welches Mutterschaf zu welchem Bock gehört. Der Hof lebt von diesem Blick, nicht von Handelsgeschick.
+**Hirte und Züchter.** Sein Können liegt beim Vieh: Er liest den Tieren an, was ihnen fehlt, und weiß, welches Mutterschaf zu welchem Bock gehört. Der Hof lebt von diesem Blick, nicht von Handelsgeschick (Autor, 28.09.2026).
 
 **Er hat die Herde einmal fast ganz verloren** (Autor, 10.09.2026). In den **Hungerjahren ab 536** - Tibun war zwei oder drei - stirbt der größte Teil des Bestands ([Skirraa](../../../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene)). Der Hof überlebt, aber was danach auf der Weide steht, hat Semund über Jahre wieder aufgebaut. Im Erzähltext steht es in **einem Satz, beiläufig** (Autor, 24.09.2026).
 
-**Schweigsam.** Bei Menschen hat er dieselbe Sicherheit nicht. Er redet wenig, arbeitet weiter und hält aus - auch das Verschwinden seiner Frau. Genau das wirft [Tibun](../Tibun.md) ihm vor: dass er nichts sagt und trotzdem weitermacht, als sei nichts.
+**Schweigsam.** Bei Menschen hat er dieselbe Sicherheit nicht. Er redet wenig, arbeitet weiter und hält aus - auch das Verschwinden seiner Frau. Genau das wirft [Tibun](../Tibun.md) ihm vor: dass er nichts sagt und trotzdem weitermacht, als sei nichts (Autor, 28.09.2026).
 
 ---
 
@@ -49,15 +52,15 @@ Sein Vater [Sigrik](Sigrik.md) starb in **Jahr -20** (Autor, 25.09.2026), da war
 
 Semund und [Girlin](../Girlin.md) haben **drei Kinder verloren** - das letzte in **Jahr -1 (549)** (Autor, 24.09.2026). Das letzte war ein **Säugling von wenigen Wochen** (Autor, 08.09.2026). Es liegt nach dem Brauch des Nordvolks **auf dem Hofgelände**, in einer unmarkierten Grube nahe am Haus - kein Grabhügel, kein Stein; nur die Familie kennt die Stelle (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern)).
 
-Im Erzähltext wird der Verlust **mit einem einzigen Satz** sichtbar - beiläufig genannt, nie ausgeführt. Ob die Stelle in einer Szene vorkommt, entscheidet sich beim Schreiben. Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Mildirun](Mildirun.md): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
+Im Erzähltext wird der Verlust **mit einem einzigen Satz** sichtbar - beiläufig genannt, nie ausgeführt. Ob die Stelle in einer Szene vorkommt, entscheidet sich beim Schreiben. Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Mildirun](Mildirun.md): **Er hat nicht ersetzt, er hat aufgehört zu verlieren** (Autor, 28.09.2026).
 
 ---
 
 ## Bedeutung in der Geschichte
 
-Hält [Girlin](../Girlin.md) für **tot** und bindet sich **rasch** neu an [Mildirun](Mildirun.md) - für [Tibun](../Tibun.md) ein schmerzhafter Bruch. Versucht, nach Girlins Verschwinden Stabilität für die Familie zu schaffen. Führt den **Schaf- und Wollhof** der Familie in [Skirraa](../../../Orte/Skirraa.md) weiter - Herde, Schur und Stoffherstellung -, auch während Tibuns rund achtjähriger Reise (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)).
+Hält [Girlin](../Girlin.md) für **tot** und bindet sich **rasch** neu an [Mildirun](Mildirun.md) - für [Tibun](../Tibun.md) ein schmerzhafter Bruch (Autor, 30.09.2026). Versucht, nach Girlins Verschwinden Stabilität für die Familie zu schaffen (Autor, 28.09.2026). Führt den **Schaf- und Wollhof** der Familie in [Skirraa](../../../Orte/Skirraa.md) weiter - Herde, Schur und Stoffherstellung -, auch während Tibuns acht Jahren in [Kaupvik](../../../Orte/Kaupvik.md) (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)). *(Hier stand: „während Tibuns rund achtjähriger Reise" - die acht Jahre verbringt Tibun an einem Ort, Autor 10.09.2026.)* Mit [Mildirun](Mildirun.md) bekommt er zwei Kinder: [Mildiwara](Mildiwara.md) (+2) und [Sigibern](Sigibern.md) (+4) (Autor, 28.09.2026). Bei Tibuns Rückkehr leben im Haus damit zwei Halbgeschwister, die er nie gesehen hat.
 
-Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen und sie wegteleportieren. Semunds rascher Ersatz ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang**.
+Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen und sie wegteleportieren. Semunds rascher Ersatz ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang** (Autor, 30.09.2026).
 
 **Bei Tibuns Rückkehr nimmt er ihn auf** (Autor, 18.09.2026). Der Sohn, der ohne Abschied ging und nun an der Tabustelle baut, **wohnt zunächst auf dem Hof**. Semund duldet ihn neutral bis familiär - fern vom Ring und unter Vermeidung des Themas.
 
@@ -73,6 +76,8 @@ Tibun **weiß** als einziger Zeuge, dass Girlin lebt - er sah den Ring flippen u
 - Zweite Ehefrau: [Mildirun](Mildirun.md)
 - Sohn: [Tibun](../Tibun.md)
 - Tochter: [Randlaug](Randlaug.md)
+- Kinder mit Mildirun: [Mildiwara](Mildiwara.md), [Sigibern](Sigibern.md)
+- Schwiegersohn: [Wulfstein](Wulfstein.md) (ab Jahr +8)
 
 ---
 

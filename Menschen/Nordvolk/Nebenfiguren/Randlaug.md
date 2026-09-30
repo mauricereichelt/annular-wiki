@@ -20,6 +20,7 @@
 | **Mutter** | [Girlin](../Girlin.md) |
 | **Vater** | [Semund](Semund.md) |
 | **Bruder** | [Tibun](../Tibun.md) |
+| **Halbgeschwister** | [Mildiwara](Mildiwara.md) (+2) und [Sigibern](Sigibern.md) (+4), Kinder von Semund und Mildirun (Autor, 28.09.2026). **Um beide kümmert sie sich** (Autor, 28.09.2026); [Tamant](../../Kel-Aman/Nebenfiguren/Tamant.md) (+4), Girlins Tochter in der Wüste |
 | **Großmutter** | [Randwara](Randwara.md), Semunds Mutter |
 | **Ehemann** | [**Wulfstein**](Wulfstein.md) (Autor, 25.09.2026). Sie ist bei [Tibuns](../Tibun.md) Rückkehr (+9) **verheiratet** und hat einen **eigenen Haushalt** (Autor, 18.09.2026) **in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 25.09.2026). **Heirat in Jahr +8, mit 17** (Autor, 25.09.2026) |
 | **Kinder** | bei [Tibuns](../Tibun.md) Rückkehr (+9) **keine** (Autor, 25.09.2026) |
@@ -34,7 +35,7 @@ bewusst offen (Autor, 25.09.2026)
 
 ## Besondere Fähigkeiten
 
-**Sie webt - besser als [Mildirun](Mildirun.md).** Die Kunst der Mutter ist an sie weitergegangen, nicht an die Frau, die den Webstuhl übernommen hat. Der Webstuhl gehört der Sache nach ihr; sie steht nur nicht daran.
+**Sie webt - besser als [Mildirun](Mildirun.md).** Die Kunst der Mutter ist an sie weitergegangen, nicht an die Frau, die den Webstuhl übernommen hat. Der Webstuhl gehört der Sache nach ihr; sie steht nur nicht daran (Autor, 28.09.2026). Rechtlich gehört er **dem Hof** (Autor, 28.09.2026).
 
 ---
 
@@ -52,23 +53,23 @@ Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer He
 
 **Tibun kümmert sich nicht um sie** (Autor, 10.09.2026). Der Bruder, an dem sie hängt, **zieht sich zurück** - er sucht die Mutter, und die Neunjährige bleibt dabei allein. Was ein Sechzehnjähriger für sie hätte tun können, tut er nicht.
 
-**Ein Jahr später geht er ohne Abschied.** Sie ist zehn, sie erfährt es nicht vorher, sie wacht auf und er ist fort. **Sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig.
+**Ein Jahr später geht er ohne Abschied.** Sie ist zehn, sie erfährt es nicht vorher, sie wacht auf und er ist fort. **Sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig (Autor, 30.09.2026).
 
-Daraus wird die Rechnung, die sie mit 18 aufmachen kann. Sie ist nicht die Schwester, die er zurückließ, weil er musste, sondern die, der er nicht einmal etwas sagte.
+Daraus wird die Rechnung, die sie mit 18 aufmachen kann. Sie ist nicht die Schwester, die er zurückließ, weil er musste, sondern die, der er nicht einmal etwas sagte (Autor, 28.09.2026).
 
 ## Bedeutung in der Geschichte
 
-Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun](../Tibun.md).
+Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun](../Tibun.md) (Autor, 28.09.2026).
 
-**Als Erwachsene ist sie ruhig - ihrem Vater [Semund](Semund.md) sehr ähnlich.** Sie redet wenig, arbeitet weiter, hält aus. Genau das, was Tibun dem Vater vorwirft, ist aus der Schwester geworden, während er fort war.
+**Als Erwachsene ist sie ruhig - ihrem Vater [Semund](Semund.md) sehr ähnlich.** Sie redet wenig, arbeitet weiter, hält aus. Genau das, was Tibun dem Vater vorwirft, ist aus der Schwester geworden, während er fort war (Autor, 28.09.2026).
 
-**Sie empfängt den zurückgekehrten Tibun.** Nach acht Jahren steht ihm keine Zehnjährige gegenüber, sondern eine Erwachsene von 18, die zurückgeblieben ist - bei dem Vater, den er verurteilt hat, und bei Mildirun. Dass sie diejenige ist, vor der er sich rechtfertigen muss, steht fest.
+**Sie empfängt den zurückgekehrten Tibun.** Nach acht Jahren steht ihm keine Zehnjährige gegenüber, sondern eine Erwachsene von 18, die zurückgeblieben ist - bei dem Vater, den er verurteilt hat, und bei Mildirun. Dass sie diejenige ist, vor der er sich rechtfertigen muss, steht fest (Autor, 28.09.2026).
 
 > **Korrigiert (18.09.2026):** Hier stand „eine Erwachsene von 19". Bei der **Rückkehr (+9)** ist Randlaug **18**; 19 ist ihr Stand im **Finale (+10)**, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md).
 
 **Sie ist verheiratet** (Autor, 18.09.2026). Sie tritt Tibun nicht als Kind des Hofes gegenüber, sondern als Frau mit eigenem Haus - der Abstand zwischen der Zehnjährigen von damals und dieser Erwachsenen ist damit auch äußerlich sichtbar. **Ihr Mann [Wulfstein](Wulfstein.md) ist beim Empfang nicht dabei** - er ist unterwegs auf der Jagd (Autor, 25.09.2026).
 
-**Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026) - wie alle im Weiler. Zur Werkstatt am Ring geht sie nicht. Sie erfährt von [Tibun](../Tibun.md) selbst, was er dort tut, und **hält ihn für verloren, ohne den Bau gesehen zu haben**. Schon als Neunjährige ging sie nur **bis zum Waldrand** mit.
+**Sie meidet die Tabustelle ebenfalls** (Autor, 18.09.2026) - wie alle im Weiler. Zur Werkstatt am Ring geht sie nicht. Sie erfährt von [Tibun](../Tibun.md) selbst, was er dort tut, und **hält ihn für verloren, ohne den Bau gesehen zu haben**. Schon als Neunjährige ging sie nur **bis zum Waldrand** mit (Autor, 28.09.2026).
 
 **Die Begegnungen finden im Weiler statt** (Autor, 18.09.2026). [Tibun](../Tibun.md) wohnt nach der Rückkehr zunächst auf [Semunds](Semund.md) Hof und kommt auch später für Vorräte und zu ihr in den Weiler - **er trägt den Kontakt, nicht sie**.
 
@@ -81,6 +82,9 @@ Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun
 - Mutter: [Girlin](../Girlin.md)
 - Vater: [Semund](Semund.md)
 - Bruder: [Tibun](../Tibun.md)
+- Stiefmutter: [Mildirun](Mildirun.md) - sie findet einen Weg zu Randlaug (Autor, 10.09.2026)
+- Großmutter: [Randwara](Randwara.md)
+- Halbgeschwister: [Mildiwara](Mildiwara.md), [Sigibern](Sigibern.md) - sie kümmert sich um beide; [Tamant](../../Kel-Aman/Nebenfiguren/Tamant.md) in der Wüste
 - Ehemann: [Wulfstein](Wulfstein.md)
 
 ---

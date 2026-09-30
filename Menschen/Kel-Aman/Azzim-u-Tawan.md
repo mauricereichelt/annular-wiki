@@ -10,19 +10,23 @@
 |---|---|
 | **Rolle** | Antagonist |
 | **Alter** | **etwa 40** in Jahr 0 (Autor, 25.09.2026) - damit etwa 45 beim ersten Auftritt (+5) und etwa 50 im Finale (+10), siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md) |
-| **Name** | Vatersname *u-Tawan* - **er trägt ihn nicht mehr, er heißt nur Azzim. Niemand sonst kennt seinen vollen Namen** (Autor, 25.09.2026). **Der Leser erfährt ihn nie**; im Wiki bleibt der volle Name als Autorenebene (Autor, 25.09.2026) |
-| **Herkunft** | **[Kel Aman](../../Kulturen/Kel-Aman/README.md), abtrünnig** - aus einem **anderen Clan** als dem von [Ishman](Nebenfiguren/Ishman.md) (Autor, 25.09.2026). Womit er gebrochen hat: **Er verkauft eigene Leute**, und es gibt **Blut in der Sippe** (Autor, 25.09.2026) |
+| **Name** | Vatersname *u-[Tawan](Nebenfiguren/Tawan.md)* - **er trägt ihn nicht mehr, er heißt nur Azzim. Niemand sonst kennt seinen vollen Namen** (Autor, 25.09.2026). **Der Leser erfährt ihn nie**; im Wiki bleibt der volle Name als Autorenebene (Autor, 25.09.2026) |
+| **Herkunft** | **[Kel Aman](../../Kulturen/Kel-Aman/README.md), abtrünnig** - aus einem **anderen Clan** als dem von [Ishmalen](Nebenfiguren/Ishmalen.md) (Autor, 25.09.2026). Womit er gebrochen hat: **Er verkauft eigene Leute**, und es gibt **Blut in der Sippe** (Autor, 25.09.2026) |
 | **Geschäft** | **Sklavenhändler, Schmuggler, Karawanenführer und Räuber** (Autor, 25.09.2026) |
 
 **Familie**
 
 **Er hat mit seinem Clan und seiner Familie gebrochen. Sie spielen keine Rolle** (Autor, 25.09.2026).
 
+| | |
+|---|---|
+| **Vater** | [Tawan](Nebenfiguren/Tawan.md) - lebt, nur Autorenebene |
+
 ---
 
 ## Frühes Leben
 
-Kel Aman aus einem anderen Clan als dem von [Ishman](Nebenfiguren/Ishman.md); er hat mit Clan und Familie gebrochen - er verkauft eigene Leute, und es gibt Blut in der Sippe (Autor, 25.09.2026). Mehr braucht es nicht (Autor, 25.09.2026: *„Ich denke, das reicht."*).
+Kel Aman aus einem anderen Clan als dem von [Ishmalen](Nebenfiguren/Ishmalen.md); er hat mit Clan und Familie gebrochen - er verkauft eigene Leute, und es gibt Blut in der Sippe (Autor, 25.09.2026). Mehr braucht es nicht (Autor, 25.09.2026: *„Ich denke, das reicht."*).
 
 ---
 
@@ -41,7 +45,9 @@ Kel Aman aus einem anderen Clan als dem von [Ishman](Nebenfiguren/Ishman.md); er
 
 ## Bedeutung in der Geschichte
 
-Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
+Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert (Autor, 28.09.2026). Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
+
+**Tod:** im Finale, Minuten nach der Ankunft im Norden - bei [Tibuns](../Nordvolk/Tibun.md) Zündung **zerteilt ihn die Kugelgrenze**; es ist Notwehr (Autor, 30.09.2026) (siehe [Zeitleiste, Zündung 2](../../Plots/Plot-1/Zeitleiste.md#zündung-2---tibuns-auslösung)).
 
 **Wie er auf Girlin kommt** (Autor, 08.09.2026): über **Gerede auf [dem Basar](../../Orte/Basar.md)**. Er hört von der Fremden und sucht sie dort auf - kein Zufallsblick, kein Dritter, der ihn hinschickt. Warum gerade sie: Das Gerede betont ihre **blasse Haut** - **selten** (Autor, 25.09.2026).
 
@@ -57,7 +63,7 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 >
 > *(Präzisiert 22.09.2026: Hier stand, er komme „gestrandet" auf diesen Gedanken, als Schlusspointe und Aufhänger für spätere Geschichten. Er stirbt aber Minuten nach der Ankunft, und aus seiner Sicht wird nicht erzählt.)*
 
-**Seine Leute** (Autor, 10.09.2026): Für den Angriff auf [die Schlucht](../../Orte/Bellbrims-Werkstatt.md) in Jahr +10 bringt er **drei bis vier Männer** mit - **eigene Leute**, die ohnehin für ihn arbeiten. Er muss keinen dingen und keinen bezahlen: **der Zug kostet ihn nichts** außer Zeit. Aus dem Angriff entsteht damit kein wirtschaftlicher Druck auf ihn - was ihn treibt, bleibt der Wert der Frau und die Demütigung der Fehlschläge. Drei bis vier genügen, weil der enge Fels sie ohnehin einzeln stellt; [Girlin](../Nordvolk/Girlin.md) und [Sekkan](Nebenfiguren/Sekkan.md) können darin bestehen.
+**Seine Leute** (Autor, 10.09.2026): Für den Angriff auf [die Schlucht](../../Orte/Bellbrims-Werkstatt.md) in Jahr +10 bringt er **drei bis vier Männer** mit - **eigene Leute**, die ohnehin für ihn arbeiten. Er muss keinen dingen und keinen bezahlen: **der Zug kostet ihn nichts** außer Zeit. Aus dem Angriff entsteht damit kein wirtschaftlicher Druck auf ihn - was ihn treibt, bleibt der Wert der Frau und die Demütigung der Fehlschläge (Autor, 28.09.2026). Drei bis vier genügen, weil der enge Fels sie ohnehin einzeln stellt; [Girlin](../Nordvolk/Girlin.md) und [Sekkan](Nebenfiguren/Sekkan.md) können darin bestehen (Autor, 28.09.2026).
 
 **Als er mitten im Gefecht verschwindet** (Autor, 10.09.2026), **brechen seine Leute ab und fliehen**. Was sie sehen, ist zu unheimlich, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und sie plündern nicht. **Als [Tibun](../Nordvolk/Tibun.md) Minuten später ankommt, trifft er keinen von ihnen mehr an** (Autor, 10.09.2026) - die Schlucht ist leer bis auf die, die dort leben.
 
@@ -66,6 +72,10 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 ## Verbindungen zu anderen Charakteren
 
 - Gegenspieler von [Girlin](../Nordvolk/Girlin.md) und [Tibun](../Nordvolk/Tibun.md)
+- Vater: [Tawan](Nebenfiguren/Tawan.md) - nur Autorenebene
+- [Ishmalen](Nebenfiguren/Ishmalen.md): verachtet ihn; sie kennen sich von früher (Autor, 25.09.2026)
+- [Sekkan](Nebenfiguren/Sekkan.md): einer von Azzims Männern verwundet ihn im Finale (Autor, 25.09.2026)
+- [Bellbrim](../Andere/Bellbrim.md): bedroht sie mit Girlin
 
 ---
 
@@ -76,3 +86,5 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 - Schauspieler [Ray Stevenson](https://www.imdb.com/name/nm0829032/mediaviewer/rm3632872960/?ref_=nmmi_mi_13)
 - Blackbeard aus "Black Sails"
 - Blackbeard aus "Assassin's Creed IV: Black Flag"
+
+*(Liste bestätigt: Autor, 28.09.2026)*

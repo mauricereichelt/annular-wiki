@@ -96,6 +96,12 @@ Verlobungstag, wenige Tage nach dem Beben. Fridugund nimmt die Kette nicht an; k
 > - **Kein Brand:** nur kurz angesengte Flusen - kein Feuer, keine Brandblasen, kein verkohltes Stück aus dem Stein
 
 > **[Widgund](../../Menschen/Nordvolk/Nebenfiguren/Widgund.md) tritt auf** (Autor, 24.09.2026).
+>
+> **[Fridmund](../../Menschen/Nordvolk/Nebenfiguren/Fridmund.md) tritt auf** (Autor, 29.09.2026).
+>
+> **[Gunthar](../../Menschen/Nordvolk/Nebenfiguren/Gunthar.md) tritt auf** (Autor, 29.09.2026).
+>
+> **[Landarik](../../Menschen/Nordvolk/Nebenfiguren/Landarik.md) tritt auf** (Autor, 29.09.2026).
 
 
 ### 3 · Der Blitz - Girlin
@@ -274,7 +280,7 @@ Hafenarbeit an der Schlei - er kommt mit einer Adresse an, nicht als völlig Fre
 
 > **POV:** Tibun · **Jahr +1** · **Offen:** -
 
-Er kommt bei Audmar und Harihild unter - den Schiffszimmerer hat er auf der Fähre kennengelernt.
+Er kommt bei Audmar und Harahild unter - den Schiffszimmerer hat er auf der Fähre kennengelernt.
 
 - **Will:** ???
 - **Hindernis:** ???
@@ -282,7 +288,7 @@ Er kommt bei Audmar und Harihild unter - den Schiffszimmerer hat er auf der Fäh
 
 > **Warum sie ihn nehmen** (Autor, 10.09.2026): Sie **haben keine Kinder**. Das wird nicht ausgesprochen - die Abmachung ist Kost gegen Arbeit. **Beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026). Erst über die Jahre sehen sie etwas wie einen Sohn in ihm. *(Hier stand: hier ist es ein Handel, sonst nichts.)*
 
-> **Harihilds Gewerbe** (Autor, 25.09.2026): Netze und Fisch.
+> **Harahilds Gewerbe** (Autor, 25.09.2026): Netze und Fisch.
 
 
 ### 18 · Sammeln ohne zu wissen wie
@@ -300,7 +306,7 @@ Bernstein durch Handel und eigenes Sammeln.
 
 > **POV:** Girlin · **Jahr +3** · **Offen:** -
 
-Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md).
+Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md).
 
 - **Will:** ???
 - **Hindernis:** ???
@@ -355,7 +361,7 @@ Nicht mehr ihre Heimreise.
 
 > **POV:** Girlin · **Jahr +5** · **Offen:** -
 
-Sie bittet den Clan, den Ring zu holen - **vor [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) und dem Ältestenrat** (Autor, 10.09.2026), förmlich vor der Versammlung. Der Häuptling entscheidet nicht allein.
+Sie bittet den Clan, den Ring zu holen - **vor [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) und dem Ältestenrat** (Autor, 10.09.2026), förmlich vor der Versammlung. Der Häuptling entscheidet nicht allein.
 
 - **Will:** Der Clan soll den Ring in die Schlucht bringen
 - **Hindernis:** Sie muss vor der Versammlung bestehen - zugehörig ist sie seit +3, aber sie bittet um einen Zug, der den Clan enormen Aufwand kostet
@@ -374,7 +380,7 @@ Die drei lösen sich und ziehen zu Bellbrim.
 - **Hindernis:** Aus der Sippe fortzuziehen tut kaum jemand - niemand hält Sekkan auf, und trotzdem kostet es ihn
 - **Ausgang:** Sie ziehen in die Schlucht - im Guten. Ab hier ist Girlin ohne Sippenschutz: nicht ausgestoßen, nur zu weit weg, um zu rufen.
 
-> **[Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) in dieser Szene** (Autor, 25.09.2026): Er ist still traurig - und versteht es ganz. Sein Empfinden bekommt hier seinen Platz.
+> **[Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) in dieser Szene** (Autor, 25.09.2026): Er ist still traurig - und versteht es ganz. Sein Empfinden bekommt hier seinen Platz.
 
 
 ### 26 · Das Tischmodell
@@ -510,9 +516,9 @@ Das Modell läuft, Wissen und Bernstein reichen.
 
 - **Will:** Zurück zum Ring am Fluss
 - **Hindernis:** Die Bitte der Zieheltern, zu bleiben oder wiederzukommen
-- **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
+- **Ausgang:** Die Zieheltern bleiben lebend zurück. **Der Abschied tut allen dreien weh** (Autor, 29.09.2026). *(Hier stand: „Ein Abschied, kein Verlust.")*
 
-> **Beim Abschied, einmal** (Autor, 25.09.2026): Audmar und Harihild hoffen, dass er bleibt oder wiederkommt, um bei ihnen zu leben. Sie sagen es ihm hier - einmal. **Diese Bitte ist das Hindernis** (Autor, 25.09.2026). *(Hier stand als Hindernis: keins - der Aufbruch kostet ihn ausdrücklich nichts.)*
+> **Beim Abschied, einmal** (Autor, 25.09.2026): Audmar und Harahild hoffen, dass er bleibt oder wiederkommt, um bei ihnen zu leben. Sie sagen es ihm hier - einmal. **Diese Bitte ist das Hindernis** (Autor, 25.09.2026). *(Hier stand als Hindernis: keins - der Aufbruch kostet ihn ausdrücklich nichts.)*
 
 
 ### 36 · Azzim, Auftritt 3

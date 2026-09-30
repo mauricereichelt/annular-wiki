@@ -12,7 +12,7 @@
 | **Alter** | **50 im Finale (Jahr +10)** (Autor, 25.09.2026) - damit 40 in Jahr 0, **41 beim Kennenlernen** mit Girlin (Jahr +1) und geboren um **510** (560 - 50). Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). *(Hier stand: ~40 beim Kennenlernen.)* |
 | **Herkunft** | **Vandalin** - Ostgermanin aus dem 534 von Byzanz zerschlagenen Vandalenreich in Nordafrika. Keine Kel Aman, wie Girlin eine Fremde in der Wüste. **534 verschleppt, mit einem Händlerzug** (Autor, 25.09.2026), mit etwa 24 (534 - 510) |
 | **Erscheinung** | **Blasse Haut** - fällt unter den Kel Aman auf, erklärt sich aus der germanischen Herkunft. Mehr braucht es nicht (Autor, 25.09.2026: reicht so) |
-| **Sprachen** | **Mehrsprachig** - **Vandalisch** (ostgermanisch), **Griechisch** und die **Sprache der [Kel Aman](../../Kulturen/Kel-Aman/README.md)** (Autor, 25.09.2026). Deshalb wandert die Karawane gezielt zu ihr. **Ihre Sprache ist der von [Girlin](../Nordvolk/Girlin.md) ähnlich:** Die beiden verstehen sich nicht sofort vollständig, können aber vom ersten Treffen an kommunizieren. Ein Konflikt zwischen ihnen entsteht daraus nicht (Autor, 14.09.2026). *(Gestrichen 25.09.2026, vom Autor nicht gedeckt: Latein, Berberisch und Handelssprachen.)* |
+| **Sprachen** | **Mehrsprachig** - **Vandalisch** (ostgermanisch), **Griechisch** und die **Sprache der [Kel Aman](../../Kulturen/Kel-Aman/README.md)** (Autor, 25.09.2026). Deshalb wandert die Karawane gezielt zu ihr - **[Abarkan](../Kel-Aman/Nebenfiguren/Abarkan.md) führt sie** (Autor, 28.09.2026). **Ihre Sprache ist der von [Girlin](../Nordvolk/Girlin.md) ähnlich:** Die beiden verstehen sich nicht sofort vollständig, können aber vom ersten Treffen an kommunizieren. Ein Konflikt zwischen ihnen entsteht daraus nicht (Autor, 14.09.2026). *(Gestrichen 25.09.2026, vom Autor nicht gedeckt: Latein, Berberisch und Handelssprachen.)* |
 
 > **Überholt (14.09.2026):** Hier stand, die Verständigung sei mühsam, brauche Monate und werde erzählt. Vom Autor ersetzt.
 
@@ -44,24 +44,27 @@ Einen Mann oder Kinder hatte sie **nie** (Autor, 25.09.2026).
 
 ## Bedeutung in der Geschichte
 
-Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen Wassergenerator. Siehe Handlungsstrang in der [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
+Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen Wassergenerator (Autor, 28.09.2026). Siehe Handlungsstrang in der [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
 **Vom Wissen der [Kel Aman](../../Kulturen/Kel-Aman/README.md) profitiert sie nicht** (Autor, 10.09.2026). Sternkunde und verborgene Wasserstellen bekommt sie nicht von ihnen - **was sie kann, bringt sie selbst mit**. Sie steht dem Clan damit nicht als Schuldnerin gegenüber.
 
-**Sie lebt allein in einem großen Höhlensystem** (Autor, 10.09.2026), in der Schlucht, über Jahre eingerichtet - Wohnung und Werkstatt in einem. **Ihren Höhlenabschnitt kennt niemand außer dem Ältesten [Abarkan u-Nahar](../Kel-Aman/Nebenfiguren/Abarkan.md) aus [Ishmans](../Kel-Aman/Nebenfiguren/Ishman.md) Rat** (Autor, 10.09.2026) - eine Figur ohne Bedeutung für die Handlung. Ab Jahr +5 wohnen [Girlin](../Nordvolk/Girlin.md), Sekkan und das Kind bei ihr. Einzelheiten: [Bellbrims Werkstatt](../../Orte/Bellbrims-Werkstatt.md).
+**Sie lebt allein in einem großen Höhlensystem** (Autor, 10.09.2026), in der Schlucht, über Jahre eingerichtet - Wohnung und Werkstatt in einem. **Ihren Höhlenabschnitt kennt niemand außer dem Ältesten [Abarkan u-Nabaon](../Kel-Aman/Nebenfiguren/Abarkan.md) aus [Ishmalens](../Kel-Aman/Nebenfiguren/Ishmalen.md) Rat** (Autor, 10.09.2026) - eine Figur ohne Bedeutung für die Handlung. Das gilt **bis zum Transport** des Rings (+8): **Danach kennt ihn der ganze Clan** (Autor, 28.09.2026). Ab Jahr +5 wohnen [Girlin](../Nordvolk/Girlin.md), Sekkan und das Kind bei ihr. Einzelheiten: [Bellbrims Werkstatt](../../Orte/Bellbrims-Werkstatt.md).
 
 **Beim ersten Auftritt [Azzims](../Kel-Aman/Azzim-u-Tawan.md)** in Jahr +5 auf [dem Basar](../../Orte/Basar.md) ist sie **mit Girlin dabei** (Autor, 14.09.2026). Azzim weiß, dass sie den Basar manchmal besucht.
 
-**Im Finale kämpft sie nicht** (Autor, 10.09.2026). Während [Azzims](../Kel-Aman/Azzim-u-Tawan.md) Angriff **bewacht sie das Kind** - [Tamant](../Kel-Aman/Nebenfiguren/Tamant.md), im Finale sechs - und greift nicht ein, auch nicht helfend. Der Kampf bleibt bei [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin](../Nordvolk/Girlin.md). Mit 50 ist sie keine Kämpferin, und das Kind ist die wichtigere Aufgabe.
+**Im Finale kämpft sie nicht** (Autor, 10.09.2026). Während [Azzims](../Kel-Aman/Azzim-u-Tawan.md) Angriff **bewacht sie das Kind** - [Tamant](../Kel-Aman/Nebenfiguren/Tamant.md), im Finale sechs - und greift nicht ein, auch nicht helfend. Der Kampf bleibt bei [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin](../Nordvolk/Girlin.md). Mit 50 ist sie keine Kämpferin, und das Kind ist die wichtigere Aufgabe (Autor, 28.09.2026).
 
-**Die beiden sind in einer benachbarten Kammer** (Autor, 10.09.2026) - **sicher und durch eine Tür geschützt**, aber durch ein **Fenster oder ein Loch im Höhlenfels** überschauen sie die [Ringkammer](../../Orte/Bellbrims-Werkstatt.md). Sie sehen den Kampf, die Zündungen und [Tibuns](../Nordvolk/Tibun.md) Ankunft. Bellbrim ist damit neben dem Kind Zeugin des Schlusses, ohne daran beteiligt zu sein.
+**Die beiden sind in einer benachbarten Kammer** (Autor, 10.09.2026) - **sicher und durch eine Tür geschützt**, aber durch ein **Fenster oder ein Loch im Höhlenfels** überschauen sie die [Ringkammer](../../Orte/Bellbrims-Werkstatt.md). Sie sehen den Kampf, die Zündungen und [Tibuns](../Nordvolk/Tibun.md) Ankunft. Bellbrim ist damit neben dem Kind Zeugin des Schlusses, ohne daran beteiligt zu sein (Autor, 28.09.2026).
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
 - Freundin: [Girlin](../Nordvolk/Girlin.md)
-- Kennt ihren Höhlenabschnitt: [Abarkan u-Nahar](../Kel-Aman/Nebenfiguren/Abarkan.md)
+- Leben ab +5 bei ihr: [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md), [Tamant](../Kel-Aman/Nebenfiguren/Tamant.md) - im Finale bewacht sie das Kind
+- Kennt ihren Höhlenabschnitt: [Abarkan u-Nabaon](../Kel-Aman/Nebenfiguren/Abarkan.md) - er fand sie einst, sie heilte ihn, er handelt mit ihr (Autor, 25.09.2026)
+- Bedroht sie mit Girlin: [Azzim u-Tawan](../Kel-Aman/Azzim-u-Tawan.md)
+- Sieht im Finale ankommen: [Tibun](../Nordvolk/Tibun.md)
 
 ---
 
@@ -69,4 +72,4 @@ Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen 
 
 > Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../Notizen/Regeln.md#charaktere).
 
-- Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film) - **rein optisch**. Bellbrim ist keine Seherin, sondern Gelehrte.
+- Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film) - **rein optisch**. Bellbrim ist keine Seherin, sondern Gelehrte (Autor, 28.09.2026).

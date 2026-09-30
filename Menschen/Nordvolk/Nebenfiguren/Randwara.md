@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| **Rolle** | Mutter von [Semund](Semund.md), Großmutter von [Tibun](../Tibun.md) und [Randlaug](Randlaug.md) |
+| **Rolle** | Mutter von [Semund](Semund.md), Großmutter von [Tibun](../Tibun.md), [Randlaug](Randlaug.md) und [Mildiwara](Mildiwara.md) |
 | **Name** | Urname *Randwara* - **Schild** + **Hüterin**. Kein Kurzname; sie trägt den Urnamen (Autor, 24.09.2026) |
 | **Alter** | **etwa 65** (Jahr 0) (Autor, 24.09.2026) |
-| **Herkunft** | **von auswärts, aus [Tingsal](../../../Orte/Tingsal.md)** (Autor, 24.09.2026) |
+| **Herkunft** | **von auswärts, aus [Tingsal](../../../Orte/Tingsal.md)** (Autor, 24.09.2026) - kam **zur Heirat** mit [Sigrik](Sigrik.md) nach Skirraa (Autor, 28.09.2026) |
 
 **Familie**
 
@@ -20,7 +20,7 @@
 | **Ehemann** | [**Sigrik**](Sigrik.md) - Urname, **Sieg** + **mächtig** (Autor, 24.09.2026). Semunds Vater, tot - Semund hat den Hof von ihm geerbt. Er starb in **Jahr -20** (Autor, 25.09.2026) |
 | **Sohn** | [Semund](Semund.md) |
 | **Weitere Kinder** | **mehrere**, fortgezogen (Autor, 24.09.2026). [Semund](Semund.md) ist der **einzige Sohn** (Autor, 25.09.2026) |
-| **Enkel** | [Tibun](../Tibun.md), [Randlaug](Randlaug.md) |
+| **Enkel** | [Tibun](../Tibun.md), [Randlaug](Randlaug.md), [Mildiwara](Mildiwara.md) (+2), [Sigibern](Sigibern.md) (+4, nach ihrem Tod geboren) |
 
 ---
 
@@ -42,9 +42,9 @@ bewusst offen (Autor, 24.09.2026)
 
 **Sie lebt in Jahr 0 auf Semunds Hof in [Skirraa](../../../Orte/Skirraa.md)** (Autor, 24.09.2026).
 
-**Sie tritt in Szenen vor Tibuns Aufbruch (Jahr 0/+1) auf** (Autor, 24.09.2026), und zwar in den [Szenen](../../../Plots/Plot-1/Szenen.md) **9 bis 12** (Autor, 24.09.2026): *Die Wala kommt*, *Nach dem Verlust der Mutter*, *Tibuns Vater und Mildirun*, *Semunds und Mildiruns Verlobung*.
+**Sie tritt in Szenen vor Tibuns Aufbruch (Jahr 0/+1) auf** (Autor, 24.09.2026), und zwar in den [Szenen](../../../Plots/Plot-1/Szenen.md) **9 bis 12** (Autor, 24.09.2026): *Die Wala kommt*, *Nach dem Verlust der Mutter*, *Tibuns Vater und Mildirun*, *Semunds und Mildiruns Verlobung*. **Tibun glaubt sie nicht**, dass Girlin lebt (Autor, 28.09.2026).
 
-**Sie stirbt während Tibuns Reise** (Autor, 24.09.2026), und zwar **früh, in Jahr +2 bis +3** (Autor, 24.09.2026). **[Tibun](../Tibun.md) erfährt es erst bei seiner Rückkehr (Jahr +9)** (Autor, 24.09.2026).
+**Sie stirbt während Tibuns Reise** (Autor, 24.09.2026), und zwar **früh, in Jahr +2 bis +3** (Autor, 24.09.2026), **an Alter oder Krankheit** (Autor, 28.09.2026), mit etwa 67 oder 68. **[Tibun](../Tibun.md) erfährt es erst bei seiner Rückkehr (Jahr +9)** (Autor, 24.09.2026).
 
 ---
 
@@ -52,8 +52,8 @@ bewusst offen (Autor, 24.09.2026)
 
 - Ehemann (tot): [Sigrik](Sigrik.md)
 - Sohn: [Semund](Semund.md)
-- Enkel: [Tibun](../Tibun.md), [Randlaug](Randlaug.md)
-- Schwiegertochter: [Girlin](../Girlin.md)
+- Enkel: [Tibun](../Tibun.md) - sie glaubt ihm nicht, [Randlaug](Randlaug.md), [Mildiwara](Mildiwara.md) (geboren +2, um die Zeit ihres Todes); [Sigibern](Sigibern.md) wird erst nach ihrem Tod geboren
+- Schwiegertöchter: [Girlin](../Girlin.md), [Mildirun](Mildirun.md)
 
 ---
 

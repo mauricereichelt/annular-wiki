@@ -20,15 +20,15 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 ## Die Zieheltern (Autor, 10.09.2026)
 
-**Tibun wohnt die ganzen acht Jahre bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harihild](../Menschen/Nordvolk/Nebenfiguren/Harihild.md)** - alteingesessen, verwurzelt, mit Platz in der Stadt (Namen: Autor, 10.09.2026).
+**Tibun wohnt die ganzen acht Jahre bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md)** - alteingesessen, verwurzelt (Autor, 29.09.2026), mit Platz in der Stadt (Autor, 29.09.2026) (Namen: Autor, 10.09.2026).
 
-- **Audmar ist Schiffszimmerer** - er baut und bessert Boote aus. Tibun arbeitet mit ihm; Holz, Hebel und Zug sind dasselbe Feld, in dem später die **Bootsziehwinde** am Hafen seine Erkenntnis auslöst.
-- **Kennengelernt haben sie sich unterwegs**, nicht in der Stadt: Audmar ist **Teil der Reisegemeinschaft auf der Fähre** bei [Vegamot](Vegamot.md). Tibun kommt deshalb nicht als völlig Fremder in Kaupvik an, sondern mit einer Adresse.
-- **Warum sie ihn aufnehmen:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht. Die Abmachung ist **Kost gegen Arbeit**, aber **beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026); die Nähe wächst über die Jahre, unabsichtlich. **Später sehen sie etwas wie einen Sohn in ihm** und hoffen, er bleibt oder kommt wieder, um bei ihnen zu leben; **sie sagen es ihm beim Abschied, einmal** (Autor, 25.09.2026). *(Hier stand: Begonnen hat es trotzdem nüchtern.)*
+- **Audmar ist Schiffszimmerer** - er baut und bessert Boote aus. Tibun arbeitet mit ihm; Holz, Hebel und Zug sind dasselbe Feld, in dem später die **Bootsziehwinde** am Hafen seine Erkenntnis auslöst (Autor, 29.09.2026).
+- **Kennengelernt haben sie sich unterwegs**, nicht in der Stadt: Audmar ist **Teil der Reisegemeinschaft auf der Fähre** bei [Vegamot](Vegamot.md). Tibun kommt deshalb nicht als völlig Fremder in Kaupvik an, sondern mit einer Adresse (Autor, 29.09.2026).
+- **Warum sie ihn aufnehmen:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht (Autor, 29.09.2026). Die Abmachung ist **Kost gegen Arbeit**, aber **beide sind ihm gegenüber offen und warmherzig** (Autor, 25.09.2026); die Nähe wächst über die Jahre, unabsichtlich (Autor, 29.09.2026). **Später sehen sie etwas wie einen Sohn in ihm** und hoffen, er bleibt oder kommt wieder, um bei ihnen zu leben; **sie sagen es ihm beim Abschied, einmal** (Autor, 25.09.2026). *(Hier stand: Begonnen hat es trotzdem nüchtern.)*
 - **Audmar wird Tibuns neue Bezugsperson** - der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md): einer, der mit ihm arbeitet, ihm etwas beibringt und ihn behält.
-- **Am Ende bleiben beide lebend zurück** (Autor, 02.09.2026), im Guten. Ein Abschied, kein Verlust. Sie sind das, was Tibun aufgibt, nicht das, was ihm genommen wird.
+- **Am Ende bleiben beide lebend zurück** (Autor, 02.09.2026), im Guten. **Der Abschied tut allen dreien weh** (Autor, 29.09.2026). *(Hier stand: „Ein Abschied, kein Verlust. Sie sind das, was Tibun aufgibt, nicht das, was ihm genommen wird." - vom Autor gestrichen 29.09.2026.)*
 - Audmar **hat sich dem Händlerzug angeschlossen wie Tibun**, dem Tibun sich in Vegamot anschließt. Im Norden war er, um **Holz auszusuchen**, und wegen **Verwandtschaft** (Autor, 25.09.2026).
-- **Harihild: Netze und Fisch** (Autor, 25.09.2026).
+- **Harahild: Netze und Fisch** (Autor, 25.09.2026).
 
 ---
 

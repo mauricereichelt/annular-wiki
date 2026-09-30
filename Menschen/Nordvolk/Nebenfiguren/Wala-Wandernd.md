@@ -9,8 +9,9 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **wandernd** |
-| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
-| **Herkunft** | **auswärts, unbekannt** - wie ihre Zwillingsschwester nicht aus der Gegend |
+| **Name** | **kein Eigenname** - nur der Titel *Wala*, auch im Erzähltext (Autor, 29.09.2026) |
+| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt (Autor, 28.09.2026); exakte Zahl nicht festgelegt (Autor, bestätigt 25.09.2026) |
+| **Herkunft** | **auswärts, unbekannt** - wie ihre Zwillingsschwester nicht aus der Gegend (Autor, 29.09.2026) |
 
 **Familie**
 
@@ -22,7 +23,7 @@
 
 ## Frühes Leben
 
-**Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte.
+**Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte (Autor, 29.09.2026).
 
 Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Ihre Autorität ruht auf **vier Säulen zugleich** (Autor, 08.09.2026):
 
@@ -31,7 +32,7 @@ Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Ihre Autorität ruh
 3. **Die Zwillingsgeburt selbst** - zwei Frauen mit einer Stimme gelten als Zeichen, nicht als Zufall.
 4. **Das Fremdsein selbst** - gerade weil sie zu keiner Sippe gehören, gelten sie als unparteiisch. Kein Hof, an dem ihr Spruch etwas gewinnt.
 
-Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe, Zeichen und Unparteilichkeit tun es zusammen.
+Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe, Zeichen und Unparteilichkeit tun es zusammen (Autor, 29.09.2026).
 
 > **Anmerkung (Claude):** Die Jahre ohne Sommer beginnen 536/537 (siehe [Girlin](../Girlin.md#frühes-leben)). Bei etwa 35 in Jahr 0 (= 550) waren die Zwillinge damals etwa 21 (35 - 14); die Vorhersage lag davor.
 
@@ -39,35 +40,35 @@ Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe
 
 ## Besondere Fähigkeiten
 
-- Seherin des Nordvolks (*Wala/Völva*), historisch belegt mit politischem Einfluss (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md))
+- Seherin des Nordvolks (*Wala/Völva*), historisch belegt mit politischem Einfluss (Autor, 29.09.2026) (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md))
 - **Heil- und Kräuterkunde** - wie ihre Zwillingsschwester (Autor, 23.09.2026)
 
 ---
 
 ## Bedeutung in der Geschichte
 
-Zieht durchs Hinterland von Weiler zu Weiler; **nach [Skirraa](../../../Orte/Skirraa.md) kommt sie nur, wenn man sie ruft** (Autor, 23.09.2026). *(Hier stand ohne Autorenvermerk: kommt gelegentlich nach Skirraa.)* Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../Orte/sonstiges.md).
+Zieht durchs Hinterland von Weiler zu Weiler (Autor, 29.09.2026); **nach [Skirraa](../../../Orte/Skirraa.md) kommt sie nur, wenn man sie ruft** (Autor, 23.09.2026). *(Hier stand ohne Autorenvermerk: kommt gelegentlich nach Skirraa.)* Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../Orte/sonstiges.md) (Autor, 29.09.2026).
 
 **Niemand weiß, wo sie sich gerade aufhält** - außer ihrer Zwillingsschwester, der [Wala von Tingsal](Wala-Tingsal.md) (Autor, 07.09.2026). Man kann ihr also nicht nachreisen; wer eine Wala braucht, geht nach [Tingsal](../../../Orte/Tingsal.md).
 
 **Die beiden Walas sprechen als eine Stimme** - als die Stimme der Götter (Autor, 07.09.2026). Die eine hält sich an das Wort der anderen; ein Spruch der einen wird von der anderen nicht neu geprüft. Für die Menschen gibt es damit **keine zweite Instanz**: Wer eine Wala fragt, hat sie alle gefragt.
 
-Weiß **nichts** vom vergrabenen Ring am Skir.
+Weiß **nichts** vom vergrabenen Ring am Skir (Autor, 29.09.2026).
 
 **Feste Rolle - sie deutet [Girlins](../Girlin.md) Verschwinden**:
 
 - Sie erklärt den Wüstensand an der Skir zum **Zeichen der Götter** und Girlin für **tot**.
-- Sie belegt die Stelle mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe wie Girlin. Kein Zaun, keine Wache - die Angst genügt, und sie zieht weiter.
-- Damit ist sie unfreiwillig [Tibuns](../Tibun.md) eigentliche Gegenspielerin im Nordstrang: Sie liefert die Erklärung, die alle befriedigt, und macht seine Deutung zur Ketzerei. Sie handelt dabei nicht böswillig, sondern tut genau das, wofür man sie ruft.
-- Und sie schafft die Grundlage für Semunds Wiederheirat.
+- Sie belegt die Stelle mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe wie Girlin. Kein Zaun, keine Wache - die Angst genügt, und sie zieht weiter (Autor, 29.09.2026).
+- Damit ist sie unfreiwillig [Tibuns](../Tibun.md) eigentliche Gegenspielerin im Nordstrang: Sie liefert die Erklärung, die alle befriedigt, und macht seine Deutung zur Ketzerei. Sie handelt dabei nicht böswillig, sondern tut genau das, wofür man sie ruft (Autor, 29.09.2026).
+- Und sie schafft die Grundlage für Semunds Wiederheirat (Autor, 29.09.2026).
 
 **Sie kehrt zurück - und bleibt bei ihrem Spruch** (Autor, 08.09.2026). Sie kommt in den zehn Wintern wieder nach [Skirraa](../../../Orte/Skirraa.md) und weicht keinen Finger breit von dem, was sie gesagt hat: Zeichen der Götter, Girlin tot, die Stelle tabu.
 
-Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es nützt ihm nichts. Sie ist erreichbar, ansprechbar und trotzdem unverrückbar; es gibt keine Instanz dahinter, die man anrufen könnte ([Wala von Tingsal](Wala-Tingsal.md) spricht mit derselben Stimme).
+Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es nützt ihm nichts. Sie ist erreichbar, ansprechbar und trotzdem unverrückbar; es gibt keine Instanz dahinter, die man anrufen könnte ([Wala von Tingsal](Wala-Tingsal.md) spricht mit derselben Stimme) (Autor, 29.09.2026).
 
 **Warum sie ihn nach seiner Rückkehr gewähren lässt** (Autor, 11.09.2026): Sie möchte selbst mehr über den Ring wissen - und verlöre dabei ihr Gesicht. Als man sie ruft, deutet sie wie zuvor und lässt ihn gewähren.
 
-**Wie man sie ruft** (Autor, 11.09.2026): **nur über ihre Schwester in [Tingsal](../../../Orte/Tingsal.md).** Die [Wala von Tingsal](Wala-Tingsal.md) entscheidet, ob ein Anliegen wichtig genug oder gerechtfertigt genug ist, um sie an den Ort zu schicken. Wie die Nachricht sie erreicht, weiß niemand - ein Geheimnis zwischen den Zwillingen.
+**Wie man sie ruft** (Autor, 11.09.2026): **nur über ihre Schwester in [Tingsal](../../../Orte/Tingsal.md).** Die [Wala von Tingsal](Wala-Tingsal.md) entscheidet, ob ein Anliegen wichtig genug oder gerechtfertigt genug ist, um sie an den Ort zu schicken. Wie die Nachricht sie erreicht, weiß niemand - ein Geheimnis zwischen den Zwillingen. **Wer aus [Skirraa](../../../Orte/Skirraa.md) sie in Jahr 0 und in +9 ruft, klärt der Szenentext** (Autor, 29.09.2026).
 
 **Wer etwas von [Hadurik](Hadurik.md) oder den Walas möchte, muss einen Tribut mitbringen** (Autor, 23.09.2026).
 
@@ -78,6 +79,9 @@ Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es 
 ## Verbindungen zu anderen Charakteren
 
 - Zwillingsschwester: [Wala von Tingsal](Wala-Tingsal.md)
+- Erklärt für tot: [Girlin](../Girlin.md)
+- Unfreiwillige Gegenspielerin von: [Tibun](../Tibun.md)
+- Schafft die Grundlage für die Wiederheirat von: [Semund](Semund.md)
 
 ---
 
