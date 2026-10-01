@@ -14,9 +14,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-003: Kel Aman - kulturelle Tiefe ○](#c-003-kel-aman---kulturelle-tiefe-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
-- [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
-- [C-181: Tausch Schicht für Schicht ○](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
+- [C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ○](#c-192-unterschiedlicher-luftdruck-an-den-beiden-ringorten-)
+- [C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ○](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -151,6 +151,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-133: Azzims Leute für den Angriff ✓](#c-133-azzims-leute-für-den-angriff-)
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
+- [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ✓](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
 - [C-139: Erzählreihenfolge - verschränkt ✓](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
@@ -195,8 +196,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-178: Was die Anlage im Norden nach Zündung 2 tut ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)
 - [C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓](#c-179-wenig-ladung-reicht---warum-löst-nicht-jede-berührung-aus-)
 - [C-180: Bellbrims Sprache - Prämisse zurückgezogen ✗](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)
+- [C-181: Tausch Schicht für Schicht ✓](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)
 - [C-182: Tibun verliert nichts Konkretes ✓](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)
-- [C-183: Verdrängt der Reif Luft? ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-)
+- [C-183: Verdrängt der Ring Luft? ✓](#c-183-verdrängt-der-ring-luft-der-tauschkugel-)
 - [C-184: Das Wasserrad ist Tibuns eigene Idee ✓](#c-184-wasserräder-sind-im-norden-um-550-nicht-belegt-)
 - [C-185: Bernsteinrad unten, nur die Kette geht nach oben ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-)
 - [C-186: Bernsteinrad am Wasser - Hinweis fürs Schreiben ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)
@@ -375,17 +377,17 @@ Eingetragen in [Welt](../Welt/README.md).
 ### C-012: Aktivierungsverhalten des Rings ✓
 
 **Mechanismus - Flip + Innentausch:**
-- **Flip:** Der flach liegende Ring dreht bei Aktivierung um **180° um einen Durchmesser** (Achse in der Ringebene) - ein **Münz-Flip** (Kopf↔Zahl), *nicht* um die Hochachse. Da ein Kreis symmetrisch ist, liegt der Ring danach **deckungsgleich**; nur Ober-/Unterseite sind getauscht.
+- **Flip:** Der flach liegende Ring dreht bei Aktivierung um **180° um einen Durchmesser** (Achse in der Mittelebene) - ein **Münz-Flip** (Kopf↔Zahl), *nicht* um die Hochachse. Da ein Kreis symmetrisch ist, liegt der Ring danach **deckungsgleich**; nur Ober-/Unterseite sind getauscht.
 - **Tauschvolumen = INNENkante (Innentausch).** Getauscht wird die Kugel, die die **Innenkante** des Rings beschreibt: Tausch-Kugel-Ø = **Innen-Ø** = **3,00 m** beim 3-m-Ring, Radius 1,50 m. **Der Ringkörper wird nicht mitgetauscht** - er liegt vollständig außerhalb.
-- **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt - Erdreich, Fundament, einen danebenstehenden Menschen -, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Damit ist das Problem der „durchfurchenden Materie" gelöst, das ursprünglich zum Volltausch geführt hatte (siehe **Korrektur** unten).
+- **Der Ring durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt - Erdreich, Fundament, einen danebenstehenden Menschen -, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Damit ist das Problem der „durchfurchenden Materie" gelöst, das ursprünglich zum Volltausch geführt hatte (siehe **Korrektur** unten).
   - **Nur während der Drehung.** Ein ruhender Ring ist fest und schwer; sonst sänke er durch den Boden.
-  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht die Schale zwischen **1,50 m und 1,665 m** - innen die Bohrung, außen der weiteste Punkt des Eckbogens. Der Reif kommt der Tauschkugel nie näher als tangential - die Geist-Eigenschaft gilt ausschließlich für Materie *außerhalb* des Tauschvolumens. Keine Sonderregel nötig.
+  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht die Schale zwischen **1,50 m und 1,665 m** - innen die Bohrung, außen der weiteste Punkt des Eckbogens. Der Ring kommt der Tauschkugel nie näher als tangential - die Geist-Eigenschaft gilt ausschließlich für Materie *außerhalb* des Tauschvolumens. Keine Sonderregel nötig.
 - **Schnittkante: messerscharf**, am **Innenrand** (1,50 m Radius). Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** - die Grenze ist sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.* Girlin stand vollständig innerhalb.
-- **Wer in der Schale steht (1,50-1,665 m), bleibt unverletzt** - der Reif geht durch ihn hindurch. Er reist nur nicht mit.
+- **Wer in der Schale steht (1,50-1,665 m), bleibt unverletzt** - der Ring geht durch ihn hindurch. Er reist nur nicht mit.
 - **Austausch:** Beide gepaarten Ringe (Skir + Kel Aman) drehen **gleichzeitig**. **Ganze Kugel inkl. Erdreich:** untere Halbkugel im Boden → Halbkugel Schlei-Erde ↔ Halbkugel Wüstensand (= die **Sandmulde**).
 - **Harter Tausch:** Inhalt 1:1, kompromisslos, auch bei stark verschiedenem Inhalt (Luft ↔ massiver Sand). Keine Sonderregeln, kein „Ausgleich".
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett; die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
-- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten - Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** - **stehend** reist nur, wer eine **Mulde** hat (Tiefe offen · **???** → [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-)); im rohen Ring bleiben 1,50 m Kopffreiheit, dort reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
+- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten - Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Mittelebene** - **stehend** reist nur, wer eine **Mulde** hat (Tiefe offen · **???** → [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-)); im rohen Ring bleiben 1,50 m Kopffreiheit, dort reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
 - **Optik:** Aus dem Ring tritt **nichts aus** (vgl. C-002); grünes Glühen der Runennuten begleitet die Aktivierung (C-010).
 - **Konsistenz:** deckt Girlins Verschwinden (C-008), Paar-Mechanik & Ringgrößen (C-010).
 - **Ausgelagerte Restpunkte:** C-013 (Runen), C-014 (Karawanen-Aufmerksamkeit), C-015 (Drehung↔Tausch), C-084 (Mulde & Standfläche).
@@ -394,11 +396,11 @@ Eingetragen in [Welt](../Welt/README.md).
 
 Hier stand ursprünglich der **Volltausch** nach der Außenkante (Kugel-Ø 3,81 m, Ringkörper wird mitgetauscht). Begründung damals: Der Ring reiche beim Flip nie über seine eigene Außenkugel hinaus und berühre deshalb keine Materie außerhalb des Tauschvolumens - womit das „unlösbare Problem der durchfurchenden Materie" verschwand.
 
-**Der Autor hat auf den Innentausch umgestellt** und das Problem stattdessen direkt gelöst: Der Reif **durchdringt** Materie folgenlos. Damit entfällt der Grund, der seinerzeit gegen den Innentausch sprach.
+**Der Autor hat auf den Innentausch umgestellt** und das Problem stattdessen direkt gelöst: Der Ring **durchdringt** Materie folgenlos. Damit entfällt der Grund, der seinerzeit gegen den Innentausch sprach.
 
 *Was der Wechsel bringt:*
-- Die Schnittkante fällt mit der **sichtbaren Ringöffnung** zusammen. Vorher lag sie außerhalb des Reifs, im Leeren, ohne Markierung. Jetzt ist die tödliche Grenze **sichtbar und erlernbar** - für eine Kultur, die täglich reist, der Unterschied zwischen Handwerk und Glücksspiel.
-- Der Reif ist **nicht mehr tödlich**: Wer in der Schale steht, wird nicht zerteilt, sondern reist bloß nicht mit.
+- Die Schnittkante fällt mit der **sichtbaren Ringöffnung** zusammen. Vorher lag sie außerhalb des Rings, im Leeren, ohne Markierung. Jetzt ist die tödliche Grenze **sichtbar und erlernbar** - für eine Kultur, die täglich reist, der Unterschied zwischen Handwerk und Glücksspiel.
+- Der Ring ist **nicht mehr tödlich**: Wer in der Schale steht, wird nicht zerteilt, sondern reist bloß nicht mit.
 - Der Ring **bleibt in seinem Bett** statt auf fremdem Material aufzusetzen.
 
 *Was der Wechsel kostet:*
@@ -413,7 +415,7 @@ Hier stand ursprünglich der **Volltausch** nach der Außenkante (Kugel-Ø 3,81 
 *Berechnungsreferenz (Autorenebene - erscheint nie im Text):* ein spontaner Lidschlag misst 100-150 ms. Für den 3-m-Ring ergibt das ~21 rad/s und eine **Kantengeschwindigkeit von ~35 m/s (≈ 126 km/h)**. Folgen:
 - Man sieht eine **Drehung**, keine Einzelheiten - Runen sind währenddessen nicht lesbar.
 - **Kein Windstoß nach außen**, obwohl ein knapp 6-t-Körper mit 126 km/h schwingt: Die verdrängte Luft ist **Teil der Tauschkugel**. Dasselbe Argument, das schon die durchfurchende Materie gelöst hat. Bleibt konsistent mit „aus dem Ring tritt nichts aus".
-- Wer **neben** der Kugelkante steht, sieht den Reif mit 126 km/h vorbeirauschen - die Schnittkante wird ohne ein Wort Erklärung bedrohlich.
+- Wer **neben** der Kugelkante steht, sieht den Ring mit 126 km/h vorbeirauschen - die Schnittkante wird ohne ein Wort Erklärung bedrohlich.
 
 **Vertikale Aufstellung als zweite Betriebsart.** Der flach liegende Ring ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. Ein Ring kann ebenso **vertikal** stehen - die Tauschkugel ändert sich dadurch **nicht**, denn eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
 
@@ -473,7 +475,7 @@ Eingetragen in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 
 Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch, oder dreht der Ring erst physisch und tauscht **danach**?
 
-**Entschieden (Autor, 09.09.2026): ein einziger Vorgang.** Drehung und Tausch sind dasselbe Ereignis; es gibt keinen Zwischenzustand, in dem der Reif schon dreht und der Inhalt noch da ist. Die 100-150 ms aus [C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-) sind die Dauer dieses einen Vorgangs, keine Abfolge zweier Schritte.
+**Entschieden (Autor, 09.09.2026): ein einziger Vorgang.** Drehung und Tausch sind dasselbe Ereignis; es gibt keinen Zwischenzustand, in dem der Ring schon dreht und der Inhalt noch da ist. Die 100-150 ms aus [C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-) sind die Dauer dieses einen Vorgangs, keine Abfolge zweier Schritte.
 
 ---
 
@@ -1738,20 +1740,20 @@ Notiert in [Zitate.md](Zitate.md).
 
 ### C-084: Mulde, Standfläche und die rohen Ringe ✓
 
-Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Ringebene** - ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
+Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Mittelebene** - ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
 
 **Entschieden (Autor):**
-- **[Girlin](../Menschen/Nordvolk/Girlin.md) stolpert in den Ring** - womöglich über den Ring selbst - und **liegt** darin. Liegend passt ein Mensch bei **jeder** Einbettungstiefe: Die Kugel misst **immer 3,00 m**, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser - ein Liegender misst 1,75 × 0,3 m. Die Einbettungstiefe des Skir-Rings ist damit **kein Problem mehr** - sie war es nur für Stehende.
+- **[Girlin](../Menschen/Nordvolk/Girlin.md) stolpert in den Ring** - womöglich über den Ring selbst - und **liegt** darin. Liegend passt ein Mensch bei **jeder** Einbettungstiefe: Die Kugel misst **immer 3,00 m**, und auf Höhe der Mittelebene ist ihr Schnittkreis genau dieser volle Durchmesser - ein Liegender misst 1,75 × 0,3 m. Die Einbettungstiefe des Skir-Rings ist damit **kein Problem mehr** - sie war es nur für Stehende.
 - **Für den Alltagsbetrieb baut die Nutzer-Zivilisation eine Mulde** in den Ringboden, damit man **stehend** reisen kann. Das Wissen darum gehört zur Bedienung.
 
 > **Gestrichen (Autor, 02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* nebst festen Einbaumaßen (Mulde 0,75 m, Standfläche 2,60 m, Kopffreiheit 2,25 m, vertikal Zentrum 0,75 m über dem Gehweg). **Die 0,75 m stammten von Claude, nicht vom Autor** → [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
 
 **Was geometrisch feststeht** (Innen-Ø 3,00 m, Breite 0,50 m, Dicke 0,15 m):
-- Liegt der Ring flach im Boden, fällt die **Ringebene mit dem Boden zusammen**; das Kugelzentrum liegt dort, wo man steht. Kopffreiheit ohne Mulde: **1,50 m** - genau der Kugelradius.
+- Liegt der Ring flach im Boden, fällt die **Mittelebene mit dem Boden zusammen**; das Kugelzentrum liegt dort, wo man steht. Kopffreiheit ohne Mulde: **1,50 m** - genau der Kugelradius.
 - Jede Mulde erkauft Kopffreiheit mit Standfläche:
-  `Kopffreiheit = 1,50 m + Muldentiefe` · `Standfläche = 2 · √(1,50² − Muldentiefe²)` - beides ab der Ringebene gemessen
+  `Kopffreiheit = 1,50 m + Muldentiefe` · `Standfläche = 2 · √(1,50² − Muldentiefe²)` - beides ab der Mittelebene gemessen
 
-| Mulde unter der Ringebene | Kopffreiheit | Standfläche |
+| Mulde unter der Mittelebene | Kopffreiheit | Standfläche |
 |---|---|---|
 | keine | 1,50 m | 3,00 m |
 | 0,25 m | 1,75 m | 2,96 m |
@@ -1769,6 +1771,8 @@ Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsver
 
 **Erzählwert (Girlin):** Hätte sie **gestanden**, hätte der Ring sie geköpft. [Tibun](../Menschen/Nordvolk/Tibun.md) sieht seine Mutter verschwinden, weil sie **gestürzt** ist - derselbe Zufall, der sie ihm nimmt, hält sie am Leben. Und er kann das nie erfahren.
 
+*Nachtrag (01.10.2026):* Das gilt nur, solange die Mittelebene auf dem Boden liegt. Beide Plot-1-Ringe liegen auf dem Boden (Autor, 01.10.2026), über der Ringmitte reicht die Kugel 1,75 m hoch. Ob Girlin stehend Platz gehabt hätte, hängt von ihrer Größe ab (**???**).
+
 **Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb **mitgetauscht**: Auf der einen Seite wird sie mit dem Erdreich der Gegenseite **verfüllt**, drüben entsteht sie neu. **Wer in ihr reist, kommt drüben in ihr an.** Das ist **Funktionalität, kein Problem** (Autor, 21.09.2026).
 
 > **Gestrichen (Autor, 21.09.2026):** Hier stand unter *„Neu offen"*, asymmetrische Anlagen zerstörten sich selbst, beide Seiten müssten gleich gebaut sein, und wer von Tibun oder Bellbrim grabe, mache die eigene Anlage beim ersten Auslösen zunichte - ein Problem, mit dem das Finale umgehen müsse. **Das stammte von Claude.** Die Mulde wird nicht zerstört, sie wechselt nur die Seite → Altlast-Tabelle in [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
@@ -1785,7 +1789,7 @@ Berührt [C-055](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) und [C-
 | **Haltung im Finale** | Azzim (Zündung 1) und Tibun (Zündung 2) sind im Moment des Tauschs **am Boden**, nicht aufrecht. Ob sie liegen oder knien, klärt der Szenentext |
 | **Muldentiefe der Nutzer-Zivilisation** | **???** - erst, wenn eine Geschichte sie braucht |
 
-**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Ringebene; liegt der Ring auf dem Boden statt bündig darin, 1,575 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#47--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
+**Befund (Claude), Anlass der Frage:** Die Zeitleiste ließ Azzim bei Zündung 1 „vollständig in der Kugel **stehen**" und Tibun bei Zündung 2 „mittig **stehen**". Ohne Mulde reicht die Kugel über der Ringmitte nur 1,50 m hoch (ab der Mittelebene; liegt der Ring auf dem Boden statt bündig darin, 1,75 m über dem Boden) - aufrecht wären beide durchtrennt worden wie die Birke. *(Korrigiert 01.10.2026: Hier stand 1,575 m; die Mittelebene liegt eine halbe Ring**breite** über dem Boden, 0,25 m, nicht die halbe Dicke.)* Korrigiert in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10---zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md#47--der-kampf---zündung-2). Geometrie für den Szenentext: Ein Kopf auf der Höhe *h* über der Mittelebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei 1,30 m sind das 0,75 m.
 
 **Mitkorrigiert:** Szene 3 sagte, Girlin „stand" vollständig in der Ringöffnung - sie liegt. Szene 46 ließ Azzim „neben den Ring" fallen - die Kugel liegt ganz innerhalb der Ringöffnung, er kommt **im** Ring an.
 
@@ -2052,6 +2056,8 @@ Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hatte hier einen **handfesten 
 #### Was tatsächlich dort liegt (physikalischer Befund)
 Die untere Halbkugel misst 1,50 m Radius → **rund 7 m³ Wüstensand**, etwa 11 t, bündig eingesetzt in Torf- und Heideboden.
 
+> **Korrigiert (01.10.2026):** Der Ring liegt auf dem Boden (Autor), die Mittelebene 0,25 m darüber. Im Boden steckt nur eine Kugelkappe von **5,32 m³**, bei gleicher Dichte (11 t / 7,07 m³ ≈ 1,56 t/m³) etwa **8,3 t**.
+
 - **Farbe:** heller Ocker gegen fast schwarzen, nassen Torf. Der Regen des Gewitters verstärkt den Kontrast, statt ihn zu verwischen.
 - **Korn:** windgerundet, gleichkörnig, **ohne jede Wurzel, Faser oder Humusspur**. Wer hier Torf sticht, erkennt sofort, dass das kein Boden von hier ist.
 - **Setzung:** Lockerer Sand sackt gegenüber gewachsenem Boden - eine flache Senke, keine Grube.
@@ -2181,6 +2187,8 @@ Im Finale nutzt [Tibun](../Menschen/Nordvolk/Tibun.md) gezielt, dass die Kugelgr
 
 Direkt nach Girlins Verschwinden untersucht der Sechzehnjährige die Stelle: **halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer.** Das ist beobachtbar, nicht spekulativ, und es liegt zehn Winter lang offen vor ihm ([C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-)).
 
+*Nachtrag (01.10.2026):* Seit [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-) versengt die Tauschschale, was sie berührt: Die Schnittflächen sind kohlschwarz, auf beiden Seiten. Nachgetragen in Zeitleiste, Szenen und Tibuns-Generator.
+
 **Warum früh und nicht kurz vor dem Finale:**
 - Das Wissen liegt ab Jahr 0 beim **Leser**, ohne dass er ahnt, wozu es einmal gut sein wird. Zehn Jahre später zahlt es sich ein - Setup vor Payoff, mit maximalem Abstand.
 - Späte Platzierung (beim Bau der Werkstatt) hätte nach Vorbereitung gerochen, weil sie unmittelbar vor dem Finale gekommen wäre.
@@ -2293,7 +2301,9 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 **Entschieden (Autor, 10.09.2026): nur Erde und Sand.** Eine Halbkugel Boden, sonst nichts - kein Wasser, kein Werkzeug, kein Gerät. Der Tausch macht kein Schauspiel.
 
-> **Menge, aus der gesetzten Geometrie:** Das Kugelzentrum liegt in der **Ringebene**, der Ring liegt flach, der Radius beträgt **1,50 m** ([Portalringe](../Technik/Portalringe.md)). Was im Boden steckt, ist die **untere Halbkugel**: V = ⅔ · π · 1,50³ = **7,07 m³**. Das ist dieselbe Menge, die in Jahr 0 als heller Wüstensand in [Skirraa](../Orte/Skirraa.md) ankam - nur in die andere Richtung.
+> **Menge, aus der gesetzten Geometrie:** Das Kugelzentrum liegt in der **Mittelebene**, der Ring liegt flach, der Radius beträgt **1,50 m** ([Portalringe](../Technik/Portalringe.md)). Was im Boden steckt, ist die **untere Halbkugel**: V = ⅔ · π · 1,50³ = **7,07 m³**. Das ist dieselbe Menge, die in Jahr 0 als heller Wüstensand in [Skirraa](../Orte/Skirraa.md) ankam - nur in die andere Richtung.
+
+> **Korrigiert (01.10.2026):** Der Ring liegt auf dem Boden (Autor), die Mittelebene 0,25 m darüber. Im Boden steckt eine Kugelkappe der Höhe 1,25 m: V = π · 1,25² · (3 · 1,50 − 1,25) / 3 = **5,32 m³**.
 
 > **Gestrichen (Autor, 03.09.2026):** Die Fassung *„Der Ring liegt am Bach; bei jeder Zündung wandern rund 14 m³ jütisches Bachwasser und Erdreich in die Wüste"* stammte nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** → [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-). Was das Kugelvolumen tatsächlich mitnimmt, ist damit unentschieden.
 
@@ -2305,7 +2315,7 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 **Der Baum wächst seit Jahren und schon vor dem Beben durch den Ring hindurch** (Autor, 09.09.2026) - der Stamm steht in der Ringöffnung, während der Ring noch vergraben liegt.
 
-**Was der Flip mit ihm macht** (aus der gesetzten Geometrie gerechnet, [Portalringe](../Technik/Portalringe.md)): Das Kugelzentrum liegt in der Ringebene, der Radius beträgt 1,50 m. Ein mittig stehender Stamm von 0,06 m Radius wird bei √(1,50² − 0,06²) = **1,4988 m über der Ringebene** durchtrennt - die Kugelfläche ist dort so flach, dass es praktisch ein **ebener Schnitt auf 1,50 m** ist. In die Wüste geht damit ein rund **3 m langes Stammstück samt Wurzelballen**, eingebettet in nordische Erde. Im Norden bleibt der Baum **ab 1,50 m aufwärts ohne Fuß** - und stürzt.
+**Was der Flip mit ihm macht** (aus der gesetzten Geometrie gerechnet, [Portalringe](../Technik/Portalringe.md)): Das Kugelzentrum liegt in der Mittelebene, der Radius beträgt 1,50 m. Ein mittig stehender Stamm von 0,06 m Radius wird bei √(1,50² − 0,06²) = **1,4988 m über der Mittelebene** durchtrennt - die Kugelfläche ist dort so flach, dass es praktisch ein **ebener Schnitt auf 1,50 m** ist. In die Wüste geht damit ein rund **3 m langes Stammstück samt Wurzelballen**, eingebettet in nordische Erde. Im Norden bleibt der Baum **ab 1,50 m aufwärts ohne Fuß** - und stürzt.
 
 **Es ist eine junge, dünne Birke** (Autor, 09.09.2026) - die Pionierart auf Vendsyssels Sand- und Heideböden. Sie **hält den Ring nicht auf**: 5,7 Tonnen gegen einen dünnen Stamm, sie knickt. Dass der Ring auf der Böschung liegen bleibt, erklärt sich aus Erdreich und Gewicht, nicht aus dem Baum.
 
@@ -2915,7 +2925,7 @@ Aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-) sind deshalb g
 **Was steht:** Der Ring wird bewegt, Ziel ist die Schlucht, Zeitraum Jahr +5 bis +8. *(Überholt: Der Transport liegt in +7/+8 und dauert ein paar Wochen - Autor, 03.09. und 09.09.2026.)*
 
 **Zu entscheiden · ???**
-- **Wie** wird ein Reif von 3,30 m Außen-Ø, 0,50 m Breite und ~5,7 t bewegt?
+- **Wie** wird ein Ring von 3,30 m Außen-Ø, 0,50 m Breite und ~5,7 t bewegt?
 - **Über welchen Untergrund** führt der Weg, und schließt das etwas aus?
 - **Wie viele Menschen und Tiere**, und wie weit am Tag? Davon hängt die Entfernung ab → [C-103](#c-103-transportlogistik-des-wüstenrings-).
 - Ist das **Gewicht** überhaupt das Hindernis, oder ist es die **Sperrigkeit**, die **Entfernung** oder die **Verpflegung**?
@@ -2944,7 +2954,7 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--
 
 ### C-126: Der Postring - was passt hinein? ✓
 
-Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ring wiegt nach neuer Geometrie und Referenzdichte **~5,7 kg** (Außen-Ø 0,33 m, Dicke 0,015 m, Breite 0,05 m) - ein flacher Reif, den man mit beiden Händen umfassen kann - gut ein Drittel Meter außen, fingerdick, handbreit schmal.
+Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ring wiegt nach neuer Geometrie und Referenzdichte **~5,7 kg** (Außen-Ø 0,33 m, Dicke 0,015 m, Breite 0,05 m) - ein flacher Ring, den man mit beiden Händen umfassen kann - gut ein Drittel Meter außen, fingerdick, handbreit schmal.
 
 **Die Gewichtsfrage ist damit erledigt:** ~5,7 kg liegen nah an den früher angenommenen ~8 kg. Der Ring bleibt, was [C-010 ✓](#c-010-ringsystem---kopplungsmechanik-) beschreibt - eine Last, die man bewusst mitnimmt, kein Nichts in der Tasche.
 
@@ -3166,7 +3176,7 @@ Damit ist [C-121 ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-) zurückgezog
 
 ---
 
-### C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○
+### C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ✓
 
 Aufgefallen beim Nachrechnen der Ringmaße (04.09.2026). [Portalringe.md](../Technik/Portalringe.md) gibt als Berechnungsreferenz für die Flipdauer eine **Spanne** an - *100-150 ms* - nennt dazu aber nur **ein** Zahlenpaar: *„~21 rad/s, Kantengeschwindigkeit außen ~35 m/s (≈ 126 km/h)"*.
 
@@ -3179,7 +3189,7 @@ Diese Werte gehören zum **langsamen Rand** der Spanne:
 
 Gerechnet mit R_flip = 1,6649 m und einer halben Umdrehung (π) in der jeweiligen Zeit.
 
-**Warum das zählt:** Die 126 km/h stehen auch in [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch) als Begründung dafür, dass der Reif nur Luft verdrängt, die selbst zur Tauschkugel gehört. Solange die Spanne offen ist, ist diese Zahl nicht belastbar - sie kann um die Hälfte danebenliegen. *(Nachtrag 14.09.2026: Diese Begründung ist entfallen, die Geist-Eigenschaft gilt auch für Luft - [C-183 ✓](#c-183-verdrängt-der-reif-luft-der-tauschkugel-). Die 126 km/h tragen dort kein Argument mehr.)*
+**Warum das zählt:** Die 126 km/h stehen auch in [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch) als Begründung dafür, dass der Ring nur Luft verdrängt, die selbst zur Tauschkugel gehört. Solange die Spanne offen ist, ist diese Zahl nicht belastbar - sie kann um die Hälfte danebenliegen. *(Nachtrag 14.09.2026: Diese Begründung ist entfallen, die Geist-Eigenschaft gilt auch für Luft - [C-183 ✓](#c-183-verdrängt-der-ring-luft-der-tauschkugel-). Die 126 km/h tragen dort kein Argument mehr.)*
 
 **Zu klären · ???**
 - Gilt eine **feste** Dauer statt einer Spanne? Welche?
@@ -3188,6 +3198,10 @@ Gerechnet mit R_flip = 1,6649 m und einer halben Umdrehung (π) in der jeweilige
 Beides ist eine Festlegung des Autors. Bis dahin bleibt die Zahl im Wiki unverändert stehen - sie wird hier nur als ungeprüft markiert.
 
 **Nachtrag (14.09.2026):** Der Autor will die Frage nicht isoliert entscheiden. Sie hängt an seiner Idee, dass die rotierende Schnittfläche den Tausch Schicht für Schicht ausführt → [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-). Dann ist die Flipdauer zugleich die Dauer des Tauschs.
+
+**Entschieden (Autor, 01.10.2026): feste Dauer 1 s** (im Zuge von [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)). Daraus: π rad/s ≈ 3,14 rad/s; Außenkante 1,6649 m × π /s = 5,23 m/s ≈ 18,8 km/h. Vergleich im Erzähltext: **ein Herzschlag** (Autor, 01.10.2026). Umgesetzt in [Portalringe](../Technik/Portalringe.md#dauer-des-flips) und im [Verteiler-Turm](Verteiler-Turm.md).
+
+**Geschlossen (01.10.2026)** - beide Fragen vom Autor beantwortet.
 
 ---
 
@@ -3624,7 +3638,7 @@ Aus [C-075 ✓](#c-075-ist-das-ringmaterial-ein-metall-) beim Lückenaudit (08.0
 
 Entschieden ist: **Metall auf den ersten Blick**, beim Anfassen **temperaturlos** ([C-074 ✓](#c-074-haptik-der-ringoberfläche-)). Offen sind die beiden weiteren Stellen, an denen die Metall-Erwartung brechen oder halten kann:
 
-**Entschieden (Autor, 08.09.2026): Beides verhält sich wie Metall.** Er **klingt wie Metall**, und er **wiegt sich wie Metall** - was eine Hand am Reif erwartet, bekommt sie auch.
+**Entschieden (Autor, 08.09.2026): Beides verhält sich wie Metall.** Er **klingt wie Metall**, und er **wiegt sich wie Metall** - was eine Hand am Ring erwartet, bekommt sie auch.
 
 Damit ist die **Temperaturlosigkeit der einzige Bruch**. Zwei von drei Prüfungen gehen glatt durch: Wer den Ring beklopft und hebt, hat keinen Grund zu zweifeln. Erst die bloße Hand widerspricht - und sie widerspricht nicht laut, sondern durch etwas, das *fehlt*. Das ist die sparsamere Variante: ein einziges falsches Detail wiegt schwerer als drei.
 
@@ -4046,7 +4060,7 @@ Entschieden ist: [Bellbrim](../Menschen/Andere/Bellbrim.md) ist **Vandalin**, un
 
 ---
 
-### C-181: Tausch Schicht für Schicht - was geschieht mit Bewegung in der Kugel? ○
+### C-181: Tausch Schicht für Schicht - was geschieht mit Bewegung in der Kugel? ✓
 
 **Idee des Autors (14.09.2026):** Nicht die ganze Kugel wird auf einmal getauscht. **Die rotierende Schnittfläche führt den Transport aus**, Schicht für Schicht, wie bei einem CT oder MRT. Der Autor sieht selbst das Problem: **Was geschieht, wenn sich etwas innerhalb der Kugel bewegt?** Er will das ausführlicher besprechen. Nichts ist entschieden.
 
@@ -4070,6 +4084,36 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 - Wenn ja: Was geschieht mit Bewegtem - und mit einem Körper, der einen Lidschlag lang geteilt ist?
 - Bestimmt das die Flipdauer mit ([C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-))?
 
+**Stand der Diskussion (30.09.-01.10.2026)**
+
+*Befunde (Claude, per Skript geprüft):*
+- Befund 3 ist ungenau: Was die Tauschfläche kreuzt, wird getauscht, gleich in welcher Richtung. Ungetauscht bleibt nur, was die **Naht** überquert, die Grenze in der Mittelebene zwischen zuerst und zuletzt Getauschtem. Was sich während des Flips über sie bewegt, bleibt als Scheibe von Geschwindigkeit × Flipdauer am Ausgangsort zurück.
+- Liegt der Ring auf dem Boden, liegt die Mittelebene 25 cm darüber (halbe Ringbreite), die Naht also auf Schienbeinhöhe.
+
+*Entschieden (Autor, 30.09.2026) - neues Konzept:*
+1. Beim Zünden entsteht sofort die Tauschkugel.
+2. In ihr steht die Zeit still (**Starre**): Blut, Luft, Teilchen, alles.
+3. Getauscht wird Schicht für Schicht an der Tauschfläche. Durch die Starre geschieht dem Inhalt dabei nichts.
+4. Ihre Oberfläche, die **Tauschschale**, ist unsichtbar und durchsichtig,
+5. aber undurchlässig. Was beim Zünden nur teilweise in der Kugel ist, wird von ihr zerteilt.
+6. Was die Schale von außen berührt, löst sich auf, wie ein Eiswürfel auf einer heißen Herdplatte, ohne Rauch, mit einem Zischen.
+7. Die Ringkante schneidet nicht.
+8. Die Naht spielt keine Rolle mehr. Am Zielort kann ein Teil eines Körpers schon stehen, bis der Rest nachkommt.
+
+*Ergänzt (Autor, 01.10.2026):* Gase werden nicht aufgelöst, sie prallen an der Schale ab und erstarren innen mit. Licht ist von Starre und Schale ausgenommen. Aufgelöst wird nur, was die Schale berührt; die Schale besteht vom Zünden bis zum Ende des Flips. Außen liegende Reste bleiben liegen. Flipdauer **1 s**. Das Aufgelöste bleibt auf dieser Seite als nutzloser Rest liegen - Müll oder Leichen sollen sich so **nicht** entsorgen lassen.
+
+*Folgen (Claude, geprüft):*
+- Was oben auf der Schale aufliegt, sinkt im freien Fall nach und schmilzt dabei weg: in 1 s bis 4,9 m, ein 0,30 m dicker Körper ist nach 0,25 s fort. Seitlich Abgetrenntes fällt herunter und bleibt liegen. Ein geworfener Stein verschwindet ganz.
+- Zu Punkt 8: Die Tauschfläche beginnt in der Mittelebene. Von einem Stehenden erscheint am Zielort zuerst eine dünne Scheibe auf Schienbeinhöhe; bei halbem Flip steht dort ein der Länge nach halbierter Mensch, die eine Hälfte ab den Schienbeinen aufwärts, von der anderen nur Füße und Knöchel.
+
+*Ergänzt (Autor, 01.10.2026, später):* Der Ring ist von der Wirkung der Schale ausgenommen. Vergleich im Erzähltext: **ein Herzschlag**. Beide Plot-1-Ringe liegen auf dem Boden, der Skir-Ring vielleicht etwas schräg durch die Böschung - umgesetzt in Portalringe, Skirraa, Zeitleiste und Szenen (1,75 m Kopffreiheit, 5,32 m³ Erdreich).
+
+*Entschieden (Autor, 01.10.2026) - die Schale versengt:* Sie löst nicht auf, sondern **sengt an**: kohlschwarz, Wunden kauterisiert, auf beiden Seiten des Schnitts. Abgetrenntes, das an der Schale herabrutscht oder -purzelt, wird weiter versengt. Keine Hitze, sondern eine unerklärliche Eigenheit der Ringe - kein Rauch, kein Geruch. Gilt für jedes Material, auch Erdreich, Stein und Metall. Wo etwas die Schale berührt, leuchtet sie grün, solange die Berührung dauert. Umgesetzt in [Portalringe](../Technik/Portalringe.md#aktivierung--tausch); der Satz vom 09.09.2026 *„kein Zwischenzustand"* ist dort als überholt vermerkt. Die Schnittflächen in Zeitleiste, Szenen und Tibuns-Generator sind nachgetragen ([C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)). Die Folgen für beobachtete Flips in Plot 1 → [C-193](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
+
+*Entschieden (Autor, 01.10.2026):* Es zischt nicht. Vokabular und Akzeptanzkriterien stehen jetzt in [Portalringe](../Technik/Portalringe.md#begriffe); *Reif* heißt seitdem *Ring*, *Ringebene* heißt *Mittelebene*.
+
+**Geschlossen (01.10.2026)** - alle Fragen vom Autor beantwortet. Offene Folgen für Plot 1 → [C-193](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
+
 ---
 
 ### C-182: Was Tibun in den Kaupvik-Jahren verliert ✓
@@ -4091,14 +4135,14 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 
 ---
 
-### C-183: Verdrängt der Reif Luft der Tauschkugel? ✓
+### C-183: Verdrängt der Ring Luft der Tauschkugel? ✓
 
 Aufgefallen am 14.09.2026. [Portalringe](../Technik/Portalringe.md#aktivierung--tausch) sagt an zwei Stellen Verschiedenes:
 
-- **Geist-Eigenschaft:** Der rotierende Reif überstreicht die Schale **zwischen 1,50 m und 1,665 m** (Abstand vom Kugelzentrum) - also **außerhalb** der Tauschkugel. Er durchdringt dort alles, **ohne es anzutasten**.
+- **Geist-Eigenschaft:** Der rotierende Ring überstreicht die Schale **zwischen 1,50 m und 1,665 m** (Abstand vom Kugelzentrum) - also **außerhalb** der Tauschkugel. Er durchdringt dort alles, **ohne es anzutasten**.
 - **Keine Druckwelle:** *„Der Reif schwingt zwar mit ~126 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst Teil der Tauschkugel ist."*
 
-Die zweite Begründung passt nicht zur ersten: Die Luft, durch die der Reif läuft, liegt **außerhalb** der Kugel. Nach der Geist-Eigenschaft verdrängt er sie gar nicht.
+Die zweite Begründung passt nicht zur ersten: Die Luft, durch die der Ring läuft, liegt **außerhalb** der Kugel. Nach der Geist-Eigenschaft verdrängt er sie gar nicht.
 
 **Die Aussage selbst hält** - keine Druckwelle -, nur ihre Begründung nicht. Mit der Geist-Eigenschaft wäre sie schon erklärt.
 
@@ -4216,7 +4260,7 @@ Aus [C-186 ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-) (1
 
 **Was schon steht und der Bau einhalten muss:**
 - **Über dem Ring**, als öffentliche Ansage, kein verstecktes Gerüst ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-))
-- Die **gesamte Anlage außerhalb der Tauschkugel** (Autor, 10.09.2026). Bezugsebene ist die Ringebene: Die Kugel reicht **1,50 m** um das Ringzentrum, also auch 1,50 m über die Ringebene. Der Dachstuhl, aus dem die Kette fällt, liegt höher.
+- Die **gesamte Anlage außerhalb der Tauschkugel** (Autor, 10.09.2026). Bezugsebene ist die Mittelebene: Die Kugel reicht **1,50 m** um das Ringzentrum, also auch 1,50 m über die Mittelebene. Der Dachstuhl, aus dem die Kette fällt, liegt höher.
 - Der Ring liegt **leicht schräg** oben auf der Böschung, ein paar Meter über dem Skir ([C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-))
 - Bezahlt aus Kaupvik-Ersparnissen, **Holz schlägt er selbst** im Wald am Skir ([C-163 ✓](#c-163-womit-tibun-die-werkstatt-bezahlt-)). **Niemand hilft ihm** ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-))
 - Die Kette hängt an **Seilen** ([C-187 ✓](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-))
@@ -4236,7 +4280,7 @@ Aus [C-186 ✓](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-) (1
 
 **Hinweise (Claude) zur getroffenen Wahl:**
 - **Die Neigung stimmt.** Dass der First mit dem Hang fällt, ändert die **Querneigung** nicht - die bleibt über die ganze Länge gleich. Reet braucht rund 45 Grad, damit das Wasser abläuft, und die hat der Bau dann durchgehend. Der Boden darunter fällt mit; ein ebener Werkstattboden ist das nicht.
-- **Die Kette passt dazu.** Der Bau liegt am Ring-Ende am höchsten über dem Fluss. Genau dort sitzt der Dachstuhl, aus dem die Kette fällt - über den geforderten 1,50 m über der Ringebene.
+- **Die Kette passt dazu.** Der Bau liegt am Ring-Ende am höchsten über dem Fluss. Genau dort sitzt der Dachstuhl, aus dem die Kette fällt - über den geforderten 1,50 m über der Mittelebene.
 - **Reet ist die leichteste Wahl für einen Mann allein.** Es wächst in den Niederungen am Skir, er schneidet und bindet es selbst, und die Dachlast ist klein - Grassoden hätte er ohne Helfer kaum aufs Dach bekommen.
 - **Reet brennt.** Die Entladungen selbst sind dafür zu schwach ([Tibuns Generator](../Technik/Tibuns-Generator.md)). Was an **offenem Feuer** in die Werkstatt kommt - Lampe, Herd, Werkfeuer im Winter -, ist damit aber eine Entscheidung mit Folgen.
 - **Ein Reetdach vom Waldrand bis ans Wasser ist eine große Fläche.** Es macht die öffentliche Ansage noch lauter und muss in einigen Jahren ausgebessert werden.
@@ -4282,7 +4326,7 @@ Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 
 **Befund (Claude) - zwei Dinge, die der Auszug nach sich zieht:**
 - **Es ist Winter.** Wer am Skir unter dem Bau schläft, braucht Feuer. Unter einem **Reetdach** ([C-188](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)) ist das eine Setzung mit Folgen.
-- **Sein Schlafplatz muss außerhalb der Tauschkugel liegen** - mehr als 1,50 m von der Ringebene entfernt ([Portalringe](../Technik/Portalringe.md)). Sonst reist er bei **Zündung 1** mit, die ohne sein Zutun losgeht, während er dort lebt. Der Bau ist lang genug, das ist kein Problem - aber es darf beim Schreiben nicht durchrutschen.
+- **Sein Schlafplatz muss außerhalb der Tauschkugel liegen** - mehr als 1,50 m von der Mittelebene entfernt ([Portalringe](../Technik/Portalringe.md)). Sonst reist er bei **Zündung 1** mit, die ohne sein Zutun losgeht, während er dort lebt. Der Bau ist lang genug, das ist kein Problem - aber es darf beim Schreiben nicht durchrutschen.
 
 **Zu klären · ???**
 - **Wer weist ihn vom Hof?** Semund selbst, oder der Druck aus dem Weiler, dem Semund nachgibt? Beides steht mit *Semund duldet ihn, neutral bis familiär* in Spannung.
@@ -4365,5 +4409,46 @@ Unverändert: Tibun, Girlin, Semund (Rufnamen), Hadurik, Landarik, Gunthar, Rand
 Eingetragen in [Nordvolk - Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026).
 
 **Geschlossen (Autor, 28.09.2026).**
+
+---
+
+### C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ○
+
+Aufgefallen beim Durchspielen des Schichttauschs (30.09.2026, [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)). Der Luftdruck hängt von Höhenlage und Wetter ab. Die Luft in der Tauschkugel kommt mit dem Druck ihres Herkunftsorts an und gleicht sich danach an ihre neue Umgebung an: Am höher gelegenen Ring dehnt sie sich aus, am tiefer gelegenen strömt Luft nach. Das kollidiert möglicherweise mit [Portalringe](../Technik/Portalringe.md#aktivierung--tausch): *„Aus dem Ring tritt nichts aus - kein Strahl, keine Druckwelle."*
+
+**Rechenbeispiel (Claude)** - Normatmosphäre, `p = 1013,25 hPa · (1 − 2,25577·10⁻⁵ · h)^5,25588`, *h* in Metern über dem Meer. Skirraa (real: Bindslev) liegt wenige Meter über dem Meer; die Höhen des Wüstenrings sind **nur Beispiele**:
+
+<table>
+  <thead>
+    <tr><th>Höhe Wüstenring</th><th>Luftdruck</th><th>Unterschied zu Meereshöhe</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>300 m</td><td>978 hPa</td><td>36 hPa</td></tr>
+    <tr><td>500 m</td><td>955 hPa</td><td>59 hPa</td></tr>
+    <tr><td>800 m</td><td>921 hPa</td><td>92 hPa</td></tr>
+  </tbody>
+</table>
+
+Dazu kommt das Wetter, das den Druck an einem Ort um mehrere Dutzend hPa verschiebt. Zum Vergleich: 59 hPa entsprechen dem Druck von rund 0,6 m Wassertiefe (9,81 hPa je 10 cm).
+
+**Zu klären · ???**
+- Wie hoch liegt der Wüstenring?
+- Gleicht sich der Druckunterschied nach dem Tausch aus wie in der Natur - mit Luftstoß am Ring und Druck auf den Ohren der Reisenden?
+
+---
+
+### C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ○
+
+Folge aus [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-) und [C-136 ✓](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-) (01.10.2026). Ein Flip dauert jetzt einen Herzschlag; wer zusieht, sieht den Inhalt erstarrt und Schicht für Schicht verschwinden bzw. entstehen, die Schale grün leuchten, wo sie etwas berührt, und versengte Reste ([Portalringe](../Technik/Portalringe.md#aktivierung--tausch)). Betroffen in Plot 1:
+
+- **Girlins Verschwinden** (Szenen 2-4, aus Tibuns Sicht): Tibun sieht seine Mutter erstarrt und Schicht für Schicht verschwinden. Die Birke wächst durch die Ringöffnung ([Skirraa](../Orte/Skirraa.md)); was von ihr aus der Kugel ragt, wird abgetrennt und bleibt mit versengter Schnittfläche zurück.
+- **Zündung 1** (Szene 45): Bisher *„Im Moment der fremden Zündung sieht Tibun nur, dass etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts"* (Autor, 10.09.2026). Schaut Tibun in diesem Herzschlag auf den Ring, sieht er Azzim Schicht für Schicht entstehen. Statt einer Halbkugel ist es eine Kappe von 5,3 m³ Boden.
+- **Zündung 1, in der Wüste:** Azzims Leute fliehen, *„sobald er vor ihren Augen verschwindet"* (Autor, 10.09.2026). Sie sehen ihn jetzt erstarrt und Schicht für Schicht vergehen.
+- **Zündung 2** (Szene 47): Azzim wird von der Kugelgrenze zerteilt. Beide Schnittflächen sind versengt und kauterisiert - es fließt kein Blut, und wo sein Körper die Schale berührt, leuchtet sie grün.
+
+**Zu klären · ???**
+- Was sieht Tibun bei Girlins Verschwinden?
+- Sieht Tibun bei Zündung 1 hin, oder bleibt es bei *„nur, dass etwas geschehen ist"*?
+- Was sehen Azzims Leute, und wie sieht Azzims Tod bei Zündung 2 aus?
 
 ---

@@ -14,7 +14,7 @@
 
 ## Beschreibung
 Die Portalringe sehen aus wie riesige, flache Armreife mit grün leuchtenden Runen an der Außenseite - breite Bänder mit flacher Außenfläche und gebrochenen Kanten, nicht wulstig und nicht scharfkantig. Die Oberfläche ist **matt silbrig-grau, fein gerichtet - optisch wie gebürstetes Aluminium** (nur Optikreferenz, das Material ist es nicht). Kein Spiegelglanz, keine Naht, keine Guss- oder Werkzeugspuren.
-Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene) - wie eine Münze, die von Kopf auf Zahl flippt - bleiben dabei aber ortsfest und liegen danach deckungsgleich. Die Drehung dauert **einen Lidschlag**. Sie können **flach liegen oder vertikal stehen** (siehe unten).
+Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Mittelebene) - wie eine Münze, die von Kopf auf Zahl flippt - bleiben dabei aber ortsfest und liegen danach deckungsgleich. Die Drehung dauert **einen Herzschlag**. Sie können **flach liegen oder vertikal stehen** (siehe unten).
 
 ---
 
@@ -25,30 +25,92 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene)
 
 ---
 
+## Begriffe
+
+Abgestimmt mit dem Autor (01.10.2026).
+
+<table>
+  <thead>
+    <tr><th>Begriff</th><th>Bedeutung</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Ring</td><td>der Ringkörper selbst (3-m-Ring: 3,00 m innen, 3,30 m außen, 0,50 m breit, 0,15 m dick)</td></tr>
+    <tr><td>Innenkante</td><td>innerer Rand des Rings, Ø 3,00 m</td></tr>
+    <tr><td>Boden</td><td>worauf der Ring liegt</td></tr>
+    <tr><td>Mittelebene</td><td>Ebene durch die Mitte der Ringbreite; enthält Drehachse und Kugelmittelpunkt. Liegt der Ring auf dem Boden, liegt sie 0,25 m darüber</td></tr>
+    <tr><td>Drehachse</td><td>ein Durchmesser des Rings in der Mittelebene, um den er flippt</td></tr>
+    <tr><td>Flip</td><td>die halbe Drehung des Rings, ein Herzschlag (1 s)</td></tr>
+    <tr><td>Tauschkugel</td><td>entsteht beim Zünden: Kugel mit dem Innendurchmesser um den Kugelmittelpunkt; ihr Inhalt wird getauscht</td></tr>
+    <tr><td>Tauschschale</td><td>Oberfläche der Tauschkugel: unsichtbar, durchsichtig, undurchlässig; versengt, was sie berührt</td></tr>
+    <tr><td>Tauschfläche</td><td>Kreisfläche innerhalb der Innenkante; dreht sich mit dem Ring und tauscht, was sie überstreicht</td></tr>
+    <tr><td>getauscht / ungetauscht</td><td>Teil der Tauschkugel, den die Tauschfläche schon bzw. noch nicht überstrichen hat</td></tr>
+    <tr><td>Starre</td><td>Stillstand der Zeit in der Tauschkugel, solange der Flip dauert</td></tr>
+    <tr><td>Ausgangsort / Zielort</td><td>wo der Reisende startet bzw. ankommt</td></tr>
+    <tr><td>Partnerring</td><td>der gekoppelte Ring am anderen Ende</td></tr>
+  </tbody>
+</table>
+
+---
+
+## Akzeptanzkriterien
+
+Maßstab für jede Änderung an der Mechanik des Tauschs (abgestimmt mit dem Autor, 01.10.2026). Ein Kriterium streicht oder ändert nur der Autor.
+
+<table>
+  <thead>
+    <tr><th>AC</th><th>Kriterium</th><th>Quelle</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>AC-1</td><td>Beim Zünden entsteht die Tauschkugel. Ihr Inhalt wird getauscht, der Ring nicht.</td><td>Autor, 30.09.2026</td></tr>
+    <tr><td>AC-2</td><td>Harter Tausch: alles 1:1, auch Erdreich und stark verschiedener Inhalt.</td><td>Autor</td></tr>
+    <tr><td>AC-3</td><td>Wer beim Zünden ganz in der Kugel ist, reist heil. Was hinausragt, trennt die Tauschschale ab und versengt es.</td><td>Autor, 30.09. und 01.10.2026</td></tr>
+    <tr><td>AC-4</td><td>Der Ring durchläuft beim Flip Materie außerhalb der Kugel wie ein Geist, auch Luft, ohne Luftstoß.</td><td>Autor, 14.09.2026</td></tr>
+    <tr><td>AC-5</td><td>Aus dem Ring tritt nichts aus - kein Strahl, keine Druckwelle. Es leuchten nur die Runen und die Schale, wo etwas sie berührt.</td><td>Autor, 01.10.2026</td></tr>
+    <tr><td>AC-6</td><td>Beide Ringe flippen gleichzeitig.</td><td>Autor</td></tr>
+    <tr><td>AC-7</td><td>Der Flip dauert einen Herzschlag (1 s).</td><td>Autor, 01.10.2026</td></tr>
+    <tr><td>AC-8</td><td>Drehung und Tausch sind ein Vorgang.</td><td>Autor, 09.09.2026</td></tr>
+    <tr><td>AC-9</td><td>Getauscht wird Schicht für Schicht durch die Tauschfläche.</td><td>Autor, 14.09. und 30.09.2026</td></tr>
+    <tr><td>AC-10</td><td>Von außen sieht man, wie ein Körper am Zielort Schicht für Schicht entsteht und am Ausgangsort schwindet.</td><td>Autor, 30.09.2026</td></tr>
+    <tr><td>AC-11</td><td>Was beim Zünden ganz in der Kugel ist, kommt vollständig und heil an, auch wenn es sich bewegt (Kampf, Sturz).</td><td>aus der Diskussion vom 30.09.2026; vom Autor mit der Starre umgesetzt</td></tr>
+    <tr><td>AC-12</td><td>Mit dem Ring lässt sich nichts entsorgen: Abgetrenntes bleibt liegen.</td><td>Autor, 01.10.2026</td></tr>
+  </tbody>
+</table>
+
+---
+
 ## Aktivierung & Tausch
 
-Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. **Drehung und Tausch sind ein einziger Vorgang** (Autor, 09.09.2026) - es gibt keinen Zwischenzustand, in dem der Reif schon dreht und der Inhalt noch da ist.
+Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser, in einem Herzschlag (siehe [Dauer des Flips](#dauer-des-flips)). Im selben Augenblick entsteht die **Tauschkugel** (Autor, 30.09.2026); ihr Inhalt wird mit dem des Partnerrings getauscht. **Drehung und Tausch sind ein einziger Vorgang** (Autor, 09.09.2026).
 
-- **Tauschvolumen = Innenkugel.** Maßgeblich ist die **Innenkante** des Rings: Die Tausch-Kugel hat den Innendurchmesser (**3,00 m** beim 3-m-Ring, Radius 1,50 m). **Der Ringkörper wird nicht mitgetauscht** - er liegt vollständig außerhalb.
-- **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt - Erdreich, Fundament, einen danebenstehenden Menschen -, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Deshalb braucht es kein freigeräumtes Umfeld.
+- **Tauschkugel.** Maßgeblich ist die **Innenkante** des Rings: Die Kugel hat den Innendurchmesser (**3,00 m** beim 3-m-Ring, Radius 1,50 m). **Der Ring wird nicht mitgetauscht** - er liegt vollständig außerhalb.
+- **Schicht für Schicht.** Die Kreisfläche innerhalb der Innenkante, die **Tauschfläche**, dreht sich mit dem Ring und tauscht, was sie überstreicht (Autor, 14.09. und 30.09.2026). Bei einer halben Drehung überstreicht sie jeden Punkt der Kugel genau einmal. Sie ist durchsichtig (Autor, 30.09.2026).
+- **Starre.** In der Tauschkugel steht die Zeit still, solange der Flip dauert - Blut, Luft, Teilchen, alles (Autor, 30.09.2026). Deshalb geschieht dem Inhalt beim schichtweisen Tausch nichts. **Licht ist ausgenommen** (Autor, 01.10.2026): Man sieht in die Kugel hinein, am Zielort etwa einen Menschen, von dem erst ein Teil angekommen ist, bis der Rest nachkommt (Autor, 30.09.2026).
+  - **Folgerung (Claude):** Endet die Starre, läuft alles mit dem Schwung weiter, den es beim Zünden hatte.
+  - **Folgerung (Claude):** Die Tauschfläche beginnt in der Mittelebene. Von einem Stehenden erscheint am Zielort zuerst eine dünne Scheibe auf Schienbeinhöhe; bei halbem Flip steht dort ein der Länge nach halbierter Mensch - die eine Hälfte ab den Schienbeinen aufwärts, von der anderen nur Füße und Knöchel.
+- **Tauschschale.** Die Oberfläche der Tauschkugel ist **unsichtbar und durchsichtig, aber undurchlässig** (Autor, 30.09.2026). Sie besteht vom Zünden bis zum Ende des Flips; Gase prallen an ihr ab (Autor, 01.10.2026). Was beim Zünden nur teilweise in der Kugel ist, **zerteilt sie** (Autor, 30.09.2026): *Wer ganz in der Kugel ist, reist heil; was hinausragt, wird abgetrennt.* Die Ringkante selbst schneidet nicht (Autor, 30.09.2026).
+- **Was die Schale berührt, wird versengt** (Autor, 01.10.2026) - kohlschwarz, Wunden kauterisiert, auf beiden Seiten des Schnitts. Das ist keine Hitze, sondern eine unerklärliche Eigenheit der Ringe: **kein Rauch, kein Geruch**. Es gilt für jedes Material - Fleisch, Holz, Erdreich, Stein, Metall. Wo etwas die Schale berührt, **leuchtet sie grün**, solange die Berührung dauert. Ausgenommen sind der Ring selbst, Gase und Licht. Es zischt nicht (Autor, 01.10.2026).
+  - Abgetrenntes **bleibt liegen**; rutscht oder purzelt es an der Schale herab, wird es dabei weiter versengt (Autor, 01.10.2026). Entsorgen lässt sich mit dem Ring also nichts.
+  - **Auch der Boden** berührt die Schale den ganzen Flip lang und wird versengt (Autor, 01.10.2026). Das getauschte Erdreich verdeckt beides sofort (Autor, 01.10.2026): Die geschwärzte Kruste um das getauschte Erdreich findet nur, wer gräbt, und das Leuchten im Boden bleibt unsichtbar. **Zu sehen ist das Leuchten nur an der Innenwand des Rings, wie ein Kranz** (Autor, 01.10.2026). Rechnerisch tritt die Schale bei ebenem Boden mit Radius √(1,50² − 0,25²) = 1,48 m aus dem Boden, rund 2 cm vor der Innenwand.
+- **Der Ring durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt - Erdreich, Fundament, einen danebenstehenden Menschen -, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Deshalb braucht es kein freigeräumtes Umfeld.
   - **Nur während der Drehung.** Ein ruhender Ring ist fest und schwer wie jeder Körper; sonst sänke er durch den Boden.
-  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht die Schale zwischen **1,50 m und 1,665 m** - innen die Bohrung, außen der weiteste Punkt des Eckbogens. Der Reif kommt der Tauschkugel nie näher als tangential; die Geist-Eigenschaft gilt also ausschließlich für Materie *außerhalb* des Tauschvolumens.
-- **Messerscharfe Schnittkante.** Die Kugeloberfläche trennt alles, was sie kreuzt. Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** - die Grenze ist damit sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.*
+  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht die Schale zwischen **1,50 m und 1,665 m** - innen die Bohrung, außen der weiteste Punkt des Eckbogens. Der Ring kommt der Tauschkugel nie näher als tangential; die Geist-Eigenschaft gilt also ausschließlich für Materie *außerhalb* des Tauschvolumens.
 - **Harter Tausch.** Der gesamte Kugelinhalt wird kompromisslos 1:1 mit der Gegenseite getauscht - auch bei stark verschiedenem Inhalt (z. B. Luft gegen massiven Sand). Beide gepaarten Ringe flippen gleichzeitig.
-- **Ganze Kugel inkl. Erdreich.** Liegt der Ring flach im Boden, steckt die untere Halbkugel im Erdreich; sie wird mitgetauscht. So entsteht am Skir eine halbkugelförmige Mulde, gefüllt mit Wüstensand (und umgekehrt).
-- **Kein Halt nötig.** Personen oder Waren stehen frei im Inneren. Eine feste Plattform ist unmöglich, da jede Verankerung mitgetauscht oder an der Kante geschnitten würde - die Schwerkraft genügt.
+- **Ganze Kugel inkl. Erdreich.** Was von der Kugel im Boden steckt, wird mitgetauscht - bei einem bis zur Hälfte eingesunkenen Ring die untere Halbkugel, bei einem Ring auf ebenem Boden wie in Plot 1 eine Kappe von 5,32 m³ (siehe [Kopffreiheit](#kopffreiheit-und-die-mulde)). So entsteht am Skir eine Mulde, gefüllt mit Wüstensand (und umgekehrt).
+- **Kein Halt nötig.** Personen oder Waren stehen frei im Inneren. Eine feste Plattform ist unmöglich, da jede Verankerung mitgetauscht oder an der Schale zerteilt würde - die Schwerkraft genügt.
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett. Die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
+- **Aus dem Ring tritt nichts aus** - kein Strahl, keine Druckwelle. Sichtbar sind allein das grüne Glühen der Runen und das grüne Leuchten der Schale, wo etwas sie berührt (siehe unten). Das gilt auch für **Luft**: Der Ring durchläuft sie wie alles andere **wie ein Geist** (Autor, 14.09.2026) - trotz ~19 km/h Kantengeschwindigkeit kein Luftstoß.
+  > **Korrigiert (14.09.2026):** Hier stand als Begründung, der Ring verdränge nur Luft, die selbst Teil der Tauschkugel ist. Das widersprach der Geometrie oben: Der Ring läuft **außerhalb** der Kugel.
 
 ---
 
 ## Kopffreiheit und die Mulde
 
-Die Kugel reicht nur **1,50 m über die Ringebene**. Liegt der Ring flach im Boden, fällt die Ringebene mit dem Boden zusammen - das Kugelzentrum liegt dann genau dort, wo man steht, und ein Stehender hat **1,50 m Kopffreiheit**, exakt den Kugelradius. Für einen Erwachsenen ist das zu wenig; der rohe, ebenerdige Ring köpft ihn.
+Die Kugel reicht nur **1,50 m über die Mittelebene**. Liegt der Ring flach im Boden, fällt die Mittelebene mit dem Boden zusammen - das Kugelzentrum liegt dann genau dort, wo man steht, und ein Stehender hat **1,50 m Kopffreiheit**, exakt den Kugelradius. Für einen Erwachsenen ist das zu wenig; der rohe, ebenerdige Ring köpft ihn.
 
 **Deshalb baut die Nutzer-Zivilisation eine Mulde**. Wie tief, ist **???** - erst zu entscheiden, wenn eine Geschichte es braucht (Autor, 21.09.2026). Die Tiefe erkauft Kopffreiheit mit Standfläche:
 
 <table>
-  <caption>Flach liegender 3-m-Ring - Muldentiefe unter der Ringebene</caption>
+  <caption>Flach liegender 3-m-Ring - Muldentiefe unter der Mittelebene</caption>
   <thead>
     <tr><th>Mulde</th><th>Kopffreiheit</th><th>Standfläche (Schnittkreis)</th></tr>
   </thead>
@@ -66,12 +128,12 @@ Die Kugel reicht nur **1,50 m über die Ringebene**. Liegt der Ring flach im Bod
 Kopffreiheit = 1,50 m + Muldentiefe
 Standfläche  = 2 · √(1,50² − Muldentiefe²)
 
-Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
+Beides gemessen ab der Mittelebene, die zugleich das Kugelzentrum ist.
 ```
 
 > **Gestrichen (02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* und daraus abgeleitet eine feste Mulde. Die Zahl stammte von Claude, nicht vom Autor.
 
-**Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser - der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stürzt über den Ring** und **liegt** darin (Autor, 07.09.2026); dabei zieht sie sich eine **Kopfwunde** zu und ist bewusstlos. Stehend hätte sie der Ring geköpft.
+**Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Mittelebene ist ihr Schnittkreis genau dieser volle Durchmesser - der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stürzt über den Ring** und **liegt** darin (Autor, 07.09.2026); dabei zieht sie sich eine **Kopfwunde** zu und ist bewusstlos. Ob sie stehend Platz gehabt hätte, hängt von ihrer Größe ab (**???**): Der Ring liegt auf dem Boden, über der Ringmitte reicht die Kugel 1,75 m hoch (siehe unten); wer 1,60 m groß ist, hätte bis 0,65 m um die Mitte Platz.
 
 **Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird mitgetauscht: Beim Tausch wird sie auf der einen Seite mit dem Erdreich der Gegenseite **verfüllt**, und drüben entsteht sie neu. **Wer in ihr reist, kommt drüben in ihr an** - für die Rückreise liegt sie genau dort, wo er gerade ist. Das ist **Funktionalität, kein Problem** (Autor, 21.09.2026). Hat nur eine Seite eine Mulde, liegt sie immer auf der Seite, auf der zuletzt jemand angekommen ist.
 
@@ -80,16 +142,16 @@ Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 > **Gestrichen (Autor, 21.09.2026):** Hier stand *„Asymmetrische Anlagen zerstören sich selbst. Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt … für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich."* Die Mulde wird nicht zerstört, sie wechselt nur die Seite. **Der Satz stammte von Claude, nicht vom Autor.**
 
 **In Plot 1 hat keiner der beiden Ringe eine Mulde** (Autor, 21.09.2026) - weder der Skir-Ring noch der Ring in der [Ringkammer](../Orte/Bellbrims-Werkstatt.md#die-ringkammer). Wer dort reist, ist **am Boden**: Girlin liegt, Azzim und Tibun sind im Finale am Boden (Autor, 21.09.2026).
-- **Aus dem Ring tritt nichts aus** - kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif durchläuft sie wie alles andere **wie ein Geist** (Autor, 14.09.2026) - trotz ~126 km/h Kantengeschwindigkeit kein Luftstoß.
-  > **Korrigiert (14.09.2026):** Hier stand als Begründung, der Reif verdränge nur Luft, die selbst Teil der Tauschkugel ist. Das widersprach der Geometrie oben: Der Reif läuft **außerhalb** der Kugel.
+
+**Beide Ringe liegen auf dem Boden** (Autor, 01.10.2026), der Skir-Ring vielleicht etwas schräg durch die Böschung. Die Mittelebene liegt damit eine halbe Ringbreite, **0,25 m**, über dem Boden - das entspricht der Zeile *0,25 m* der Tabelle oben: über der Ringmitte **1,75 m** Kopffreiheit, auf Bodenhöhe misst die Kugel **2,96 m**. Unter dem Boden steckt eine Kugelkappe der Höhe 1,25 m, bei ebenem Boden V = π · 1,25² · (3 · 1,50 − 1,25) / 3 = **5,32 m³**.
 
 ### Dauer des Flips
 
-**Ein Lidschlag.** Schnell - aber langsam genug, dass das Auge die Drehung *sieht* und ihr folgen kann. Man nimmt eine **Drehung** wahr, keine Einzelheiten: Runen sind währenddessen nicht lesbar, eine bestimmte Stelle am Reif nicht verfolgbar.
+**Ein Herzschlag** (Autor, 01.10.2026) - lang genug, dass man den Tausch von außen wahrnehmen kann (Autor, 01.10.2026). Ob die Runen während der Drehung lesbar sind, ist **???**.
 
-„Lidschlag" ist zugleich der **epochentaugliche** Vergleich - eine Figur von 550 kann ihn denken und aussprechen, „Sekunde" nicht. Er darf deshalb im Erzähltext stehen.
+„Herzschlag" ist zugleich der **epochentaugliche** Vergleich - eine Figur von 550 kann ihn denken und aussprechen, „Sekunde" nicht. Er darf deshalb im Erzähltext stehen.
 
-> **Berechnungsreferenz (Autorenebene, erscheint nie im Text):** 100-150 ms. Für den 3-m-Ring ~21 rad/s, Kantengeschwindigkeit außen ~35 m/s (≈ 126 km/h). Wer **neben** der Kugelkante steht, sieht den Reif damit vorbeirauschen.
+> **Berechnungsreferenz (Autorenebene, erscheint nie im Text):** **1 s** (Autor, 01.10.2026). Für den 3-m-Ring π rad/s ≈ 3,14 rad/s; Außenkante 1,6649 m × π /s = 5,23 m/s ≈ 18,8 km/h, Innenkante 4,71 m/s. Ein Ruhepuls von 60-80 Schlägen pro Minute entspricht 0,75-1 s je Schlag.
 
 ---
 
@@ -98,7 +160,7 @@ Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 Ringe liegen nicht zwingend flach - das ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. **Die Tauschkugel ist von der Aufstellung unabhängig:** Eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
 
 ### Flach liegend
-**Die einzige Aufstellung, die in der Geschichte vorkommt.** Untere Halbkugel im Erdreich, wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Stehend reist nur, wer eine **Mulde** hat (siehe oben) - ohne Mulde reist nur, wer **am Boden** ist. Geometrisch: Ein Kopf auf der Höhe *h* über der Ringebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei *h* = 1,30 m sind das 0,75 m, bei *h* = 1,20 m 0,90 m.
+**Die einzige Aufstellung, die in der Geschichte vorkommt.** Der Teil der Kugel unter dem Boden wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** - **auf** dem Boden, vielleicht etwas schräg durch die Böschung (Autor, 01.10.2026) - und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Stehend reist nur, wer eine **Mulde** hat (siehe oben) - ohne Mulde reist nur, wer **am Boden** ist. Geometrisch: Ein Kopf auf der Höhe *h* über der Mittelebene muss innerhalb von √(1,50² − *h*²) um die Mitte bleiben - bei *h* = 1,30 m sind das 0,75 m, bei *h* = 1,20 m 0,90 m.
 
 ### Vertikal (eingelassen)
 Erlaubt den **Durchgang im Gehen**: Der Reisende betritt die Kugel, wird getauscht und geht am Zielort **geradeaus weiter** - ohne anzuhalten. Der Ring ist dabei nie ein „Tor", durch das man tritt; man läuft durch die Kugel, während sie ihren Inhalt wechselt.
@@ -171,7 +233,7 @@ Das Material ist mystisch und nicht identifizierbar. Für die Bearbeitung gilt:
 | Prüfung | Ergebnis |
 |---|---|
 | **Anschlagen** | **klingt wie Metall** |
-| **Anheben** | **wiegt sich wie Metall** - was eine Hand am Reif erwartet, bekommt sie auch |
+| **Anheben** | **wiegt sich wie Metall** - was eine Hand am Ring erwartet, bekommt sie auch |
 | **Anfassen** | **temperaturlos** - die einzige Stelle, an der die Erwartung bricht |
 
 Damit ist die Temperaturlosigkeit **der einzige Bruch**. Zwei von drei Prüfungen gehen glatt durch; wer den Ring beklopft und hebt, hat keinen Grund zu zweifeln. Erst die bloße Hand widerspricht - und sie widerspricht nicht laut, sondern durch etwas, das *fehlt*.
@@ -196,11 +258,13 @@ Die Runen leuchten in einem starken, dunklen Smaragdgrün. Erklärung ohne Bruch
 
 > Das Leuchten ist die **Energie in den Runennuten**, keine Eigenschaft des Materials. Die gravierten Rillen wirken wie Kanäle, durch die die Energie fließt; sie glühen von innen heraus wie Lava in einer Furche. Das Grün ist die *Farbe des Vorgangs* - wie eine Flamme leuchtet, ohne dass das Holz grün ist. Licht wird erzeugt, nicht durchgelassen. Kein Glas, kein Smaragd nötig.
 
-Das erklärt zugleich die Mechanik: Nur die Runen glühen (Energie läuft in den Kanälen); eine zerstörte Rune unterbricht den „Kanal" und kappt die Verbindung; eine korrekte neue Rune schließt einen neuen Kanal.
+Das erklärt zugleich die Mechanik: Am Ring selbst glühen nur die Runen (Energie läuft in den Kanälen); eine zerstörte Rune unterbricht den „Kanal" und kappt die Verbindung; eine korrekte neue Rune schließt einen neuen Kanal.
 
 **Zwei Leuchtzustände:**
 - **Erfolgreiche Kopplung:** kurzer grüner Puls - Bestätigung, dass die Verdrahtung greift (diegetisches Feedback für den Runenschmied).
 - **Aktivierung / Teleport:** intensives, anhaltendes Glühen. **Ab dem Moment, in dem der Tausch abgeschlossen ist, klingt es über 3 Sekunden ab** - stetig dunkler werdend, kein abruptes Erlöschen.
+
+**Die Schale leuchtet, wo sie berührt wird** (Autor, 01.10.2026), im selben Grün - nur an der Berührungsstelle und nur, solange die Berührung dauert (siehe [Aktivierung & Tausch](#aktivierung--tausch)).
 
 **Einen dritten Zustand gibt es nicht: Der Ring warnt nie vor** (Autor, 09.09.2026). Kein Vorpulsen, kein Countdown, kein Vorlauf - der Flip kommt immer schlagartig, gleich wie er ausgelöst wird und gleich, wer ihn auslöst. Wer im Ring steht, hat keine Zeit zu reagieren, und die Gegenstelle wird nicht gewarnt. Das gilt auch für die Erbauer: Die Ringe sind gleichgültig gegen das, was in ihnen steht.
 

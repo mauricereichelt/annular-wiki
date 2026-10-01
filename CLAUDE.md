@@ -42,7 +42,7 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 **Dreimal in einer Sitzung angemahnt (02.09.2026) - Fehler trotz Zusage.** Der Autor bezahlt für Modell und Tokens; Flüchtigkeit ist kein akzeptables Ergebnis.
 
 - **Jede Zahl nachrechnen, nicht fortschreiben.** Vor jeder Angabe die Herleitung ausführen - bei Geometrie mit Skript, nicht im Kopf.
-- **Bezugsebene nennen.** Jede Längenangabe braucht ihren Bezugspunkt (Ringebene? Bodenniveau? Zentrum?). Die meisten Fehler dieser Sitzung waren verschobene Bezugspunkte, keine Rechenfehler.
+- **Bezugsebene nennen.** Jede Längenangabe braucht ihren Bezugspunkt (Mittelebene? Bodenniveau? Zentrum?). Die meisten Fehler dieser Sitzung waren verschobene Bezugspunkte, keine Rechenfehler.
 - **Die Herleitung mitschreiben**, damit jede Zahl im Wiki prüfbar bleibt.
 - **Vollständig prüfen, nicht stichprobenartig.** Ändert sich ein Grundmaß, sind *alle* abgeleiteten Werte in *allen* Dateien zu prüfen - maschinell, nicht per Augenmaß. Dazu gehören Querverweise, Anker und Bildprompts.
 - **Nicht über Richtigkeit streiten.** Beanstandet der Autor eine Zahl, wird sie geprüft und korrigiert oder gestrichen - keine Verteidigung der eigenen Rechnung.

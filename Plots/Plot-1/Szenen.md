@@ -139,7 +139,7 @@ Tibun holt Hilfe. Das Dorf sucht und gibt wetterbedingt auf. Die Wala wird geruf
 
 > **POV:** Girlin · **Jahr 0** · **Offen:** -
 
-Orientierung, glatt durchtrennte Steine aus Skirraa, halber Käfer (Skarabäus), Verzweiflung, Angst, wird von den Kel Aman aufgesammelt.
+Orientierung, glatt durchtrennte, kohlschwarz versengte Steine aus Skirraa, halber Käfer (Skarabäus), Verzweiflung, Angst, wird von den Kel Aman aufgesammelt.
 
 - **Will:** Zurück - der Ring ist der einzige Rückweg
 - **Hindernis:** Ein Fußmarsch nach Norden ist keine Möglichkeit, sondern eine Todesart
@@ -152,7 +152,7 @@ Orientierung, glatt durchtrennte Steine aus Skirraa, halber Käfer (Skarabäus),
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Glatt durchtrennte Steine und ein halber Käfer (Skarabäus), unbekannter Sand, Erkenntnis: Der Ring schneidet.
+Glatt durchtrennte, kohlschwarz versengte Steine und ein halber Käfer (Skarabäus), unbekannter Sand, Erkenntnis: Der Ring schneidet.
 
 - **Will:** Begreifen, was mit der Mutter geschah
 - **Hindernis:** ???
@@ -656,7 +656,7 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 
 > **Seine Leute** (Autor, 10.09.2026): **drei bis vier eigene Männer**. Als der Generator ihn wegreißt, **brechen sie ab und fliehen** - sie kämpfen nicht weiter und plündern nicht. Bellbrim und das Kind sehen alles aus der Nachbarkammer, durch Fels getrennt.
 
-> **Am Boden** (Autor, 21.09.2026): Im Moment des Tauschs ist Azzim am Boden, nicht aufrecht - der Ring hat keine Mulde, über der Ringmitte reicht die Kugel nur 1,50 m hoch ([Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde)). Wie genau, klärt der Szenentext.
+> **Am Boden** (Autor, 21.09.2026): Im Moment des Tauschs ist Azzim am Boden, nicht aufrecht - der Ring hat keine Mulde; über der Ringmitte reicht die Kugel 1,75 m über den Boden, aufrecht hätte er nur nahe der Mitte Platz, und nur, wenn er klein genug ist ([Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde)). Wie genau, klärt der Szenentext.
 
 
 ### 46 · Azzim vor den Füßen

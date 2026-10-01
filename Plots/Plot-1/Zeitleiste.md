@@ -60,7 +60,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### 3. Der Blitz - Girlins Verschwinden
 - Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings
 - Tibun ist einziger Zeuge
-- **Tibun untersucht die frische Mulde** und begreift, dass der Ring **schneidet**: halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer. Das Wissen, mit dem er zehn Jahre später Azzim tötet, liegt ab hier beim Leser - und niemand im Dorf glaubt ihm
+- **Tibun untersucht die frische Mulde** und begreift, dass der Ring **schneidet**: halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer, kohlschwarz versengt. Das Wissen, mit dem er zehn Jahre später Azzim tötet, liegt ab hier beim Leser - und niemand im Dorf glaubt ihm
 
 ---
 
@@ -251,8 +251,8 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 
 ### Zündung 1 - aus der Wüste
 - Azzim greift die Schlucht an; im Kampf wird der **Wüstengenerator ausgelöst**
-- **Azzim** ist vollständig in der Kugel und wird nach Jütland geworfen. Er ist dabei **am Boden**, nicht aufrecht (Autor, 21.09.2026); wie genau, klärt der Szenentext. *(Korrigiert 21.09.2026: Hier stand „steht". Keiner der beiden Ringe hat eine Mulde, über der Ringmitte reicht die Kugel nur 1,50 m hoch - aufrecht wäre er durchtrennt worden, siehe [Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde).)*
-- Gegenrichtung: **kein Mensch** - **nur Erde und Sand** (Autor, 10.09.2026). Kein Wasser, kein Werkzeug, kein Gerät; eine Halbkugel Boden von rund **7 m³** (untere Hälfte der Tauschkugel, Radius 1,50 m ab der Ringebene). Der Tausch macht kein Schauspiel
+- **Azzim** ist vollständig in der Kugel und wird nach Jütland geworfen. Er ist dabei **am Boden**, nicht aufrecht (Autor, 21.09.2026); wie genau, klärt der Szenentext. *(Korrigiert 21.09.2026: Hier stand „steht". Keiner der beiden Ringe hat eine Mulde; über der Ringmitte reicht die Kugel 1,75 m über den Boden - aufrecht hätte er nur nahe der Mitte Platz, und nur, wenn er klein genug ist, siehe [Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde).)*
+- Gegenrichtung: **kein Mensch** - **nur Erde und Sand** (Autor, 10.09.2026). Kein Wasser, kein Werkzeug, kein Gerät; rund **5,3 m³** Boden - der Teil der Tauschkugel unter dem Boden; der Ring liegt auf dem Boden, die Mittelebene 0,25 m darüber. Der Tausch macht kein Schauspiel
 - **Tibuns Anlage steht vollständig außerhalb der Kugel** (Autor, 10.09.2026) - weil er die Schnittwirkung der Grenze kennt, hat er bewusst außerhalb gebaut. Auch die **Kette hängt in diesem Moment noch oben im Dachstuhl**. Nichts von der Anlage geht mit über, und er kann anschließend zünden
 - **Tibun begreift im Moment der fremden Zündung noch nichts** (Autor, 10.09.2026). Er sieht nur, **dass** etwas geschehen ist. **Die Erklärung liefert Azzim** - der Beweis kommt als Person, nicht als Schlussfolgerung
 - **Seine Leute brechen ab und fliehen** (Autor, 10.09.2026), sobald er vor ihren Augen verschwindet. Zu unheimlich, was sie sehen, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft bei seiner Ankunft Minuten später keinen von ihnen mehr an** - wenn er in der Schlucht steht, ist der Kampf vorbei
@@ -266,7 +266,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
   > **Korrigiert:** Die frühere Formulierung *„Azzim will zurück"* setzte voraus, dass er den Ring kennt. Das war nicht gedeckt
 - Beide wollen den Ring: Tibun will Auskunft, Azzim will zurück
 - Azzim ist der Stärkere. Er **wirft Tibun in den Ring** und würgt ihn am Boden - damit steht Tibun in der Kugel, ohne es gewählt zu haben
-- **Tibun weiß, dass die Kugelgrenze schneidet.** Er hat zehn Winter die Sandmulde vor Augen gehabt: glatt durchtrennte Wurzeln, halbierte Steine
+- **Tibun weiß, dass die Kugelgrenze schneidet.** Er hat zehn Winter die Sandmulde vor Augen gehabt: glatt durchtrennte Wurzeln, halbierte Steine, die Schnitte kohlschwarz
 
 ### Zündung 2 - Tibuns Auslösung
 - Das **Bernsteinrad sitzt unten am Wasserrad** und gibt seine Ladung **laufend an eine Kette** ab, die blau zu leuchten beginnt (Autor, 15.09.2026). Es gibt keinen Konduktor, und der Ring ist kein Ladungsspeicher (Autor, 11.09.2026). Gezündet wird, indem Tibun **das freie Ende der Kette** aus dem Dachstuhl der Werkstatt herabfallen lässt - es verbindet Rad und Ring - **punktuell, gezielt, augenblicklich**

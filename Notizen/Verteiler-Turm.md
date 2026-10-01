@@ -21,22 +21,22 @@ Nur zur Einordnung, nichts davon ist entschieden. Grundlage: [Portalringe.md](..
 **Passt ohne Weiteres:**
 - **Zielwahl durch Zündung.** Die Kopplung ist fest in die Runen graviert und nicht zur Laufzeit wählbar - *welcher* Ring ausgelöst wird, aber sehr wohl. Ein Turm mit vielen Ringen, jeder fest auf ein anderes Ziel verdrahtet, ist genau die Bauform, die der Kanon erlaubt. Man wählt kein Ziel, man wählt einen **Ring**.
 - **Alle Ringe gleicher Größe.** Kopplung verlangt identische Runenkonfiguration *und* gleiche Ringgröße; verschiedene Ziele bei gleicher Größe sind kein Problem.
-- **Die Turmkonstruktion stört nicht.** Der Reif durchdringt beim Flip Materie folgenlos - Böden, Balken, Mauerwerk bleiben unberührt.
+- **Die Turmkonstruktion stört nicht.** Der Ring durchdringt beim Flip Materie folgenlos - Böden, Balken, Mauerwerk bleiben unberührt.
 
 **Zwei harte Maße, die den Turm formen:**
 
 - **Mindestabstand 3,00 m, Schachtweite 3,30 m.** Jeder Ring hat eine Tauschkugel von 3,00 m Durchmesser; näher gestapelte Ringe hätten **überlappende Kugeln**, die Ringe brauchen also mindestens **3,00 m Abstand**. Die lichte Weite des Schachts richtet sich dagegen nach dem **Ringkörper**: Außen-Ø **3,30 m** ([Portalringe.md](../Technik/Portalringe.md)).
 
-- **Das Zeitfenster schrumpft mit der Fallhöhe.** Ein Fallender muss im Moment des Flips **vollständig** in der Kugel sein. Nutzbare Strecke: 3,00 m Kugelhöhe minus ~1,75 m Körperlänge = **1,25 m**. Bei einem Flip von etwa einem Lidschlag (~0,125 s):
+- **Das Zeitfenster schrumpft mit der Fallhöhe.** Ein Fallender muss im Moment der **Zündung** vollständig in der Kugel sein - dann erstarrt er, bis der Flip vorbei ist ([Portalringe.md](../Technik/Portalringe.md)). Nutzbare Strecke: 3,00 m Kugelhöhe minus ~1,75 m Körperlänge = **1,25 m**:
 
-| Fallhöhe | Geschwindigkeit | Zeitfenster | entspricht |
-|---|---|---|---|
-| 1 m | 4,4 m/s | 0,28 s | ~2,3 Flipdauern |
-| 3 m | 7,7 m/s | 0,16 s | ~1,3 Flipdauern |
-| 5 m | 9,9 m/s | 0,13 s | ~1 Flipdauer, kein Puffer |
-| 10 m | 14,0 m/s | 0,09 s | **kürzer als der Flip** |
+| Fallhöhe | Geschwindigkeit | Zeitfenster |
+|---|---|---|
+| 1 m | 4,4 m/s | 0,28 s |
+| 3 m | 7,7 m/s | 0,16 s |
+| 5 m | 9,9 m/s | 0,13 s |
+| 10 m | 14,0 m/s | 0,09 s |
 
-**Folge:** Der freie Fall funktioniert nur in den **obersten paar Metern**. Weiter unten wird das Fenster kürzer als die Drehung selbst - dort ist jeder Sprung tödlich, und zwar durch die messerscharfe Schnittkante. Das ist genau umgekehrt zur Turm-Intuition: Ein hoher Turm mit vielen Ringen wäre unten unbenutzbar.
+**Folge:** Die Flipdauer spielt keine Rolle, nur der Zeitpunkt der Zündung. Je tiefer der Fall, desto genauer muss gezündet werden; wer beim Zünden noch aus der Kugel ragt, wird geteilt.
 
 **Denkbare Auswege** (nicht entschieden): der Fall wird **gebremst** statt frei (Wasser, Netze, Rutschen, Spiralbahn) - dann bleibt die Geschwindigkeit konstant niedrig und beliebig viele Ringe sind erreichbar. Oder der Turm ist bewusst **niedrig** und das „Fallen" eher ein Absetzen über ein bis zwei Ringe. Oder das „ausgeklügelte Timing-System" der Notiz ist genau die Antwort darauf: Die Ringe zünden nicht auf Kommando, sondern **gemessen** - der Turm entscheidet, wann.
 

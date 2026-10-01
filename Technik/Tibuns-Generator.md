@@ -74,9 +74,9 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 
 ## Der Bauplatz - alles außerhalb der Tauschkugel
 
-**Die gesamte Anlage steht außerhalb des Kugelvolumens** (Autor, 10.09.2026). [Tibun](../Menschen/Nordvolk/Tibun.md) kennt die **Schnittwirkung der Kugelgrenze** aus der Sandmulde von Jahr 0 - halbierte Steine, glatt durchtrennte Wurzeln - und baut deshalb bewusst außerhalb.
+**Die gesamte Anlage steht außerhalb des Kugelvolumens** (Autor, 10.09.2026). [Tibun](../Menschen/Nordvolk/Tibun.md) kennt die **Schnittwirkung der Kugelgrenze** aus der Sandmulde von Jahr 0 - halbierte Steine und Wurzeln, die Schnittflächen kohlschwarz versengt - und baut deshalb bewusst außerhalb.
 
-**Bezugsebene:** Das Kugelzentrum liegt in der **Ringebene**, der Radius beträgt **1,50 m** ([Portalringe](Portalringe.md)). Alles, was innerhalb dieser 1,50 m liegt, reist mit oder wird an der Grenze zerteilt.
+**Bezugsebene:** Das Kugelzentrum liegt in der **Mittelebene**, der Radius beträgt **1,50 m** ([Portalringe](Portalringe.md)). Alles, was innerhalb dieser 1,50 m liegt, reist mit oder wird an der Grenze zerteilt.
 
 **Warum das das Finale trägt:** Bei **Zündung 1** löst der Ring aus, ohne dass Tibun etwas tut. Stünde die Anlage im Kugelvolumen, wäre sie in diesem Moment weg und er könnte nie zünden. Auch die **Kette hängt zu diesem Zeitpunkt noch oben im Dachstuhl** und damit außerhalb; sie fällt erst im Kampf herab und schließt dabei den Kreis.
 
@@ -120,5 +120,5 @@ Keine offenen Entscheidungen, nur worauf beim Schreiben zu achten ist (Autor, 15
 - **Die Werkstatt ist ein großer Bau** (vorläufig, Autor, 15.09.2026): vom Ring oben auf der Böschung bis hinunter zum Wasser, errichtet ohne Helfer. **Höhenunterschied** und **Bauaufwand** sind beim Schreiben mitzudenken. Wände, Fundament und Aussehen: ???
 - **Ein langer Schuppen, dessen Dach mit dem Hang fällt** (Autor, 18.09.2026), gedeckt mit **Reet** aus den Niederungen am Skir. Der Boden fällt mit - **ebenen Werkstattboden gibt es darin nicht**, und der Weg vom Ring zum Rad ist jedes Mal ein Abstieg. Am Ring-Ende liegt der Bau am höchsten über dem Fluss; dort sitzt der Dachstuhl, aus dem die Kette fällt.
 - **Reet brennt.** Für die Entladungen ist die Energie zu klein (siehe [Grenzen & Gefahr](#grenzen--gefahr-authentizität)), aber jedes offene Feuer unter diesem Dach - Lampe, Herd, Licht in der Winterarbeit - ist beim Schreiben eine bewusste Setzung. Das wiegt schwerer, seit [Tibun](../Menschen/Nordvolk/Tibun.md) im zweiten Teil der Bauzeit **in der Werkstatt wohnt** (Autor, 18.09.2026): Wer dort den Winter über schläft, braucht Feuer.
-- **Sein Schlafplatz muss außerhalb der Tauschkugel liegen** - mehr als 1,50 m von der Ringebene entfernt ([Portalringe](Portalringe.md)). **Zündung 1 geht ohne sein Zutun los**, während er dort lebt; läge er innerhalb, reiste er mit. Der Bau ist lang genug, es darf beim Schreiben nur nicht durchrutschen.
+- **Sein Schlafplatz muss außerhalb der Tauschkugel liegen** - mehr als 1,50 m vom Kugelmittelpunkt entfernt ([Portalringe](Portalringe.md)). **Zündung 1 geht ohne sein Zutun los**, während er dort lebt; läge er innerhalb, reiste er mit. Der Bau ist lang genug, es darf beim Schreiben nur nicht durchrutschen.
 - **Die Kette darf nichts Feuchtes berühren** - weder die Böschung noch nasses Holz noch den Boden, sonst fließt die Ladung ab. Sie hängt an **Seilen** (Autor, 15.09.2026). Seile aus Wolle, Leinen oder Bast ziehen aber Feuchtigkeit und leiten dann - sie isolieren nur trocken, gewachst oder mit Birkenpech getränkt. Das gilt auch für die Zugschnur.
