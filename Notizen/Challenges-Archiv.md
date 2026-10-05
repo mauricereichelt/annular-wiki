@@ -1885,6 +1885,13 @@ Der Widerspruch war ein Scheinwiderspruch. Es zündet **nicht entweder** die Wü
 
 ### C-063: Prolog - Szene auf Autorenfassung zurückgerollt ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die alte Szene *Die Entdeckung* **ruht bis November** und gilt im Wiki bis dahin als nicht vorhanden; ihr Wortlaut bleibt der des Autors. Sie ist nicht mehr der Prolog, sondern **Szene 2** im Anfang - der Prolog ist nur das Beben. Alle Kanon-Anpassungen sind entschieden; was im Szenentext nachzuziehen ist, steht als Liste an Szene 2.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
+
 Die Prolog-Szene *Die Entdeckung* steht wieder auf der **Originalfassung des Autors** (Stand vor der Wiki-Überarbeitung).
 
 > **Autor am 05.09.2026: Die Szene ruht bis November.** Sie liegt nicht mehr im Zugriff dieses Wikis und gilt hier bis dahin als **nicht vorhanden**; Dateiname und Ablageort sind deshalb überall entfernt. Dass sie überarbeitet und neu einsortiert werden muss, ist bekannt - es geschieht im November. Die Prolog-Challenges **C-063 bis C-072** und **C-093** bleiben mit ihren Nummern stehen und ruhen mit.
@@ -1901,6 +1908,13 @@ Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog---dorf
 
 ### C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ✓
 
+**Ergebnis**
+
+- **Entschieden:** Im Szenentext nachzuziehen: Die Verlobung wird **beim Großbauern** im kleinen Rahmen verkündet - kein Dorf- oder Marktplatz, kein Rednerpodest, keine Versammlung; Skirraa ist ein **Weiler**, kein Dorf ([C-038](#c-038-prolog---ortsmaßstab-in-skirraa-)). Nur noch Textarbeit.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
+
 Die Szene spielt auf einem „Dorfplatz/Marktplatz" mit **Rednerpodest** und einberufener **Versammlung**; durchgehend ist von „Dorf" die Rede. [C-038 entschieden](#c-038-prolog---ortsmaßstab-in-skirraa-): Verlobung **beim Großbauern** im kleinen Rahmen, [Skirraa](../Orte/Skirraa.md) ist ein **Weiler** mit ~6 Höfen. Nachzuziehen: Schauplatz, Podest, Menschenmenge und die Wortwahl „Dorf".
 
 **Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
@@ -1908,6 +1922,13 @@ Die Szene spielt auf einem „Dorfplatz/Marktplatz" mit **Rednerpodest** und ein
 ---
 
 ### C-065: Prolog - Fischerdorf-Milieu nachziehen ✓
+
+**Ergebnis**
+
+- **Entschieden:** Im Szenentext nachzuziehen: **keine Fischer, keine Bootsbauer** - Skirraa lebt von Tierzucht auf Heide und Moor ([C-040](#c-040-prolog---fischerdorf-vs-heide-weiler-)). Nur noch Textarbeit.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
 
 In der Szene sind **Fischer** und **Bootsbauer** tragende Berufe des Orts. [C-040 entschieden](#c-040-prolog---fischerdorf-vs-heide-weiler-): Fischer-/Bootsbauer-Milieu **gestrichen**, Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht. Nachzuziehen: alle Erwähnungen von Fischerei und Bootsbau. Der Schaf-/Wollhof der Familie steht bereits kanon-konform in der Szene.
 
@@ -1917,6 +1938,13 @@ In der Szene sind **Fischer** und **Bootsbauer** tragende Berufe des Orts. [C-04
 
 ### C-066: Prolog - Bernstein-Herkunft nachziehen ✓
 
+**Ergebnis**
+
+- **Entschieden:** Im Szenentext nachzuziehen: **kein Fund im Flussbett** - der Bernstein ist ein Geschenk der Mutter, das Tibun schon lange trägt ([C-041](#c-041-prolog---bernstein-fundort-), [C-044](#c-044-herkunft-von-girlins-bernstein-)). Nur noch Textarbeit.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
+
 Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 entschieden](#c-041-prolog---bernstein-fundort-): Der Stein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**, Herkunft für Tibun unbekannt ([C-044](#c-044-herkunft-von-girlins-bernstein-)). Daran hängt der Payoff aus [C-043](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-) - von allen Nachzieh-Punkten der **inhaltlich schwerste**, weil er die Bedeutung des Steins verändert.
 
 **Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Die Herkunft des Steins ist inzwischen auch entschieden ([C-044 ✓](#c-044-herkunft-von-girlins-bernstein-)).
@@ -1924,6 +1952,14 @@ Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 ents
 ---
 
 ### C-067: Prolog - Rollen von Gunthar und Landarik nachziehen ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Keine Freundschaft** zwischen Tibun und Gunthar - Gunthar und Landarik sind beide ortsfremd, aus der Gegend um Tingsal, Tibun kennt Gunthar kaum. Im Szenentext nachzuziehen; nur noch Textarbeit.
+- **Verworfen:** Landarik als Bootsbauer aus dem Dorf · Gunthar als Tibuns Freund aus Kindertagen.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt), [Gunthar](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md), [Landarik](../Menschen/Nordvolk/Nebenfiguren/Landarik.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 In der Szene ist **Landarik** der Bootsbauer **aus dem Dorf** und **Gunthar** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog---nebenfiguren-fridugund-gunthar-landarik-) und in [Gunthar.md](../Menschen/Nordvolk/Nebenfiguren/Gunthar.md)/[Landarik.md](../Menschen/Nordvolk/Nebenfiguren/Landarik.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Gunthar die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Gunthar erhalten bleiben soll - sie schärft den Stich anders als die Fremdheit.
 
@@ -1933,6 +1969,13 @@ In der Szene ist **Landarik** der Bootsbauer **aus dem Dorf** und **Gunthar** de
 
 ### C-068: Prolog - Brand und Brandblasen nachziehen ✓
 
+**Ergebnis**
+
+- **Entschieden:** Im Szenentext nachzuziehen: **kein Brand** - nur kurz angesengte Flusen, keine Brandblasen, kein verkohltes Stück aus dem Stein ([C-039](#c-039-prolog---funke-entzündet-wolle-)). Nur noch Textarbeit.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
+
 In der Szene fangen Wollreste **Feuer**, Tibun löscht mit bloßen Händen und trägt **Brandblasen** davon. [C-039 entschieden](#c-039-prolog---funke-entzündet-wolle-): nur **kurzes Ansengen loser Flusen**, kein Brand, keine Brandwunden - die Gefahr entsteht allein aus **Tibuns Schreck**. Physikalisch blockierend (siehe [Elektrizität](../Technik/Elektrizitaet.md)); ebenso das später „verkohlte" Stück, das aus dem Stein gebrochen sein soll.
 
 **Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
@@ -1940,6 +1983,14 @@ In der Szene fangen Wollreste **Feuer**, Tibun löscht mit bloßen Händen und t
 ---
 
 ### C-069: Prolog - Fridugunds Familie und Stiefvater ✓
+
+**Ergebnis**
+
+- **Entschieden:** Fridugund hat ihren **leiblichen Vater**, einen Bauern aus Skirraa ([C-051](#c-051-fridugund---offene-felder-): Fridmund). Ihre Mutter **Widgund** stammt von auswärts, aus einem anderen Weiler - laut Autor gilt beides. Im Szenentext nachzuziehen.
+- **Verworfen:** der Stiefvater, ein Fischer, der die Versammlung einberuft.
+- **Im Wiki:** [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md), [Widgund](../Menschen/Nordvolk/Nebenfiguren/Widgund.md), [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
 
 Die Szene gibt Fridugund eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-fridugund---offene-felder-)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug - und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog---fischerdorf-milieu-nachziehen-))? Danach Wiki-Datei nachtragen.
 
@@ -1951,6 +2002,12 @@ Die Szene gibt Fridugund eine **zugezogene Mutter** und einen **Stiefvater** (Fi
 
 ### C-070: Prolog - Dateikopf und Versionszeile ✓
 
+**Ergebnis**
+
+- **Entschieden:** Nichts mehr zu tun - die Szene liegt nicht im Wiki ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)); das Format kommt bei der Überarbeitung im November mit.
+
+**Verlauf** - *nicht maßgeblich*
+
 Die Szene begann mit einer Textzeile statt einer Markdown-Überschrift; Versionsnummer und Absatzformatierung folgten nicht der Wiki-Konvention (siehe [Regeln.md](Regeln.md)), zwischen den Absätzen fehlten die Leerzeilen - gerendert wurde daraus ein einziger Block. Rein formal, der Wortlaut war nie berührt.
 
 **Geschlossen (Autor, 05.09.2026).** Die Szene liegt nicht mehr im Wiki ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)); das Format kommt bei der Überarbeitung im November ohnehin mit. Nichts mehr zu tun.
@@ -1958,6 +2015,14 @@ Die Szene begann mit einer Textzeile statt einer Markdown-Überschrift; Versions
 ---
 
 ### C-071: Prolog - Tibuns Alter und Heiratsantrag ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Liebesgeständnis, kein Antrag.** Tibun will Fridugund sagen, was er fühlt.
+- **Verworfen:** der eigene Heiratsantrag - die Ehe wird zwischen den Familien geschlossen, ein Sechzehnjähriger ohne Hof hält nicht selbst an.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt), [Fridugund](../Menschen/Nordvolk/Nebenfiguren/Fridugund.md#bedeutung-in-der-geschichte), [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein)
+
+**Verlauf** - *nicht maßgeblich*
 
 In der Szene will Tibun **um Fridugunds Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; das Szenen-Log führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Landariks Bitte)?
 
@@ -1972,6 +2037,12 @@ In der Szene will Tibun **um Fridugunds Hand anhalten**, wird aber durchweg als 
 ---
 
 ### C-072: Prolog - Textfassung 2.2 oder 2.3 ✓
+
+**Ergebnis**
+
+- **Entschieden:** Basis der ruhenden Szene ist **Fassung 2.3**; die Punkte 2 („Schafe") und 3 („Doch nun") bleiben in der 2.2-Formulierung. In der Szene umgesetzt.
+
+**Verlauf** - *nicht maßgeblich*
 
 Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheiden sich an fünf Stellen (reiner Feinschliff, keine inhaltliche Umarbeitung). Am Abgleich mit dem Wiki-Kanon ([C-064](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-) bis [C-071](#c-071-prolog---tibuns-alter-und-heiratsantrag-)) ändert die Wahl nichts - alle Diskrepanzen stehen in beiden Fassungen identisch.
 
@@ -1992,6 +2063,14 @@ Die Unterschiede (2.2 → 2.3):
 
 ### C-073: Querschnitt der Ringe - flacher Armreif ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der Querschnitt ist ein **abgerundetes Rechteck** - flache Außenfläche, flache Bohrung, alle vier Ecken mit **0,03 m** gebrochen; an der Dicke bleiben 0,09 m gerade Kante stehen.
+- **Verworfen:** Hohlzylinder - scharfkantig, am Referenzobjekt widerlegt ([C-117](#c-117-ringgeometrie-neu-vermessen-)) · Ellipsentorus, voll gerundet - macht den Innen-Ø mehrdeutig · Stadiontorus - zu rund für einen Armreif (Autor).
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#anhang-maße-und-herleitung), [Bild-Prompts](Bild-Prompts.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Entschieden (Autor, 02.09.2026).** Der Querschnitt ist ein **abgerundetes Rechteck**: flache Außenfläche, flache Bohrung, alle vier Ecken mit **0,03 m** gebrochen. Damit bleiben 0,09 m gerade Kante stehen - sichtbar gebrochen, aber nicht wulstig.
 
 Verworfen wurden auf dem Weg dorthin:
@@ -2007,6 +2086,14 @@ Verworfen wurden auf dem Weg dorthin:
 
 ### C-074: Haptik der Ringoberfläche ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Oberfläche fühlt sich an wie **gebürstetes Aluminium** - fein gerichtet, weder poliert noch verwittert-rau; die Hand spürt die Richtung, und die läuft umlaufend ([C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-)). Der Ring ist **temperaturlos**: Er nimmt weder Handwärme noch Kälte an und gibt keine ab. „Gebürstetes Aluminium" ist reine Autorenreferenz und steht nie im Erzähltext.
+- **Verworfen:** „leicht rau" aus der alten Notiz.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#haptik)
+
+**Verlauf** - *nicht maßgeblich*
+
 Eine alte Autorennotiz beschreibt die Oberfläche als „silbern und **leicht rau**". Das Wiki legt nur die **Optik** fest (matt silbrig-grau, fein gerichtet - [C-035](#c-035-aussehen-der-ringoberfläche-)), nicht das Anfassen. Offen: Fühlt sich der Ring rau, seidig, kalt, warm, glatt an?
 
 Direkt relevant für [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-): Dort ist „über Haptik statt Optik beschreiben" einer von drei Lösungsansätzen für das Anachronismus-Problem. Eine festgelegte Haptik würde diesen Ansatz überhaupt erst benutzbar machen - eine Figur von 550 hat kein Wort für die Optik, aber jedes für das, was ihre Hand spürt.
@@ -2019,6 +2106,13 @@ Nebenfrage: Ein Material, das **nicht altert** ([C-036](#c-036-altert-der-ring-p
 
 ### C-075: Ist das Ringmaterial ein Metall? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Metall auf den ersten Blick.** Der Ring sieht aus wie Metall, und eine Figur greift zuerst zu dieser Schublade. Klang und Gewicht bestätigen das: Er klingt und wiegt sich wie Metall ([C-158](#c-158-klang-und-gewicht-des-rings-)). Beim Anfassen bricht die Erwartung - er ist temperaturlos ([C-074](#c-074-haptik-der-ringoberfläche-)).
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#haptik)
+
+**Verlauf** - *nicht maßgeblich*
+
 Die alte Autorennotiz nennt es „ein unbekanntes **Metall**". [C-004 ✓](#c-004-material-der-portalringe-) sagt nur „unbekannt und mystisch, nicht identifizierbar". Das ist kein harter Widerspruch, aber eine Leerstelle: **Wirkt** es für die Figuren wie Metall - klingt es beim Anschlagen, leitet es Kälte, ist es schwer wie Erz?
 
 Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einordnet**: „ein Metall, das ich nicht kenne" ist eine ganz andere Reaktion als „das ist kein Metall, das ist gar nichts, was ich kenne". Berührt [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-) und [C-074](#c-074-haptik-der-ringoberfläche-). Klein, aber sollte vor der Fundszene stehen.
@@ -2029,6 +2123,13 @@ Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einor
 
 ### C-076: Abklingdauer des grünen Leuchtens ✓
 
+**Ergebnis**
+
+- **Entschieden:** Das Aktivierungsglühen klingt über **3 Sekunden** ab, gerechnet ab dem Moment, in dem der Tausch abgeschlossen ist - stetig dunkler, kein abruptes Erlöschen.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#das-grüne-leuchten)
+
+**Verlauf** - *nicht maßgeblich*
+
 [Portalringe.md](../Technik/Portalringe.md) sagt zum Aktivierungsglühen nur „verblasst danach **recht schnell**". Die alte Autorennotiz war konkreter: **einige Sekunden**. Offen, ob diese Zahl gelten soll.
 
 Nicht bloß Kosmetik - die Dauer entscheidet mit über [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-): Wenn die Kel-Aman-Karawane das Leuchten nachts über die Wüste sehen soll, braucht es lang genug, dass jemand hinschaut. Wenige Sekunden reichen dafür knapp; ein Nachglühen von einer Minute wäre großzügiger, aber weniger unheimlich. Klein.
@@ -2038,6 +2139,14 @@ Nicht bloß Kosmetik - die Dauer entscheidet mit über [C-014](#c-014-karawanen-
 ---
 
 ### C-077: Tibun und Randlaug nach Girlins Verschwinden ✓
+
+**Ergebnis**
+
+- **Entschieden:** Tibun **kümmert sich nicht** um Randlaug - er zieht sich zurück und sucht die Mutter. Beim Aufbruch geht er **ohne Abschied**; sie ist zehn und **fühlt sich verlassen**, der zweite Verlust in zwei Jahren. Erzählt wird das beiläufig in den Szenen von Jahr 0 und +1 und noch einmal aufgerufen bei der Rückkehr; der Empfang in +9 hat eine eigene Szene ([C-047](#c-047-randlaug---offene-felder-)).
+- **Verworfen:** der Skizzen-Beat „Er muss sich um seine kleine Schwester kümmern".
+- **Im Wiki:** [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#nach-dem-verschwinden-jahr-0-1)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 5): *„Er muss sich um seine kleine Schwester kümmern."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) und im Wiki vollständig.
 
@@ -2065,6 +2174,14 @@ Die Zahlen tragen den Beat: [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlau
 
 ### C-078: Tibuns Verhältnis zu Mildirun ✓
 
+**Ergebnis**
+
+- **Entschieden:** Es gilt die **Fassung der Kapitelskizze**: Tibun hat nichts gegen Mildirun, der Konflikt sitzt bei Semund. Bei der Verlobung ist Tibun sauer, obwohl er gegen sie selbst nichts hat. Er **hasst sie nicht**, hat aber kein Interesse an einer guten Beziehung - er will seine Mutter zurück. Mildirun findet zu Randlaug einen Weg, zu ihm nicht.
+- **Verworfen:** „Tibun mag Melia nicht" aus Plot 1 - der Stiefmutter-Konflikt.
+- **Im Wiki:** [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#nach-dem-verschwinden-jahr-0-1)
+
+**Verlauf** - *nicht maßgeblich*
+
 Direkter Widerspruch zwischen den beiden Autorenfassungen:
 - **[Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 6):** *„Vater heiratet neu (Melia). Tibun mag Melia nicht."*
 - **[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) (Tibun 3):** *„Tibun hat nichts gegen sie, verurteilt aber seinen Vater, weil er die Mutter aufgibt / zu früh"*
@@ -2082,6 +2199,13 @@ Das Wiki folgt bisher der Skizze ([C-022 ✓](#c-022-tibuns-reise---dauer-motiv-
 ---
 
 ### C-079: Tibuns Alpträume - und der Traum als Ideenquelle ✓
+
+**Ergebnis**
+
+- **Entschieden:** Tibun hat **Albträume um seine Mutter**. Davon verschieden ist der **Traum zur Winde**: Nach dem Unfall an der Bootsziehwinde träumt er davon, und dieser Traum hilft ihm bei der Ideenfindung. Wie der Traum aussieht, entscheidet der Autor beim Schreiben.
+- **Im Wiki:** [Tibun](../Menschen/Nordvolk/Tibun.md), [Tibuns Generator](../Technik/Tibuns-Generator.md#erkenntnismoment)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 8-9): *„Er wird von Alpträumen geplagt."* / *„Im Traum kommt ihm die Idee für einen Bandgenerator."* Beides fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md).
 
@@ -2107,6 +2231,12 @@ Randnotiz: Der Begriff **„Bandgenerator"** in Plot 1 ist Altlast ([C-005 ✓](
 
 ### C-080: Girlins Entführung und Rettung ✗
 
+**Ergebnis**
+
+- **Entschieden:** **Gestrichen.** Der Bogen aus Plot 1 - Girlin wird entführt, das Nomadenvolk rettet sie - wird nicht übernommen.
+
+**Verlauf** - *nicht maßgeblich*
+
 **Gestrichen (Autor, 02.09.2026).** Der Bogen aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin wird entführt, das Nomadenvolk rettet sie) wird **nicht** übernommen.
 
 Bisheriger Stand zur Dokumentation:
@@ -2124,6 +2254,16 @@ Berührt [C-060](#c-060-girlin-und-der-neffe-): In Plot 1 steht die Entführung 
 ---
 
 ### C-081: Girlins drittes Kind in der Wüste ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - Girlins drittes Kind kommt in **Jahr +4** zur Welt; sie ist dann 38, das Kind im Finale **6**. Es ist ein **Mädchen: Tamant ult-Sekkan**, Vater ist der Neffe des Häuptlings ([C-060](#c-060-girlin-und-der-neffe-)).
+  - Girlin **bleibt** in der Wüste ([C-082](#c-082-girlins-entscheidung-zur-rückreise-)). Nach dem Ende reisen Girlin und Tibun gemeinsam in den Norden, um Randlaug zu sehen und zu holen - das liegt **außerhalb des Erzählten**. Randlaug erfährt von Tamant nicht im Buch.
+  - Wo Tamant während des Finales ist: [C-112](#c-112-das-wüstenkind-während-des-finales-). Wer bei ihrer Geburt hilft: [C-174](#c-174-wer-bei-tamants-geburt-hilft-).
+- **Im Wiki:** [Tamant](../Menschen/Kel-Aman/Nebenfiguren/Tamant.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#das-kind-und-der-entschluss-jahr-3--5)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* - es ist ihr **drittes** (nach Tibun und Randlaug). Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
 
@@ -2160,6 +2300,14 @@ Berührt zudem den Ring: Es reist, wer **vollständig innerhalb** der Kugel steh
 ---
 
 ### C-082: Girlins Entscheidung zur Rückreise ✓
+
+**Ergebnis**
+
+- **Entschieden:** Girlin **reist nicht - sie bleibt.** Nach zehn Jahren gibt sie die Rückkehr auf und wählt das Wüstenkind und den Mann; der Entschluss fällt **vor dem Kampf**, bevor Tibun ankommt. An die Stelle der Reise tritt ein Vorhaben: Sie will ihrer Familie **ein Zeichen schicken**, dass sie lebt. Dazu kommt es nie - Angriff und Zündungen überholen sie ([C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)).
+- **Verworfen:** die Rückreise durch den Ring nach langem Zögern (Plot 1).
+- **Im Wiki:** [Girlin](../Menschen/Nordvolk/Girlin.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#vollendung-zweifel-und-angriff-jahr-8--10)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 11): *„Nach langem Zögern und Zaudern entschließt sie sich doch die Rückreise durch den Ring zu wagen."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) - dort endet Girlins Strang mit Basar, Flucht in die Schlucht und Kampf (Girlin 13-15).
 

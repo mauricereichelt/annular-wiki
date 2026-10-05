@@ -63,7 +63,7 @@ Bereits vergebene C-Nummern technischer Art bleiben stehen - Nummern werden nie 
 - **Das Ergebnis zeigt nur den aktuellen Stand** - kein neuer Inhalt, keine Deutung. Was später ersetzt wurde, taucht im Ergebnis nicht mehr auf. Steht etwas nicht im Wiki, wird das gemeldet, nicht still nachgetragen.
 - **Entschieden** fasst alles zusammen, was zum Gegenstand des Eintrags gilt - gleich, wann und in welcher Challenge es entschieden wurde. Stammt ein Punkt aus einer anderen Challenge, steht ihr Verweis dabei. Datumsangaben stehen im Verlauf, nicht im Ergebnis.
 - **Verworfen** nennt Optionen, gegen die entschieden wurde, und Aussagen, die gestrichen sind, weil sie nicht vom Autor stammten - damit sie nicht wieder vorgeschlagen werden.
-- *Verworfen* und *Offen geblieben* entfallen, wenn es nichts gibt.
+- *Verworfen* und *Offen geblieben* entfallen, wenn es nichts gibt; *Im Wiki* entfällt, wenn der Gegenstand im Wiki nicht vorkommt.
 - **Der Verlauf wird nicht nachkorrigiert.** Er darf überholte Zahlen und Zwischenstände enthalten. Kommt später etwas hinzu, wird das Ergebnis auf den neuen Stand gebracht und der Vorgang unten an den Verlauf angehängt.
 - **Schließen:** Ergebnis-Block schreiben, Marker an Titel und Übersichtszeile auf `✓` oder `✗` setzen, dann `python3 tools/challenges_ordnen.py`. Das Skript verschiebt Abschnitt und Übersichtszeile in die richtige Datei, sortiert und zieht jeden Link auf eine Challenge nach - in beiden Dateien und im übrigen Repo. Danach `python3 tools/pruefe_offen.py`.
 - **Wieder öffnen** geht genauso: Marker auf `○`, Skript laufen lassen.
