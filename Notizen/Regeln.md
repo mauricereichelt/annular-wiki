@@ -67,6 +67,7 @@ Bereits vergebene C-Nummern technischer Art bleiben stehen - Nummern werden nie 
 - **Der Verlauf wird nicht nachkorrigiert.** Er darf überholte Zahlen und Zwischenstände enthalten. Kommt später etwas hinzu, wird das Ergebnis auf den neuen Stand gebracht und der Vorgang unten an den Verlauf angehängt.
 - **Schließen:** Ergebnis-Block schreiben, Marker an Titel und Übersichtszeile auf `✓` oder `✗` setzen, dann `python3 tools/challenges_ordnen.py`. Das Skript verschiebt Abschnitt und Übersichtszeile in die richtige Datei, sortiert und zieht jeden Link auf eine Challenge nach - in beiden Dateien und im übrigen Repo. Danach `python3 tools/pruefe_offen.py`.
 - **Wieder öffnen** geht genauso: Marker auf `○`, Skript laufen lassen.
+- **Nachlesen statt ganz lesen:** `python3 tools/ergebnisse.py Begriff …` gibt nur die passenden Ergebnis-Blöcke aus dem Archiv aus (mit `--und` alle Begriffe zugleich, mit `C-084` eine Nummer direkt). Das Archiv wird nicht am Stück gelesen.
 
 ## Verwiesen wird nur in eine Richtung
 
