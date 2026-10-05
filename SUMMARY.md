@@ -95,6 +95,7 @@
   * [Szenenliste (Artifact)](Notizen/Schaubilder/Szenenliste.html)
   * [Figuren (lokal)](Notizen/Schaubilder/Figuren.html)
 * [Challenges](Notizen/Challenges.md)
+  * [Archiv](Notizen/Challenges-Archiv.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Weltenbau-Leitfaden](Notizen/Weltenbau-Leitfaden.md)
 * [Bild-Prompts](Notizen/Bild-Prompts.md)

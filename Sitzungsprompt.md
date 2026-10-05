@@ -23,7 +23,7 @@ data-Attributen - übernimm es, erfinde nichts dazu.
 
 Die Ereigniskette in Plots/Plot-1/Zeitleiste.md NICHT wiederholen.
 Szenen.md verweist auf die Zeitleiste, statt sie zu duplizieren -
-sonst laufen zwei Fassungen auseinander (siehe C-119).
+sonst laufen zwei Fassungen auseinander.
 Plots/Plot-1/Kapitelstruktur.md bleibt unangetastet: eingefrorene
 Handskizze, wird ausdrücklich nicht nachgepflegt.
 
@@ -72,7 +72,7 @@ CLAUDE.md gilt. Besonders:
   ich fest; du schlägst vor und meldest Widersprüche. Was über
   meinen Wortlaut hinausgeht, wird ??? oder eine eigene Challenge.
 - Bevor du auf einer Wiki-Aussage aufbaust: prüfe, ob sie von mir
-  stammt oder von dir. Siehe C-119.
+  stammt oder von dir.
 - Neue Challenges laufend anlegen, viele kleine statt wenige große.
 - Duzen. Nicht committen.
 ```

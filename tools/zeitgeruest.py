@@ -43,7 +43,7 @@ def e(text):
 
 
 def feld(wert):
-    return '<span class="offen">???</span>' if offen(wert) else e(wert)
+    return '<span class="offen">???</span>' if offen(wert) else wiki.inline(wert)
 
 
 def chip(text):
@@ -74,7 +74,7 @@ def karte(s):
         s["pos"],
         "0" if s["jahr_zahl"] == 0 else "+%d" % s["jahr_zahl"],
         e(s["titel"]),
-        e(s["satz"]),
+        wiki.inline(s["satz"]),
         feld(s["will"]),
         feld(s["hindernis"]),
         feld(s["ausgang"]),

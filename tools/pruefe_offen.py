@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prueft die Offen-Zeilen in Plots/Plot-1/Szenen.md gegen Notizen/Challenges.md.
+"""Prueft die Offen-Zeilen in Plots/Plot-1/Szenen.md gegen die Challenge-Dateien.
 
 Jeder Szenenkopf nennt hinter **Offen** die offenen Sachen im Klartext -- als
 Challenge-Titel, ohne C-Nummer (Regeln.md, "Verwiesen wird nur in eine

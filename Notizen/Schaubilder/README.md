@@ -52,7 +52,8 @@ Nach einer Änderung an `Szenen.md` beide laufen lassen. `--nummerieren` ist rei
 | Datei | Rolle |
 |---|---|
 | `tools/wiki.py` | Liest Szenen.md und das Altersgerüst und schreibt die fertige Seite (`rahme()` setzt das HTML-Gerüst, `schreibe()` wertet `--pruefen` und `--artifact` aus). Beide Generatoren benutzen es, damit sie dieselbe Lesart und dieselbe Ausgabe haben |
-| `tools/pruefe_challenges.py` | Prüft `Challenges.md` gegen sich selbst (Statusmarker, Übersicht) - getrennt von den Schaubildern |
+| `tools/challenges_ordnen.py` | Verteilt die Challenges auf `Challenges.md` (offen) und `Challenges-Archiv.md` (entschieden, gestrichen), sortiert nach Nummer und zieht alle Links auf Challenges nach. `--pruefen` meldet nur |
+| `tools/pruefe_challenges.py` | Prüft beide Challenge-Dateien gegen sich selbst (Statusmarker, Übersicht, richtige Datei) - getrennt von den Schaubildern |
 | `tools/pruefe_offen.py` | Prüft die **Offen**-Zeilen in `Szenen.md` gegen `Challenges.md`: meldet Einträge, deren Challenge entschieden ist, die zu keiner passen oder zu mehreren. Liest beide, ändert keine - die Schaubilder hängen weiterhin nicht an `Challenges.md` |
 | `tools/szenenliste.py` + `szenenliste.template.html` | Szenenliste |
 | `tools/zeitgeruest.py` + `zeitgeruest.template.html` | Zeitgerüst |
@@ -64,6 +65,6 @@ Prolog- und Schlussgrenze werden über den **Szenentitel** gebunden, nicht über
 
 **Was die Skripte nicht können:** Der redaktionelle Text beider Seiten - Einleitung, Hinweis-Kästen, Bändertexte, die Lücken-Liste des Zeitgerüsts, Legenden und Fußzeilen - steht in den Template-Dateien und wird von Hand gepflegt. Er kann veralten, ohne dass es auffällt. Auch Aussehen (CSS) und Verhalten (JS) liegen dort.
 
-Bricht das Format einer Quelle, brechen die Skripte **laut** - sie melden die Stelle und schreiben nichts. Betroffen sind nur noch `Szenen.md` (Szenenkopf und Felder) und das Altersgerüst in `Zeitleiste.md`. Die Statusmarker in `Challenges.md` prüft seit dem 05.09.2026 `tools/pruefe_challenges.py` getrennt (Regel in [Regeln.md](../Regeln.md#status-marker-in-challengesmd)).
+Bricht das Format einer Quelle, brechen die Skripte **laut** - sie melden die Stelle und schreiben nichts. Betroffen sind nur noch `Szenen.md` (Szenenkopf und Felder) und das Altersgerüst in `Zeitleiste.md`. Die Statusmarker der Challenge-Dateien prüft seit dem 05.09.2026 `tools/pruefe_challenges.py` getrennt (Regel in [Regeln.md](../Regeln.md#status-marker-in-challengesmd)).
 
 **Die Schaubilder kennen `Challenges.md` nicht** (umgestellt 05.09.2026). Der Szenenkopf in Szenen.md nennt hinter **Offen** die Sachen im Klartext; die Karten zeigen sie so, wie sie dort stehen. Wird `Challenges.md` gelöscht, ändert sich an den Schaubildern nichts.

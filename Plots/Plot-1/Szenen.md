@@ -81,7 +81,7 @@ Verlobungstag, wenige Tage nach dem Beben. Fridugund nimmt die Kette nicht an; k
 
 - **Will:** Fridugund seine Liebe gestehen und sie für sich gewinnen - die Kette hat er schon lange. Ein Antrag ist es nicht (Autor, 21.09.2026)
 - **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Gunthar verlobt, der besseren Partie
-- **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
+- **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Er **erschrickt heftig** und fürchtet ein Feuer - er weiß, wie brennbar Wolle ist - und „löscht" sofort alles, obwohl nichts passiert wäre: die Gefahr aus seiner Angst heraus überzeichnet, nicht auktorial (Autor, 05.10.2026). Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
 
 > **Hinweis fürs Schreiben (Claude):** Aufladen braucht **Reibung**, am stärksten Bernstein an Wolle - Werfen allein lädt nichts. Die Entladung knistert und ist im Dunkeln als blau-weißer Blitz zu sehen ([Elektrizität](../../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)).
 

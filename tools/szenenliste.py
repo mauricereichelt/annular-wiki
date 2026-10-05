@@ -49,7 +49,7 @@ def tausender(n):
 
 
 def feld(wert):
-    return '<span class="offen">???</span>' if wert.strip() == "???" else wert
+    return '<span class="offen">???</span>' if wert.strip() == "???" else wiki.inline(wert)
 
 
 def karte(s, prolog_titel):
@@ -82,7 +82,7 @@ def karte(s, prolog_titel):
         titel=s["titel"],
         pj=pj,
         pov=s["pov"],
-        satz=s["satz"],
+        satz=wiki.inline(s["satz"]),
         will=feld(s["will"]),
         hindernis=feld(s["hindernis"]),
         ausgang=feld(s["ausgang"]),

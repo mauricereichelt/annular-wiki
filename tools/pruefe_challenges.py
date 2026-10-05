@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
-"""Prueft Notizen/Challenges.md gegen sich selbst.
+"""Prueft Notizen/Challenges.md und Notizen/Challenges-Archiv.md gegen sich selbst.
 
-Challenges.md ist eine reine Arbeitsdatei des Autors -- das Wiki und die
+Die Challenge-Dateien sind reine Arbeitsdateien des Autors -- das Wiki und die
 Schaubilder haengen nicht daran (Regeln.md, "Verwiesen wird nur in eine
-Richtung"). Dieses Skript prueft nur die Datei selbst:
+Richtung"). Dieses Skript prueft nur die Dateien selbst:
 
   - jeder Detailtitel traegt genau einen Statusmarker am Ende (sonst bricht
     sein Anker, siehe Regeln.md)
-  - Marker und Uebersicht sagen dasselbe
+  - Marker und Uebersichtszeile sagen dasselbe
   - kein Eintrag steht im Detailteil, ohne in der Uebersicht zu stehen
+  - jeder Eintrag steht in der Datei, die sein Marker verlangt, und alle
+    Links sind nachgezogen (sonst: tools/challenges_ordnen.py laufen lassen)
 
 Aufruf aus dem Wurzelverzeichnis:  python3 tools/pruefe_challenges.py
 """
@@ -19,6 +21,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki
 from wiki import lies_challenges, pruefe_marker
+from challenges_ordnen import plane
 
 
 def main():
@@ -29,6 +32,10 @@ def main():
     offen = sum(1 for d in ch.values() if not d["geloest"])
     print("%d Challenges (%d offen / %d entschieden)" % (len(ch), offen, len(ch) - offen))
     warnungen = pruefe_marker(ch)
+    if wiki.ARCHIV.exists():
+        _, _, geaendert = plane()
+        warnungen += ["nicht geordnet: %s -- tools/challenges_ordnen.py laufen lassen" % n
+                      for n in geaendert]
     for w in warnungen:
         print("  Hinweis: " + w)
     print("keine Abweichung" if not warnungen else "%d Abweichungen" % len(warnungen))

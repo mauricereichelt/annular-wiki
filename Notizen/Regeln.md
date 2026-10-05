@@ -42,30 +42,58 @@ Neue Regeln laufend ergänzen - keine Begründungen, nur die Regel selbst.
 
 Bereits vergebene C-Nummern technischer Art bleiben stehen - Nummern werden nie neu vergeben.
 
+## Offen und Archiv
+
+> Entschieden 01.10.2026 vom Autor. Löst die frühere Regel ab, dass ein Eintrag nie verschoben wird.
+
+- **`Challenges.md`** enthält nur offene Einträge (`○`), **`Challenges-Archiv.md`** die entschiedenen (`✓`) und gestrichenen (`✗`). Beide stehen aufsteigend nach Nummer; die C-Nummern laufen über beide Dateien.
+- **Jeder Eintrag im Archiv beginnt mit einem Ergebnis-Block**, darunter folgt der bisherige Text als Verlauf:
+
+```
+**Ergebnis**
+
+- **Entschieden:** ...
+- **Verworfen:** ...
+- **Offen geblieben:** ...
+- **Im Wiki:** [Seite](../Ordner/Seite.md#abschnitt)
+
+**Verlauf** - *nicht maßgeblich*
+```
+
+- **Das Ergebnis zeigt nur den aktuellen Stand** - kein neuer Inhalt, keine Deutung. Was später ersetzt wurde, taucht im Ergebnis nicht mehr auf. Steht etwas nicht im Wiki, wird das gemeldet, nicht still nachgetragen.
+- **Entschieden** fasst alles zusammen, was zum Gegenstand des Eintrags gilt - gleich, wann und in welcher Challenge es entschieden wurde. Stammt ein Punkt aus einer anderen Challenge, steht ihr Verweis dabei. Datumsangaben stehen im Verlauf, nicht im Ergebnis.
+- **Verworfen** nennt Optionen, gegen die entschieden wurde, und Aussagen, die gestrichen sind, weil sie nicht vom Autor stammten - damit sie nicht wieder vorgeschlagen werden.
+- *Verworfen* und *Offen geblieben* entfallen, wenn es nichts gibt.
+- **Der Verlauf wird nicht nachkorrigiert.** Er darf überholte Zahlen und Zwischenstände enthalten. Kommt später etwas hinzu, wird das Ergebnis auf den neuen Stand gebracht und der Vorgang unten an den Verlauf angehängt.
+- **Schließen:** Ergebnis-Block schreiben, Marker an Titel und Übersichtszeile auf `✓` oder `✗` setzen, dann `python3 tools/challenges_ordnen.py`. Das Skript verschiebt Abschnitt und Übersichtszeile in die richtige Datei, sortiert und zieht jeden Link auf eine Challenge nach - in beiden Dateien und im übrigen Repo. Danach `python3 tools/pruefe_offen.py`.
+- **Wieder öffnen** geht genauso: Marker auf `○`, Skript laufen lassen.
+
 ## Verwiesen wird nur in eine Richtung
 
 > Entschieden 05.09.2026 vom Autor. Umfang am selben Tag auf **alle Dateien** ausgeweitet und einmal vollständig durchgezogen.
 
 **Challenges sind ein Werkzeug des Autors, kein Teil des Wikis.** Sie dürfen ins Wiki verweisen - das Wiki verweist nicht zurück.
 
-**Der Prüfstein:** Das Wiki muss vollständig lesbar bleiben und darf keinen toten Link haben, wenn `Challenges.md` gelöscht wird.
+**Der Prüfstein:** Das Wiki muss vollständig lesbar bleiben und darf keinen toten Link haben, wenn `Challenges.md` und `Challenges-Archiv.md` gelöscht werden.
 
 - **Keine C-Nummer steht in einer Wiki- oder Plot-Datei** - weder als Link noch als bloße Nummer im Text. Was offen ist, wird mit `???` markiert; das genügt, um es wiederzufinden.
 - **Zeigt ein Verweis auf einen Gegenstand, der einen Wiki-Artikel hat**, wird dieser Artikel verlinkt statt der Challenge.
-- **In Challenges.md** wird weiter auf die betroffenen Wiki-Stellen verlinkt; dort ist der Verweis der Zweck.
+- **In den Challenge-Dateien** wird weiter auf die betroffenen Wiki-Stellen verlinkt; dort ist der Verweis der Zweck.
 - Wer von einer offenen Stelle zur Challenge will, findet sie über `grep -rn "???" --include="*.md" .` oder über die Übersicht in Challenges.md.
 
-**Die einzigen Ausnahmen** sind `CLAUDE.md` und `Sitzungsprompt.md` - Arbeitsanweisungen an Claude, kein Wiki-Inhalt - sowie der Navigationseintrag in `SUMMARY.md`, der mit der Datei wegfällt.
+**Die einzigen Ausnahmen** sind `CLAUDE.md` und `Sitzungsprompt.md` - Arbeitsanweisungen an Claude, kein Wiki-Inhalt; sie nennen die Challenge-Dateien, aber keine C-Nummer - sowie der Navigationseintrag in `SUMMARY.md`, der mit der Datei wegfällt.
 
 **Ebenfalls ausgenommen: die Kommentare in `tools/*.py`** (entschieden 05.09.2026 vom Autor). Sie belegen, worauf eine technische Entscheidung zurückgeht. Die Skripte sind Werkzeug, kein Wiki-Inhalt: keine C-Nummer daraus erscheint in einer erzeugten Seite, und es hängt kein Link daran - der Prüfstein bleibt erfüllt. Erzeugte Seiten und Vorlagen (`tools/*.template.html`, `Notizen/Schaubilder/*.html`) fallen **nicht** darunter; sie werden gelesen und sind seit dem 05.09.2026 frei von C-Nummern.
 
-**Auch die Schaubilder hängen nicht mehr daran** (umgestellt 05.09.2026): Der Szenenkopf in [Szenen.md](../Plots/Plot-1/Szenen.md) nennt hinter **Offen** die Sachen im Klartext statt C-Nummern. Beide Generatoren laufen vollständig ohne `Challenges.md`; ihre Hygiene prüft `python3 tools/pruefe_challenges.py` getrennt.
+**Auch die Schaubilder hängen nicht mehr daran** (umgestellt 05.09.2026): Der Szenenkopf in [Szenen.md](../Plots/Plot-1/Szenen.md) nennt hinter **Offen** die Sachen im Klartext statt C-Nummern. Beide Generatoren laufen vollständig ohne die Challenge-Dateien; deren Hygiene prüft `python3 tools/pruefe_challenges.py` getrennt.
 
-**Geprüft wird das so:** `grep -rn "C-[0-9][0-9][0-9]" --include="*.md" . | grep -v Challenges.md` darf nur diese Ausnahmen und den Beispielblock unten zeigen. Die Skripte liegen nicht im Prüfbereich (`--include="*.md"`); für die erzeugten Seiten prüft `grep -rn "C-[0-9][0-9][0-9]" Notizen/Schaubilder/Szenenliste.html Notizen/Schaubilder/Zeitgeruest.html tools/*.template.html` - dort ist **nichts** erlaubt. `Notizen/Schaubilder/Kapitelraster.html` trägt noch 45 C-Nummern: eine von Hand gepflegte Seite, die durch die Szenenliste ersetzt und als **überholt** geführt ist (siehe die Tabelle in [Schaubilder/README.md](Schaubilder/README.md)). Sie fällt mit ihrer Ablösung weg.
+**Geprüft wird das so:** `grep -rn "C-[0-9][0-9][0-9]" --include="*.md" --exclude="Challenges*.md" .` darf nur den Beispielblock unten zeigen. Die Skripte liegen nicht im Prüfbereich (`--include="*.md"`); für die erzeugten Seiten prüft `grep -rn "C-[0-9][0-9][0-9]" Notizen/Schaubilder/Szenenliste.html Notizen/Schaubilder/Zeitgeruest.html tools/*.template.html` - dort ist **nichts** erlaubt. `Notizen/Schaubilder/Kapitelraster.html` trägt noch 45 C-Nummern: eine von Hand gepflegte Seite, die durch die Szenenliste ersetzt und als **überholt** geführt ist (siehe die Tabelle in [Schaubilder/README.md](Schaubilder/README.md)). Sie fällt mit ihrer Ablösung weg.
 
 Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu stolpern.
 
 ## Status-Marker in Challenges.md
+
+Gilt für beide Challenge-Dateien.
 
 > Entschieden 05.09.2026. Diese Regel ist **technisch**, nicht kosmetisch: wird sie gebrochen, brechen Links.
 
@@ -85,11 +113,11 @@ Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu
 - **Kein Zusatzwort nach dem Marker** - nicht `✗ gestrichen`, nicht `✓ (Kernfrage)`. Der Marker ist das letzte Zeichen der Zeile. Begründungen stehen im Abschnittstext.
 - **Genau ein Leerzeichen** davor, nie zwei, nie keins.
 - Der **Linktext in der Übersicht** trägt denselben Marker; der Anker dort endet immer auf `-`.
-- Maßgeblich für den Status ist die **Übersicht** am Dateikopf. Marker und Übersicht dürfen nicht auseinanderlaufen.
+- Maßgeblich für den Status ist der **Marker am Detailtitel**. Übersichtszeile und Datei müssen dazu passen; weichen Titel und Übersichtszeile ab, bricht `tools/challenges_ordnen.py` ab.
 
-**Warum das trägt:** Der Slugger wirft das Markerzeichen weg und macht aus dem Leerzeichen davor einen Bindestrich. Der Anker endet dadurch immer auf `-`, egal welcher der drei Marker steht - ein Statuswechsel `○ → ✓` lässt ihn unverändert.
+**Warum das trägt:** Der Slugger wirft das Markerzeichen weg und macht aus dem Leerzeichen davor einen Bindestrich. Der Anker endet dadurch immer auf `-`, egal welcher der drei Marker steht - ein Statuswechsel `○ → ✓` lässt ihn unverändert. Beim Verschieben ins Archiv ändert sich nur der Dateiname im Link; den zieht das Skript nach.
 
-**Geprüft wird das maschinell:** `python3 tools/zeitgeruest.py --pruefen` bricht ab, wenn ein Titel keinen Marker trägt, und meldet jede Abweichung zwischen Marker und Übersicht.
+**Geprüft wird das maschinell:** `python3 tools/pruefe_challenges.py` bricht ab, wenn ein Titel keinen Marker trägt, und meldet jede Abweichung zwischen Marker, Übersicht und Datei sowie alles, was `challenges_ordnen.py` noch verschieben oder umlinken würde.
 
 ## Charaktere
 

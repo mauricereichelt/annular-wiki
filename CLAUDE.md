@@ -13,7 +13,7 @@
 - **Plot** (`Plots/<Ordner>/`): Kapitelstruktur, Zeitleiste, Szenen - gilt nur für diese eine Geschichte.
 - Figuren und Orte liegen **oben**, auch wenn sie nur in einer Geschichte vorkommen.
 - **Ordnernamen sind dauerhaft generisch** (`Plot-1`, `Plot-2`, …) und tragen **nie** den Werktitel. Der Titel steht ausschließlich in der `README.md` des Plots und in `SUMMARY.md` - so müssen Links nie nachgezogen werden.
-- `Notizen/Challenges.md` bleibt **eine durchgehende C-Nummernfolge über alle Plots hinweg**. Nummern werden nie neu vergeben.
+- Die Challenges bleiben **eine durchgehende C-Nummernfolge über alle Plots hinweg** - offene in `Notizen/Challenges.md`, entschiedene und gestrichene in `Notizen/Challenges-Archiv.md`. Nummern werden nie neu vergeben.
 
 ## Authentizitätsprinzip
 **Einzige Abweichung von der Realität: die Portalringe.**
@@ -27,15 +27,15 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 - Lücken und Widersprüche proaktiv melden
 - Challenges laufend in `Notizen/Challenges.md` ergänzen (ohne zu fragen)
 - **Challenges sind ausnahmslos für den Buchinhalt.** Probleme des Wikis, der Werkzeuge oder der Schaubilder (Struktur, Links, Anker, Format, Generatoren, Artifacts) werden **sofort gelöst**, nie als Challenge notiert; braucht es dafür eine Entscheidung, im Chat fragen. Details: [Regeln.md](Notizen/Regeln.md#was-in-challengesmd-gehört)
-- **Keine C-Nummer außerhalb von Challenges.md.** Verwiesen wird nur in eine Richtung: Challenges → Wiki, nie zurück - in keiner Wiki- oder Plot-Datei, weder als Link noch als bloße Nummer. `???` markiert die offene Stelle. Prüfstein: Das Wiki muss ohne `Challenges.md` vollständig lesbar und ohne toten Link bleiben. Details: [Regeln.md](Notizen/Regeln.md#verwiesen-wird-nur-in-eine-richtung)
+- **Keine C-Nummer außerhalb der beiden Challenge-Dateien.** Verwiesen wird nur in eine Richtung: Challenges → Wiki, nie zurück - in keiner Wiki- oder Plot-Datei, weder als Link noch als bloße Nummer. `???` markiert die offene Stelle. Prüfstein: Das Wiki muss ohne `Challenges.md` und `Challenges-Archiv.md` vollständig lesbar und ohne toten Link bleiben. Details: [Regeln.md](Notizen/Regeln.md#verwiesen-wird-nur-in-eine-richtung)
 
 ## Keine Eigenentscheidungen (harte Regel)
-**Entschieden wird ausschließlich vom Autor.** Wiederholt beanstandet (02.09.2026): In früheren Sitzungen sind eigenmächtige Festlegungen ins Wiki gewandert, wurden dort als Bestand behandelt und trugen weitere Schlussfolgerungen - dokumentiert in [C-119](Notizen/Challenges.md#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
+**Entschieden wird ausschließlich vom Autor.** Wiederholt beanstandet (02.09.2026): In früheren Sitzungen sind eigenmächtige Festlegungen ins Wiki gewandert, wurden dort als Bestand behandelt und trugen weitere Schlussfolgerungen.
 
 - **Nichts in den Indikativ schreiben, was der Autor nicht gesagt hat.** Weder Verfahren, Maße, Motive, Zahlen noch Mechanismen. Was darüber hinausgeht, wird `???` oder eine eigene Challenge.
 - **Auch Plausibles ist eine Erfindung.** „Naheliegend", „historisch belegt" und „folgt logisch" sind keine Entscheidungsgrundlagen. Vorschläge gehören in den Chat oder in eine Challenge, nie in eine Wiki-Aussage.
 - **Abgeleitete Zahlen sind Festlegungen.** Eine Rechnung, die auf einer selbst gewählten Annahme fußt, ist genauso eine Eigenentscheidung wie die Annahme selbst. Die Annahme ausweisen oder erfragen.
-- **Herkunft kennzeichnen.** Wird etwas gestrichen, weil es nicht gedeckt war: Streichvermerk am Ort. Die Altlast-Tabelle von C-119 ist **abgeschlossen** (Autor, 22.09.2026) - neue Funde werden **direkt gelöst oder wandern in eine neue Challenge**.
+- **Herkunft kennzeichnen.** Wird etwas gestrichen, weil es nicht gedeckt war: Streichvermerk am Ort. Neue Funde werden **direkt gelöst oder wandern in eine neue Challenge**.
 - **Im Zweifel fragen**, statt zu füllen.
 
 ## Gründlichkeit (harte Regel)

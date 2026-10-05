@@ -5,6 +5,7 @@ Wird von tools/szenenliste.py und tools/zeitgeruest.py benutzt, damit beide
 dieselbe Lesart haben. Enthaelt keine Darstellung -- nur Lesen und Rechnen.
 """
 
+import html
 import re
 import sys
 from pathlib import Path
@@ -12,6 +13,7 @@ from pathlib import Path
 WURZEL = Path(__file__).resolve().parent.parent
 SZENEN = WURZEL / "Plots" / "Plot-1" / "Szenen.md"
 CHALLENGES = WURZEL / "Notizen" / "Challenges.md"
+ARCHIV = WURZEL / "Notizen" / "Challenges-Archiv.md"
 ZEITLEISTE = WURZEL / "Plots" / "Plot-1" / "Zeitleiste.md"
 
 
@@ -73,6 +75,19 @@ def lies_szenen(md):
     return szenen
 
 
+def inline(text):
+    """Ein Szenenfeld als HTML: maskiert, **fett** und *kursiv* umgesetzt.
+
+    Links werden zu ihrem Text - ihre Pfade gelten von Szenen.md aus, nicht von
+    den Schaubildern.
+    """
+    t = html.escape(text, quote=False)
+    t = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", t)
+    t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
+    t = re.sub(r"(?<![*\w])\*(?!\s)(.+?)(?<!\s)\*(?![*\w])", r"<em>\1</em>", t)
+    return t
+
+
 def lies_grenze(md, teil):
     """Szenentitel und genannte Nummer aus einer Zeile der Gliederungstabelle."""
     zeile = re.search(r"^\| %s \| (.+?) \|" % teil, md, re.M)
@@ -126,80 +141,114 @@ def kennzahlen(szenen):
     }
 
 
-# ------------------------------------------------------------ Challenges.md
+# ------------------------------------------------------------ Challenges
+
+# Zwei Dateien (entschieden 01.10.2026 vom Autor): offene Eintraege in
+# Challenges.md, entschiedene und gestrichene in Challenges-Archiv.md. Verteilt,
+# sortiert und verlinkt wird mit tools/challenges_ordnen.py.
+
+UEBERSICHT = "## Übersicht"
+EINTRAEGE = "## Einträge nach Nummer"
+OFFEN = "○"
+ERLEDIGT = ("✓", "✗")
+
+# Jeder Titel endet auf ' ' + genau einem Marker (Regeln.md, C-148). Das
+# Leerzeichen davor haelt den Anker stabil: der Slugger wirft das Zeichen weg
+# und macht aus dem Leerzeichen einen Bindestrich -- der Anker endet damit
+# immer auf '-', egal welcher Marker steht.
+CH_TITEL = re.compile(r"^### C-(\d{3}): (.*\S) ([✓✗○])$")
+CH_ZEILE = re.compile(r"^- \[C-(\d{3}): (.*\S) ([✓✗○])\]\(#(c-\d{3}-[^)\s]*)\)$")
+# Zeilen, die in der Uebersicht stehen duerfen, ohne Eintrag zu sein
+UEBERSICHT_RAHMEN = ("", "---", EINTRAEGE, "**Offen**", "**Gelöst / Entschieden**",
+                     "## Alle Challenges nach Nummer")
+
+
+def zerlege(datei):
+    """Kopf, Uebersichtszeilen und Abschnitte einer Challenge-Datei.
+
+    Ein Abschnitt beginnt mit '### C-NNN: Titel M' ausserhalb von Codebloecken
+    (dort stehen Beispieltitel) und reicht bis zum naechsten. Trennstriche und
+    Leerzeilen am Ende gehoeren nicht zum Abschnitt.
+    Rueckgabe: (kopf, {nr: Treffer von CH_ZEILE}, {nr: abschnittstext})
+    """
+    name = datei.name
+    zeilen = datei.read_text(encoding="utf-8").split("\n")
+    if UEBERSICHT not in zeilen:
+        fehler("%s: Abschnitt '%s' fehlt" % (name, UEBERSICHT))
+    start = zeilen.index(UEBERSICHT)
+    kopf = "\n".join(zeilen[:start]).rstrip()
+
+    liste, abschnitte = {}, {}
+    nr, im_code = None, False
+    for i, z in enumerate(zeilen[start + 1:], start=start + 2):
+        if z.startswith("```"):
+            im_code = not im_code
+        if not im_code and z.startswith("### C-"):
+            m = CH_TITEL.match(z)
+            if not m or m.group(2).endswith(" "):
+                fehler("%s, Zeile %d: Titel ohne gueltigen Marker am Ende -- das "
+                       "bricht seinen Anker (Regeln.md): %r" % (name, i, z))
+            nr = int(m.group(1))
+            if nr in abschnitte:
+                fehler("%s: C-%03d hat zwei Abschnitte" % (name, nr))
+            abschnitte[nr] = [z]
+        elif nr is not None:
+            abschnitte[nr].append(z)
+        elif z.strip() not in UEBERSICHT_RAHMEN:
+            m = CH_ZEILE.match(z)
+            if not m:
+                fehler("%s, Zeile %d: unbekannte Zeile in der Uebersicht: %r" % (name, i, z))
+            if int(m.group(1)) in liste:
+                fehler("%s: C-%s steht zweimal in der Uebersicht" % (name, m.group(1)))
+            liste[int(m.group(1))] = m
+    if im_code:
+        fehler("%s: ein Codeblock wird nicht geschlossen" % name)
+
+    for n, a in abschnitte.items():
+        while a and a[-1].strip() in ("", "---"):
+            a.pop()
+        abschnitte[n] = "\n".join(a)
+    return kopf, liste, abschnitte
+
+
+def challenge_dateien():
+    """Die vorhandenen Challenge-Dateien, offene zuerst."""
+    return [d for d in (CHALLENGES, ARCHIV) if d.exists()]
 
 
 def lies_challenges():
-    """Titel und Status je C-Nummer.
+    """Titel und Status je C-Nummer aus beiden Challenge-Dateien.
 
-    **Massgeblich ist die Uebersicht am Kopf der Datei**, nicht der Marker am
-    Detailtitel -- so festgelegt in C-137. Ein Marker im Titel wuerde ausserdem
-    den Anker aendern und bestehende Links brechen.
+    Der Status ist der Marker am Detailtitel. Uebersichtszeile und Datei muessen
+    dazu passen -- Abweichungen meldet pruefe_marker(), verteilt wird mit
+    tools/challenges_ordnen.py.
     """
-    if not CHALLENGES.exists():
-        # Challenges.md ist ein Werkzeug des Autors, kein Wiki-Bestandteil -- fehlt
-        # sie, laufen die Generatoren ohne Titel und ohne Statusabgleich weiter.
+    if not challenge_dateien():
+        # Die Challenges sind ein Werkzeug des Autors, kein Wiki-Bestandteil --
+        # fehlen sie, laufen die Generatoren ohne Titel und Statusabgleich weiter.
         sys.stderr.write("Hinweis: %s fehlt -- Challenge-Titel und Statusabgleich "
                          "entfallen.\n" % CHALLENGES.name)
         return {}
-    c = CHALLENGES.read_text(encoding="utf-8")
-    if "## Alle Challenges nach Nummer" not in c:
-        fehler("Challenges.md: Abschnitt 'Alle Challenges nach Nummer' fehlt")
-    uebersicht = c.split("## Alle Challenges nach Nummer")[0]
-    try:
-        block_offen = uebersicht.split("**Offen**")[1].split("**Gelöst / Entschieden**")[0]
-        block_geloest = uebersicht.split("**Gelöst / Entschieden**")[1]
-    except IndexError:
-        fehler("Challenges.md: Uebersicht hat nicht die Bloecke 'Offen' und 'Gelöst / Entschieden'")
-    ist_offen = {int(n) for n in re.findall(r"^- \[C-(\d{3})", block_offen, re.M)}
-    ist_geloest = {int(n) for n in re.findall(r"^- \[C-(\d{3})", block_geloest, re.M)}
-
-    doppelt = ist_offen & ist_geloest
-    if doppelt:
-        fehler("Challenges.md: in beiden Uebersichtslisten: %s" % sorted(doppelt))
-
-    # Codebloecke ausblenden -- dort stehen Beispieltitel, keine Abschnitte
-    ohne_code = re.sub(r"^```.*?^```", "", c, flags=re.M | re.S)
-
     challenges = {}
-    ohne_marker = []
-    for m in re.finditer(r"^### C-(\d{3}): (.+)$", ohne_code, re.M):
-        nr = int(m.group(1))
-        titel = m.group(2).strip()
-        # Jeder Titel endet auf ' ' + genau einem Marker (Regeln.md, C-148).
-        # Das Leerzeichen davor haelt den Anker stabil: der Slugger wirft das
-        # Zeichen weg und macht aus dem Leerzeichen einen Bindestrich -- der
-        # Anker endet damit immer auf '-', egal welcher Marker steht.
-        letzt = re.search(r" ([✓✗○])$", titel)
-        if not letzt:
-            ohne_marker.append(nr)
-            continue
-        challenges[nr] = {
-            "titel": titel[:-2].strip(),
-            "geloest": nr in ist_geloest,
-            "gelistet": nr in ist_offen or nr in ist_geloest,
-            "marker": letzt.group(1),
-            "anker": anker(m.group(0)[4:]),
-        }
-
-    if ohne_marker:
-        fehler(
-            "Challenges.md: diese Titel tragen keinen Statusmarker am Ende -- das "
-            "bricht ihren Anker (siehe Regeln.md): %s" % ohne_marker
-        )
-
-    nicht_gelistet = sorted(n for n, d in challenges.items() if not d["gelistet"])
-    if nicht_gelistet:
-        fehler(
-            "Challenges.md: diese Nummern haben einen Detailabschnitt, stehen aber in "
-            "keiner Uebersichtsliste: %s" % nicht_gelistet
-        )
-    ohne_detail = sorted((ist_offen | ist_geloest) - set(challenges))
-    if ohne_detail:
-        fehler(
-            "Challenges.md: diese Nummern stehen in der Uebersicht, haben aber keinen "
-            "Detailabschnitt: %s" % ohne_detail
-        )
+    for datei in challenge_dateien():
+        _, liste, abschnitte = zerlege(datei)
+        for nr, text in abschnitte.items():
+            if nr in challenges:
+                fehler("C-%03d steht in beiden Challenge-Dateien" % nr)
+            m = CH_TITEL.match(text.split("\n", 1)[0])
+            z = liste.get(nr)
+            challenges[nr] = {
+                "titel": m.group(2),
+                "marker": m.group(3),
+                "geloest": m.group(3) in ERLEDIGT,
+                "datei": datei.name,
+                "anker": anker(m.group(0)[4:]),
+                "zeilenmarker": z.group(3) if z else None,
+            }
+        ohne_detail = sorted(set(liste) - set(abschnitte))
+        if ohne_detail:
+            fehler("%s: diese Nummern stehen in der Uebersicht, haben aber keinen "
+                   "Abschnitt: %s" % (datei.name, ohne_detail))
     return challenges
 
 
@@ -211,21 +260,22 @@ def anker(ueberschrift):
 
 
 def pruefe_marker(challenges):
-    """Prueft Challenges.md gegen sich selbst: Marker am Titel vs. Uebersicht.
+    """Prueft die Challenge-Dateien gegen sich selbst: Marker, Uebersicht, Datei.
 
-    Reine Hygiene der Arbeitsdatei -- die Schaubilder haengen nicht daran.
+    Reine Hygiene der Arbeitsdateien -- die Schaubilder haengen nicht daran.
     Bricht nicht ab, sondern meldet.
     """
     warnungen = []
     for nr, d in sorted(challenges.items()):
-        passt = d["marker"] in ("✓", "✗") if d["geloest"] else d["marker"] == "○"
-        if not passt:
-            warnungen.append(
-                "C-%03d: Uebersicht sagt %s, der Detailtitel trägt %s"
-                % (nr, "gelöst" if d["geloest"] else "offen", d["marker"])
-            )
-        if not d["gelistet"]:
+        if d["zeilenmarker"] is None:
             warnungen.append("C-%03d: steht im Detailteil, fehlt aber in der Uebersicht" % nr)
+        elif d["zeilenmarker"] != d["marker"]:
+            warnungen.append("C-%03d: Uebersicht trägt %s, der Detailtitel %s"
+                             % (nr, d["zeilenmarker"], d["marker"]))
+        soll = ARCHIV.name if d["geloest"] else CHALLENGES.name
+        if d["datei"] != soll:
+            warnungen.append("C-%03d: %s steht in %s statt in %s -- tools/challenges_ordnen.py "
+                             "laufen lassen" % (nr, d["marker"], d["datei"], soll))
     return warnungen
 
 
