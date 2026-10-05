@@ -4,8 +4,6 @@ Entschiedene (`✓`) und gestrichene (`✗`) Challenges, aufsteigend nach Nummer
 
 **Maßgeblich ist das Wiki** und je Eintrag der Block **Ergebnis** am Anfang. Was darunter unter **Verlauf** steht, dokumentiert den Weg dorthin - Fragen, Befunde, verworfene Ansätze, Streichvermerke. Der Verlauf kann überholte Annahmen, Zahlen und Zwischenstände enthalten und wird **nicht nachkorrigiert** (Regel: [Regeln.md](Regeln.md#offen-und-archiv)).
 
-Einträge ohne Ergebnis-Block sind noch nicht umgestellt - bei ihnen ist der ganze Text Verlauf.
-
 ## Übersicht
 
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -5005,6 +5003,14 @@ Berührt [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachroni
 
 ### C-164: Gilt die halbe Stunde Ladezeit auch im Normalbetrieb? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Der Ring hat keine Ladezeit** - er ist immer startklar. Die rund 30 Minuten sind die Zeit, die **Tibuns Aufbau** braucht, um genug Ladung auf dem Bernsteinrad zu erzeugen; eine Taktung des Rings gibt es nicht.
+- **Offen geblieben:** ob sich die 30 Minuten durch besseren Antrieb, größere Reibfläche oder ein zweites Rad verkürzen lassen · ???
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-109 ✓](#c-109-ladezeit-des-konduktors-) beim Lückenaudit (08.09.2026) ausgelagert.
 
 Für das Finale ist die Ladezeit entschieden. Offen ist der **Normalbetrieb**: Gelten dieselben 30 Minuten auch für [Tibuns](../Menschen/Nordvolk/Tibun.md) geplante spätere Reisen?
@@ -5024,6 +5030,13 @@ Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-
 
 ### C-165: Wie Azzim von Girlin erfährt ✓
 
+**Ergebnis**
+
+- **Entschieden:** Azzim erfährt von Girlin über **Gerede auf dem Basar** und sucht sie dort auf - kein Zufall, keine zusätzliche Figur. Das Gerede betont ihre **blasse Haut**, die selten ist ([C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)). Der Verlauf der Verhandlung in Auftritt 2 ist für das Gerüst belanglos.
+- **Im Wiki:** [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Der Basar](../Orte/Basar.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-123 ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) beim Lückenaudit (08.09.2026) ausgelagert.
 
 Zahl und Zeitpunkte von [Azzims](../Menschen/Kel-Aman/Azzim-u-Tawan.md) frühen Auftritten stehen. Nicht entschieden ist, **wie er überhaupt auf sie kommt**.
@@ -5039,6 +5052,13 @@ Der **Verlauf der Verhandlung in Auftritt 2** bleibt daneben offen, ist aber vom
 ---
 
 ### C-166: Bleibt Sekkans Wunde? ✓
+
+**Ergebnis**
+
+- **Entschieden:** Sekkan **verliert das linke Auge** - bleibend und von außen sichtbar. Einer von Azzims Männern verletzt ihn; in welchem Moment des Kampfes, klärt der Szenentext. Er jagt danach weiter, nur schlechter, und bleibt Wegekenner.
+- **Im Wiki:** [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-) beim Lückenaudit (08.09.2026) ausgelagert.
 
@@ -5056,6 +5076,13 @@ Entschieden war: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) wird bei 
 
 ### C-167: Wer folgt Hadurik in Tingsal? ✓
 
+**Ergebnis**
+
+- **Entschieden:** Ein Erbe existiert - **Haduriks Sohn** ([C-048](#c-048-hadurik---offene-felder-)). Tingsal hat damit eine gesicherte Nachfolge; im Buch wird sie nicht verhandelt.
+- **Im Wiki:** [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-153 ✓](#c-153-haduriks-nachfolge-in-tingsal-) beim Lückenaudit (08.09.2026) ausgelagert.
 
 Entschieden war: [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) **erlebt das Finale** und hält die Thinghalle über die ganzen zehn Jahre. Ein Nachfolgestreit als Handlung entfällt damit.
@@ -5068,6 +5095,13 @@ Entschieden war: [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) **erleb
 
 ### C-168: Was außer dem Skarabäus im Sand steckt ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Es bleibt beim Skarabäus** - sonst steckt nichts im Sand. Ein einziger Fremdkörper, kein Fundhaufen.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#nach-dem-verschwinden-jahr-0-1)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) beim Lückenaudit (08.09.2026) ausgelagert.
 
 Entschieden war, dass mit dem Sand ein **Skarabäus** aus dem Fezzan an die [Skir](../Orte/Skirraa.md) kommt, von der Kugelgrenze zerteilt.
@@ -5079,6 +5113,13 @@ Gegenrichtung: was der Norden verliert → [C-102](#c-102-was-bei-zündung-1-aus
 ---
 
 ### C-169: Reicht der Durchfluss des Skir für das Wasserrad? ✓
+
+**Ergebnis**
+
+- **Entschieden:** Das Wasserrad steht **direkt beim Ring im Wasser**. Tibun **verengt einen kleinen Teil des Flusses**, um dort schnellere Strömung zu bekommen; ein Wehr ist nicht gesetzt. Er **baut iterativ**, probiert aus, bis es trägt. Die Jahresschwankung ist unwichtig. Das Dorf reagiert darauf nicht über die Verhärtung des Tabus hinaus ([C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)). Wie die Drehung zum Bernsteinrad kommt: [C-185](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-).
+- **Im Wiki:** [Skirraa](../Orte/Skirraa.md), [Tibuns Generator](../Technik/Tibuns-Generator.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-155 ✓](#c-155-breite-und-tiefe-des-skir-) ausgelagert (08.09.2026).
 
@@ -5106,6 +5147,13 @@ Nachgezogen: [Skirraa](../Orte/Skirraa.md), [Tibuns Generator](../Technik/Tibuns
 
 ### C-170: Vatersnamen für Sekkan und Ishmalen ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Sekkan u-Ikkedas** und **Ishmalen u-Gulan**; Ishmalen ist Sekkans Mutterbruder. **Girlin heißt bei den Kel Aman Gilint** - sie sprechen den Namen kollektiv falsch aus, und die Form setzt sich durch. Eine `ult-`Form bekommt sie nicht; sie bleibt namentlich ohne Vaterlinie. Wie die Umbenennung erzählt wird: [C-172](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-). Sekkans Eltern: [C-171](#c-171-sekkans-eltern---namen-und-verbleib-).
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster), [Girlin](../Menschen/Nordvolk/Girlin.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-159 ✓](#c-159-filiation-im-erzähltext-der-kel-aman-) ausgelagert (08.09.2026).
 
 Entschieden ist: Die Filiation `u-`/`ult-` steht im Erzähltext **bei allen Figuren**. Damit reicht der bloße Vorname nicht mehr.
@@ -5130,6 +5178,14 @@ Eingetragen in [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishmal
 
 ### C-171: Sekkans Eltern - Namen und Verbleib ✓
 
+**Ergebnis**
+
+- **Entschieden:** Sekkans Mutter heißt **Tanast**, Ishmalens Schwester, sein Vater **Ikkedas**. **Beide leben**, in Jahr 0 wie in +5. Sie **nehmen Girlin an** - sie ist die Frau ihres Sohnes und die Mutter ihrer Enkelin. **Tanast trägt den Wegzug in +5 schwer**: kein Widerspruch, aber sie leidet sichtbar.
+- **Offen geblieben:** ob Tanast und Ikkedas im Erzähltext auftreten oder nur genannt werden · ob Tanasts Reaktion eine eigene Szene braucht · ???
+- **Im Wiki:** [Tanast](../Menschen/Kel-Aman/Nebenfiguren/Tanast.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-) ausgelagert (09.09.2026).
 
 Mit dem Vatersnamen steht fest, dass [Sekkan u-Ikkedas](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) einen Vater namens **Ikkedas** hat und dass seine Mutter die Schwester [Ishmalens](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) ist. Beide Personen sind sonst leer.
@@ -5151,6 +5207,13 @@ Eingetragen in [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishmalen]
 
 ### C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Umbenennung zu *Gilint* klärt **ein beiläufiger Satz im Dialog** - keine eigene Szene, kein Rätsel. Die Form gilt **ab den ersten Wochen**; Girlin nimmt den Namen an. **Der Erzähler nennt sie weiter Girlin**, *Gilint* steht nur in Figurenrede.
+- **Im Wiki:** [Plot 1](../Plots/Plot-1/README.md#figuren), [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishmalen-) ausgelagert (09.09.2026).
 
 Entschieden ist: [Girlin](../Menschen/Nordvolk/Girlin.md) heißt bei den [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) **Gilint**, weil sie ihren Namen kollektiv falsch aussprechen und die falsche Form sich durchsetzt.
@@ -5169,6 +5232,13 @@ Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuste
 ---
 
 ### C-173: Der Staubschleier hat auch Skirraa getroffen ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Hungerjahre treffen auch Skirraa: Der Weiler kommt **hart, aber lebend durch** - mit Toten und verlorenem Vieh. **Semund verliert den größten Teil der Herde** und baut sie über Jahre wieder auf. Tibun war zwei oder drei und erinnert sich nicht. Im Erzähltext erscheinen die Jahre nur **als Erinnerung der Älteren** - keine Jahreszahl, kein Vulkan, keine Rückblende.
+- **Im Wiki:** [Skirraa](../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen bei [C-161 ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-) (09.09.2026).
 
@@ -5189,6 +5259,14 @@ Eingetragen in [Skirraa](../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-aut
 
 ### C-174: Wer bei Tamants Geburt hilft ✓
 
+**Ergebnis**
+
+- **Entschieden:** Bei Tamants Geburt helfen **die erfahrenen Frauen des Clans**; ob Girlin schon aufgenommen ist, spielt dabei keine Rolle. **Sekkan ist nicht da**, er ist mit einer Karawane unterwegs. Die Geburt ist **eine eigene Szene**, *Das dritte Kind*; ihr Hindernis: Girlin ist allein unter Fremden.
+- **Offen geblieben:** was Girlin in dieser Szene will · ???
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#geburt), [Szenen](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) ausgelagert (09.09.2026); der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt den Punkt unter „Krankheit, Geburt, Tod" schon länger als offen.
 
 [Girlin](../Menschen/Nordvolk/Girlin.md) bekommt in **Jahr +4** ihre Tochter **Tamant ult-Sekkan** - mit 38, in einem fremden Volk, in einer Sprache, die sie erst seit vier Wintern spricht. Es ist ihre **sechste** Geburt; drei ihrer Kinder haben nicht überlebt.
@@ -5208,6 +5286,13 @@ Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#geburt), [Zeitleiste](.
 
 ### C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Die Zugehörigkeit bleibt, der Schutz ist trotzdem weg.** Girlin wird nicht verstoßen, aber die Sippe ist nach dem Wegzug nicht vor Ort und nicht schnell genug erreichbar. Ab +5 ist sie deshalb ohne Sippenschutz - aus Entfernung, nicht aus Ausschluss.
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#weggang-aus-der-sippe), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#die-bitte-und-die-trennung-jahr-5)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen bei [C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-) (09.09.2026).
 
 Zwei Entscheidungen stehen nebeneinander und ergeben zusammen eine offene Frage:
@@ -5226,6 +5311,12 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots
 
 ### C-176: Sekkans Preis ist entfallen ✗
 
+**Ergebnis**
+
+- **Entschieden:** **Zurückgezogen** - die Prämisse war falsch. Sekkans Preis bleibt: Fortzuziehen ist bei den Kel Aman extrem unüblich, und er zahlt mit **Entzug**, nicht mit Strafe ([C-152](#c-152-ishmalen---häuptling-der-kel-aman-)).
+
+**Verlauf** - *nicht maßgeblich*
+
 **Zurückgezogen am 09.09.2026 - die Prämisse war falsch.** Angelegt in der Annahme, mit dem einvernehmlichen Wegzug ([C-152 ✓](#c-152-ishmalen---häuptling-der-kel-aman-)) sei [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Preis ersatzlos entfallen.
 
 **Der Autor hat klargestellt:** Der Preis bleibt. **Fortzuziehen ist bei den Kel Aman extrem unüblich und selten** - Sekkan tut etwas, das kaum jemand tut. Es ist nur keine Strafe, sondern **Entzug**: Er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun.
@@ -5235,6 +5326,13 @@ Damit trägt sein Beitrag zum dritten Konflikt weiterhin ([C-120](#c-120-azzims-
 ---
 
 ### C-177: Bewuchs auf einem frisch freigelegten Ring ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der frisch freigelegte Skir-Ring ist **einfach dreckig** - Erde, Lehm, Pflanzenreste vom Erdrutsch; Moos und Flechten wachsen unter der Erde nicht. Was abfällt, gibt makelloses Material frei: Dreck abwischen statt Moos abziehen. Was davon im Bild steht, entscheidet sich beim Schreiben der Szene. Für andere Ringe ändert sich nichts. Bild-Prompt P-001 zeigt ihn verdreckt.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#optik--alterung), [Bild-Prompts](Bild-Prompts.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen bei [C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-) (09.09.2026).
 
@@ -5251,6 +5349,14 @@ Grünlicher Algenfilm, mitgerissene Moospolster, Wurzelfilz - was davon im Bild 
 ---
 
 ### C-178: Was die Anlage im Norden nach Zündung 2 tut ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Kein Aufladen, fester Kontakt.** Die gefallene Kette verbindet Rad und Ring dauerhaft, die Ladung fließt laufend ab. Der Ring zündet nach dem Finale **nicht von selbst** erneut - es gibt keine weiteren Tausche an der Tabustelle.
+- **Verworfen:** „ein Ring, der sich von allein wieder auflädt".
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#nach-zündung-2---kein-aufladen)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen bei [C-110](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-) (11.09.2026).
 
@@ -5270,6 +5376,13 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Tibuns Generator](../
 ---
 
 ### C-179: Wenig Ladung reicht - warum löst nicht jede Berührung aus? ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Alltagsladungen reichen nicht** - wenig Ladung zündet, aber nicht zu wenig. Eine Berührung löst nicht aus, weder beim Transport noch am Skir-Ring. Vor Jahr 0 hat der Ring nie ausgelöst, weil er vergraben war. Der Wüstengenerator zündet ihn vorher nicht: Generator und Ring bleiben bis zum Schluss getrennt, Bellbrim und Girlin testen nicht am Ring.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#funktionsweise)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-131 ✓](#c-131-generatorarbeit-ohne-ring-) (Autor, 14.09.2026): **Schon eine kleine Menge Ladung zündet einen Ring** - das weiß nur niemand.
 
@@ -5296,6 +5409,12 @@ Nachgezogen: [Portalringe](../Technik/Portalringe.md), [Skirraa](../Orte/Skirraa
 
 ### C-180: Warum Bellbrim die Sprache des Nordens spricht ✗
 
+**Ergebnis**
+
+- **Entschieden:** **Zurückgezogen.** Die Prämisse - volle, fließende Verständigung - stammte von Claude. Die Sprachen sind ähnlich, eine Erklärung braucht es nicht ([C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)).
+
+**Verlauf** - *nicht maßgeblich*
+
 > **Zurückgezogen (14.09.2026):** Die Prämisse „volle, fließende Verständigung" stammte aus meiner ersten Fassung von [C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-), nicht vom Autor. Der Autor hat präzisiert: **Die Sprachen sind ähnlich**, die beiden verstehen sich nicht vollständig, können aber kommunizieren. Eine Erklärung, warum Bellbrim Girlins Sprache spricht, braucht es damit nicht. Der Text unten bleibt als Dokumentation stehen.
 >
 > **Historisch vertretbar:** Ost- und Nordgermanisch teilen um 550 noch viel Grundwortschatz; eine Verständigung mit Lücken ist plausibel. Einschränkung: Vandalisch ist kaum überliefert.
@@ -5314,6 +5433,20 @@ Entschieden ist: [Bellbrim](../Menschen/Andere/Bellbrim.md) ist **Vandalin**, un
 ---
 
 ### C-181: Tausch Schicht für Schicht - was geschieht mit Bewegung in der Kugel? ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - Beim Zünden entsteht sofort die **Tauschkugel**. In ihr herrscht für die Dauer des Flips **Starre** - die Zeit steht still, für Blut, Luft, alles; **Licht ist ausgenommen**. Was beim Zünden ganz in der Kugel ist, kommt heil an, auch wenn es sich bewegt.
+  - Getauscht wird **Schicht für Schicht** durch die **Tauschfläche**, die Kreisfläche innerhalb der Innenkante. Von außen sieht man einen Körper am Zielort Schicht für Schicht entstehen.
+  - Die **Tauschschale** ist unsichtbar, durchsichtig und undurchlässig; Gase prallen ab. Was beim Zünden nur teilweise in der Kugel ist, **trennt sie ab**. Was sie berührt, **versengt** sie - kohlschwarz, Wunden kauterisiert, auf beiden Seiten, ohne Hitze, Rauch und Geruch, bei jedem Material; dort leuchtet sie grün, solange die Berührung dauert. Es zischt nicht. Ausgenommen sind der Ring selbst, Gase und Licht. Die Ringkante schneidet nicht.
+  - **Abgetrenntes bleibt liegen** - mit dem Ring lässt sich nichts entsorgen.
+  - Der Flip dauert **1 s**, im Erzähltext **ein Herzschlag** ([C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)). Beide Plot-1-Ringe liegen auf dem Boden. Begriffe und Akzeptanzkriterien stehen in Portalringe.
+  - Folgen für die beobachteten Flips in Plot 1: [C-193](Challenges.md#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
+- **Verworfen:** „kein Zwischenzustand" ([C-015](#c-015-verhältnis-drehung--tausch-)) · die Schale löst Berührtes auf wie ein Eiswürfel auf der Herdplatte, mit Zischen · die Naht in der Mittelebene als Grenze dessen, was getauscht wird.
+- **Im Wiki:** [Portalringe - Begriffe](../Technik/Portalringe.md#begriffe), [Akzeptanzkriterien](../Technik/Portalringe.md#akzeptanzkriterien), [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Idee des Autors (14.09.2026):** Nicht die ganze Kugel wird auf einmal getauscht. **Die rotierende Schnittfläche führt den Transport aus**, Schicht für Schicht, wie bei einem CT oder MRT. Der Autor sieht selbst das Problem: **Was geschieht, wenn sich etwas innerhalb der Kugel bewegt?** Er will das ausführlicher besprechen. Nichts ist entschieden.
 
@@ -5371,6 +5504,14 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 
 ### C-182: Was Tibun in den Kaupvik-Jahren verliert ✓
 
+**Ergebnis**
+
+- **Entschieden:** Tibun **verliert in den Kaupvik-Jahren nichts Konkretes**. Die Zeit ist geprägt von Arbeit, Lernen, dem Handel mit Bernstein, dem Finden von Bernstein und seinen Experimenten.
+- **Verworfen:** ein Verlust zwischen +1 und +9 ([C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)).
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-118 ✓](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-) (14.09.2026): Zwischen Jahr +1 und +9 verliert [Tibun](../Menschen/Nordvolk/Tibun.md) etwas.
 
 **Was feststeht und nicht verletzt werden darf:**
@@ -5390,6 +5531,14 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 
 ### C-183: Verdrängt der Ring Luft der Tauschkugel? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Die Geist-Eigenschaft gilt auch für Luft** - der Ring durchläuft sie wie alles außerhalb der Kugel, ohne Luftstoß.
+- **Verworfen:** die Begründung, der Ring verdränge nur Luft, die selbst zur Tauschkugel gehört.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#aktivierung--tausch)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen am 14.09.2026. [Portalringe](../Technik/Portalringe.md#aktivierung--tausch) sagt an zwei Stellen Verschiedenes:
 
 - **Geist-Eigenschaft:** Der rotierende Ring überstreicht die Schale **zwischen 1,50 m und 1,665 m** (Abstand vom Kugelzentrum) - also **außerhalb** der Tauschkugel. Er durchdringt dort alles, **ohne es anzutasten**.
@@ -5406,6 +5555,14 @@ Die zweite Begründung passt nicht zur ersten: Die Luft, durch die der Ring läu
 ---
 
 ### C-184: Wasserräder sind im Norden um 550 nicht belegt ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Das Wasserrad ist Tibuns eigene Idee** - er hat es weder aus Kaupvik noch von Händlern. Im Norden um 550 ist es nicht belegt, aber auch nicht unmöglich. Zwischen Wasserrad und Bernsteinrad gibt es eine Übersetzung ([C-186](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)).
+- **Verworfen:** „ohne Getriebe" - stand ohne Deckung.
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#aufbau---das-rotierende-bernsteinrad)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-). [Tibuns Generator](../Technik/Tibuns-Generator.md) wird in der großen Anlage von einem **Wasserrad** angetrieben.
 
@@ -5425,6 +5582,13 @@ Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md).
 ---
 
 ### C-185: Wie die Drehung vom Wasserrad zum Bernsteinrad kommt ✓
+
+**Ergebnis**
+
+- **Entschieden:** Das **Bernsteinrad sitzt unten, direkt am Wasserrad**. Es gibt seine Ladung **laufend an die Kette** ab, die blau zu leuchten beginnt. Die Kette führt hinauf in den Dachstuhl; über den Zündmechanismus lässt Tibun nur **das eine Ende** herunter, das zum Ring geht. Es bleibt dabei: kein Konduktor. Damit es trägt, darf die Kette nichts Feuchtes berühren ([C-187](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-)) und das Rad nicht nass werden ([C-186](#c-186-das-bernsteinrad-unten-am-skir---nässe-und-drehzahl-)).
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#übertragung-und-auslöser), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#zündung-2---tibuns-auslösung)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen am 14.09.2026 bei [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-).
 
@@ -5465,6 +5629,14 @@ Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität]
 
 ### C-186: Das Bernsteinrad unten am Skir - Nässe und Drehzahl ✓
 
+**Ergebnis**
+
+- **Entschieden:** Das Bernsteinrad **kommt nicht mit Wasser in Berührung** - es steht vorläufig in der Werkstatt, die dafür bis ans Wasser reicht ([C-188](Challenges.md#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)). Wie es trocken bleibt, entscheidet der Autor beim Schreiben. Es bekommt eine **Übersetzung**.
+- **Offen geblieben:** die Bauart der Übersetzung · ??? - Tendenz ins Schnelle, nicht entschieden.
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#hinweise-fürs-schreiben)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-) (15.09.2026): Das Bernsteinrad sitzt direkt am Wasserrad im Skir.
 
 **Das Problem:** Reibungselektrizität braucht trockene Luft - nasse Oberflächen leiten die Ladung ab. Am Wasserrad gibt es Spritzwasser und Nebel vom Fluss. Entschieden war für die Feuchtigkeit bisher *„Die Werkstatt genügt - Dach und Wände halten den Regen ab"* (Autor, 11.09.2026); die Werkstatt steht aber oben am Ring.
@@ -5486,6 +5658,13 @@ Aus [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-) (1
 
 ### C-187: Die geladene Kette - Aufhängung und Weg nach oben ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Kette **hängt an Seilen** und darf nichts Feuchtes berühren - weder die Böschung noch nasses Holz noch den Boden. Ein Baudetail, auf das beim Schreiben zu achten ist.
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#hinweise-fürs-schreiben)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-) (15.09.2026): Die Kette läuft vom Bernsteinrad am Wasser hinauf in den Dachstuhl der Werkstatt; ihr freies Ende fällt zum Ring.
 
 **Das Problem:** Die Kette trägt die Ladung. Berührt sie unterwegs die Böschung, nasses Holz oder den Boden, fließt die Ladung ab. Sie muss also **isoliert** hängen.
@@ -5506,6 +5685,19 @@ Aus [C-185 ✓](#c-185-wie-die-drehung-vom-wasserrad-zum-bernsteinrad-kommt-) (1
 ---
 
 ### C-189: Der Weiler-Konflikt hat keinen Ort mehr ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - **Niemand aus dem Weiler kommt an die Tabustelle** - auch Randlaug und die Kinder nicht. Einzige Ausnahme ist die gerufene Wala.
+  - Tibun wohnt zuerst **auf Semunds Hof**; dort und im Weiler begegnet er Randlaug wieder. Nachdem die Wala die Stelle erneut und härter als Tabu kennzeichnet, **muss er den Hof verlassen**: Der Druck kommt aus dem Weiler, Semund gibt nach, Mildirun treibt den Auszug mit voran. Das ist eine eigene Szene, *Der Auszug vom Hof*. Danach wohnt er **auf der Baustelle**.
+  - In den Weiler geht er für Vorräte und Werkzeug, zu Randlaug und zu Semund. Die Warnung erreicht ihn aus allen drei Richtungen - im Weiler, am Weg zum Bau und auf Semunds Hof.
+  - Feuer unter dem Reetdach und der Schlafplatz außerhalb der Tauschkugel: [C-188](Challenges.md#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-).
+- **Verworfen:** Randlaug und die neugierigen Kinder als letzte Verbindung zum Weiler.
+- **Offen geblieben:** ob die Warnung in eine Szene fällt oder sich verteilt - klärt der Autor beim Umbau der Szenenliste.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#rückkehr--vollendung-jahr-9--10-tibun-25--26), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Szenen](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) (18.09.2026).
 
@@ -5564,6 +5756,13 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots
 
 ### C-190: Wo Bellbrim während des Transports ist ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Bellbrim bleibt in der Schlucht**, während Girlin, Sekkan und das Kind mit dem Clan den Ring holen. Es ist ihr Zuhause.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girlin und Sekkan brechen beide mit dem Clan auf, und das Kind kommt mit** (Autor, 23.09.2026). Damit ist nicht gesagt, wo [Bellbrim](../Menschen/Andere/Bellbrim.md) in den Wochen des Zuges ist.
 
 **Zu klären · ???** Bleibt sie allein in der Schlucht, oder zieht sie mit? Daran hängt, ob die Schlucht in dieser Zeit leer steht, ob jemand die Arbeit am Generator weiterführt - und wer im Fall eines Besuchs dort wäre.
@@ -5576,6 +5775,13 @@ Aus [C-130 ✓](#c-130-wie-der-transport-terminiert-wird-) (23.09.2026): **Girli
 ---
 
 ### C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ✓
+
+**Ergebnis**
+
+- **Entschieden:** Umbenannt: Randi → **Randlaug** · Frida → **Fridugund** · Millia → **Mildirun** · Siga → **Harahild** · Fridun → **Fridmund**. Die Urformen von Tibun, Girlin und Semund lauten *Theudobern*, *Gairalind*, *Sigimund*; die Rufnamen bleiben. Muster: neue Koseendungen `-o`, `-so`, `-u` (w.) und `-ila` (m.), die alten bleiben; ein **Bindevokal ist möglich, nicht Pflicht**.
+- **Im Wiki:** [Nordvolk - Namensmuster](../Kulturen/Nordvolk/README.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-053 ✓](#c-053-landarik---offene-felder-) (23.09.2026). Bei der Umbenennung von Lanke wollte der Autor einen längeren Namen: *„Die meisten Namen klingen wie deutsche Spitznamen."*
 

@@ -60,7 +60,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
     </tr>
     <tr>
       <td><strong>Bewuchs</strong></td>
-      <td>Moos/Flechte liegen <em>auf</em> der Oberfläche</td>
+      <td>Moos/Flechte liegen <em>auf</em> der Oberfläche; der Skir-Ring ist beim Fund dreckig - Erde, Lehm, Pflanzenreste</td>
       <td>Darunter makellos</td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
   </tbody>
 </table>
 
-**Der Bildkern:** Der Kontrast zwischen uraltem Bewuchs und der ungealterten Oberfläche darunter. Nicht der Fund ist unheimlich, sondern der Moment, in dem das Moos weggezogen wird.
+**Der Bildkern:** Der Kontrast zwischen uraltem Bewuchs und der ungealterten Oberfläche darunter. Nicht der Fund ist unheimlich, sondern der Moment, in dem Moos oder Dreck von ihr abgeht.
 
 **Fallstricke:**
 - Generatoren stellen den Ring gern *aufrecht* hin (Stargate-Reflex) und ignorieren die Breite von 0,50 m.
@@ -117,9 +117,9 @@ RUNES: Exactly 12 discrete glyphs, evenly spaced like clock hour marks (every 30
 
 ---
 
-## P-001: Ring zwischen Bäumen, bemoost, inaktiv
+## P-001: Ring zwischen Bäumen, verdreckt, inaktiv
 
-Stimmungsbild. Der Fluss Skir liegt außerhalb des Ausschnitts.
+Stimmungsbild. Der Fluss Skir liegt außerhalb des Ausschnitts. Der Ring ist **dreckig, nicht bemoost** - Erde, Lehm und Pflanzenreste vom Erdrutsch (Autor, 09.09.2026).
 
 ```
 Photorealistic. A colossal ring lies flat and forgotten in a stand of trees. Northern European, damp, still, ancient.
@@ -130,7 +130,7 @@ A single seamless giant flat bangle lying FLAT and HORIZONTAL on the forest floo
 SURFACE - the key contrast of the image:
 The bare material looks exactly like BRUSHED ALUMINIUM: matte silver-grey, with a fine directional grain running circumferentially around the ring. No mirror shine, no reflections, no seams, no welds, no casting marks, no tool marks.
 It has NOT aged at all: no rust, no corrosion, no patina, no discolouration, no scratches, no pitting - despite being unimaginably old.
-Moss and pale lichen grow ON it, carpeting the upper face and the shaded side, gathering in the grooves - but they only sit on the surface. Where the moss has slipped away, the bare material shows through, flawless and factory-fresh, as if made yesterday. The contrast between ancient growth and untouched surface is the emotional core of the image.
+It is simply dirty: smears of earth, clay and plant debris cling to the upper face and the flanks and pack into the grooves - nothing grows on it. Where the dirt has fallen away, the bare material shows through, flawless and factory-fresh, as if made yesterday. The contrast between the dirty ground and the untouched surface is the emotional core of the image.
 
 MARKINGS: Exactly 12 discrete angular geometric glyphs on the outer equator only, spaced like clock hour marks (every 30°). Sharp V-cut Keilrillen, Nordic/Stargate angular. UNLIT. Inner curve of the hole blank. Not glowing.
 
@@ -138,7 +138,7 @@ SETTING: A dense stand of alder, willow and birch - twisted, wind-shaped, hung w
 
 CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads clearly as an ellipse, the ring's height above ground is unmistakable, and the drop to the stream below is visible.
 
-NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina.
+NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina, no moss carpet, no lichen.
 ```
 
 Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flacher Armreif, abgerundetes Rechteck).
@@ -147,7 +147,7 @@ Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flache
 
 ## P-002: Fundszene
 
-> **Wieder kanonisch (09.09.2026).** Der Erdrutsch am Steilufer ist vom Autor gesetzt: Der Ring liegt am Waldrand von [Vilund](../Orte/sonstiges.md) auf einer **hohen Uferböschung** des Skir, jahrelang vergraben, und wird durch Beben und Erdrutsch freigelegt - er bleibt dabei auf der Böschung, der Fluss läuft ein paar Meter tiefer. Angepasst wurden **Umgebung** (Waldrand statt offene Heide) und **Lage** (leicht schräg). Der **Bewuchs** ist noch offen · **???**
+> **Wieder kanonisch (09.09.2026).** Der Erdrutsch am Steilufer ist vom Autor gesetzt: Der Ring liegt am Waldrand von [Vilund](../Orte/sonstiges.md) auf einer **hohen Uferböschung** des Skir, jahrelang vergraben, und wird durch Beben und Erdrutsch freigelegt - er bleibt dabei auf der Böschung, der Fluss läuft ein paar Meter tiefer. Angepasst wurden **Umgebung** (Waldrand statt offene Heide) und **Lage** (leicht schräg). Der Ring ist **dreckig** - Erde, Lehm, Pflanzenreste (Autor, 09.09.2026); was davon im Bild steht, entscheidet sich beim Schreiben der Szene.
 
 ```
 Photorealistic. Northern Jutland, Vendsyssel, near the Skagerrak coast. At the edge of a small wood, a fresh landslide has torn open a high, steep stream bank, exposing a colossal ring lying in the slump debris a few metres above the water.

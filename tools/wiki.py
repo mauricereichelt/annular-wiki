@@ -244,6 +244,7 @@ def lies_challenges():
                 "datei": datei.name,
                 "anker": anker(m.group(0)[4:]),
                 "zeilenmarker": z.group(3) if z else None,
+                "ergebnis": text.split("\n", 2)[-1].startswith("**Ergebnis**"),
             }
         ohne_detail = sorted(set(liste) - set(abschnitte))
         if ohne_detail:
@@ -272,6 +273,8 @@ def pruefe_marker(challenges):
         elif d["zeilenmarker"] != d["marker"]:
             warnungen.append("C-%03d: Uebersicht trägt %s, der Detailtitel %s"
                              % (nr, d["zeilenmarker"], d["marker"]))
+        if d["geloest"] and not d["ergebnis"]:
+            warnungen.append("C-%03d: steht im Archiv ohne Ergebnis-Block (Regeln.md, Offen und Archiv)" % nr)
         soll = ARCHIV.name if d["geloest"] else CHALLENGES.name
         if d["datei"] != soll:
             warnungen.append("C-%03d: %s steht in %s statt in %s -- tools/challenges_ordnen.py "

@@ -9,6 +9,7 @@ Richtung"). Dieses Skript prueft nur die Dateien selbst:
     sein Anker, siehe Regeln.md)
   - Marker und Uebersichtszeile sagen dasselbe
   - kein Eintrag steht im Detailteil, ohne in der Uebersicht zu stehen
+  - jeder Eintrag im Archiv beginnt mit einem Ergebnis-Block
   - jeder Eintrag steht in der Datei, die sein Marker verlangt, und alle
     Links sind nachgezogen (sonst: tools/challenges_ordnen.py laufen lassen)
 
