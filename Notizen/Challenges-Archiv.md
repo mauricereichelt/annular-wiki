@@ -2329,6 +2329,13 @@ Die Frage war falsch gestellt. Nach zehn Jahren gibt Girlin die Rückkehr auf: S
 
 ### C-083: Zitate als Kapitel-Motti ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Jetzt wird nichts entschieden**, die Szenen gehen vor. Der Autor entscheidet später; vielleicht fallen die Motti ganz weg. Als Ideen notiert: weltinterne Motti, eine Quelle je Strang, durchgängig über jedem Kapitel. Die Sammlung und ihre Formregeln stehen in Zitate.md.
+- **Im Wiki:** [Zitate](Zitate.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.md](Zitate.md). Noch nicht entschieden, ob überhaupt.
 
 **Wenn ja, zu klären:**
@@ -2351,6 +2358,19 @@ Notiert in [Zitate.md](Zitate.md).
 ---
 
 ### C-084: Mulde, Standfläche und die rohen Ringe ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - Girlin **stolpert in den Ring** - womöglich über den Ring selbst - und **liegt** darin. Liegend passt ein Mensch bei jeder Einbettungstiefe hinein.
+  - Für den Alltagsbetrieb baut die Nutzer-Zivilisation eine **Mulde**, damit man stehend reisen kann; das Wissen darum gehört zur Bedienung. **Die Mulde wandert:** Sie liegt in der Kugel und wird mitgetauscht - wer in ihr reist, kommt drüben in ihr an. Funktionalität, kein Problem.
+  - **In Plot 1 hat keiner der beiden Ringe eine Mulde.** Beide liegen auf dem Boden, die Mittelebene 0,25 m darüber; über der Ringmitte reicht die Kugel 1,75 m über den Boden. Wer dort reist, ist **am Boden**: Girlin liegt, Azzim (Zündung 1) und Tibun (Zündung 2) sind am Boden - ob liegend oder kniend, klärt der Szenentext.
+  - Die vertikale Aufstellung kommt in der Geschichte nicht vor.
+- **Verworfen:** die Betriebsregel „Kugelzentrum ~0,75 m über der Standfläche" samt festen Einbaumaßen · der Satz, asymmetrische Anlagen zerstörten sich selbst - beides stammte von Claude ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
+- **Offen geblieben:** die Muldentiefe der Nutzer-Zivilisation · ??? - erst, wenn eine Geschichte sie braucht. Girlins Körpergröße, und damit ob sie stehend Platz gehabt hätte · ???
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-mulde)
+
+**Verlauf** - *nicht maßgeblich*
 
 Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Mittelebene** - ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
 
@@ -2413,6 +2433,15 @@ Eingetragen in [Portalringe](../Technik/Portalringe.md#kopffreiheit-und-die-muld
 
 ### C-085: Titel für Plot 1 ✓
 
+**Ergebnis**
+
+- **Entschieden:** Arbeitstitel ist ***Der Blitz von Skirraa*** (aus Claudes Vorschlagsliste). Eine Anspielung auf den Ring ist kein Kriterium.
+- **Verworfen:** die Anforderungen an den Titel aus der Anlage dieser Challenge - stammten von Claude.
+- **Offen geblieben:** der Titel für eine Veröffentlichung · ???
+- **Im Wiki:** [Plot 1](../Plots/Plot-1/README.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Das Projekt heißt **Annular** - das ist der Name des **Universums** ([Plots/README](../Plots/README.md)), nicht der einzelnen Geschichte. Die Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) braucht deshalb einen **eigenen Titel**. Der Ordner heißt dauerhaft neutral `Plots/Plot-1/` und wird **nicht** umbenannt - der Titel lebt nur in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und [SUMMARY.md](../SUMMARY.md).
 
 **Was der Titel tragen muss:** die Zweisträngigkeit (Norden/Wüste), die zehn Jahre Trennung, und dass beide **unabhängig voneinander dasselbe erfinden**. Was er *nicht* tragen sollte: den Ring - der gehört auf die Universumsebene und ist in „Annular" bereits vergeben.
@@ -2432,6 +2461,13 @@ Das Projekt heißt **Annular** - das ist der Name des **Universums** ([Plots/REA
 ---
 
 ### C-086: Ton in einem Satz ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Ton in einem Satz: *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann - zehn Jahre Suche in einer harten Welt, hell im Ausgang.* Er gilt **nur für Plot 1**. Dahinter: **Abenteuer und Staunen** stehen vorn · Ausgang **hoffnungsvoll** · beide Figuren tragen gleich viel, Tibun etwas mehr · Leser **Jugendliche ab ~16** · Härte so drastisch wie nötig, sonst angedeutet · **beim Ring** wissen Leser und Figur gleich viel. Dass der Leser durch die zwei Stränge sonst einen Vorsprung hat, ist zugelassen.
+- **Im Wiki:** [Plot 1](../Plots/Plot-1/README.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Entscheidung (Autor):**
 > *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann - zehn Jahre Suche in einer harten Welt, hell im Ausgang.*
@@ -2460,6 +2496,15 @@ Der Satz steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und ist de
 ---
 
 ### C-087: Zeitrechnung im Erzähltext ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Jahre im Norden: Winter.** Im Jahr zählt der Norden nach **Arbeitsmarken** (Lammung, Schur, Heu, Schlachtzeit), nach **Mondwechseln** für größere Abstände und nach **Mittwinter und Mittsommer**; keine Monatsnamen, kein Datum. **Jahre bei den Kel Aman: Sommer.** Girlins Maß kippt **allmählich und unmerklich** vom einen zum anderen.
+- **Verworfen:** Regenzeiten als Wüstenmaß - der Fezzan ist hyperarid.
+- **Offen geblieben:** ob Dattelernte oder Sternaufgänge als feinere Marken dienen · ???
+- **Im Wiki:** [Nordvolk](../Kulturen/Nordvolk/README.md), [Kel Aman](../Kulturen/Kel-Aman/README.md), [Girlin](../Menschen/Nordvolk/Girlin.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Zwischen [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden und dem Finale liegen **zehn Jahre** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Niemand in 550 zählt Jahreszahlen - ohne feste Regel wird jede Zeitangabe im Text zum Anachronismus.
 
@@ -2492,6 +2537,14 @@ Zwischen [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden und dem Finale l
 
 ### C-088: Verortung der Wüste ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der Wüstenstrang spielt im **Fezzan** - dem Kernland der Garamanten in der zentralen Sahara, heute Südwest-Libyen. Kamele sind dort um 550 längst etabliert.
+- **Verworfen:** Arabische Halbinsel · Syrische Wüste · Sogdien.
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#verortung)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Entscheidung (Autor, 31.08.2026): Der Wüstenstrang spielt im [Fezzan](https://de.wikipedia.org/wiki/Fessan) - dem Kernland der Garamanten in der zentralen Sahara (heute Südwest-Libyen).**
 
 Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite Abweichung von der Realität** neben den Portalringen - ein Bruch des Authentizitätsprinzips. Vier Kandidaten standen zur Wahl: Fezzan, Arabische Halbinsel, Syrische Wüste, Sogdien.
@@ -2516,6 +2569,14 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 
 ### C-089: Azzim - Verhältnis zum Ring (harte Regel) ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Der Ring ist niemals Azzims Motiv** - er weiß bis zum Ende nichts von ihm. Erst im Norden begreift er, was ihn geworfen hat; was ein wiederholbarer Übergang in einer Wüste bedeuten würde, zeigt sich **nur in seinem Verhalten**, ausgesprochen wird es nie. Er überlebt den Gedanken nicht, und niemand hört ihn. Woran Tibun erkennt, dass Azzim Girlin kennt, klärt der Szenentext.
+- **Verworfen:** Wasser als Azzims Motiv ([C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-)) · die Fassung, in der Azzim im Norden gestrandet überlebt.
+- **Im Wiki:** [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Festgelegt (Autor, 31.08.2026): Der Ring ist niemals Azzims Motiv.** [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) **weiß bis zum Ende nichts vom Ring**. Er verfolgt [Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) aus seinen eigenen Gründen (Sklaverei/Schmuggel → [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-), [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-)); dass am Ende ausgerechnet er durch den Ring nach Norden geworfen wird, ist für ihn eine Katastrophe, kein Ziel.
 
 **Damit ausdrücklich verworfen:** der Vorschlag aus dem [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), Azzims Motiv auf **Wasser** umzustellen. Begründung des Autors: In Plot 1 kann niemand den Ring zuverlässig oder gar täglich nutzen - eine Wasserbrücke nach Süden existiert schlicht nicht, und ein Antagonist kann nicht etwas anstreben, von dem er nichts weiß.
@@ -2538,6 +2599,14 @@ Damit ist auch „ob er den Gedanken überlebt und ob ihn jemand hört" beantwor
 ---
 
 ### C-090: Kel Aman - Eigenname und Namenssystem ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Sprache ist **libysch-berberisch**. Muster: Frauennamen umklammert ein `t` · Männernamen enden konsonantisch oder auf `-an`/`-en`, erweitert um `-assen`, `-as`, `-on` und zwei bis vier Silben · Abstammung mit `u-`/`ult-` · Gruppen mit `Kel-`. Der Volksname ist **Kel Aman**, „die Leute des Wassers"; Sesshafte und Händler sagen „die Wüstenleute". Die Umbenennungen sind im Wiki durchgeführt. Ob die Filiation im Erzähltext auftaucht: [C-159](#c-159-filiation-im-erzähltext-der-kel-aman-).
+- **Verworfen:** die vom Arabischen abgeleiteten Namen (Sahrin, Sahar, Assim, Ishem, Imra) · *Kel Garama*, *Igharamen* · *Tiberan* - zu nah an Tibun.
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster)
+
+**Verlauf** - *nicht maßgeblich*
 
 Die alten Namen (**„Sahrin", „Sahar", „Sahrinai"**, ebenso **Assim**, **Ishem**, **Imra**) waren vom *arabischen* Wort für Wüste abgeleitet - im [Fezzan](#c-088-verortung-der-wüste-) des 6. Jahrhunderts spricht niemand Arabisch. **Entscheidung (Autor, 31.08.2026): neu ausgearbeitet, keine Ausnahme.** Sprachfamilie ist **libysch-berberisch** (die Sprache der Garamanten, überliefert in libyschen Inschriften, verwandt mit dem heutigen Tamazight).
 
@@ -2582,6 +2651,13 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 ### C-091: Krummsäbel und Bewaffnung der Kel Aman ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Krummsäbel gestrichen** - für 550 zu früh. Stattdessen gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik (Claudes Vorschlag, vom Autor übernommen).
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#bewaffnung)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Entscheidung (Autor, 31.08.2026): Krummsäbel gestrichen.** Gekrümmte Klingen sind für **550 n.Chr. zu früh** - sie kommen im islamischen Raum erst Jahrhunderte später auf und sind ein reiner Hollywood-Reflex.
 
 **Stattdessen:** gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. Für die Sahara um 550 belegt und unauffällig. Nachgezogen in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md).
@@ -2589,6 +2665,15 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 ---
 
 ### C-092: Namenssystem des Nordvolks ✓
+
+**Ergebnis**
+
+- **Entschieden:** Urnamen sind **zweigliedrig**, aus einem festen Elementvorrat. **Rufname ist Urname oder Kurzform** (Erstglied + Koseendung); viele Figuren tragen den Urnamen ([C-191](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)). Statt eines Familiennamens der **Vatersname** auf `-sun`/`-dohtar`. **Keine Götterelemente**, **keine Sonderzeichen**. Tibun bleibt trotz der Dehnung `th` → `t`. Neue Figuren des Nordvolks werden nach diesem Muster benannt.
+- **Verworfen:** die alten, nicht deutbaren Namen - Tara, Semban, Mellia, Jolyl, Herik, Lanke - und ihre Zwischenstufen.
+- **Offen geblieben:** ob der Anklang von *Vilund* an den Sagenschmied Welund gewollt ist · ???
+- **Im Wiki:** [Nordvolk](../Kulturen/Nordvolk/README.md), [Regeln](Regeln.md#namen)
+
+**Verlauf** - *nicht maßgeblich*
 
 [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Tara, Semban, Mellia, Hadurik, Jolyl, Herik, Landarik folgten bisher keinem erkennbaren Bildungsmuster. Germanische Namen der Vendelzeit sind überwiegend **zweigliedrig** (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen.
 
@@ -2655,6 +2740,13 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 ### C-093: Prolog - Namen nach C-092 nachziehen ✓
 
+**Ergebnis**
+
+- **Entschieden:** Im ruhenden Szenentext stehen noch die alten Namen; nachzuziehen beim Überarbeiten. Nur noch Textarbeit.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
+
 Die Szenenablage wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im *Prolog* steht deshalb weiter **Jolyl** statt **Fridugund** ([C-092](#c-092-namenssystem-des-nordvolks-)). Beim nächsten Überarbeitungsdurchgang nachziehen - zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
 
 **Geschlossen (Autor, 21.09.2026):** Nur noch Textarbeit - steht in der Liste an [Szene 2](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt).
@@ -2662,6 +2754,17 @@ Die Szenenablage wurde bei der Namensumstellung bewusst ausgespart (Autorenanwei
 ---
 
 ### C-094: Der Sand an der Skir - was das Dorf sieht und wie es deutet ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - **Das Dorf glaubt das Ereignis, nicht Tibuns Deutung.** Den Sand sehen alle; nicht geglaubt wird, dass Girlin lebt und ein Ding sie geholt hat. Die wandernde Wala erklärt den Sand zum **Zeichen der Götter** und Girlin für **tot**.
+  - Im Sand steckt ein **Skarabäus** aus dem Fezzan, von der Kugelgrenze zerteilt: Eine Hälfte liegt an der Skir, die andere findet Girlin im Fezzan neben durchtrennten Steinen aus Skirraa. Sonst steckt nichts im Sand ([C-168](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)).
+  - Das Dorf nennt den Ort die **Tabustelle**, „der Ring" ist Tibuns Wort. Die Stelle wird nicht abgesperrt und nicht bewacht, sondern **gemieden**; die Wala droht mit göttlicher Strafe - dasselbe Schicksal wie Girlin.
+  - Die Wala kehrt zurück und bleibt bei ihrem Spruch ([C-050](#c-050-wandernde-wala---offene-felder-)). Ob die Angst über die Zeit bröckelt: [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-).
+- **Im Wiki:** [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#nach-dem-verschwinden-jahr-0-1), [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hatte hier einen **handfesten Widerspruch im Kernkonflikt** benannt: Nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden liegt an der Skir eine Halbkugel Wüstensand - in Jütland, für jeden sichtbar. Trotzdem soll [Tibun](../Menschen/Nordvolk/Tibun.md) „nicht geglaubt" werden.
 
@@ -2707,6 +2810,17 @@ Der Ort wird **nicht abgesperrt und nicht bewacht** - er wird gemieden. Die Wala
 
 ### C-095: Wann gilt eine Verschwundene als tot - und wann darf Semund neu heiraten? ✓
 
+**Ergebnis**
+
+- **Entschieden:**
+  - Der **Spruch der Wala genügt**: Sie erklärt Girlin für tot, das Thing braucht es nicht. Semund ist damit Witwer. **Frist: ein Winter** - er darf im Jahr nach der Toterklärung neu heiraten.
+  - Semund und Mildirun holen die Erlaubnis bei der **Wala von Tingsal**; die wandernde ist nur über sie zu erreichen. Danach folgt die öffentliche Verlobung. Semund will Tibun mitnehmen, Tibun will nicht. Die Walas sprechen **mit einer Stimme** - es gibt keine zweite Instanz.
+  - **Girlins Besitz:** Randlaug erbt das Kleingut (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat. Mildirun übernimmt Webstuhl und Herd. Tibun erbt nichts und nimmt sich den **Webkamm**, der rechtlich Randlaug zusteht - der Kamm bleibt ein Kamm. Die Herkunftssippe erhebt keinen Anspruch, es gibt sie nicht mehr ([C-161](#c-161-erhebt-girlins-herkunftssippe-anspruch-)).
+- **Verworfen:** die Frage, was rechtlich gilt, wenn eine für tot Erklärte zurückkehrt - ausdrücklich gestrichen.
+- **Im Wiki:** [Tibun](../Menschen/Nordvolk/Tibun.md#der-webkamm), [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md), [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#nach-dem-verschwinden-jahr-0-1)
+
+**Verlauf** - *nicht maßgeblich*
+
 Semunds schnelle Neubindung an [Mildirun](../Menschen/Nordvolk/Nebenfiguren/Mildirun.md) ist ein tragender Konflikt zwischen ihm und [Tibun](../Menschen/Nordvolk/Tibun.md) - hing rechtlich aber bisher in der Luft. Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt die Frage als eigene A-Entscheidung.
 
 **Grundlage jetzt vorhanden:** Mit [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) erklärt die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) [Girlin](../Menschen/Nordvolk/Girlin.md) **öffentlich für tot**. Das ist kein Gerücht und keine Vermutung, sondern ein Spruch der höchsten religiösen Autorität, die die Region kennt - damit ist Semund **nicht Verlassener, sondern Witwer**, und eine neue Ehe ist regelkonform.
@@ -2749,6 +2863,13 @@ Das widerspricht der Frist und dem Vorrang der religiösen Autorität nicht: Erl
 
 ### C-096: Korrektur - Girlins Alter ✓
 
+**Ergebnis**
+
+- **Entschieden:** Girlin ist bei Tibuns Geburt **18** - damit 34 in Jahr 0 und 44 im Finale. Bei Randlaugs Geburt ist sie 25; Semund ist bei Tibuns Geburt 19.
+- **Im Wiki:** [Girlin](../Menschen/Nordvolk/Girlin.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#altersgerüst)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Befund (31.08.2026):** Das Altersgerüst ([C-023 ✓](#c-023-zeitleiste--altersgerüst-)) setzte Girlin beim Verschwinden auf **30**. Bei [Tibun](../Menschen/Nordvolk/Tibun.md) **16** hieße das: Sie war bei seiner Geburt **14**.
 
 Das ist für 550 auffällig früh. Germanische Frauen heirateten nach den antiken Berichten eher spät - Tacitus hebt das ausdrücklich hervor; üblich war die erste Geburt mit **17 bis 20**. Vierzehn ist möglich, aber kein Normalfall und erklärt sich nicht von selbst - ein Verstoß gegen das Authentizitätsprinzip, solange keine Vorgeschichte ihn trägt.
@@ -2768,6 +2889,13 @@ Bei [Randlaugs](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) Geburt war sie **
 ---
 
 ### C-097: Girlins Kinderfolge - die neun Jahre Lücke ✓
+
+**Ergebnis**
+
+- **Entschieden:** Es gab **drei weitere Kinder, keines hat überlebt** - eines zwischen Tibun und Randlaug, zwei danach; das letzte, ein Säugling von wenigen Wochen, starb in **Jahr -1 (549)**. Randlaug war damals 8, Tibun 15. Im Erzähltext wird der Verlust mit einem einzigen, beiläufigen Satz sichtbar ([C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)).
+- **Im Wiki:** [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Girlin](../Menschen/Nordvolk/Girlin.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur---girlins-alter-)) fiel eine Lücke, die vorher niemandem auffiel: [Tibun](../Menschen/Nordvolk/Tibun.md) geboren bei [Girlin](../Menschen/Nordvolk/Girlin.md) **18**, [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) bei **25**, Verschwinden mit **34**. Sieben Jahre zwischen den Kindern, danach neun Jahre ohne ein weiteres - bei einer verheirateten Frau in einer Gesellschaft ohne Verhütung. Ohne Erklärung eine stille Abweichung vom Authentizitätsprinzip.
 
@@ -2793,6 +2921,13 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 
 ### C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt ✓
 
+**Ergebnis**
+
+- **Entschieden:** Tibun sieht es **in Jahr 0 an der frischen Mulde**: halbierte Steine, glatt durchtrennte Wurzeln, Schnittflächen wie mit dem Messer - kohlschwarz versengt, auf beiden Seiten ([C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)). Deshalb baut er seine Anlage **außerhalb** der Kugel ([C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)).
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-kampf-im-norden-minuten-kein-tag), [Tibuns Generator](../Technik/Tibuns-Generator.md#der-bauplatz---alles-außerhalb-der-tauschkugel)
+
+**Verlauf** - *nicht maßgeblich*
+
 Im Finale nutzt [Tibun](../Menschen/Nordvolk/Tibun.md) gezielt, dass die Kugelgrenze **schneidet** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). Er hat den Ring aber nie zuvor gezündet - **woher weiß er das?**
 
 **Entschieden (Autor, 31.08.2026): Er sieht es früh, an der frischen Mulde in Jahr 0.**
@@ -2813,6 +2948,15 @@ Direkt nach Girlins Verschwinden untersucht der Sechzehnjährige die Stelle: **h
 ---
 
 ### C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ✓
+
+**Ergebnis**
+
+- **Entschieden:** Das Bernsteinrad gibt seine Ladung **laufend an eine Kette** ab, die blau leuchtet. Gezündet wird, indem das freie Ende der Kette aus dem Dachstuhl der Werkstatt fällt und Rad und Ring verbindet. Ausgelöst wird mit einer **Zugschnur**, die knapp außerhalb der Kugel bis zum Boden hängt; Tibun greift hinaus und hat Hand und Fuß knapp wieder in der Kugel, bevor die Kette unten ist. Ob ein Funke oder eine Folge zündet, wird im Text nicht erklärt. Gegen Feuchtigkeit genügt die Werkstatt; die Aufhängung der Kette: [C-187](#c-187-die-geladene-kette---aufhängung-und-weg-nach-oben-).
+- **Verworfen:** der isolierte Konduktor · die Leidener Flasche - Anachronismus · der Ring als Ladungsspeicher.
+- **Offen geblieben:** die Fallhöhe der Kette · ??? - die 2 m im Verlauf sind vom Autor nicht bestätigt.
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#übertragung-und-auslöser), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#zündung-2---tibuns-auslösung)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Entschieden (Autor, 31.08.2026):** Das **Bernsteinrad** lädt auf, gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Speicher und Ring verbindet. Punktuell, gezielt, augenblicklich.
 
@@ -2853,6 +2997,19 @@ Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](..
 
 ### C-100: Die Werkstatt an der Tabustelle ✓
 
+**Ergebnis**
+
+- **Entschieden:**
+  - Tibun baut eine **überdachte Werkstatt über dem Ring** - kein verstecktes Gerüst; der Konflikt ist der Punkt. Sie reicht die Böschung hinunter und fasst auch das Bernsteinrad; Bau und Aussehen: [C-188](Challenges.md#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-). Bezahlt aus Ersparnissen aus Kaupvik ([C-163](#c-163-womit-tibun-die-werkstatt-bezahlt-)).
+  - Der Konflikt ist **Ansteckungsangst, kein Vertreibungskonflikt**: Das Dorf warnt ihn, ängstlich und ärgerlich; niemand hilft, er wird gemieden, niemand vertreibt ihn - wer dorthin geht, ist selber schuld. **Niemand aus dem Weiler kommt an den Bau**, auch Randlaug und die Kinder nicht; einzige Ausnahme ist die gerufene Wala.
+  - **Semund duldet ihn**, fern vom Ring und ohne über das Thema zu reden. Tibun wohnt zunächst auf dem Hof; nach dem erneuten, härteren Spruch der Wala muss er ihn verlassen und zieht auf die Baustelle ([C-189](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)).
+  - Die **Wala** sieht es sich an, deutet es wie zuvor und **lässt ihn gewähren** ([C-050](#c-050-wandernde-wala---offene-felder-)).
+  - **Randlaug** weiß, was er tut, hält ihn für verloren und will ihn zur Vernunft bringen.
+- **Verworfen:** ein verstecktes Balkengerüst, um das Tabu zu umgehen (Claudes Vorschlag) · die Frage, was ihn vor der Vertreibung rettet - gegenstandslos.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#rückkehr--vollendung-jahr-9--10-tibun-25--26), [Tibun](../Menschen/Nordvolk/Tibun.md), [Tibuns Generator](../Technik/Tibuns-Generator.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Entschieden (Autor, 31.08.2026): Tibun baut eine überdachte Werkstatt über dem Ring** - kein verstecktes Gerüst. *(Nachtrag 15.09.2026: Die Werkstatt reicht die Böschung hinunter und fasst auch das Bernsteinrad; Bau und Aussehen → [C-188](Challenges.md#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-).)* Der Vorschlag lautete umgekehrt (Balkengerüst, um das Tabu zu umgehen); der Autor hat das abgelehnt, **weil der Konflikt der Punkt ist**.
 
 Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) zum Tabu erklärt hat ([C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-)), ist keine heimliche Arbeit mehr, sondern eine **öffentliche Ansage**. Damit hat der Nordstrang in den Jahren +9 bis +10 endlich einen eigenen Konflikt, statt nur auf das Finale zu warten - und der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bekommt eine Antwort auf seine Frage *„Wer will den Ring außer Tibun?"*.
@@ -2886,6 +3043,14 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 
 ### C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓
 
+**Ergebnis**
+
+- **Entschieden:** Girlin will **ein Zeichen durch den Ring schicken**, damit ihre Familie weiß, dass sie lebt. **Sie kommt nie dazu** - Angriff und Zündungen überholen sie; es geht nichts hinüber, und der Leser erfährt nicht, dass etwas ankommt. Das Zeichen ist ein **Bündel**: eine Strähne ihres Haars, ein gewebtes Stück, ihre Mantelfibel - kein Schriftstück. Es liegt fertig und wetterfest verpackt bereit, gedacht für die Familie; dass Tibun fort ist, weiß sie nicht ([C-134](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)).
+- **Verworfen:** eine Nachricht, die im Norden ankommt - stammte von Claude.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#vollendung-zweifel-und-angriff-jahr-8--10), [Girlin](../Menschen/Nordvolk/Girlin.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Entschieden (Autor, 31.08.2026):** [Girlin](../Menschen/Nordvolk/Girlin.md) bleibt in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)). Was ihr bleibt, ist der Wunsch, **ein Zeichen durch den Ring zu schicken**, damit ihre Familie weiß, dass sie lebt.
 
 **Sie kommt nie dazu.** Der Angriff auf die Schlucht und die beiden Zündungen überholen sie. Die Nachricht ist ihr **Antrieb in den letzten Monaten, keine Handlung im Finale** - es geht nichts hinüber.
@@ -2904,6 +3069,18 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 ---
 
 ### C-102: Was bei Zündung 1 aus dem Norden verschwindet ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - Bei Zündung 1 geht **kein Mensch** in die Wüste - **nur Erde und Sand**, der Teil der Kugel unter dem Boden. Kein Wasser, kein Werkzeug, kein Gerät; der Tausch macht kein Schauspiel.
+  - Tibuns Anlage steht **bewusst außerhalb** der Kugel, auch die Kette hängt noch im Dachstuhl - nichts geht mit über.
+  - Tibun **begreift es erst durch Azzim**: Im Moment der fremden Zündung sieht er nur, dass etwas geschehen ist. Der Beweis kommt als Person.
+  - **Die Birke:** Eine junge, dünne Birke wächst seit Jahren durch die Ringöffnung. Beim Flip in Jahr 0 trennt die Kugelgrenze sie durch: Stamm und Wurzelballen gehen in die Wüste, die Krone fällt herunter. Sie ist kein lauteres Zeugnis als die Steine, und der Stumpf in der Wüste ist kein Geheimnis.
+- **Verworfen:** „Der Ring liegt am Bach; bei jeder Zündung wandern rund 14 m³ Bachwasser und Erdreich in die Wüste" - stammte von Claude ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#zündung-1---aus-der-wüste), [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund)
+
+**Verlauf** - *nicht maßgeblich*
 
 Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)) kommt Azzim nach Jütland - **gleichzeitig geht eine Halbkugel Norden in die Wüste**, ohne jede Vorwarnung für Tibun.
 
@@ -2939,6 +3116,14 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 ### C-103: Transportlogistik des Wüstenrings ✓
 
+**Ergebnis**
+
+- **Entschieden:** Den Ring transportiert **der ganze Clan, eigens für den Ring** - in Jahr +7/+8, ein paar Wochen lang, auf einem Schlitten aus Palmstämmen ([C-125](#c-125-das-transportverfahren-ist-offen-)). Er versorgt sich mit mitgebrachten **Herden und Vorräten**; Zugtiere sind **Kamele**, wie viele, klärt der Szenentext. Die Kosten trägt der Clan, **umsonst ist es nicht**: Er erwartet **Sekkans Dienst** als Gegenleistung; worin der besteht, klärt der Szenentext. Eine Entfernung wird nicht angegeben, die Strecke ist Szenensache.
+- **Verworfen:** die Tagesleistung von 1-3 km - folgte aus einem erfundenen Verfahren.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Folgt aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-). Rund 5,7 t sollen durch die Sahara bewegt werden ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)) - der Zug liegt in **+7/+8** und dauert **ein paar Wochen** (Autor, 09.09.2026); die alte Spanne „Jahr +5 bis +8" ist überholt. **Das Verfahren war offen** → [C-125 ✓](#c-125-das-transportverfahren-ist-offen-) (entschieden 22.09.2026); die Punkte hier hingen daran.
 
 **Zu klären · ???**
@@ -2968,6 +3153,12 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--
 
 ### C-104: Wasser als Gegenleistung - das Motiv des Transports ✗
 
+**Ergebnis**
+
+- **Entschieden:** **Gestrichen.** Wasser als Motiv des Transports war nie eine Entscheidung des Autors, sondern Claudes Ergänzung. Der Clan transportiert den Ring aus **Sippenpflicht** ([C-061](#c-061-navigationswissen-des-häuptlings-)). Es gehen auch keine 14 m³ Bachwasser über - der Ring im Norden liegt auf trockenem Grund.
+
+**Verlauf** - *nicht maßgeblich*
+
 Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. **Das Motiv muss den [Kel Aman](../Kulturen/Kel-Aman/README.md) gehören, nicht Girlin.**
 
 ~~Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schiebt rund 14 m³ Süßwasser in die Wüste. Sobald Bellbrim das begreift, ist der Ring eine Quelle.~~ **Gestrichen (Autor, 03.09.2026):** Der Ring im Norden liegt auf **trockenem Grund**; es geht kein Bachwasser über → [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
@@ -2988,6 +3179,17 @@ Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. 
 ---
 
 ### C-105: Der Neffe - Name, Eigenschaften, Schweigebitte ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - Der Neffe heißt **Sekkan**, ist bei Beziehungsbeginn (Jahr +3) etwa 37 - gleicher Jahrgang wie Girlin - und ist **Karawanenführer und Jäger**. Seine Frau ist zuvor durchgebrannt ([C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)); er ist der Vater von Girlins drittem Kind.
+  - **Seine Handlungen:** Er löst sich in Jahr +5 mit Girlin und dem Kind vom Clan · er hilft, die Hilfe des Clans zu erwirken - Girlin bittet selbst, sie arbeiten als Team · er hält die vier in der Schlucht am Leben (Jagd, Handel, Wege) · er verteidigt die Schlucht im Finale, wird verwundet und überlebt ([C-151](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)).
+  - Niemand verstößt ihn; der Wegzug ist extrem unüblich, sein Preis ist **Entzug** - er vermisst Sippe und Aufgaben ([C-152](#c-152-ishmalen---häuptling-der-kel-aman-)).
+- **Verworfen:** die Bitte an den Onkel, über den Ringstandort zu schweigen ([C-061](#c-061-navigationswissen-des-häuptlings-)) · der Verlust seiner Sippe als Strafe.
+- **Im Wiki:** [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die Figur nicht. Es gibt weder Namen noch Alter noch Stellung im Clan.
 
@@ -3020,6 +3222,14 @@ Eigene Datei angelegt: [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md);
 
 ### C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Ehe ist ein Vertrag zwischen Sippen.** Eine Frau kann die Ehe beenden, aber nur geregelt - über ihre Sippe und mit einem Ausgleich. Sekkans Frau hat nicht das Recht gebrochen, sondern das **Verfahren**: Sie ging einfach; zwischen den beiden Sippen steht seither eine offene Rechnung. **Girlin kann als Sippenlose nicht heiraten** - deshalb nimmt Ishmalen sie förmlich auf, und der Clan wird ihre Sippe; wann: [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-). **Girlin und Sekkan heiraten.**
+- **Offen geblieben:** worin der Ausgleich besteht · ob auf den Verfahrensbruch Gewalt folgt · ???
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#ehe-und-trennung), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-060 ✓](#c-060-girlin-und-der-neffe-): Die Frau des Neffen verlässt ihn für einen anderen Mann. Der Beat trägt zwei Figuren - aber die **Kultur dahinter fehlt vollständig**.
 
 **Entschieden (Autor, 09.09.2026):** Der Grundsatz ist, dass **Ehe ein Vertrag zwischen Sippen** ist, nicht zwischen zwei Personen. Beide Antworten folgen daraus.
@@ -3037,6 +3247,12 @@ Gehört zur Schicht „Ordnung" des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.m
 ---
 
 ### C-107: Azzims Motiv - Wasser statt Sklaverei ✗
+
+**Ergebnis**
+
+- **Entschieden:** **Gestrichen.** Azzims Motiv bleibt **Sklaverei** - Girlin ist für ihn Ware. Er weiß nichts vom Ring; Wasser war Claudes Ergänzung. Seine zweite Seite: [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-).
+
+**Verlauf** - *nicht maßgeblich*
 
 Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hält [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) für einen *rein einseitigen Gegenspieler* und verlangt ein Motiv, das man versteht. Mit [C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-) liegt es auf dem Tisch: **Wasser.**
 
@@ -3057,6 +3273,19 @@ Berührt [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-) und [C-028](#
 ---
 
 ### C-108: Der Kampf in der Schlucht während Tibuns Ankunft ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - Azzims drei bis vier Leute **brechen ab und fliehen**, sobald er verschwindet; Tibun trifft keinen mehr an ([C-133](#c-133-azzims-leute-für-den-angriff-)).
+  - Girlin erkennt Tibun an **Augen und Gesicht** - und daran, dass niemand sonst durch den Ring kommen könnte. Ausformuliert wird das in der Geschichte.
+  - **Keine Sprachbarriere** zwischen Mutter und Sohn; auch Girlin und Bellbrim verständigen sich in der Sprache des Nordens ([C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)).
+  - Es geht **kein Wasser** mit - der Wasserfall fällt außerhalb der Kugel.
+  - Der Teil Azzims, der in der Kugel lag, kommt mit Tibun in der Ringkammer an; die Szene zeigt ihn **nur als Wirkung**.
+- **Verworfen:** Tibun landet mitten im laufenden Kampf · Tibun landet in einer Pfütze jütischen Bachwassers - stammte von Claude.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#schluss), [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer)
+
+**Verlauf** - *nicht maßgeblich*
 
 Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). Die Ausgangsannahme war, dass der Kampf in der Wüste deshalb **noch läuft**, wenn Tibun aus dem Nichts in der Schlucht landet - ohne Waffe, ohne Vorräte, im Hemd. **Das gilt nicht mehr** (siehe unten): Azzims Leute sind bis dahin fort. *(Die frühere Fassung „in einer Pfütze jütischen Bachwassers" ist gestrichen - der Ring im Norden liegt auf trockenem Grund, 03.09.2026.)*
 
@@ -3080,6 +3309,15 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 
 ### C-109: Ladezeit des Konduktors ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Ladezeit beträgt **rund 30 Minuten** und gehört **dem Rad, nicht dem Ring** - der Ring ist immer startklar ([C-164](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)). Für das Finale ist sie ohne Belang: Bei Zündung 1 hängt die Kette im Dachstuhl, der Stromkreis ist offen, die Ladung bleibt - Tibun kann jederzeit zünden.
+- **Verworfen:** die „Uhr des Finales", in der Tibun kämpft, bis das Rad genug geladen hat - stammte von Claude · der Konduktor ([C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)).
+- **Offen geblieben:** ob ein besserer Antrieb oder eine größere Reibfläche die 30 Minuten verkürzt · ???
+- **Im Wiki:** [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Entschieden (Autor, 31.08.2026): rund 30 Minuten** - und **ohne Belang für das Finale.**
 
 Die Sorge war, dass Zündung 1 den Skir-Ring mitflippen lässt und Tibun deshalb warten müsste, bis nachgeladen ist. **Das ist nicht so:**
@@ -3101,6 +3339,14 @@ Das fällt sauber aus der Kettenlösung selbst und braucht keine Sonderregel.
 
 ### C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Der Schlusssatz passt.** Die Anlage im Norden zündet nach dem Finale nicht von selbst ([C-178](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)).
+- **Verworfen:** die Prämisse „es gibt keinen Boten" und mit ihr das Entweder-oder „naiv oder Trotz".
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#schluss)
+
+**Verlauf** - *nicht maßgeblich*
+
 Das Buch endet mit: *„Was machen wir jetzt?" - „Jetzt holen wir deine Schwester…"* ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)).
 
 **Das Problem steckt in der eigenen Mechanik.** Der Ring **tauscht** - man kann niemanden rufen, der nicht schon dort steht. [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) müsste im Augenblick der Zündung im Nordring stehen, und es gibt keinen Boten, keine Nachricht, keine Verabredung über viertausend Kilometer. Ein aufmerksamer Leser weiß das nach vierhundert Seiten.
@@ -3121,6 +3367,14 @@ Ob das trägt, hängt an [C-178](#c-178-was-die-anlage-im-norden-nach-zündung-2
 
 ### C-111: Wiederaufstellung des Rings nach dem Transport (Kernfrage) ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die **Kopplung bleibt erhalten**, wenn ein Ring seinen Ort wechselt - sie ist eine Eigenschaft des Ringpaares, nicht des Standorts. Der Ring wird **niemals aufgerichtet**, er liegt. In der Ringkammer liegt er auf dem Boden, ohne Mulde ([C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-)).
+- **Verworfen:** „Wer gräbt, macht die eigene Anlage beim ersten Auslösen zunichte" - stammte von Claude; die Mulde wechselt nur die Seite ([C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-)).
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#kopplung--runen), [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-): Der Wüstenring wird versetzt. Die blockierende Frage war: **Bleibt die Kopplung erhalten, wenn ein Ring seinen Ort wechselt?** Wäre sie ortsgebunden, hätte der Transport das gesamte Finale gebrochen.
 
 **Entschieden (Autor, 31.08.2026): Ja, sie bleibt. Der Ort hat nie eine Rolle gespielt.**
@@ -3137,6 +3391,13 @@ Die Kopplung ist eine Eigenschaft des **Ringpaares**, nicht des Standorts ([C-01
 ---
 
 ### C-112: Das Wüstenkind während des Finales ✓
+
+**Ergebnis**
+
+- **Entschieden:** Tamant ist während des Finales **bei Bellbrim**, in einer **benachbarten Kammer** - sicher hinter einer Tür, mit Blick durch ein Fenster oder Loch im Fels auf die Ringkammer. Beide sehen Kampf, Zündungen und **Tibuns Ankunft**: das Kind als Zeuge, der nicht versteht, Bellbrim als Zeugin, die nicht beteiligt ist. Bellbrim **greift nicht ein**; der Kampf bleibt bei Sekkan und Girlin. Der Fels trennt die beiden vom Ring.
+- **Im Wiki:** [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#vollendung-zweifel-und-angriff-jahr-8--10), [Tamant](../Menschen/Kel-Aman/Nebenfiguren/Tamant.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)) - alt genug, um zu sprechen, zu laufen und zuzusehen. Während des Angriffs auf die Schlucht und zweier Zündungen ist es irgendwo.
 
@@ -3161,6 +3422,14 @@ Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes
 
 ### C-113: Bellbrims Sprache - Verhältnis zu C-026 ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Sprachen sind **ähnlich**. Girlin und Bellbrim verstehen sich nicht sofort vollständig, **können aber vom ersten Treffen an kommunizieren**; daraus entsteht kein Konflikt. Bellbrim bringt Girlin die Sprache der Wüste bei; Girlin lernt sie zugleich selbst, durch Fleiß und Anstrengung.
+- **Verworfen:** volle Verständigung ab dem ersten Treffen ([C-180](#c-180-warum-bellbrim-die-sprache-des-nordens-spricht-)) · eine mühsame Verständigung über Monate als Konflikt.
+- **Im Wiki:** [Bellbrim](../Menschen/Andere/Bellbrim.md), [Girlin](../Menschen/Nordvolk/Girlin.md#besondere-fähigkeiten)
+
+**Verlauf** - *nicht maßgeblich*
+
 Der Autor hat am 31.08.2026 zu [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) festgelegt: **[Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) sprechen beide die Sprache des Nordens und können sich verständigen**; Bellbrim bringt Girlin die Sprache der Wüste bei.
 
 **Das ist enger als der bisherige Wiki-Stand.** [C-026](#c-026-bellbrim---historische-plausibilität--herkunft-) hielt fest, Bellbrims **Vandalisch** sei mit Girlins Sprache *verwandt, aber nicht gleich* - die Barriere bleibe also erhalten. Auch der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt unter „Sprache" noch offen, **wie lange Girlin sprachlos bleibt und was das mit ihr macht**.
@@ -3183,6 +3452,13 @@ Nachgezogen: [Bellbrim](../Menschen/Andere/Bellbrim.md), [Weltenbau-Leitfaden](W
 
 ### C-114: Girlin weiß von Anfang an, dass der Ring ihr Rückweg ist ✓
 
+**Ergebnis**
+
+- **Entschieden:** Girlin weiß **von Anfang an**, dass der Ring ihr einziger Rückweg ist - eine Reise zu Fuß aus dem Fezzan ist für sie keine Möglichkeit, sondern eine Todesart. Es gibt kein Erweckungserlebnis; die Jahre gehen für das *Wie* drauf, nicht für das *Ob*. Woher sie es weiß: Beim Sturz sieht sie den Ring noch, und in der Wüste liegt sie wieder in einem Ring gleicher Form.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#ankunft-und-erste-jahre-jahr-0--3)
+
+**Verlauf** - *nicht maßgeblich*
+
 Offen war: **Wann begreift [Girlin](../Menschen/Nordvolk/Girlin.md), dass der Ring ihr Weg zurück ist?** Das ist der Moment, der ihren ganzen Strang startet.
 
 **Entschieden (Autor, 02.09.2026): Es gibt keinen solchen Moment - es ist ihr von vornherein klar.**
@@ -3199,6 +3475,17 @@ Der Grund liegt nicht in Erkenntnis, sondern in Arithmetik: Eine Reise zu Fuß a
 ---
 
 ### C-115: Tibuns Wanderjahre - die Stationen fehlen ✓
+
+**Ergebnis**
+
+- **Entschieden:**
+  - **Es sind keine Wanderjahre.** Die Reise nach Kaupvik dauert Wochen, mit **einer Zwischenstation**, an der er sich einer Gruppe anschließt ([C-124](#c-124-die-zwischenstation---ort-und-gruppe-)). Dort lernt er, ohne Sippe zu überleben, und bekommt die **erste Absage**, als er nach dem Ring fragt - er lernt zu schweigen.
+  - **Kaupvik, Jahr +1 bis +9:** Er braucht das Wissen und sammelt Bernstein durch Handel und eigenes Sammeln. +1 bis +4 Hafenarbeit und Zieheltern · +4/+5 der Unfall an der Bootsziehwinde, die Erkenntnis · +5 bis +9 das Tischmodell.
+  - **Aufbruch in +9:** Das Tischmodell läuft, und er hält Wissen und Bernstein für ausreichend - zu Recht. Die Zieheltern bleiben lebend zurück.
+- **Verworfen:** acht Wanderjahre mit mehreren Stationen auf dem Ochsenweg.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Die größte Lücke des Buches.** Jahr **+1 bis +9** - acht Jahre, ein Drittel der Erzählzeit - enthält bisher drei Ereignisse: *geht los*, *kommt in [Kaupvik](../Orte/Kaupvik.md) an*, *Hafenunfall*. Zwei davon sind Abreise und Ankunft.
 
@@ -3237,6 +3524,14 @@ Betrifft [C-059](#c-059-tibuns-zieheltern-in-kaupvik-) (Zieheltern als Endpunkt)
 ---
 
 ### C-116: Azzim tritt zu spät auf ✓
+
+**Ergebnis**
+
+- **Entschieden:** Azzim bekommt **frühere Auftritte - vier**: Basar (+5, nach der Trennung) · Transport (+7/+8) · Basar und Verfolgung bis zur Schlucht (+9) · Angriff (+10) ([C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)). Er **weiß nie vom Ring**; sein Motiv ist Sklaverei. Von Girlin erfährt er über Gerede auf dem Basar ([C-165](#c-165-wie-azzim-von-girlin-erfährt-)); früher zugreifen kann er nicht, solange der Clan sie schützt.
+- **Verworfen:** Azzim wird über das Wasser oder den Transport auf den Ring aufmerksam - stammte von Claude · Girlin sei erst ab +8 ungeschützt ([C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)).
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#azzim---die-vier-auftritte-im-überblick-entschieden-03092026), [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Bisher erscheint [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) erst auf dem **Basar in Jahr +10** ([Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), Girlin 13). Ein Antagonist, der im letzten Zehntel auftaucht, ist ein **Zwischenfall, kein Gegenspieler.**
 
@@ -3281,6 +3576,14 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 
 ### C-117: Ringgeometrie neu vermessen ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Ringgeometrie ist neu festgelegt; der **3-m-Ring ist der Referenzring**, Formvorbild der **flache Armreif** ([C-007](#c-007-proportionen-der-portalringe-), [C-073](#c-073-querschnitt-der-ringe---flacher-armreif-)): Innen-Ø 3,00 m · Außen-Ø 3,30 m · Dicke 0,15 m · Breite 0,50 m · Rundungsradius 0,03 m · Volumen 0,734556 m³ · 5.729,5 kg.
+- **Verworfen:** die alte Rechnung aus dem Einen Ring (Außen-Ø 3,81 m, Wand 0,405 m, Breite 1,05 m, ~8 t) - falsche Skalierungsbasis und falscher Querschnitt · der Transport als „Jahresvorhaben" - stammte von Claude.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#anhang-maße-und-herleitung)
+
+**Verlauf** - *nicht maßgeblich*
+
 **Erledigt (Autor, 02.09.2026).** Die gesamte Ringgeometrie wurde in einer eigenen Sitzung durchgerechnet und neu festgelegt. Die alten Zahlen (Außen-Ø 3,81 m, Wand 0,405 m, Breite 1,05 m, ~8 t) sind **vollständig ersetzt**.
 
 **Zwei Fehler steckten in der alten Rechnung:**
@@ -3310,6 +3613,14 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 
 ### C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ✓
 
+**Ergebnis**
+
+- **Entschieden:** Tibun **verliert in den Kaupvik-Jahren nichts Konkretes** ([C-182](#c-182-was-tibun-in-den-kaupvik-jahren-verliert-)). Kaupvik ist die gute Zeit - Arbeit, Lernen, Bernsteinhandel, Bernsteinsuche, Experimente; der Konflikt von +9/+10 trägt den Rückweg. Der Aufbruch hat ein Hindernis: die **Bitte der Zieheltern**, zu bleiben oder wiederzukommen, einmal beim Abschied ausgesprochen.
+- **Verworfen:** ein zusätzlicher Verlust zwischen +1 und +9 - vom Autor zurückgenommen.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-) (02.09.2026): Tibuns Aufbruch aus [Kaupvik](../Orte/Kaupvik.md) ist **rein positiv** - das Modell läuft, das Material reicht, die Zieheltern bleiben lebend und im Guten zurück.
 
 Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfall ([C-058](Challenges.md#c-058-wasserrad-unfall-und-tibuns-schuld-)), der Ausschluss. Danach kostet ihn acht Jahre lang nichts mehr etwas, bis zum Finale.
@@ -3333,6 +3644,13 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 ---
 
 ### C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Altlast-Tabelle ist **abgeschlossen**. Neue Funde werden direkt gelöst oder wandern in eine neue Challenge. Was über den Wortlaut des Autors hinausgeht, wird `???` oder eine eigene Challenge - nie Fließtext im Indikativ.
+- **Verworfen:** alles, was in den Tabellen im Verlauf als *gestrichen* oder *korrigiert* steht - die Tabellen bleiben als Liste, damit nichts davon wieder auftaucht. Ausnahme: Den **Erdrutsch**, der den Ring freilegt, hat der Autor später selbst gesetzt ([C-128](#c-128-fundort-und-freilegung-des-skir-rings-)). Als *nachträglich übernommen* gelten die Sommer-Regel, die Bewaffnung und die Verortungstabelle der Kel Aman.
+
+**Verlauf** - *nicht maßgeblich*
 
 **Vom Autor beanstandet (02.09.2026):** In früheren Sitzungen hat Claude **eigenmächtig Festlegungen ins Wiki geschrieben**, die der Autor nie getroffen hat. Sie wurden anschließend als Bestand behandelt und trugen weitere Schlussfolgerungen und Challenges. Wörtlich: *„In den früheren Sessions und beim Erstellen der Challenges hast du dir viel zu viel herausgenommen."*
 
@@ -3395,6 +3713,14 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik
 
 ### C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der Konflikttest gilt, **ohne feste Zahl**. Konflikte mit zwei verständlichen Seiten: Semund gegen Tibun · Tibun gegen Wala und Weiler · Randlaug gegen Tibun · Sekkan und der Clan. Azzims zweite Seite: **Sein Ansehen hängt daran** - seine Leute folgen ihm persönlich; wer von einer Fremden und einem Clan abgewiesen wird, verliert vor ihnen das Gesicht und am Ende die Leute (Claudes Ausgestaltung, vom Autor bestätigt).
+- **Verworfen:** „drei Konflikte" als feste Regel des Autors - stammte von Claude · die nicht gewählten zweiten Seiten: *selbst einmal Ware*, *im Recht nach Brauch*, *sein Handel bricht weg*.
+- **Im Wiki:** [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md#prüfliste)
+
+**Verlauf** - *nicht maßgeblich*
+
 Mit der Streichung des Wassermotivs ([C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-)) ist [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) wieder das, was der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bemängelt hat: ein **rein einseitiger Gegenspieler**. Ein Sklavenjäger, der Menschen als Ware sieht, ist der einseitigste Antagonist, den die Epoche hergibt.
 
 Die Prüfliste verlangt **drei Konflikte, bei denen beide Seiten verständlich sind**. Zwei stehen: Semund gegen Tibun, und neu die **Werkstatt gegen den Weiler** ([C-100](#c-100-die-werkstatt-an-der-tabustelle-)) - dort ist die Angst des Dorfes vollkommen nachvollziehbar. **Der dritte fehlt.**
@@ -3429,6 +3755,12 @@ Gewählt aus vier Vorschlägen von Claude; nicht gewählt: *selbst einmal Ware*,
 
 ### C-121: Zwei Generatoren, ungleiche Bauzeiten ✗
 
+**Ergebnis**
+
+- **Entschieden:** **Gestrichen.** Die Challenge beruhte auf einer Erfindung: Dass beide Stränge dasselbe Gerät bauen und ihre Bauzeiten vergleichbar sind, war nie entschieden. Die Bauart des Wüstengenerators ist offen: [C-135](Challenges.md#c-135-der-wüstengenerator---bauart-offen-).
+
+**Verlauf** - *nicht maßgeblich*
+
 > **Vom Autor beanstandet (03.09.2026):** *„Ich habe nie gesagt, dass sie das gleiche Gerät bauen. Wie der Generator in der Wüste aussieht oder funktioniert ist noch offen. Auch die Bauzeit, oder dass sie ungleich ist, war bei mir noch nie Thema."*
 >
 > **Die Challenge selbst beruht auf einer Erfindung.** Sie setzt voraus, dass beide Stränge dasselbe Gerät bauen und dass Bauzeiten vergleichbar sind - beides war nie entschieden. Damit ist auch die am 03.09.2026 zunächst notierte „Auflösung" (*beide bauen fünf Jahre*) hinfällig; sie wiederholte denselben Fehler. Aufgenommen in [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-). Die offene Frage nach der Bauart steht jetzt in [C-135](Challenges.md#c-135-der-wüstengenerator---bauart-offen-).
@@ -3449,6 +3781,19 @@ Bellbrim ist als Gelehrte angelegt, das erklärt einen Teil. Aber der Unterschie
 ---
 
 ### C-122: Der Wüstenstrang zwischen +8 und +10 ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Wüstenstrang von +5 bis +10:
+  - **+5:** Bitte an den Clan und Trennung - Girlin, Sekkan und das Kind ziehen zu Bellbrim in die Schlucht.
+  - **+5 bis +7:** Die vier leben dort - Jagd, Weben, Landwirtschaft, Handel; die **Arbeit am Generator beginnt**, Jahre bevor der Ring da ist. Der Basar ist der wiederkehrende Ort, an dem sie Material holen.
+  - **+7/+8:** Der Clan kommt wieder, Girlin bricht mit ihm auf; der Transport dauert ein paar Wochen. In +8 liegt der Ring in der Schlucht, der Clan zieht weiter.
+  - **+8 bis +10:** Vollendung des Generators, fertig erst in +10.
+  - **+9:** Azzim auf dem Basar; sie entkommt, er folgt ihr und findet die Schlucht, dann holt er Leute.
+  - **+10:** Generator fertig → Zweifel → Entschluss bestätigt → Angriff.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#girlins-strang-jahr-0--10-girlin-34--44---10-jahre-in-der-wüste)
+
+**Verlauf** - *nicht maßgeblich*
 
 Nach dem Umbau vom 02.09.2026 steht der Ring **ab Jahr +8** in der Schlucht, der Clan ist weitergezogen, und das Finale liegt in **+10**. Für diese **zwei Jahre** kennt die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) bisher: Experimente mit Wasserfall und Wasserrad, Girlins Entschluss zu bleiben ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)), ihr Vorhaben der Nachricht ([C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)), Basar und Flucht.
 
@@ -3474,6 +3819,19 @@ Beim Füllen stellte sich heraus, dass die Voraussetzungen der Challenge falsch 
 ---
 
 ### C-123: Azzims frühe Auftritte - Zahl und Zeitpunkte ✓
+
+**Ergebnis**
+
+- **Entschieden:** Azzim hat **vier Auftritte**, der vierte ist der Angriff selbst:
+  - **+5, nach der Trennung, Basar:** Gespräch, Angebote, Versprechungen, dann Drohungen - kein Zugriff; Girlin entkommt. Bellbrim ist dabei ([C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)).
+  - **+7/+8, Transport:** Er verhandelt offen mit dem Clan, will sie kaufen oder eintauschen. Sippenpflicht schlägt Handel; er verliert den Zug und sieht nicht, wohin der Ring gebracht wird.
+  - **+9, Basar → Schlucht:** Zugriff, sie entkommt, er folgt ihr und findet die Schlucht.
+  - **+10:** der Angriff.
+  - Sein Motiv ist doppelt: ihr **Wert** als seltene Ware und die **Demütigung**. Wie er von ihr erfährt: [C-165](#c-165-wie-azzim-von-girlin-erfährt-).
+- **Verworfen:** ein erster Zugriff in +3 bis +5, den der Clan abwehrt.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#azzim---die-vier-auftritte-im-überblick-entschieden-03092026), [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-116](#c-116-azzim-tritt-zu-spät-auf-) (02.09.2026): Dass Azzim **mehrfach** vor dem Finale auftritt und Girlin **persönlich** begegnet, ist entschieden. **Wie viele Auftritte und in welchen Jahren, ist offen.**
 
@@ -3507,6 +3865,15 @@ Der Rahmen steht: Solange der Clan sie schützt (bis +8), scheitert jeder Zugrif
 
 ### C-124: Die Zwischenstation - Ort und Gruppe ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Zwischenstation heißt **Vegamot** - ein **Rastplatz, kein Dorf**, an der Querung des Limfjords, rund drei Tage von Skirraa. Die Fährstelle ist Aggersund (vom Autor als nebensächlich bezeichnet). Die Gruppe ist ein **Händlerzug**; Tibun gibt dafür alles, was er hat - Arbeit unterwegs, Wolle und Stoff vom Hof, seine Hände für Reparaturen an Karren und Gerät.
+- **Idee des Autors, nicht beschlossen:** Tibun erwischt die ablegende Fähre nur, weil er vom Steg aus den letzten Meter springt.
+- **Verworfen:** die Gegend des späteren Viborg - vier bis fünf Tagesmärsche, unvereinbar mit den drei Tagen.
+- **Im Wiki:** [Vegamot](../Orte/Vegamot.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#aufbruch-und-die-kaupvik-jahre-jahr-1--9-tibun-17--25)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-) (02.09.2026): Auf dem Weg nach [Kaupvik](../Orte/Kaupvik.md) gibt es **genau eine Station**, an der Tibun sich einer **Gruppe anschließt**. Dort lernt er zweierlei: ohne Sippe zu überleben, und über den Ring zu schweigen.
 
 **Entschieden (Autor, 10.09.2026):**
@@ -3531,6 +3898,14 @@ Nachgezogen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Tibun](../Menschen/
 ---
 
 ### C-125: Das Transportverfahren ist offen ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Ring wird **flach liegend gezogen**, auf einem **Schlitten aus Palmstämmen** - zwei Kufen mit Querhölzern. Zugtiere sind **Kamele**; wie viele, klärt der Szenentext. Den Zug stellt der ganze Clan, eigens für den Ring ([C-103](#c-103-transportlogistik-des-wüstenrings-)).
+- **Verworfen:** Schlitten auf befeuchteter Piste · die Route nur über Hammada und Serir · 1-3 km am Tag - alles stammte von Claude.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Vom Autor beanstandet (02.09.2026):** *„Wie der Ring in der Wüste transportiert wird habe ich noch nicht entschieden. Wasser und Piste war auch nur eine Halluzination von dir."*
 
@@ -3568,6 +3943,13 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--
 
 ### C-126: Der Postring - was passt hinein? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Plot 1 braucht den Postring nicht** - er bleibt ein Weltenbau-Detail. Was hineinpasst, klärt erst eine Geschichte, die ihn braucht. Er wiegt rund 5,7 kg.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#größen--zweck)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ring wiegt nach neuer Geometrie und Referenzdichte **~5,7 kg** (Außen-Ø 0,33 m, Dicke 0,015 m, Breite 0,05 m) - ein flacher Ring, den man mit beiden Händen umfassen kann - gut ein Drittel Meter außen, fingerdick, handbreit schmal.
 
 **Die Gewichtsfrage ist damit erledigt:** ~5,7 kg liegen nah an den früher angenommenen ~8 kg. Der Ring bleibt, was [C-010 ✓](#c-010-ringsystem---kopplungsmechanik-) beschreibt - eine Last, die man bewusst mitnimmt, kein Nichts in der Tasche.
@@ -3581,6 +3963,14 @@ Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ri
 ---
 
 ### C-127: Referenzdichte ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Referenzdichte 7,8 g/cm³** - der 3-m-Ring wiegt damit 5.729,5 kg, der 0,30-m-Ring 5,73 kg. **Kein Materialbeschluss**, reine Rechengröße auf Autorenebene; niemand in der Welt von 550 kann einen solchen Körper wiegen.
+- **Verworfen:** Aluminium (2,7 g/cm³) - deckungsgleich mit der Optikreferenz und trotzdem nicht leicht genug für einen Effekt · jede Legierungsbezeichnung, weil sie zum Identifizieren einlädt.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#gewichte-nach-dichte)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Entschieden (Autor, 02.09.2026): Referenzdichte 7,8 g/cm³.**
 
@@ -3601,6 +3991,14 @@ Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ri
 ---
 
 ### C-128: Fundort und Freilegung des Skir-Rings ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Skir-Ring liegt am **Waldrand von Vilund**, einen Steinwurf von der Zeremonienstelle, oben auf der hohen Uferböschung, ein paar Meter über dem Fluss. Er lag **jahrelang vergraben**; **Erdbeben und Erdrutsch** legen ihn frei. Er rutscht nicht in den Skir, sondern bleibt **liegend und leicht schräg** auf der Böschung; Girlin stolpert über den Rand. Niemand beansprucht ihn: vorher vergraben, danach Tabu. Das Tabu beginnt mit Girlins Verschwinden und gilt **der Stelle, nicht dem Wald**.
+- **Offen geblieben:** wie die Tabuzone markiert oder abgegrenzt ist, und ob man sie von der Zeremonienstelle aus sieht · ???
+- **Im Wiki:** [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund), [Vilund](../Orte/sonstiges.md#vilund)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Vom Autor beanstandet (02.09.2026):** *„Der Ring liegt im Wald in der Nähe des Baches."* Der zuvor im Wiki stehende **Erdrutsch am Steilufer** war nicht vom Autor gedeckt und ist gestrichen ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
 
@@ -3627,6 +4025,15 @@ Nachgezogen in [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund) und [sonsti
 ---
 
 ### C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ✓
+
+**Ergebnis**
+
+- **Entschieden:** Girlin ist **ab +5 ohne Sippenschutz**. Die Lücke bis +9 trägt die **Lage**: Die Schlucht kennen sehr wenige, Azzim ist eine Weile unterwegs, und beim Transport sieht er nicht, wohin der Ring kommt. Auf dem Basar **meiden sie ihn**. Sein erster Auftritt liegt in +5, nach der Trennung, ohne Zugriff ([C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)). Er ist sehr temperamentvoll und leicht aufbrausend; gedemütigt wird er durch ihre Abweisung, ihr Entkommen und den abgelehnten Handel beim Transport.
+- **Verworfen:** „ab +8 ungeschützt" als Begründung für Azzims Zögern.
+- **Offen geblieben:** wie sie ihn auf dem Basar meiden · ???
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#die-bitte-und-die-trennung-jahr-5), [Der Basar](../Orte/Basar.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Trennung vom Clan liegt in **Jahr +5**, nicht +8. Damit fällt die Begründung weg, die [C-116](#c-116-azzim-tritt-zu-spät-auf-) und [C-061](#c-061-navigationswissen-des-häuptlings-) für Azzims Zögern trugen - *„ab +8 ist sie ungeschützt"* stimmt nicht mehr.
 
@@ -3658,6 +4065,14 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Auftritt 1 in den Absc
 
 ### C-130: Wie der Transport terminiert wird ✓
 
+**Ergebnis**
+
+- **Entschieden:** Bitte in **+5**, Transport in **+7/+8**. Der Clan hat eigene Wege: Er musste es erst beschließen, war weit weg, und erst musste die Lage es zulassen. Die **Zusage kommt in +6**, durch einen fremden Clanmann, der in die Schlucht kommt. Dass es so weit ist, erfährt Girlin über Boten und Nachrichten - und ein so großer Clan fällt auf, wenn er in die Nähe des Basars kommt. Die Bitte hören Ishmalen und der Ältestenrat.
+- **Verworfen:** „Weidewechsel, Handelszüge, Jahreszeiten - man tut es, wenn der Zug ohnehin passt" - stammte von Claude.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Die Bitte ergeht in **+5**, der Transport findet **+7/+8** statt. Der Grund für die zwei Jahre steht: **Der Clan hat eigene Wege** (Autor, 03.09.2026). Was genau das heißt: ???
 
 > **Gestrichen (Autor, 22.09.2026):** Hier stand zusätzlich *„Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf."* Das war Claudes Beschreibung der Antwortoption, nicht das Wort des Autors. Der Clan zieht **eigens für den Ring** los ([C-103 ✓](#c-103-transportlogistik-des-wüstenrings-)).
@@ -3685,6 +4100,13 @@ Berührt [C-103](#c-103-transportlogistik-des-wüstenrings-) und [C-125](#c-125-
 
 ### C-131: Generatorarbeit ohne Ring ✓
 
+**Ergebnis**
+
+- **Entschieden:** Ohne Ring prüfbar ist, **dass Entladungen entstehen** - sie sehen und hören sie; Maß ist die Länge der Entladung, dazu der Schlag am eigenen Leib. **Wie viel genug ist, weiß niemand**; Maßstab ist Girlins Blitz. Tatsächlich zündet schon eine kleine Menge - das weiß aber niemand. Die Jahre trägt der Alltag - Jagd, Weben, das Kind - und sichtbare Fortschritte. Tibun lädt weiter bis zum blauen Glimmen. Statt „Funke" steht im Wiki und in den Szenen **Entladung** oder **Blitz**.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#die-jahre-in-der-schlucht-jahr-5--7), [Portalringe](../Technik/Portalringe.md#funktionsweise)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): [Bellbrim](../Menschen/Andere/Bellbrim.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) beginnen die Arbeit am Generator in **+5** - der Ring liegt aber erst ab **+8** in der Schlucht. Drei Jahre lang bauen sie also an etwas, das sie nicht ausprobieren können.
 
 **Zu klären · ???**
@@ -3710,6 +4132,14 @@ Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/P
 
 ### C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓
 
+**Ergebnis**
+
+- **Entschieden:** Bezahlt wird mit allem, was die vier beitragen: **Gewebtes** von Girlin, **Jagdbeute und Häute** von Sekkan, **Feldfrüchte** aus der Schlucht und **Bellbrims Wissen** als Dienstleistung. Der Basar liegt **einen Tagesmarsch** entfernt, ein Nachbar. **Wer geht, wechselt** - meist zwei, mindestens einer bleibt beim Kind.
+- **Offen geblieben:** welches Material der Generator braucht - hängt an seiner Bauart ([C-135](Challenges.md#c-135-der-wüstengenerator---bauart-offen-)).
+- **Im Wiki:** [Der Basar](../Orte/Basar.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Der Basar ist ein **wiederkehrender Ort** - der Generatorbau verlangt Material, das die Schlucht nicht hergibt. Das ist zugleich der einzige Grund, warum die vier ihr Versteck verlassen, und damit der einzige Weg, auf dem Azzim sie wiederfinden kann.
 
 **Entschieden (Autor, 09.09.2026):**
@@ -3725,6 +4155,13 @@ Eingetragen in die neue Ortsdatei [Der Basar](../Orte/Basar.md) (angelegt 09.09.
 ---
 
 ### C-133: Azzims Leute für den Angriff ✓
+
+**Ergebnis**
+
+- **Entschieden:** Azzim bringt **drei bis vier eigene Leute** mit - Männer, die ohnehin für ihn arbeiten. Es kostet ihn nichts außer Zeit. Sobald er verschwindet, **brechen sie ab und fliehen**; sie kämpfen nicht weiter und plündern nicht. Tibun trifft keinen von ihnen mehr an.
+- **Im Wiki:** [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#zündung-1---aus-der-wüste)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026): Nach dem gescheiterten Zugriff in **+9** kennt Azzim die Schlucht - aber *„eine Schlucht mit Fels nimmt man nicht allein"*. Er **holt Leute**; das kostet die Zeit bis +10.
 
@@ -3747,6 +4184,14 @@ Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026):
 ---
 
 ### C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Nachricht ist **ein Bündel**: eine Strähne ihres Haars, ein gewebtes Stück, ihre Mantelfibel. **Kein Schriftstück** - Girlin weiß, dass im Norden niemand lesen kann, und wählt bewusst, was ihre Leute deuten können. Empfänger ist **die Familie**; dass Tibun fort ist, weiß sie nicht.
+- **Verworfen:** ein Brief.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#vollendung-zweifel-und-angriff-jahr-8--10)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-) (03.09.2026): Die Nachricht ist **fertig und wetterfest verpackt** und liegt bereit. Der Leser sieht sie, bevor die Ereignisse sie überholen.
 
@@ -3773,6 +4218,14 @@ Berührt [C-025](#c-025-girlin---charakter--fähigkeiten-) (Weben ist ihr Handwe
 ---
 
 ### C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Flip dauert **fest 1 s** - im Erzähltext **ein Herzschlag**. Daraus: π rad/s, an der Außenkante rund 5,2 m/s (18,8 km/h).
+- **Verworfen:** die Spanne 100-150 ms und die daraus gerechneten 126 km/h.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#dauer-des-flips)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen beim Nachrechnen der Ringmaße (04.09.2026). [Portalringe.md](../Technik/Portalringe.md) gibt als Berechnungsreferenz für die Flipdauer eine **Spanne** an - *100-150 ms* - nennt dazu aber nur **ein** Zahlenpaar: *„~21 rad/s, Kantengeschwindigkeit außen ~35 m/s (≈ 126 km/h)"*.
 
@@ -3803,6 +4256,13 @@ Beides ist eine Festlegung des Autors. Bis dahin bleibt die Zahl im Wiki unverä
 
 ### C-137: Detailabschnitte ab C-099 stehen unter der falschen Überschrift ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Trennung des Detailteils in *Offen* und *Gelöst* ist aufgegeben. Heute gilt: offene Einträge in `Challenges.md`, entschiedene und gestrichene in `Challenges-Archiv.md`, beide aufsteigend nach Nummer.
+- **Im Wiki:** [Regeln](Regeln.md#offen-und-archiv)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen beim Sortieren der Challenges nach Thema (04.09.2026). Diese Datei trennt die Detailabschnitte in `## Offen` und `## Gelöst / Entschieden`. **Bis C-098 stimmt die Zuordnung. Ab C-099 stehen alle Einträge unter `## Gelöst / Entschieden`** - auch die offenen.
 
 Betroffen sind unter anderem [C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-), [C-105](#c-105-der-neffe---name-eigenschaften-schweigebitte-), [C-112](#c-112-das-wüstenkind-während-des-finales-), [C-125](#c-125-das-transportverfahren-ist-offen-) und [C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-) bis [C-135](Challenges.md#c-135-der-wüstengenerator---bauart-offen-).
@@ -3820,6 +4280,13 @@ Die Überschriften `## Offen` und `## Gelöst / Entschieden` sind durch **ein** 
 ---
 
 ### C-138: Abstand zwischen Beben und Blitz ✓
+
+**Ergebnis**
+
+- **Entschieden:** Reihenfolge **Beben → Bernstein-Effekt → Blitz**, alles in **Jahr 0**, jeweils nur ein paar Tage dazwischen; der Auftakt umfasst ein bis zwei Wochen. **Jahr -1 entfällt**, Tibun ist beim Bernstein-Effekt 16. Die alte Szene gilt nicht als Kanon.
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus der Entscheidung vom 04.09.2026 ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md#was-am-04092026-entschieden-wurde---prolog-und-anfang)): Das frühere „Das Beben und der Blitz" ist in **zwei Szenen** geteilt. Beide liegen in Jahr 0.
 
@@ -3841,6 +4308,14 @@ Damit **entfällt Jahr −1 vollständig.** Der Bernstein-Effekt lag bisher ein 
 
 ### C-139: Erzählreihenfolge - verschränkt oder blockweise ✓
 
+**Ergebnis**
+
+- **Entschieden:** Erzählt wird **verschränkt** - die Stränge wechseln sich ab, der Wechsel darf unregelmäßig sein.
+- **Verworfen:** blockweise Erzählung.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#gliederung)
+
+**Verlauf** - *nicht maßgeblich*
+
 Bisher nirgends als Frage geführt, obwohl sie das Buch stärker prägt als die meisten offenen Punkte.
 
 Die [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil---zwei-parallele-stränge) zeichnet zwei **parallele Stränge** als Blöcke nebeneinander. Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) ordnet chronologisch. Beides ist mit dem Material vereinbar - ergibt aber verschiedene Bücher:
@@ -3860,6 +4335,14 @@ Nachgezogen in [Szenen.md](../Plots/Plot-1/Szenen.md#gliederung). Folge für [C-
 
 ### C-140: Wo der Anfang endet ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der **Anfang endet mit Szene 4**, *Der Blitz - Tibun* - nach Girlins Verschwinden, aus Tibuns Sicht. Der Hauptteil beginnt mit *Der Suchtrupp*.
+- **Verworfen:** das Ende von Jahr +1 als Grenze.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#gliederung)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus den Entscheidungen vom 04.09.2026: Der **Prolog** besteht aus dem Beben, der **Anfang** setzt mit dem Bernstein-Effekt ein - wenige Tage später, ebenfalls in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Der **Schluss** ist der gemeinsame Block ab Zündung 1.
 
 **Offen · ???** Wo der Anfang endet und der Hauptteil beginnt, steht nirgends.
@@ -3875,6 +4358,13 @@ Nachgezogen in [Szenen.md](../Plots/Plot-1/Szenen.md#gliederung). Der Generator 
 ---
 
 ### C-141: Der Auftakt ist jetzt sehr dicht ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Verlobungsfeier wenige Tage nach dem Beben ist **bewusst so** - ein Fest gegen die Angst. Das Beben macht den Ring zugänglich ([C-128](#c-128-fundort-und-freilegung-des-skir-rings-)).
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt)
+
+**Verlauf** - *nicht maßgeblich*
 
 Folge aus [C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-) (04.09.2026): Beben, Bernstein-Effekt und Blitz liegen alle in Jahr 0, jeweils nur wenige Tage auseinander. Der gesamte Auftakt umfasst damit **ein bis zwei Wochen** statt gut einem Jahr.
 
@@ -3893,6 +4383,14 @@ Kein Widerspruch, nur eine Enge, die vorher nicht bestand.
 ---
 
 ### C-142: Wie die geschriebenen Szenen gegliedert werden ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Teile heißen **Prolog · Anfang · Hauptteil · Schluss**; die Ablage außerhalb des Wikis wird danach umbenannt. Der Hauptteil bleibt **ein durchgehender Block**. Im Buch ist **nur der Prolog sichtbar**.
+- **Verworfen:** Akt-1 / Akt-2 / Finale.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#gliederung)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen am 04.09.2026: Die Ablage der geschriebenen Szenen ist in **Prolog / Akt-1 / Akt-2 / Finale** unterteilt. Die am 04.09.2026 besprochene Gliederung heißt dagegen **Prolog / Anfang / Hauptteil / Schluss**. Beides sind Vierteilungen, aber mit verschiedenen Namen - und „Akt-1/Akt-2" legt eine Zweiteilung der Mitte nahe, die nirgends beschlossen ist.
 
@@ -3918,6 +4416,13 @@ Aufgefallen am 04.09.2026: Die Ablage der geschriebenen Szenen ist in **Prolog /
 
 ### C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ✓
 
+**Ergebnis**
+
+- **Entschieden:** Für den Szenenzuschnitt gilt ein **Gesamtvorbehalt** im Kopf von Szenen.md: Er ist Arbeitsstand, bis der Autor die Liste selbst umgebaut hat. Eine Herkunftsmarkierung je Szene wird nicht geführt; die Statuszeile der Datei ist entfernt.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Angelegt am 04.09.2026 zusammen mit [Szenen.md](../Plots/Plot-1/Szenen.md). Der Inhalt der Datei wurde 1:1 aus dem Schaubild *Szenenliste* übernommen - Wortlaut geprüft, 44 von 44 Szenen identisch. Damit steht der Szenenzuschnitt jetzt **im Wiki**, und genau das ist die Lage, vor der [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-) warnt.
 
 **Vom Autor gedeckt sind:** dass der Prolog aus dem Beben besteht, dass Beben / Bernstein-Effekt / Blitz in Jahr 0 liegen ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)) und dass der Schluss der gemeinsame Block ab Zündung 1 ist ([C-140](#c-140-wo-der-anfang-endet-)).
@@ -3942,6 +4447,13 @@ Die Statuszeile der Datei steht deshalb auf `???`. Die Herkunft ist derzeit **ni
 
 ### C-144: Das Feld „Will" ist uneinheitlich belegt ✓
 
+**Ergebnis**
+
+- **Entschieden:** Das Feld *Will* benennt **immer das Wollen der POV-Figur**, nie das des Gegenspielers; ein zweites Feld gibt es nicht. Wo das Wollen der POV-Figur unbekannt ist, steht `???`. Was die POV-Figur in den betroffenen Szenen will, ist Buchinhalt und offen.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen am 04.09.2026 bei der maschinellen Prüfung von [Szenen.md](../Plots/Plot-1/Szenen.md). In **39 Szenen** benennt das Feld *Will* das Wollen der **POV-Figur**. In **fünf** benennt es das Wollen des **Gegenspielers**:
 
 | Nr. | Szene | POV | Will |
@@ -3964,6 +4476,13 @@ Aufgefallen am 04.09.2026 bei der maschinellen Prüfung von [Szenen.md](../Plots
 
 ### C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓
 
+**Ergebnis**
+
+- **Entschieden:** Das Feld *Hindernis* hat **drei Zustände**: konkreter Inhalt · `keins` - bewusst kein Widerstand, optional mit Begründung · `???` - noch zu entscheiden. Die Kennzahlen zählen `keins` und `???` getrennt.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen am 04.09.2026 in [Szenen.md](../Plots/Plot-1/Szenen.md). Die Kennzahl *„15 ohne Hindernis"* zählt Szenen, deren Feld *Hindernis* auf `???` steht. Zwei Szenen haben aber **kein Hindernis, obwohl das Feld gefüllt ist** - sie fallen durch die Zählung:
 
 - **Nr. 33 · Aufbruch aus Kaupvik** - Hindernis: *„Nichts - der Aufbruch kostet ihn ausdrücklich nichts"*. Ein ausgeschriebenes Nichts, kein offener Punkt.
@@ -3980,6 +4499,14 @@ Aufgefallen am 04.09.2026 in [Szenen.md](../Plots/Plot-1/Szenen.md). Die Kennzah
 ---
 
 ### C-146: Was Girlin vom Flip wahrnimmt ✓
+
+**Ergebnis**
+
+- **Entschieden:** Girlin **nimmt vom Flip nichts wahr**: Auf der Flucht im Gewitter stürzt sie über den Ring, schlägt sich eine Kopfwunde und ist bewusstlos, bevor der Blitz einschlägt; den Ring sieht sie beim Sturz noch. Ihr Wissen kommt aus **drei Quellen**: dem Sturz - das letzte Bild vor der Ohnmacht · dem Ankunftsort - sie liegt in einem Ring gleicher Form, um sie Erde, Steine und die Birke aus Vilund · den Kel Aman, die nachts das Leuchten gesehen haben. Die erste Stunde tragen Sturz und Ankunftsort.
+- **Offen geblieben:** wann und wie sie von den Kel Aman vom Leuchten erfährt · ???
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#ankunft-und-erste-jahre-jahr-0--3), [Szenen](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 **Für die Szene gibt das Wiki fast nichts her.** Gedeckt ist nur:
 
@@ -4009,6 +4536,14 @@ Verwandt: [C-057](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-) 
 
 ### C-147: Die Nummer ist die Erzählreihenfolge ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Reihenfolge in Szenen.md **ist die Erzählreihenfolge**; eine zweite, chronologische Ordnung wird nicht geführt. Wann etwas geschieht, steht in der Zeitleiste.
+- **Verworfen:** die Ansichten *Chronologisch* und *Blockweise* in der Szenenliste · der Satz, die Nummer sei die „chronologische Position" - stammte von Claude.
+- **Im Wiki:** [Szenen](../Plots/Plot-1/Szenen.md#zählung)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgekommen am 04.09.2026, als der Autor **Der Blitz - Girlin** vor **Der Blitz - Tibun** gestellt hat. Beide Karten zeigen **denselben Augenblick**; zwischen ihnen gibt es keine Chronologie, die eine Reihenfolge erzwingen könnte.
 
 **Entschieden (Autor, 04.09.2026): Die Nummer in [Szenen.md](../Plots/Plot-1/Szenen.md) ist die Erzählreihenfolge.** Eine zweite, chronologische Ordnung wird nicht geführt.
@@ -4026,6 +4561,14 @@ Aufgekommen am 04.09.2026, als der Autor **Der Blitz - Girlin** vor **Der Blitz 
 ---
 
 ### C-148: Der Statusmarker im Titel bricht die Anker ✓
+
+**Ergebnis**
+
+- **Entschieden:** Jeder Challenge-Titel endet auf **ein Leerzeichen plus genau einen Marker** - `○` offen, `✓` entschieden, `✗` gestrichen. Kein Zusatzwort danach. So bleibt der Anker bei jedem Statuswechsel gleich.
+- **Verworfen:** Marker ganz aus den Titeln nehmen · eine Statuszeile unter dem Titel.
+- **Im Wiki:** [Regeln](Regeln.md#status-marker-in-challengesmd)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aufgefallen am 04.09.2026 beim Bau des erzeugten Zeitgerüsts, das den Status jeder C-Nummer braucht.
 
@@ -4056,6 +4599,15 @@ Aufgefallen am 04.09.2026 beim Bau des erzeugten Zeitgerüsts, das den Status je
 
 ### C-149: Wie die Kel Aman den Ring religiös einordnen ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der Ring ist für die Kel Aman **kein Heiligtum und kein Schatz**, sondern ein schweres, unheimliches Ding. Bewegt wird er allein aus **Sippenpflicht** gegenüber Sekkan. Er ist aber **ständiges Thema** - Gerede, Vermutungen, Geschichten am Feuer; eine gemeinsame Deutung gibt es nicht, nur viele Meinungen.
+- **Verworfen:** grüne Steine wie die Runen als heilige „Augen des Geistes" ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
+- **Offen geblieben:** ob eine dieser Meinungen im Erzähltext eine Stimme bekommt · ???
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#was-der-ring-ihnen-bedeutet)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen am 05.09.2026 beim Auflösen der Kel-Aman-Dublette: Der Hook stand nur in der alten Volksseite und war sonst nirgends erfasst.
 
 Das Transportmotiv ist entschieden - **Sippenpflicht** ([C-104 ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)). Damit ist aber nicht beantwortet, **was der Ring den Kel Aman bedeutet**, während sie ihn durch die Wüste schleppen ([C-103](#c-103-transportlogistik-des-wüstenrings-)).
@@ -4083,6 +4635,13 @@ Damit ist die religiöse Einordnung **keine**: Es gibt keine Deutung, die der Cl
 
 ### C-150: Was Bellbrim vom Wissen der Kel Aman hat ✓
 
+**Ergebnis**
+
+- **Entschieden:** Bellbrim profitiert **nicht** vom Wissen der Kel Aman - weder Sternkarten noch verborgene Wasserstellen. Was sie kann, bringt sie selbst mit. Ob die Kel Aman solches Wissen haben, ist damit nicht entschieden.
+- **Im Wiki:** [Bellbrim](../Menschen/Andere/Bellbrim.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aufgefallen am 05.09.2026 beim Auflösen der Kel-Aman-Dublette: ebenfalls nur dort notiert.
 
 Die alte Volksseite sah vor, dass [Bellbrim](../Menschen/Andere/Bellbrim.md) von Kel-Aman-Wissen profitiert - **alte Sternkarten, verborgene Wasserstellen**. Beides steht bis heute nur im ungeprüften Altmaterial der [Kulturbeschreibung](../Kulturen/Kel-Aman/README.md) und ist vom Autor nicht gedeckt.
@@ -4099,6 +4658,13 @@ Eingetragen in [Bellbrim](../Menschen/Andere/Bellbrim.md).
 
 ### C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓
 
+**Ergebnis**
+
+- **Entschieden:** Sekkan wird bei der Verteidigung der Schlucht **verwundet und überlebt**; er **verliert das linke Auge**, die Verwundung bleibt sichtbar ([C-166](#c-166-bleibt-sekkans-wunde-)).
+- **Im Wiki:** [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-105 ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-) übrig geblieben: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) verteidigt im Finale die Schlucht gegen [Azzims](../Menschen/Kel-Aman/Azzim-u-Tawan.md) Leute ([Szenen.md](../Plots/Plot-1/Szenen.md)). Offen ist, **was ihn das kostet** - stirbt er, wird er verwundet, überlebt er unversehrt?
 
 Die Frage hat Gewicht, weil [Girlin](../Menschen/Nordvolk/Girlin.md) im Finale **bei ihm bleibt** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)). Stirbt er, ist diese Entscheidung hinfällig und der ganze Wüstenstrang endet anders. Überlebt er unversehrt, war der Angriff folgenlos - und der teuerste Preis im Buch bleibt bei [Tibun](../Menschen/Nordvolk/Tibun.md) allein. Nichts festgelegt.
@@ -4110,6 +4676,15 @@ Die Frage hat Gewicht, weil [Girlin](../Menschen/Nordvolk/Girlin.md) im Finale *
 ---
 
 ### C-152: Ishmalen - Häuptling der Kel Aman ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Häuptling heißt **Ishmalen u-Gulan** ([C-170](#c-170-vatersnamen-für-sekkan-und-ishmalen-)), ist in Jahr 0 **etwa 55** und Sekkans Mutterbruder. Charakter: **ein gütiger, freundlicher alter Herr**, aber auch bestimmt und fair. **Es gibt keinen Bruch** in Jahr +5: Niemand verstößt Sekkan, der Clan hat Verständnis. Der Preis ist **Entzug** - fortzuziehen ist extrem unüblich, Sekkan vermisst Sippe und Aufgaben.
+- **Verworfen:** „klingt bewusst nah an Sekkan" als Begründung des Namens - stand ohne Autorenvermerk.
+- **Offen geblieben:** ob der Weggang eine eigene Szene braucht · sein Auftreten im Einzelnen · wie seine Güte zur Härte gegenüber Azzim passt · ???
+- **Im Wiki:** [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Der **Häuptling des Clans** trägt an mehreren Stellen Gewicht - er ist [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Onkel, und die **Sippenpflicht ihm gegenüber** ist der einzige Grund, warum der Clan den Ring überhaupt transportiert ([C-061 ✗](#c-061-navigationswissen-des-häuptlings-)). Trotzdem hat er weder Namen noch Alter noch Eigenschaften und keine eigene Datei.
 
@@ -4135,6 +4710,13 @@ Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Ja
 
 ### C-153: Haduriks Nachfolge in Tingsal ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Hadurik erlebt das Finale** und ist mit etwa 70 noch im Amt; über die zehn Jahre ändert sich in Tingsal nichts an der Autorität. Ein Erbe existiert - sein Sohn -, die Nachfolge liegt außerhalb der Erzählzeit ([C-167](#c-167-wer-folgt-hadurik-in-tingsal-)).
+- **Im Wiki:** [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) ist in Jahr 0 **etwa 60** ([C-048](#c-048-hadurik---offene-felder-)). Über die zehn Jahre der Handlung wird er 70 - für die Epoche ein hohes Alter.
 
 **Daraus folgt Ungeklärtes:**
@@ -4151,6 +4733,13 @@ Nichts festgelegt.
 ---
 
 ### C-154: Woher die Autorität der Walas kommt ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Autorität der Walas ruht auf **vier Säulen zugleich**: eine früh gezeigte Gabe - sie haben die Jahre ohne Sommer vorhergesagt · das Erbe der früheren Wala von Tingsal · die Zwillingsgeburt - zwei Frauen mit einer Stimme · das Fremdsein - ohne Sippe gelten sie als unparteiisch ([C-049](#c-049-wala-von-tingsal---offene-felder-)).
+- **Im Wiki:** [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Die beiden Wala-Zwillinge sind in Jahr 0 **etwa 35** und **von auswärts zugewandert** (Autor, 08.09.2026, [C-049](#c-049-wala-von-tingsal---offene-felder-)). Damit tragen ihr Ansehen **weder Alter noch Sippe**: Sie haben in der Gegend keinen Hof, keine Verwandten und keine Jahrzehnte hinter sich.
 
@@ -4177,6 +4766,13 @@ Das löst den Widerspruch sauber: Punkt 4 macht aus dem Mangel (keine Sippe, kei
 
 ### C-155: Breite und Tiefe des Skir ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der Skir ist an der Furt beim Weiler **etwa 4-6 Schritt breit** und an der tiefsten Stelle **knietief** - ein Kind kommt allein hinüber. Ob der Durchfluss für das Wasserrad reicht: [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-).
+- **Im Wiki:** [Skirraa](../Orte/Skirraa.md)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) beim Lückenaudit (08.09.2026) ausgelagert: Der [Skir](../Orte/Skirraa.md) ist als **kleiner Fluss, durchwatbar** entschieden - Zahlen dazu gab es nicht.
 
 **Entschieden (Autor, 08.09.2026): schmal und knietief.** An der Furt **etwa 4-6 Schritt breit**, an der tiefsten durchwatbaren Stelle **knietief**. Damit kommt **ein Kind allein hinüber** - der Weg zum Wald und zum Ring ist für [Tibun](../Menschen/Nordvolk/Tibun.md) kein Hindernis.
@@ -4188,6 +4784,14 @@ Bezugsebene: Maße gelten **an der Furt beim Weiler**, nicht flussabwärts.
 ---
 
 ### C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Vilund ist der Name des Waldes.** Er ist **klein**, in einer halben Stunde zu durchqueren. Heilig ist darin nur die **Zeremonienstelle**, eine kleine, geschmückte Lichtung mit Altar, Sitzbänken oder -stämmen und Feuerplatz; sie trägt keinen eigenen Namen. Der Ring liegt **einen Steinwurf** davon entfernt. **Kein stehendes Gewässer** - nur der fließende Skir.
+- **Verworfen:** ein Hain als eigener Ort *im* Wald.
+- **Im Wiki:** [Vilund](../Orte/sonstiges.md#vilund), [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) beim Lückenaudit (08.09.2026) ausgelagert. Entschieden ist: Der Wald am Skir **trägt beides** - den heiligen Hain [Vilund](../Orte/sonstiges.md) und den Ring -, und der Ring liegt **nicht** an der Zeremonienstelle.
 
@@ -4210,6 +4814,14 @@ Nachgezogen in [sonstiges.md](../Orte/sonstiges.md) und [Skirraa](../Orte/Skirra
 
 ### C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ✓
 
+**Ergebnis**
+
+- **Entschieden:** Girlin gehört dazu **ab der Verbindung mit Sekkan in Jahr +3**. Offiziell binden sich die beiden, als sie die Schwangerschaft bemerkt, im Lauf von +3/+4. Die Bitte um den Transport ergeht **förmlich vor Ishmalen und dem Ältestenrat**.
+- **Offen geblieben:** Form und Formel der Bitte · ???
+- **Im Wiki:** [Girlin](../Menschen/Nordvolk/Girlin.md), [Kel Aman](../Kulturen/Kel-Aman/README.md#ältestenrat)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-061 ✗](#c-061-navigationswissen-des-häuptlings-) beim Lückenaudit (08.09.2026) ausgelagert; dort stand es als Restpunkt ohne eigene Stelle.
 
 Das Hindernis vor dem Transport hat drei Phasen - **Zugehörigkeit → Wissen → Bitte** ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md)). Zwei davon sind unausgefüllt:
@@ -4230,6 +4842,13 @@ Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md), [Girlin](../Menschen/
 
 ### C-158: Klang und Gewicht des Rings ✓
 
+**Ergebnis**
+
+- **Entschieden:** Der Ring **klingt wie Metall** und **wiegt sich wie Metall**. Die Temperaturlosigkeit ist damit der einzige Bruch der Metall-Erwartung.
+- **Im Wiki:** [Portalringe](../Technik/Portalringe.md#haptik)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-075 ✓](#c-075-ist-das-ringmaterial-ein-metall-) beim Lückenaudit (08.09.2026) ausgelagert.
 
 Entschieden ist: **Metall auf den ersten Blick**, beim Anfassen **temperaturlos** ([C-074 ✓](#c-074-haptik-der-ringoberfläche-)). Offen sind die beiden weiteren Stellen, an denen die Metall-Erwartung brechen oder halten kann:
@@ -4244,6 +4863,13 @@ Eingetragen in [Portalringe - Haptik](../Technik/Portalringe.md#haptik).
 
 ### C-159: Filiation im Erzähltext der Kel Aman ✓
 
+**Ergebnis**
+
+- **Entschieden:** Die Filiation `u-`/`ult-` taucht im Erzähltext auf, **bei allen Figuren** - jede Kel-Aman-Figur braucht einen Vatersnamen ([C-170](#c-170-vatersnamen-für-sekkan-und-ishmalen-)). Sie **identifiziert, ist aber keine Anrede**: Unter Anwesenden steht nur der Rufname; die volle Form gehört zur Einführung einer Figur und zur Rede über Abwesende.
+- **Im Wiki:** [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-090 ✓](#c-090-kel-aman---eigenname-und-namenssystem-) beim Lückenaudit (08.09.2026) ausgelagert; dort als „kleiner Restpunkt" notiert.
 
 Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstammungsform `u-` („Sohn des") und `ult-` („Tochter des"). [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) trägt sie, [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishmalen](../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) nicht.
@@ -4257,6 +4883,14 @@ Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstam
 ---
 
 ### C-160: Bröckelt die Angst des Dorfes über die Zeit? ✓
+
+**Ergebnis**
+
+- **Entschieden:** Die Angst **bröckelt nicht**. In den acht Jahren ohne Tibun wird die Stelle gemieden wie am ersten Tag, und man erzählt davon, Kindern zur Warnung. Während er dort arbeitet, wird die Wala gerufen und **verhärtet das Tabu**. Dass die Strafe ausbleibt, merkt niemand als Widerlegung - *„die Strafe wird schon noch kommen"*. Auf das Wasserrad folgt nichts darüber hinaus.
+- **Verworfen:** ein Kampf um den Ring im Norden.
+- **Im Wiki:** [Skirraa](../Orte/Skirraa.md)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) und [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) beim Lückenaudit (08.09.2026) zusammengezogen - in beiden stand der Punkt offen, in keiner hatte er eine Stelle.
 
@@ -4283,6 +4917,14 @@ Entschieden war die **Grundhaltung**: Das Dorf warnt, meidet und hilft nicht; ni
 
 ### C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓
 
+**Ergebnis**
+
+- **Entschieden:** **Niemand erhebt Anspruch, weil es niemanden mehr gibt.** Girlins Herkunftsweiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche -, um 541/542 war er leer; Eltern und Geschwister starben mit ihm. Girlin weiß davon, sie erfuhr es über Reisende.
+- **Offen geblieben:** ob im Erzähltext eine Ursache benannt wird - keine Figur der Epoche könnte eine Seuche als solche bezeichnen · ???
+- **Im Wiki:** [Girlin](../Menschen/Nordvolk/Girlin.md#frühes-leben)
+
+**Verlauf** - *nicht maßgeblich*
+
 Aus [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) beim Lückenaudit (08.09.2026) ausgelagert; dort steht die Konfliktlinie als *verfügbar, nicht gesetzt*.
 
 Nach [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) hat die Herkunftssippe **keinen Anspruch**, weil Kinder da sind - sie **könnte** ihn aber erheben.
@@ -4300,6 +4942,14 @@ Nach [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-sem
 ---
 
 ### C-162: Das letzte tote Kind - Jahr und Sichtbarkeit ✓
+
+**Ergebnis**
+
+- **Entschieden:** Das letzte tote Kind starb in **Jahr -1 (549)**, ein **Säugling von wenigen Wochen**. Es liegt **auf dem Hofgelände**, in einer Grube nahe am Haus, **ohne Markierung**. Im Erzähltext wird der Verlust **einmal beiläufig genannt**.
+- **Offen geblieben:** ob Girlin in einer Szene an der Stelle vorbeigeht - entscheidet der Autor beim Schreiben.
+- **Im Wiki:** [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Nordvolk](../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-097 ✓](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-) beim Lückenaudit (08.09.2026) ausgelagert.
 
@@ -4326,6 +4976,14 @@ Das ist für 550 der **Normalfall**, nicht die Ausnahme: Säuglinge kommen nicht
 ---
 
 ### C-163: Womit Tibun die Werkstatt bezahlt ✓
+
+**Ergebnis**
+
+- **Entschieden:** Tibun bezahlt die Werkstatt aus **Ersparnissen aus Kaupvik** und aus dem, **was der Wald am Skir hergibt** - das Holz schlägt er selbst. Nichts davon kommt aus dem Weiler.
+- **Offen geblieben:** was ein Mann ohne Helfer in einem Winter schafft · ob er im Wald Vilund ungestraft Holz schlagen kann · ???
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#rückkehr--vollendung-jahr-9--10-tibun-25--26)
+
+**Verlauf** - *nicht maßgeblich*
 
 Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) beim Lückenaudit (08.09.2026) ausgelagert. Der Punkt verwies bisher auf [C-034 ✓](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-) - das ist geschlossen und beantwortet nur, wovon er **unterwegs** lebt, nicht, wovon er **baut**.
 

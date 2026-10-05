@@ -294,4 +294,4 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
   > G: *„Jetzt holen wir deine Schwester…"*
 
 - **Der Norden nach Tibuns Verschwinden wird nicht erzählt.** Wer die Tabustelle findet, was aus Randlaug, Semund und dem Dorf wird, bleibt außerhalb dieses Buches - Stoff für eine weitere Geschichte im Universum
-- **Offen:** Wissen beide beim Schlusssatz, was er kostet? Der Ring **tauscht** - man kann niemanden rufen, der nicht schon dort steht. Leichthin gesagt wirkt der Satz naiv; im vollen Bewusstsein gesagt ist er der beste des Buchs · **???**
+- **Der Schlusssatz passt** (Autor, 11.09.2026).

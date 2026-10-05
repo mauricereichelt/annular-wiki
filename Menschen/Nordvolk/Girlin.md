@@ -58,7 +58,7 @@ Ein einzelner Weiler, der in diesen Jahren leerläuft, ist damit der Normalfall 
 
 - **Willensstark und zäh - aber ihr Wille gilt ihren Kindern, nicht einem Ort.** Sie will nicht „heim"; sie will [Tibun](Tibun.md) und [Randlaug](Nebenfiguren/Randlaug.md) zurück und sie vor allem **wissen lassen, dass es ihr gut geht** (Autor, 30.09.2026).
 - **Wolle und Weben** - dasselbe Gewerbe wie in [Skirraa](../../Orte/Skirraa.md) (Autor, 30.09.2026). In der Wüste ernährt sie das, bevor [Bellbrim](../Andere/Bellbrim.md) auftaucht: Gewebtes ist Handelsgut, und eine fremde Webart fällt auf. Nützlich zu sein ist der Grund, warum eine Sprachlose geduldet wird (Autor, 30.09.2026).
-- **Sie lernt die Sprache aktiv**, weil sie weiß, dass es ihr hilft - keine Verweigerung, kein Rückzug (Autor, 30.09.2026).
+- **Sie lernt die Sprache aktiv**, weil sie weiß, dass es ihr hilft - keine Verweigerung, kein Rückzug (Autor, 30.09.2026). [Bellbrim](../Andere/Bellbrim.md) bringt ihr die Sprache der Wüste bei (Autor, 31.08.2026), doch sie lernt sie auch selbst, durch Fleiß und Anstrengung (Autor, 05.10.2026).
 
 **Ihr Ziel ist nicht Rückkehr, sondern Wiedervereinigung.** Sobald ihre Kinder bei ihr sind oder es ihnen erwiesen gut geht, will sie in der Wüste **bleiben** - neue Liebe und das Wüstenkind binden sie dorthin. Daraus folgt der Kernkonflikt des Finales: **Tibun will seine Mutter zurückholen, Girlin will ihre Kinder erreichen.** Zehn Winter lang arbeiten beide an derselben Sache mit unvereinbaren Zielen (Autor, 30.09.2026).
 

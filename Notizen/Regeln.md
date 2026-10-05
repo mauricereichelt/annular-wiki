@@ -138,6 +138,7 @@ Gilt für beide Challenge-Dateien.
 - Kein moderner Sprachgebrauch im Erzähltext oder Dialog
 - Kein Deus ex Machina
 - Rauer, knapper Dialog - keine Reden
+- **Kein „Funke"** für die elektrostatische Entladung - das Wort ruft gelbe Lagerfeuerfunken auf. Im Wiki und in den Szenen steht **Entladung** oder **Blitz** (Autor, 14.09.2026). Zitate und Streichvermerke bleiben im Wortlaut.
 
 ## Dramaturgie
 

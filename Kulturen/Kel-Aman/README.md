@@ -83,7 +83,7 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Ikkedas](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
 
-**Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishmalen u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
+**Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishmalen u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich. **Girlin und Sekkan heiraten** (Autor, 05.10.2026).
 
 ### Ältestenrat
 
@@ -115,7 +115,7 @@ Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, 
 
 **Die Zugehörigkeit endet dabei nicht** - der Schutz durch die Sippe aber praktisch schon: Sie ist nicht vor Ort und nicht schnell genug erreichbar, um sie um Hilfe zu bitten. Das trifft ab Jahr +5 auch [Girlin](../../Menschen/Nordvolk/Girlin.md).
 
-Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishmalen Girlin aufnimmt und ob sie und Sekkan tatsächlich heiraten.
+Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishmalen Girlin aufnimmt.
 
 ### Was der Ring ihnen bedeutet
 

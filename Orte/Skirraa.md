@@ -50,7 +50,7 @@ Alles hier vom Autor entschieden am 09.09.2026.
 
 **Wie er daliegt.** **Liegend**, nicht stehend, und **leicht schräg** - vom Erdrutsch und dem Gefälle der Böschung verschoben. Aber er liegt, und [Girlin](../Menschen/Nordvolk/Girlin.md) **stolpert über den Rand**. Eine **Mulde** hat er nicht, auch später nicht (Autor, 21.09.2026).
 
-**Die Birke.** Seit Jahren und schon **vor dem Beben** wächst eine junge, dünne Birke durch die Ringöffnung hindurch (Autor, 09.09.2026). Den Erdrutsch hält sie nicht auf - sie knickt. Beim Flip trennt die Kugelgrenze sie auf 1,50 m Höhe durch: Stamm und Wurzelballen gehen in die Wüste, die Krone fällt herunter.
+**Die Birke.** Seit Jahren und schon **vor dem Beben** wächst eine junge, dünne Birke durch die Ringöffnung hindurch (Autor, 09.09.2026). Den Erdrutsch hält sie nicht auf - sie knickt. Beim Flip trennt die Kugelgrenze sie durch: Stamm und Wurzelballen gehen in die Wüste, die Krone fällt herunter.
 
 **Warum ihn niemand beansprucht.** Es braucht dafür keine weitere Erklärung: **Vorher war er vergraben** und niemand wusste von ihm. **Danach ist der Ort Tabu** - die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) belegt ihn damit, nachdem Girlin verschwunden ist. Zwischen Freilegung und Tabu liegt kaum Zeit.
 
