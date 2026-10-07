@@ -14,7 +14,6 @@ Offene Punkte zum Buchinhalt. Entschiedene und gestrichene Einträge stehen im [
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
-- [C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ○](#c-192-unterschiedlicher-luftdruck-an-den-beiden-ringorten-)
 - [C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ○](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-)
 
 ---
@@ -123,31 +122,6 @@ Aus [C-186 ✓](Challenges-Archiv.md#c-186-das-bernsteinrad-unten-am-skir---näs
 - **Aussehen:** Wie sieht die Werkstatt von außen und innen aus?
 
 Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*).
-
----
-
-### C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ○
-
-Aufgefallen beim Durchspielen des Schichttauschs (30.09.2026, [C-181](Challenges-Archiv.md#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)). Der Luftdruck hängt von Höhenlage und Wetter ab. Die Luft in der Tauschkugel kommt mit dem Druck ihres Herkunftsorts an und gleicht sich danach an ihre neue Umgebung an: Am höher gelegenen Ring dehnt sie sich aus, am tiefer gelegenen strömt Luft nach. Das kollidiert möglicherweise mit [Portalringe](../Technik/Portalringe.md#aktivierung--tausch): *„Aus dem Ring tritt nichts aus - kein Strahl, keine Druckwelle."*
-
-**Rechenbeispiel (Claude)** - Normatmosphäre, `p = 1013,25 hPa · (1 − 2,25577·10⁻⁵ · h)^5,25588`, *h* in Metern über dem Meer. Skirraa (real: Bindslev) liegt wenige Meter über dem Meer; die Höhen des Wüstenrings sind **nur Beispiele**:
-
-<table>
-  <thead>
-    <tr><th>Höhe Wüstenring</th><th>Luftdruck</th><th>Unterschied zu Meereshöhe</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>300 m</td><td>978 hPa</td><td>36 hPa</td></tr>
-    <tr><td>500 m</td><td>955 hPa</td><td>59 hPa</td></tr>
-    <tr><td>800 m</td><td>921 hPa</td><td>92 hPa</td></tr>
-  </tbody>
-</table>
-
-Dazu kommt das Wetter, das den Druck an einem Ort um mehrere Dutzend hPa verschiebt. Zum Vergleich: 59 hPa entsprechen dem Druck von rund 0,6 m Wassertiefe (9,81 hPa je 10 cm).
-
-**Zu klären · ???**
-- Wie hoch liegt der Wüstenring?
-- Gleicht sich der Druckunterschied nach dem Tausch aus wie in der Natur - mit Luftstoß am Ring und Druck auf den Ohren der Reisenden?
 
 ---
 

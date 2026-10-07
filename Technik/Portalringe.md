@@ -73,6 +73,7 @@ Maßstab für jede Änderung an der Mechanik des Tauschs (abgestimmt mit dem Aut
     <tr><td>AC-10</td><td>Von außen sieht man, wie ein Körper am Zielort Schicht für Schicht entsteht und am Ausgangsort schwindet.</td><td>Autor, 30.09.2026</td></tr>
     <tr><td>AC-11</td><td>Was beim Zünden ganz in der Kugel ist, kommt vollständig und heil an, auch wenn es sich bewegt (Kampf, Sturz).</td><td>aus der Diskussion vom 30.09.2026; vom Autor mit der Starre umgesetzt</td></tr>
     <tr><td>AC-12</td><td>Mit dem Ring lässt sich nichts entsorgen: Abgetrenntes bleibt liegen.</td><td>Autor, 01.10.2026</td></tr>
+    <tr><td>AC-13</td><td>Alles in der Tauschkugel kommt mit dem Luftdruck des Zielorts an, auch die Luft im Körper. An die neue Höhe gewöhnt sich der Reisende danach auf natürliche Weise.</td><td>Autor, 07.10.2026</td></tr>
   </tbody>
 </table>
 
@@ -100,6 +101,40 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser, in einem 
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett. Die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
 - **Aus dem Ring tritt nichts aus** - kein Strahl, keine Druckwelle. Sichtbar sind allein das grüne Glühen der Runen und das grüne Leuchten der Schale, wo etwas sie berührt (siehe unten). Das gilt auch für **Luft**: Der Ring durchläuft sie wie alles andere **wie ein Geist** (Autor, 14.09.2026) - trotz ~19 km/h Kantengeschwindigkeit kein Luftstoß.
   > **Korrigiert (14.09.2026):** Hier stand als Begründung, der Ring verdränge nur Luft, die selbst Teil der Tauschkugel ist. Das widersprach der Geometrie oben: Der Ring läuft **außerhalb** der Kugel.
+- **Luftdruck.** Der Ring gleicht den Druck an: Alles in der Tauschkugel kommt mit dem Luftdruck des Zielorts an, die freie Luft ebenso wie die Luft im Körper (Autor, 07.10.2026). Was danach folgt: [Luftdruck und Höhe](#luftdruck-und-höhe).
+  - **Folgerung (Claude):** Kein Knall, kein Sog, kein Druck auf den Ohren - auch bei großem Unterschied in Höhe oder Wetter.
+
+---
+
+## Luftdruck und Höhe
+
+Der Luftdruck hängt von Höhe und Wetter ab; zwei Ringorte haben fast nie denselben. Den Unterschied gleicht der Ring beim Tausch aus (siehe [oben](#aktivierung--tausch)). **Danach gewöhnt sich der Reisende auf natürliche Weise an den neuen Druck** - die Atemluft ist dünner oder dichter (Autor, 07.10.2026).
+
+**Nach der Reise** (Claude, Richtwerte der realen Höhenmedizin; wie stark es den Einzelnen trifft, ist sehr verschieden). Der Ring versetzt ohne Aufstieg in die neue Höhe - wie heute ein Flug ins hoch gelegene La Paz (3600 m), nicht wie ein Marsch bergauf. Die Beschwerden fallen deshalb eher stärker aus als beim Aufstieg zu Fuß.
+
+<table>
+  <caption>Reisender aus dem Flachland - Zielhöhe über dem Meer</caption>
+  <thead>
+    <tr><th>Zielhöhe</th><th>Luftdruck</th><th>Sauerstoff gegenüber Meereshöhe</th><th>Folgen</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>bis 1500 m</td><td>1013-846 hPa</td><td>100-83 %</td><td>nicht spürbar</td></tr>
+    <tr><td>1500-2500 m</td><td>846-747 hPa</td><td>83-74 %</td><td>bei Anstrengung schneller außer Atem, das Herz schlägt schneller; in Ruhe kaum etwas. Höhenkrankheit selten</td></tr>
+    <tr><td>2500-3500 m</td><td>747-658 hPa</td><td>74-65 %</td><td>nach einigen Stunden häufig Höhenkrankheit: Kopfschmerz, Übelkeit, kein Appetit, schlechter Schlaf, Schwindel. Klingt meist nach einigen Tagen ab</td></tr>
+    <tr><td>3500-5500 m</td><td>658-505 hPa</td><td>65-50 %</td><td>Höhenkrankheit fast die Regel; wachsende Gefahr von Wasser in Lunge oder Hirn (Höhenlungen-, Höhenhirnödem), unbehandelt tödlich. Abstieg hilft</td></tr>
+    <tr><td>über 5500 m</td><td>unter 505 hPa</td><td>unter 50 %</td><td>auf Dauer kann hier kein Mensch leben; plötzliche Ankunft ist lebensgefährlich</td></tr>
+  </tbody>
+</table>
+
+- **Gewöhnung:** Die Atmung stellt sich in einigen Tagen um, ganz angepasst (mehr Blut) ist der Körper erst nach Wochen.
+- **Bergab:** Dichtere Luft macht keine Beschwerden. Wer oben angepasst gelebt hat, hat unten einige Wochen mehr Ausdauer, bis sich die Anpassung zurückbildet. Höhenkranken hilft der Abstieg.
+
+```
+Luftdruck (Normatmosphäre): p = 1013,25 hPa · (1 − 2,25577·10⁻⁵ · h)^5,25588
+h = Höhe über dem Meer in m
+Sauerstoff gegenüber Meereshöhe = p / 1013,25 hPa (der Sauerstoffanteil der Luft bleibt gleich)
+Das Wetter verschiebt p an einem Ort um mehrere Dutzend hPa.
+```
 
 ---
 

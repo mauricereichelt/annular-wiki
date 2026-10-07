@@ -193,6 +193,7 @@ Entschiedene (`✓`) und gestrichene (`✗`) Challenges, aufsteigend nach Nummer
 - [C-189: Der Weiler-Konflikt - Auszug vom Hof, eigene Szene ✓](#c-189-der-weiler-konflikt-hat-keinen-ort-mehr-)
 - [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
 - [C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ✓](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)
+- [C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ✓](#c-192-unterschiedlicher-luftdruck-an-den-beiden-ringorten-)
 
 ---
 
@@ -5826,3 +5827,48 @@ Unverändert: Tibun, Girlin, Semund (Rufnamen), Hadurik, Landarik, Gunthar, Rand
 Eingetragen in [Nordvolk - Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026).
 
 **Geschlossen (Autor, 28.09.2026).**
+
+---
+
+### C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Der Ring gleicht den Luftdruck an** - alles in der Tauschkugel kommt mit dem Druck des Zielorts an, auch die Luft im Körper. Danach gewöhnt sich der Reisende auf natürliche Weise an dünnere oder dichtere Luft.
+- **Nicht entschieden:** die Höhe des Wüstenrings - für den Tausch ohne Belang.
+- **Im Wiki:** [Portalringe - Luftdruck und Höhe](../Technik/Portalringe.md#luftdruck-und-höhe), AC-13
+
+**Verlauf** - *nicht maßgeblich*
+
+Aufgefallen beim Durchspielen des Schichttauschs (30.09.2026, [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-)). Der Luftdruck hängt von Höhenlage und Wetter ab. Die Luft in der Tauschkugel kommt mit dem Druck ihres Herkunftsorts an und gleicht sich danach an ihre neue Umgebung an: Am höher gelegenen Ring dehnt sie sich aus, am tiefer gelegenen strömt Luft nach. Das kollidiert möglicherweise mit [Portalringe](../Technik/Portalringe.md#aktivierung--tausch): *„Aus dem Ring tritt nichts aus - kein Strahl, keine Druckwelle."*
+
+**Rechenbeispiel (Claude)** - Normatmosphäre, `p = 1013,25 hPa · (1 − 2,25577·10⁻⁵ · h)^5,25588`, *h* in Metern über dem Meer. Skirraa (real: Bindslev) liegt wenige Meter über dem Meer; die Höhen des Wüstenrings sind **nur Beispiele**:
+
+<table>
+  <thead>
+    <tr><th>Höhe Wüstenring</th><th>Luftdruck</th><th>Unterschied zu Meereshöhe</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>300 m</td><td>978 hPa</td><td>36 hPa</td></tr>
+    <tr><td>500 m</td><td>955 hPa</td><td>59 hPa</td></tr>
+    <tr><td>800 m</td><td>921 hPa</td><td>92 hPa</td></tr>
+  </tbody>
+</table>
+
+Dazu kommt das Wetter, das den Druck an einem Ort um mehrere Dutzend hPa verschiebt. Zum Vergleich: 59 hPa entsprechen dem Druck von rund 0,6 m Wassertiefe (9,81 hPa je 10 cm).
+
+**Zu klären · ???**
+- Wie hoch liegt der Wüstenring?
+- Gleicht sich der Druckunterschied nach dem Tausch aus wie in der Natur - mit Luftstoß am Ring und Druck auf den Ohren der Reisenden?
+
+**Antwort (Autor, 07.10.2026)**
+
+Erst: *„Ring gleicht an, aber danach hat der Transportierte die natürlichen Erscheinungen sich an den neuen Druck zu gewöhnen. Also die Luft zum Atmen ist dünner oder dicker."* Zur Wahl standen dann drei Varianten (Claude, Beispiel 500 m):
+
+| | Variante | Folge |
+|---|---|---|
+| A | nur die freie Luft wird angeglichen | kein Knall; Ohren knacken bzw. drücken wie beim Start oder der Landung eines Flugzeugs |
+| B | nichts wird angeglichen | dumpfer Knall bzw. Sog am Ende des Flips, dazu Ohrendruck |
+| C | auch die Luft im Körper wird angeglichen | man merkt nichts |
+
+**Gewählt: C.** Zu B hatte Claude grob geschätzt (lineare Akustik, Ring flach wie in Plot 1, 8,82 m³ Luft über dem Boden, 59 hPa Überdruck, Abstand vom Kugelmittelpunkt): Spitzenpegel ~163 dB am Kugelrand, ~147 dB in 10 m, ~134 dB in 50 m, ~107 dB in 1 km; Dauer ~9 ms; die Luft ruckt nur ~2 cm. Folge für Plot 1 wäre ein Knall in der Wüste in der Nacht von Girlins Tausch gewesen. Der Autor wollte außerdem die Folgen nach der Reise für verschiedene Höhen im Wiki haben.
