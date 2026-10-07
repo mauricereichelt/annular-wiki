@@ -73,6 +73,16 @@ Herleitung: Tierzahl der Karawane × Traglast je Kamel (150-200 kg). Bezugsebene
 
 ---
 
+## Tagesstrecke
+
+**Ein Tagesmarsch in der Wüste: rund 25 km** (Autor, 07.10.2026) - ein Mensch zu Fuß mit einer Karawane.
+
+Recherche (Claude, 07.10.2026):
+- Karawanenhandel im 19. Jh.: schwer beladen 15-16 Meilen (24-26 km) an einem Tag von 8 Stunden, mäßig beladen 17-18 Meilen (27-29 km), leicht beladen 20-22 Meilen (32-35 km) an einem Tag von 10 Stunden ([Journal of African History](https://resolve.cambridge.org/core/journals/journal-of-african-history/article/caravan-trade-in-the-nineteenth-century/F25FABB0F5870AB816923AA949514CC3))
+- Traditionelle Tuareg-Karawanen: höchstens 25-30 km am Tag ([Geographica Helvetica 1975](https://gh.copernicus.org/articles/30/1/1975/gh-30-1-1975.pdf))
+
+---
+
 ## Relevanz für die Geschichte
 
 - Ein 3-m-Portalring wiegt **~5,7 t** bei 3,30 m Außen-Ø und 0,50 m Breite ([Portalringe](../../Technik/Portalringe.md)). Die Gesamttraglast einer Karawane ist dafür **kein Maßstab**: Sie entsteht dadurch, dass sich viele Tiere eine teilbare Ladung aufteilen. Der Ring ist ein **einzelnes unteilbares Stück** - 5,7 t entsprechen der Last von rund 29 Kamelen, aber kein Tier trägt mehr als 150-200 kg. **Er wird flach liegend auf einem Schlitten aus Palmstämmen gezogen, von Kamelen** (Autor, 22.09.2026) - siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8)

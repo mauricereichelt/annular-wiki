@@ -2,6 +2,8 @@
 
 Abgelegene Felsschlucht in der Wüste. **Die Schlucht enthält ein großes Höhlensystem** (Autor, 10.09.2026); darin lebt [Bellbrim](../Menschen/Andere/Bellbrim.md) und betreibt ihre Forschungen zu den Portalringen.
 
+**Real im [Tadrart Acacus](https://de.wikipedia.org/wiki/Tadrart_Acacus)** (Autor, 07.10.2026), einem Sandsteinmassiv im Fezzan mit tiefen Canyons, Felsüberhängen und Höhlen. Wo im Massiv: **???** Davon hängt die Höhe über dem Meer ab - im Acacus 600 m (Ostseite) bis 1420 m (Westflanke). Folgen für Reisende: [Portalringe](../Technik/Portalringe.md#luftdruck-und-höhe). Der Ring kommt vom [Fundort](Fundort.md) im Erg Uan Kasa, rund 140 km Weg entfernt.
+
 ---
 
 ## Das Höhlensystem

@@ -136,6 +136,8 @@ Sauerstoff gegenüber Meereshöhe = p / 1013,25 hPa (der Sauerstoffanteil der Lu
 Das Wetter verschiebt p an einem Ort um mehrere Dutzend hPa.
 ```
 
+**Plot 1:** Der Skir-Ring liegt nahe Meereshöhe ([Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund)), der Wüstenring erst am [Fundort](../Orte/Fundort.md) um 600 m (Claude, nicht gemessen), ab Jahr +8 in der [Schlucht](../Orte/Bellbrims-Werkstatt.md) im Acacus (600-1420 m). **Folgerung (Claude):** Alle liegen unter 1500 m - die Reisenden merken nichts.
+
 ---
 
 ## Kopffreiheit und die Mulde

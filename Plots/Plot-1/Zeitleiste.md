@@ -134,7 +134,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 > **Zeitrechnung im Erzähltext** (Autor, 10.09.2026): Der Norden zählt **Winter**, die [Kel Aman](../../Kulturen/Kel-Aman/README.md) zählen **Sommer** - beide zählen den Abschnitt, den man übersteht. **[Girlins](../../Menschen/Nordvolk/Girlin.md) Maß kippt allmählich und unmerklich** vom einen ins andere. Die Jahreszahlen `+0` bis `+10` sind reine Autorenebene und erscheinen nie im Text.
 
 ### Ankunft und erste Jahre (Jahr 0 → +3)
-- Sie wacht in einer Wüste auf (Jahr 0); die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sammeln sie auf
+- Sie wacht in einer Wüste auf (Jahr 0), am [Fundort](../../Orte/Fundort.md) im Erg Uan Kasa; die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sammeln sie auf
 - **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde **im Ring** *(präzisiert 22.09.2026: stand „in der Mulde"; der Ring hat keine)*. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
@@ -195,11 +195,16 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Wie Girlin davon erfährt** (Autor, 23.09.2026): Der Kontakt reißt nicht ab - das Verhältnis ist gut, es gibt **Boten und Nachrichten**, und **ein so großer Clan fällt auf**, wenn er in die Nähe des [Basars](../../Orte/Basar.md) kommt
   - **Die Zusage kommt später** (Autor, 23.09.2026): nicht schon mit der Bitte in +5, sondern in **+6**, durch einen **fremden Clanmann**, der in die Schlucht kommt
   - **Girlin und Sekkan brechen beide mit dem Clan auf** (Autor, 23.09.2026), und **das Kind kommt mit** - es zieht mit dem Clan. **[Bellbrim](../../Menschen/Andere/Bellbrim.md) bleibt in der Schlucht** (Autor, 23.09.2026) - es ist ihr Zuhause
-- **Der Transport dauert ein paar Wochen** (Autor, 09.09.2026), kein Jahresvorhaben. Die frühere Angabe *„Wochen bis wenige Monate"* (03.09.2026) ist damit auf **Wochen** eingegrenzt
+- **Der Transport dauert etwa sechs Wochen** (Autor, 07.10.2026), kein Jahresvorhaben
   > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor
 - Der 3-m-Ring wiegt rund **5,7 t**. Er wird **flach liegend gezogen**, auf einem **Schlitten aus Palmstämmen**, von **Kamelen** (Autor, 22.09.2026). Wie viele Tiere, klärt der Szenentext
   - **Folgerung (Claude):** Flach liegt der Ring nur auf seiner Stirnseite auf, einem Kreisband von 3,30 m Außen-Ø. Die Querhölzer des Schlittens müssen deshalb mindestens 3,30 m überspannen
-  - **Die Strecke bekommt keine eigene Angabe** (Autor, 22.09.2026) - die Dauer von ein paar Wochen reicht
+  - **Der Schlitten schafft 5 km am Tag und zieht an etwa zwei Dritteln der Tage** (Autor, 07.10.2026); die übrigen sind Haltetage
+  - **Strecke** (Autor, 07.10.2026): rund **140 km Weg** vom [Fundort](../../Orte/Fundort.md) bis zur Schlucht, zu Fuß **5-6 Tagesmärsche** (Tagesmarsch in der Wüste rund 25 km, [Karawanen](../../Kulturen/Kel-Aman/Karawanen.md#tagesstrecke))
+    ```
+    42 Tage · 2/3 = 28 Zugtage · 5 km = 140 km
+    140 km / 25 km = 5,6 Tagesmärsche
+    ```
   > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor. Den Schlitten hat der Autor am 22.09.2026 selbst gewählt; Piste und Route bleiben gestrichen
 - **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** - er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Darüber entscheiden [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md) und der ganze Ältestenrat gemeinsam** (Autor, 25.09.2026). **Der Clan schützt sie dort** (Autor, 14.09.2026). **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
   - **Er verliert den Zug** und sieht **nicht**, wohin der Ring gebracht wird (entschieden 03.09.2026). Deshalb muss er die Schlucht später erst finden

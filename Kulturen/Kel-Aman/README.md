@@ -178,4 +178,6 @@ Allgemeines Wüstenvolk-Material dazu: [Erscheinung & Lebensweise](Erscheinung.m
 
 ### Karawanenstruktur · ???
 
-Familienbasiert, mehrere Familien mit je 10-20 Kamelen; seitlich mitlaufende bewaffnete Wächter; 30-40 km am Tag, nach Sternbildern navigiert. Zahlen und Größenordnungen: [Karawanen](Karawanen.md).
+Familienbasiert, mehrere Familien mit je 10-20 Kamelen; seitlich mitlaufende bewaffnete Wächter; nach Sternbildern navigiert. Ein Tagesmarsch beträgt rund 25 km (Autor, 07.10.2026; [Karawanen](Karawanen.md#tagesstrecke)). Zahlen und Größenordnungen: [Karawanen](Karawanen.md).
+
+> **Gestrichen (07.10.2026):** *„30-40 km am Tag"* stammte nicht vom Autor und widersprach dem Tagesmarsch von rund 25 km.

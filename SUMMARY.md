@@ -71,6 +71,7 @@
 * [Kaupvik](Orte/Kaupvik.md)
 * [Gratsiedlung](Orte/Gratsiedlung.md)
 * [Sonstige Orte](Orte/sonstiges.md)
+* [Der Fundort](Orte/Fundort.md)
 * [Bellbrims Werkstatt](Orte/Bellbrims-Werkstatt.md)
 * [Der Basar](Orte/Basar.md)
 * [Vegamot](Orte/Vegamot.md)

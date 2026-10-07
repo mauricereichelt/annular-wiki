@@ -5835,7 +5835,7 @@ Eingetragen in [Nordvolk - Namensmuster](../Kulturen/Nordvolk/README.md#namensmu
 **Ergebnis**
 
 - **Entschieden:** **Der Ring gleicht den Luftdruck an** - alles in der Tauschkugel kommt mit dem Druck des Zielorts an, auch die Luft im Körper. Danach gewöhnt sich der Reisende auf natürliche Weise an dünnere oder dichtere Luft.
-- **Nicht entschieden:** die Höhe des Wüstenrings - für den Tausch ohne Belang.
+- **Höhe der Ringe von Plot 1** (Autor, 07.10.2026): Skir-Ring nahe Meereshöhe; Wüstenring am [Fundort](../Orte/Fundort.md) im Erg Uan Kasa (um 600 m), ab +8 in der [Schlucht](../Orte/Bellbrims-Werkstatt.md) im Tadrart Acacus (600-1420 m). Dazu der Transport: etwa sechs Wochen, rund 140 km Weg. Siehe Nachtrag.
 - **Im Wiki:** [Portalringe - Luftdruck und Höhe](../Technik/Portalringe.md#luftdruck-und-höhe), AC-13
 
 **Verlauf** - *nicht maßgeblich*
@@ -5872,3 +5872,17 @@ Erst: *„Ring gleicht an, aber danach hat der Transportierte die natürlichen E
 | C | auch die Luft im Körper wird angeglichen | man merkt nichts |
 
 **Gewählt: C.** Zu B hatte Claude grob geschätzt (lineare Akustik, Ring flach wie in Plot 1, 8,82 m³ Luft über dem Boden, 59 hPa Überdruck, Abstand vom Kugelmittelpunkt): Spitzenpegel ~163 dB am Kugelrand, ~147 dB in 10 m, ~134 dB in 50 m, ~107 dB in 1 km; Dauer ~9 ms; die Luft ruckt nur ~2 cm. Folge für Plot 1 wäre ein Knall in der Wüste in der Nacht von Girlins Tausch gewesen. Der Autor wollte außerdem die Folgen nach der Reise für verschiedene Höhen im Wiki haben.
+
+**Nachtrag (Autor, 07.10.2026) - Höhe und Lage der Ringe von Plot 1**
+
+Die offene Teilfrage „Wie hoch liegt der Wüstenring?" hat der Autor im Anschluss entschieden, über reale Orte:
+
+| Stelle | Entschieden | Höhe |
+|---|---|---|
+| Skir-Ring | bei Bindslev | nahe Meereshöhe |
+| Wüstenring bis +8 | [Fundort](../Orte/Fundort.md) im Erg Uan Kasa, breiter Gang zwischen Dünenketten, eher flach | um 600 m (Claude, nicht gemessen) |
+| Wüstenring ab +8 | [Schlucht](../Orte/Bellbrims-Werkstatt.md) im Tadrart Acacus | 600-1420 m, Stelle im Massiv ??? |
+
+Verlauf: Zuerst gewählt war das Murzuq-Becken. Claude korrigierte die eigene Angabe „flache Wüste, ~450 m": Zum Becken gehört das Sandmeer Idehan Murzuq (~660 m, Dünen bis 200 m), und die Stadt Murzuq liegt ~380 km Luftlinie vom Acacus. Der Autor wollte flaches Gelände mit weitem Blick, *„Endloser Sand"*, und dass die Kel Aman das Leuchten sehen. Daraufhin wählte er den Erg Uan Kasa.
+
+Die Transportprüfung ersetzte die bisherigen Angaben „ein paar Wochen" (09.09.2026) und „Die Strecke bekommt keine eigene Angabe" (22.09.2026): **etwa sechs Wochen, 5 km je Zugtag, an etwa zwei Dritteln der Tage, also rund 140 km Weg**. Ein **Tagesmarsch in der Wüste beträgt rund 25 km** (nach Recherche, vom Autor bestätigt), das sind 5-6 Tagesmärsche. Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Szenen](../Plots/Plot-1/Szenen.md), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md#tagesstrecke).

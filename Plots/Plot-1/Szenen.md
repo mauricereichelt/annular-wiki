@@ -468,7 +468,7 @@ Der Clan kommt wieder; Girlin und Sekkan brechen mit ihm auf, das Kind kommt mit
 
 > **Terminierung** (Autor, 23.09.2026): Die zwei Jahre zwischen Bitte und Aufbruch haben drei Gründe - der Clan musste es erst beschließen, er war weit weg, und die Lage musste es zulassen. **Die Zusage kommt später**, nicht schon in +5, sondern in +6 durch den Boten. Dass der Clan dann wirklich kommt, erfährt Girlin über Boten und Nachrichten - und daran, dass ein so großer Clan auffällt, wenn er in die Nähe des Basars kommt.
 
-> **Hinweis fürs Schreiben (Claude):** Offen für die Szene sind der Untergrund, über den der Zug führt, und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Die Strecke selbst ist Szenensache (Autor, 22.09.2026).
+> **Hinweis fürs Schreiben (Claude):** Offen für die Szene sind der Untergrund, über den der Zug führt, und was dabei am schwersten wiegt - Gewicht, Sperrigkeit, Entfernung oder Verpflegung. Die Strecke: rund 140 km in etwa sechs Wochen, 5 km je Zugtag, an etwa zwei Dritteln der Tage (Autor, 07.10.2026; [Zeitleiste](Zeitleiste.md#der-transport-jahr-7--8)).
 
 
 ### 32 · Azzim, Auftritt 2

@@ -40,7 +40,7 @@ Alles hier vom Autor entschieden am 09.09.2026.
 
 **Der Wald.** [Vilund](sonstiges.md) ist klein - in einer halben Stunde zu durchqueren -, der einzige Wald weit und breit, ringsum Heide. Der **Skir fließt am Waldrand durch den Wald hindurch**. Heilig ist im Wald nur die **Zeremonienstelle**: eine kleine Lichtung, geschmückt und markiert, mit Altar, Sitzbänken oder -stämmen und Feuerplatz.
 
-**Die Stelle des Rings.** Am Waldrand, einen **Steinwurf** von der Zeremonienstelle. Dort hat der Skir eine **hohe Uferböschung** in den Wald geschnitten: **Der Fluss läuft unten, der Ring liegt oben** - ein paar Meter über dem Wasser, auf der Böschung.
+**Die Stelle des Rings.** Nahe Meereshöhe (Autor, 07.10.2026; real: Bindslev). Am Waldrand, einen **Steinwurf** von der Zeremonienstelle. Dort hat der Skir eine **hohe Uferböschung** in den Wald geschnitten: **Der Fluss läuft unten, der Ring liegt oben** - ein paar Meter über dem Wasser, auf der Böschung.
 
 **Wie er zutage kommt.** Der Ring ist **jahrelang vergraben** - und hat deshalb **nie ausgelöst** (Autor, 14.09.2026). Erst das **Erdbeben** und ein dadurch ausgelöster **Erdrutsch** legen ihn frei. Er rutscht dabei **nicht in den Skir**, sondern bleibt an der Böschung liegen - der Fluss zieht ein paar Meter weiter unten vorbei.
 
