@@ -58,8 +58,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Der Bernstein an der Kette ist ein **Geschenk seiner Mutter**; die Entdeckung liegt **wenige Tage, bevor sie verschwindet**. *(Präzisiert 21.09.2026: Hier stand, der Bernstein stamme von ihr „wenige Tage, bevor sie verschwindet" - missverständlich, denn die Kette hat er schon lange.)*
 
 ### 3. Der Blitz - Girlins Verschwinden
-- Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings
-- Tibun ist einziger Zeuge
+- Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings. **Der Blitz schlägt in den Ring ein** - ein Zufall, der Ring zieht ihn nicht an; er verschluckt ihn, und es fließt kein Strom durch den Boden (Autor, 07.10.2026; [Portalringe](../../Technik/Portalringe.md#funktionsweise))
+- Tibun ist einziger Zeuge. **Er sieht Bruchstücke, aber alles Nötige** (Autor, 07.10.2026) - Einzelheiten in [Szene 4](Szenen.md#4--der-blitz---tibun)
 - **Tibun untersucht die frische Mulde** und begreift, dass der Ring **schneidet**: halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer, kohlschwarz versengt. Das Wissen, mit dem er zehn Jahre später Azzim tötet, liegt ab hier beim Leser - und niemand im Dorf glaubt ihm
 
 ---
@@ -260,7 +260,9 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - Gegenrichtung: **kein Mensch** - **nur Erde und Sand** (Autor, 10.09.2026). Kein Wasser, kein Werkzeug, kein Gerät; rund **5,3 m³** Boden - der Teil der Tauschkugel unter dem Boden; der Ring liegt auf dem Boden, die Mittelebene 0,25 m darüber. Der Tausch macht kein Schauspiel
 - **Tibuns Anlage steht vollständig außerhalb der Kugel** (Autor, 10.09.2026) - weil er die Schnittwirkung der Grenze kennt, hat er bewusst außerhalb gebaut. Auch die **Kette hängt in diesem Moment noch oben im Dachstuhl**. Nichts von der Anlage geht mit über, und er kann anschließend zünden
 - **Tibun begreift im Moment der fremden Zündung noch nichts** (Autor, 10.09.2026). Er sieht nur, **dass** etwas geschehen ist. **Die Erklärung liefert Azzim** - der Beweis kommt als Person, nicht als Schlussfolgerung
+  - **Was er sieht** (Autor, 07.10.2026): nur das Ergebnis. Er bemerkt das grüne Leuchten; als er hinsieht, ist der Mann schon da. **Azzim liegt nicht.**
 - **Seine Leute brechen ab und fliehen** (Autor, 10.09.2026), sobald er vor ihren Augen verschwindet. Zu unheimlich, was sie sehen, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft bei seiner Ankunft Minuten später keinen von ihnen mehr an** - wenn er in der Schlucht steht, ist der Kampf vorbei
+  - **Was sie sehen** (Folgerung Claude, nach [AC-10](../../Technik/Portalringe.md#akzeptanzkriterien)): Azzim erstarrt und vergeht in einem Herzschlag Schicht für Schicht
 - Der **Skir-Ring** flippt mit. **Tibuns geladenes Rad ist davon nicht betroffen** - die Kette liegt im Dachstuhl, der Stromkreis ist offen. Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
 
 ### Der Kampf im Norden (Minuten, kein Tag)
@@ -280,6 +282,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - Azzim taumelt zum Rand. Die **Fallzeit der Kette ist genau seine Taumelzeit** - ein Schritt rückwärts, ein halber Herzschlag
 - **Azzim wird von der Kugelgrenze zerteilt.** Tibun ist mittig **am Boden** und **reist** (Autor, 21.09.2026); ob er liegt oder kniet, klärt der Szenentext. *(Korrigiert 21.09.2026: Hier stand „steht mittig" - siehe Zündung 1.)*
 - Es ist **Notwehr**, kein Plan: Tibun nutzt Wissen, das er hat, im Griff eines Erwürgenden
+- **Tibun nimmt vom Tausch nichts wahr** - er erstarrt wie alles in der Kugel (vom Autor bestätigt, 07.10.2026). Eben taumelt Azzim zum Rand, im nächsten Augenblick ist Tibun in der Ringkammer, neben ihm der Teil Azzims, der in der Kugel lag. **Azzims Tod im Norden sieht niemand.**
 
 **Erzähltechnisch:** Tibuns Zündung ist damit **derselbe Vorgang wie Girlins Blitz vor zehn Jahren** - schlagartige Entladung ohne Vorlauf, nur gewollt. Das Problem der zehn Jahre war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise nicht - die Rampe sitzt am Rad.
 

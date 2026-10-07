@@ -194,6 +194,7 @@ Entschiedene (`✓`) und gestrichene (`✗`) Challenges, aufsteigend nach Nummer
 - [C-190: Wo Bellbrim während des Transports ist ✓](#c-190-wo-bellbrim-während-des-transports-ist-)
 - [C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ✓](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)
 - [C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ✓](#c-192-unterschiedlicher-luftdruck-an-den-beiden-ringorten-)
+- [C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ✓](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-)
 
 ---
 
@@ -5443,7 +5444,7 @@ Entschieden ist: [Bellbrim](../Menschen/Andere/Bellbrim.md) ist **Vandalin**, un
   - Die **Tauschschale** ist unsichtbar, durchsichtig und undurchlässig; Gase prallen ab. Was beim Zünden nur teilweise in der Kugel ist, **trennt sie ab**. Was sie berührt, **versengt** sie - kohlschwarz, Wunden kauterisiert, auf beiden Seiten, ohne Hitze, Rauch und Geruch, bei jedem Material; dort leuchtet sie grün, solange die Berührung dauert. Es zischt nicht. Ausgenommen sind der Ring selbst, Gase und Licht. Die Ringkante schneidet nicht.
   - **Abgetrenntes bleibt liegen** - mit dem Ring lässt sich nichts entsorgen.
   - Der Flip dauert **1 s**, im Erzähltext **ein Herzschlag** ([C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)). Beide Plot-1-Ringe liegen auf dem Boden. Begriffe und Akzeptanzkriterien stehen in Portalringe.
-  - Folgen für die beobachteten Flips in Plot 1: [C-193](Challenges.md#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
+  - Folgen für die beobachteten Flips in Plot 1: [C-193](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
 - **Verworfen:** „kein Zwischenzustand" ([C-015](#c-015-verhältnis-drehung--tausch-)) · die Schale löst Berührtes auf wie ein Eiswürfel auf der Herdplatte, mit Zischen · die Naht in der Mittelebene als Grenze dessen, was getauscht wird.
 - **Im Wiki:** [Portalringe - Begriffe](../Technik/Portalringe.md#begriffe), [Akzeptanzkriterien](../Technik/Portalringe.md#akzeptanzkriterien), [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch)
 
@@ -5495,11 +5496,11 @@ Abstand von der Drehachse     0,05 m    0,10 m    0,50 m    1,50 m (Innenkante)
 
 *Ergänzt (Autor, 01.10.2026, später):* Der Ring ist von der Wirkung der Schale ausgenommen. Vergleich im Erzähltext: **ein Herzschlag**. Beide Plot-1-Ringe liegen auf dem Boden, der Skir-Ring vielleicht etwas schräg durch die Böschung - umgesetzt in Portalringe, Skirraa, Zeitleiste und Szenen (1,75 m Kopffreiheit, 5,32 m³ Erdreich).
 
-*Entschieden (Autor, 01.10.2026) - die Schale versengt:* Sie löst nicht auf, sondern **sengt an**: kohlschwarz, Wunden kauterisiert, auf beiden Seiten des Schnitts. Abgetrenntes, das an der Schale herabrutscht oder -purzelt, wird weiter versengt. Keine Hitze, sondern eine unerklärliche Eigenheit der Ringe - kein Rauch, kein Geruch. Gilt für jedes Material, auch Erdreich, Stein und Metall. Wo etwas die Schale berührt, leuchtet sie grün, solange die Berührung dauert. Umgesetzt in [Portalringe](../Technik/Portalringe.md#aktivierung--tausch); der Satz vom 09.09.2026 *„kein Zwischenzustand"* ist dort als überholt vermerkt. Die Schnittflächen in Zeitleiste, Szenen und Tibuns-Generator sind nachgetragen ([C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)). Die Folgen für beobachtete Flips in Plot 1 → [C-193](Challenges.md#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
+*Entschieden (Autor, 01.10.2026) - die Schale versengt:* Sie löst nicht auf, sondern **sengt an**: kohlschwarz, Wunden kauterisiert, auf beiden Seiten des Schnitts. Abgetrenntes, das an der Schale herabrutscht oder -purzelt, wird weiter versengt. Keine Hitze, sondern eine unerklärliche Eigenheit der Ringe - kein Rauch, kein Geruch. Gilt für jedes Material, auch Erdreich, Stein und Metall. Wo etwas die Schale berührt, leuchtet sie grün, solange die Berührung dauert. Umgesetzt in [Portalringe](../Technik/Portalringe.md#aktivierung--tausch); der Satz vom 09.09.2026 *„kein Zwischenzustand"* ist dort als überholt vermerkt. Die Schnittflächen in Zeitleiste, Szenen und Tibuns-Generator sind nachgetragen ([C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)). Die Folgen für beobachtete Flips in Plot 1 → [C-193](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
 
 *Entschieden (Autor, 01.10.2026):* Es zischt nicht. Vokabular und Akzeptanzkriterien stehen jetzt in [Portalringe](../Technik/Portalringe.md#begriffe); *Reif* heißt seitdem *Ring*, *Ringebene* heißt *Mittelebene*.
 
-**Geschlossen (01.10.2026)** - alle Fragen vom Autor beantwortet. Offene Folgen für Plot 1 → [C-193](Challenges.md#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
+**Geschlossen (01.10.2026)** - alle Fragen vom Autor beantwortet. Offene Folgen für Plot 1 → [C-193](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-).
 
 ---
 
@@ -5886,3 +5887,33 @@ Die offene Teilfrage „Wie hoch liegt der Wüstenring?" hat der Autor im Anschl
 Verlauf: Zuerst gewählt war das Murzuq-Becken. Claude korrigierte die eigene Angabe „flache Wüste, ~450 m": Zum Becken gehört das Sandmeer Idehan Murzuq (~660 m, Dünen bis 200 m), und die Stadt Murzuq liegt ~380 km Luftlinie vom Acacus. Der Autor wollte flaches Gelände mit weitem Blick, *„Endloser Sand"*, und dass die Kel Aman das Leuchten sehen. Daraufhin wählte er den Erg Uan Kasa.
 
 Die Transportprüfung ersetzte die bisherigen Angaben „ein paar Wochen" (09.09.2026) und „Die Strecke bekommt keine eigene Angabe" (22.09.2026): **etwa sechs Wochen, 5 km je Zugtag, an etwa zwei Dritteln der Tage, also rund 140 km Weg**. Ein **Tagesmarsch in der Wüste beträgt rund 25 km** (nach Recherche, vom Autor bestätigt), das sind 5-6 Tagesmärsche. Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Szenen](../Plots/Plot-1/Szenen.md), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md#tagesstrecke).
+
+---
+
+### C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ✓
+
+**Ergebnis**
+
+- **Entschieden:** **Girlins Verschwinden:** Der Blitz schlägt zufällig in den Ring ein, der Ring verschluckt ihn, kein Strom durch den Boden. Tibun sieht Bruchstücke, aber alles Nötige: Schichten, die erstarrte Girlin, den erstarrten Regen; Tropfen auf der Schale blitzen grün auf und vergehen. **Zündung 1:** Tibun sieht nur das Ergebnis - grünes Leuchten, dann ist der Mann da; Azzim liegt nicht. **Zündung 2:** Tibun nimmt vom Tausch nichts wahr; Azzims Tod im Norden sieht niemand.
+- **Im Wiki:** [Portalringe - Funktionsweise](../Technik/Portalringe.md#funktionsweise), [Portalringe - Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen 4, 45, 46, 47](../Plots/Plot-1/Szenen.md)
+
+**Verlauf** - *nicht maßgeblich*
+
+Folge aus [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-) und [C-136 ✓](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-) (01.10.2026). Ein Flip dauert jetzt einen Herzschlag; wer zusieht, sieht den Inhalt erstarrt und Schicht für Schicht verschwinden bzw. entstehen, die Schale grün leuchten, wo sie etwas berührt, und versengte Reste ([Portalringe](../Technik/Portalringe.md#aktivierung--tausch)). Betroffen in Plot 1:
+
+- **Girlins Verschwinden** (Szenen 2-4, aus Tibuns Sicht): Tibun sieht seine Mutter erstarrt und Schicht für Schicht verschwinden. Die Birke wächst durch die Ringöffnung ([Skirraa](../Orte/Skirraa.md)); was von ihr aus der Kugel ragt, wird abgetrennt und bleibt mit versengter Schnittfläche zurück.
+- **Zündung 1** (Szene 45): Bisher *„Im Moment der fremden Zündung sieht Tibun nur, dass etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts"* (Autor, 10.09.2026). Schaut Tibun in diesem Herzschlag auf den Ring, sieht er Azzim Schicht für Schicht entstehen. Statt einer Halbkugel ist es eine Kappe von 5,3 m³ Boden.
+- **Zündung 1, in der Wüste:** Azzims Leute fliehen, *„sobald er vor ihren Augen verschwindet"* (Autor, 10.09.2026). Sie sehen ihn jetzt erstarrt und Schicht für Schicht vergehen.
+- **Zündung 2** (Szene 47): Azzim wird von der Kugelgrenze zerteilt. Beide Schnittflächen sind versengt und kauterisiert - es fließt kein Blut, und wo sein Körper die Schale berührt, leuchtet sie grün.
+
+**Zu klären · ???**
+- Was sieht Tibun bei Girlins Verschwinden?
+- Sieht Tibun bei Zündung 1 hin, oder bleibt es bei *„nur, dass etwas geschehen ist"*?
+- Was sehen Azzims Leute, und wie sieht Azzims Tod bei Zündung 2 aus?
+
+**Antwort (Autor, 07.10.2026)**
+
+- **Girlins Verschwinden:** Der Autor wollte, dass Tibun alles sieht. Claude wandte ein: Ein naher Blitz blendet, und in einem Herzschlag sieht niemand alles. Der Autor wollte den Einschlag in den Ring, *„weil er aus Metall ist"*, und fragte, ob der Ring den Blitz *„ansaugen"* und *„verschlucken"* und dadurch weniger hell machen könne. Claude: Der Ring ist laut Wiki kein Metall; Blitze treffen den höchsten Punkt, einen flachen Ring neben Bäumen nur durch Zufall. Ansaugen würde in zehn Jahren weitere Zündungen erzwingen. Verschlucken dämpft das Licht nicht, weil es vom ganzen Blitzkanal kommt, verhindert aber Funken und Strom im Boden. **Entschieden:** Zufall, kein Ansaugen, Verschlucken ja; Tibun sieht *„Bruchstücke, aber an sich alles Nötige"*. Regentropfen auf der Schale: *„Aufblitzen, vergehen"*.
+- **Zündung 1:** *„Nur das Ergebnis, aber Azzim liegt nicht."* Was Azzims Leute sehen, folgt aus AC-10.
+- **Zündung 2:** Claudes Folgerung aus der Starre bestätigt (*„Ja, so"*).
+- Die Angabe *„eine Halbkugel Boden ist fort, sonst nichts"* (10.09.2026) in Szene 46 ist ersetzt; nach heutiger Geometrie wäre es eine Kappe von 5,3 m³, und getauscht statt fort.

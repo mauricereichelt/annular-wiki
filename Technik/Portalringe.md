@@ -22,6 +22,8 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Mitteleben
 - Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel - das Ziel bestimmen die Runen). Die elektrische Entladung ist nur der Zünder; die eigentliche Energie kommt aus dem Ringsystem selbst. Siehe [Generator](Tibuns-Generator.md) und [Elektrizität](Elektrizitaet.md).
 - **Schon eine kleine Menge Ladung zündet einen Ring** - die Menge ist relativ unwichtig. Das weiß aber niemand (Autor, 14.09.2026). **Zu wenig darf es aber nicht sein: Alltagsladungen reichen nicht** - eine Berührung löst keinen Ring aus (Autor, 14.09.2026).
 - Ein Ring verbindet **immer genau zwei** Ringe, niemals mehr. Welche zwei, regelt die Kopplung (siehe unten)
+- **Blitz.** Der Ring zieht Blitze nicht an (Autor, 07.10.2026). Schlägt einer in ihn ein, **verschluckt er ihn am Einschlagpunkt**; es fließt **kein Strom durch den Boden** (Autor, 07.10.2026).
+  - **Folgerung (Claude):** Am Einschlagpunkt keine Funken, kein aufspritzender Boden, kein Feuer. Hell bleibt der Blitz trotzdem - das Licht kommt vom ganzen Blitzkanal in der Luft.
 
 ---
 
@@ -89,6 +91,7 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser, in einem 
   - **Folgerung (Claude):** Endet die Starre, läuft alles mit dem Schwung weiter, den es beim Zünden hatte.
   - **Folgerung (Claude):** Die Tauschfläche beginnt in der Mittelebene. Von einem Stehenden erscheint am Zielort zuerst eine dünne Scheibe auf Schienbeinhöhe; bei halbem Flip steht dort ein der Länge nach halbierter Mensch - die eine Hälfte ab den Schienbeinen aufwärts, von der anderen nur Füße und Knöchel.
 - **Tauschschale.** Die Oberfläche der Tauschkugel ist **unsichtbar und durchsichtig, aber undurchlässig** (Autor, 30.09.2026). Sie besteht vom Zünden bis zum Ende des Flips; Gase prallen an ihr ab (Autor, 01.10.2026). Was beim Zünden nur teilweise in der Kugel ist, **zerteilt sie** (Autor, 30.09.2026): *Wer ganz in der Kugel ist, reist heil; was hinausragt, wird abgetrennt.* Die Ringkante selbst schneidet nicht (Autor, 30.09.2026).
+- **Regen**, der während des Flips auf die Schale trifft: Jeder Tropfen **blitzt grün auf und vergeht** (Autor, 07.10.2026).
 - **Was die Schale berührt, wird versengt** (Autor, 01.10.2026) - kohlschwarz, Wunden kauterisiert, auf beiden Seiten des Schnitts. Das ist keine Hitze, sondern eine unerklärliche Eigenheit der Ringe: **kein Rauch, kein Geruch**. Es gilt für jedes Material - Fleisch, Holz, Erdreich, Stein, Metall. Wo etwas die Schale berührt, **leuchtet sie grün**, solange die Berührung dauert. Ausgenommen sind der Ring selbst, Gase und Licht. Es zischt nicht (Autor, 01.10.2026).
   - Abgetrenntes **bleibt liegen**; rutscht oder purzelt es an der Schale herab, wird es dabei weiter versengt (Autor, 01.10.2026). Entsorgen lässt sich mit dem Ring also nichts.
   - **Auch der Boden** berührt die Schale den ganzen Flip lang und wird versengt (Autor, 01.10.2026). Das getauschte Erdreich verdeckt beides sofort (Autor, 01.10.2026): Die geschwärzte Kruste um das getauschte Erdreich findet nur, wer gräbt, und das Leuchten im Boden bleibt unsichtbar. **Zu sehen ist das Leuchten nur an der Innenwand des Rings, wie ein Kranz** (Autor, 01.10.2026). Rechnerisch tritt die Schale bei ebenem Boden mit Radius √(1,50² − 0,25²) = 1,48 m aus dem Boden, rund 2 cm vor der Innenwand.

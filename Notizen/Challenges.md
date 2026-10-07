@@ -14,7 +14,6 @@ Offene Punkte zum Buchinhalt. Entschiedene und gestrichene Einträge stehen im [
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
-- [C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ○](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-)
 
 ---
 
@@ -122,19 +121,3 @@ Aus [C-186 ✓](Challenges-Archiv.md#c-186-das-bernsteinrad-unten-am-skir---näs
 - **Aussehen:** Wie sieht die Werkstatt von außen und innen aus?
 
 Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*).
-
----
-
-### C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ○
-
-Folge aus [C-181](Challenges-Archiv.md#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegung-in-der-kugel-) und [C-136 ✓](Challenges-Archiv.md#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-) (01.10.2026). Ein Flip dauert jetzt einen Herzschlag; wer zusieht, sieht den Inhalt erstarrt und Schicht für Schicht verschwinden bzw. entstehen, die Schale grün leuchten, wo sie etwas berührt, und versengte Reste ([Portalringe](../Technik/Portalringe.md#aktivierung--tausch)). Betroffen in Plot 1:
-
-- **Girlins Verschwinden** (Szenen 2-4, aus Tibuns Sicht): Tibun sieht seine Mutter erstarrt und Schicht für Schicht verschwinden. Die Birke wächst durch die Ringöffnung ([Skirraa](../Orte/Skirraa.md)); was von ihr aus der Kugel ragt, wird abgetrennt und bleibt mit versengter Schnittfläche zurück.
-- **Zündung 1** (Szene 45): Bisher *„Im Moment der fremden Zündung sieht Tibun nur, dass etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts"* (Autor, 10.09.2026). Schaut Tibun in diesem Herzschlag auf den Ring, sieht er Azzim Schicht für Schicht entstehen. Statt einer Halbkugel ist es eine Kappe von 5,3 m³ Boden.
-- **Zündung 1, in der Wüste:** Azzims Leute fliehen, *„sobald er vor ihren Augen verschwindet"* (Autor, 10.09.2026). Sie sehen ihn jetzt erstarrt und Schicht für Schicht vergehen.
-- **Zündung 2** (Szene 47): Azzim wird von der Kugelgrenze zerteilt. Beide Schnittflächen sind versengt und kauterisiert - es fließt kein Blut, und wo sein Körper die Schale berührt, leuchtet sie grün.
-
-**Zu klären · ???**
-- Was sieht Tibun bei Girlins Verschwinden?
-- Sieht Tibun bei Zündung 1 hin, oder bleibt es bei *„nur, dass etwas geschehen ist"*?
-- Was sehen Azzims Leute, und wie sieht Azzims Tod bei Zündung 2 aus?

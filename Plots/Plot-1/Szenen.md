@@ -125,6 +125,10 @@ Starkes Gewitter, hilft Girlin mit den Tieren, verfolgt sie in den Wald, sieht i
 - **Hindernis:** ???
 - **Ausgang:** Girlin ist fort. Tibun ist einziger Zeuge.
 
+> **Der Blitz** (Autor, 07.10.2026): Er schlägt in den Ring ein - ein Zufall. Der Ring verschluckt ihn; es fließt kein Strom durch den Boden, Tibun wird nicht umgeworfen ([Portalringe](../../Technik/Portalringe.md#funktionsweise)).
+
+> **Was Tibun sieht** (Autor, 07.10.2026): **Bruchstücke, aber alles Nötige.** Nichts steht im Weg, er schaut hin, er steht seitlich. Er sieht die Schichten und wie Girlin erstarrt - sie ist ohnehin bewusstlos. Er sieht, wie der Regen in der Kugel erstarrt, und er sieht und hört den Regen auf die Kugel treffen. Jeder Tropfen auf der Schale blitzt grün auf und vergeht ([Portalringe](../../Technik/Portalringe.md#aktivierung--tausch)). Die Birke wird an der Schale getrennt ([Skirraa](../../Orte/Skirraa.md#der-ring-im-wald-vilund)).
+
 ### 5 · Der Suchtrupp
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
@@ -656,6 +660,8 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 
 > **Seine Leute** (Autor, 10.09.2026): **drei bis vier eigene Männer**. Als der Generator ihn wegreißt, **brechen sie ab und fliehen** - sie kämpfen nicht weiter und plündern nicht. Bellbrim und das Kind sehen alles aus der Nachbarkammer, durch Fels getrennt.
 
+> **Was seine Leute sehen** (Folgerung Claude, nach [AC-10](../../Technik/Portalringe.md#akzeptanzkriterien)): Azzim erstarrt und vergeht in einem Herzschlag Schicht für Schicht.
+
 > **Am Boden** (Autor, 21.09.2026): Im Moment des Tauschs ist Azzim am Boden, nicht aufrecht - der Ring hat keine Mulde; über der Ringmitte reicht die Kugel 1,75 m über den Boden, aufrecht hätte er nur nahe der Mitte Platz, und nur, wenn er klein genug ist ([Portalringe](../../Technik/Portalringe.md#kopffreiheit-und-die-mulde)). Wie genau, klärt der Szenentext.
 
 
@@ -669,7 +675,7 @@ Ein fremder Mann fällt aus dem Nichts in den Ring.
 - **Hindernis:** Azzim will selbst zum Ring zurück
 - **Ausgang:** Beide wollen dasselbe Ding. Es kommt zum Kampf.
 
-> **Reihenfolge des Begreifens** (Autor, 10.09.2026): Im Moment der fremden Zündung sieht Tibun nur, **dass** etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts. **Was es bedeutet, liefert erst der Mann im Sand.** Zehn Jahre lang hat er aus Spuren gelesen; beim einzigen Mal, das zählt, steht jemand vor ihm.
+> **Reihenfolge des Begreifens** (Autor, 10.09.2026): Im Moment der fremden Zündung sieht Tibun nur, **dass** etwas geschehen ist. **Den Tausch selbst sieht er nicht** (Autor, 07.10.2026): Er bemerkt das grüne Leuchten; als er hinsieht, ist der Mann schon da. Azzim liegt nicht. **Was es bedeutet, liefert erst der Mann im Sand.** Zehn Jahre lang hat er aus Spuren gelesen; beim einzigen Mal, das zählt, steht jemand vor ihm.
 
 > **Keine gemeinsame Sprache** (Autor, 22.09.2026): Woran Tibun erkennt, dass Azzim Girlin kennt, klärt der Szenentext.
 
@@ -689,6 +695,8 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 > **Der Griff nach draußen** (Autor, 11.09.2026): Die Zugschnur hängt knapp außerhalb der Kugel. Tibun muss hinausgreifen, während Azzim ihn würgt, und hat Hand und Fuß knapp wieder drin, bevor die Kette unten ist. Ob eine Entladung genügt oder eine Folge, erklärt der Text nicht - der Leser sieht nur den Schlag.
 
 > **Am Boden** (Autor, 21.09.2026): Tibun ist beim Tausch mittig am Boden - ob er liegt oder kniet, klärt der Szenentext. Aufrecht würde ihn die Kugel durchtrennen.
+
+> **Der Schnitt** (vom Autor bestätigt, 07.10.2026): Tibun erstarrt mit allem in der Kugel und nimmt vom Tausch nichts wahr. Eben taumelt Azzim zum Rand, im nächsten Augenblick ist Tibun in der Ringkammer, neben ihm der Teil Azzims, der in der Kugel lag. Azzims Tod im Norden sieht niemand.
 
 
 ### 48 · Wiedersehen und Schluss
