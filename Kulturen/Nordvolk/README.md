@@ -40,7 +40,7 @@ Noch nicht ausgearbeitet.
 
 **Entschieden ist bisher ein Einzelfall** (Autor, 27.10.2026): die Verlobung von [Fridugund](../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) und [Gunthar](../../Menschen/Nordvolk/Nebenfiguren/Gunthar.md) in [Skirraa](../../Orte/Skirraa.md). Ein allgemeiner Brauch des Nordvolks ist daraus **nicht** abgeleitet · **???**
 
-- **Besiegelt** mit Handschlag vor Zeugen, einer Brautgabe von [Landarik](../../Menschen/Nordvolk/Nebenfiguren/Landarik.md) und gemeinsamem Trinken. Was die Brautgabe ist: **???**
+- **Besiegelt** mit Handschlag vor Zeugen, einer Brautgabe von [Landarik](../../Menschen/Nordvolk/Nebenfiguren/Landarik.md) und gemeinsamem Trinken. Die Brautgabe ist **ein Pferd und Schmuck** (Autor, 27.10.2026).
 - **Auf dem Tisch:** Lamm oder Hammel · Milch, Käse, Butter · Gerstenbrot und Grütze · Bier und Met.
 - **Unfreie** tragen auf und schenken aus; andere arbeiten weiter.
 

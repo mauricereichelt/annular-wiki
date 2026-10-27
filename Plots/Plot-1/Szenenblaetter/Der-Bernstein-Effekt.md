@@ -14,15 +14,15 @@ Der Szenentext selbst liegt außerhalb des Wikis: `Manuskript/Plot-1/Der-Bernste
 <tr><th>POV</th><td>Tibun, 16</td></tr>
 <tr><th>Erzählweise</th><td>dritte Person, personal, Präteritum (<a href="../README.md#erzählweise">Plot 1</a>)</td></tr>
 <tr><th>Zeit</th><td>Jahr 0, <strong>Schurzeit, Frühsommer</strong>. Der Verlobungstag, wenige Tage nach dem Beben und wenige Tage vor dem Gewitter (<a href="../Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34">Zeitleiste</a>)</td></tr>
-<tr><th>Tageszeit</th><td>???</td></tr>
-<tr><th>Wetter</th><td>???</td></tr>
+<tr><th>Tageszeit</th><td>alles am Tag (Autor, 27.10.2026)</td></tr>
+<tr><th>Wetter</th><td>klar und windig (Autor, 27.10.2026)</td></tr>
 </table>
 
 ## Orte
 
 - **Beim Großbauern** von Skirraa: Dort wird die Verlobung im kleinen Rahmen verkündet - kein Dorf- oder Marktplatz, kein Rednerpodest, keine Versammlung ([Szenenliste](../Szenen.md#2--der-bernstein-effekt)). Ob [Fridmund](../../../Menschen/Nordvolk/Nebenfiguren/Fridmund.md) der Großbauer ist, spielt keine Rolle.
-- **Am Fluss** ([Zeitleiste](../Zeitleiste.md#2-der-bernstein-effekt)). Was dort geschieht: ???
-- **Im Wollstall:** Tibuns Herzschmerz führt ihn dorthin ([Fridugund](../../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md#bedeutung-in-der-geschichte)); dort springt der Blitz an die eiserne Schafschere über. Wessen Wollstall: ???
+- **Am Fluss** ([Zeitleiste](../Zeitleiste.md#2-der-bernstein-effekt)): Tibun geht allein dorthin (Autor, 27.10.2026).
+- **Im Wollstall:** Tibuns Herzschmerz führt ihn dorthin ([Fridugund](../../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md#bedeutung-in-der-geschichte)); dort springt der Blitz an die eiserne Schafschere über. Es ist **Semunds** Wollstall (Autor, 27.10.2026).
 
 Wie es zur Entladung kommt, klärt der Szenentext.
 
@@ -42,13 +42,13 @@ Wie es zur Entladung kommt, klärt der Szenentext.
 <tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Randlaug.md">Randlaug</a></td><td>9</td><td>Tibuns Schwester</td></tr>
 </table>
 
-Aussehen: jeweils im Abschnitt *Inspiration* der Figurendatei. **Semund ist nicht dabei** - warum: ???. Wer sonst dabei ist, etwa der Großbauer und seine Leute: ???
+Aussehen: jeweils im Abschnitt *Inspiration* der Figurendatei. **Semund ist nicht dabei** - er arbeitet (Autor, 27.10.2026). Wer sonst dabei ist, etwa der Großbauer und seine Leute: ???
 
 ## Die Verlobung
 
 Nach [Nordvolk](../../../Kulturen/Nordvolk/README.md#verlobung-und-fest):
 
-- **Besiegelt** mit Handschlag vor Zeugen, einer Brautgabe von Landarik und gemeinsamem Trinken. Was die Brautgabe ist: ???
+- **Besiegelt** mit Handschlag vor Zeugen, einer Brautgabe von Landarik und gemeinsamem Trinken. Die Brautgabe: ein Pferd und Schmuck (Autor, 27.10.2026)
 - **Auf dem Tisch:** Lamm oder Hammel · Milch, Käse, Butter · Gerstenbrot und Grütze · Bier und Met.
 - **Unfreie** tragen auf und schenken aus; andere arbeiten weiter ([Skirraa](../../../Orte/Skirraa.md#größe-und-struktur)).
 
@@ -79,15 +79,16 @@ Nach [Elektrizität](../../../Technik/Elektrizitaet.md#reibungselektrizität-ber
 
 **Hinweise (Claude):**
 - „Entladung" ist kein Wort, das Tibun hat. In personaler Erzählweise bleibt der Text nah an seiner Wahrnehmung - „Blitz" ist seines.
-- Sichtbar ist die Entladung im Dunkeln. Wie hell es im Wollstall ist, entscheidet, ob Tibun den Blitz sieht oder ihn nur hört und spürt.
+- Sichtbar ist die Entladung nur im Dunkeln, die Szene spielt aber am Tag. Wie dunkel es im Wollstall ist, entscheidet, ob Tibun den Blitz sieht oder ihn nur hört und spürt.
 - Die Szene trägt vier Dinge: Geständnis, Verlobung, Blitz und die Angst vor dem Feuer. Bei 1.500 Wörtern wird nicht alles davon im Bild stehen.
+
+## Was sich ändert
+
+**Beides in einem** (Autor, 27.10.2026): Tibun hat Fridugund verloren, und er hat etwas gesehen, das er nicht versteht.
 
 ## Offen · ???
 
-- Tageszeit, Wetter, Licht
+- Wie dunkel es im Wollstall ist
 - Gerüche, Geräusche
-- Warum Semund fehlt, und wer sonst dabei ist
-- Was die Brautgabe ist
-- Was am Fluss geschieht, und wessen Wollstall es ist
+- Wer außer den acht Figuren dabei ist
 - Was im Bild steht und was außerhalb der Szene bleibt
-- Die eine Sache, die sich in der Szene ändert - in einem Satz
