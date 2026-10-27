@@ -38,7 +38,7 @@ Annular ist an einer Stelle sehr tief und an einer anderen fast leer. Das ist di
 | Plot 1: Stränge, Zeitleiste, Altersgerüst | steht |
 | Plot 1: Szenenliste | 48 Szenen, Gliederung entschieden - der Zuschnitt ist Arbeitsstand |
 | **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **lückenhaft** - Einzelfälle entschieden (Erbfall Girlin, Tibuns Lebensgrundlage unterwegs und in Kaupvik, die Verlobung in Szene 2), dazu Wertmaß und Unfreie im Norden; Alltag, Thing, Preise und Gewalt fehlen |
-| **Kel Aman / Süden** | verortet (Fezzan/Garamanten); Namen, Bewaffnung, Ehe und Trennung, Ältestenrat, Geburt, Weggang und Zeitrechnung entschieden; drei Orte angelegt - Religion, Rituale, Werte und Redewendungen fehlen weiter |
+| **Kel Aman / Süden** | verortet (Fezzan/Garamanten); Namen, Bewaffnung, Ehe und Trennung, Ältestenrat, Geburt, Weggang, Zeitrechnung und Sommerlager entschieden, Vorlage als Mischung aus Garamanten und Tuareg; drei Orte angelegt - Religion, Rituale, Werte und Redewendungen fehlen weiter |
 | Namenssystem | Muster für beide Völker entschieden (31.08.2026), beide überarbeitet bzw. erweitert (28.09.2026) |
 | Folgen des Rings für die Menschen vor Ort | durchgespielt (Schicht 6) |
 
@@ -121,7 +121,7 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt und Weggang aus der Sippe; drei Wüstenorte sind angelegt. Offen bleiben Religion, Rituale und Werte.
+**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt, Weggang aus der Sippe und das Sommerlager an einer Oase; die Vorlage für die Kultur ist eine Mischung aus Garamanten und Tuareg (27.10.2026); drei Wüstenorte sind angelegt. Offen bleiben Religion, Rituale und Werte.
 
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Geprüft wurden diese Kandidaten für 550 n.Chr.:
   - **Sahara / Fezzan** - die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.

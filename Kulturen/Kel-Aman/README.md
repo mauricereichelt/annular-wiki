@@ -15,7 +15,15 @@ Prägend und für Szenen nutzbar - Recherche, vom Autor übernommen (22.09.2026)
 | **Verfall** | Die Kultur vergisst gerade, was sie konnte - Ruinen und stillgelegte Tunnel liegen in der Landschaft. |
 | **Kamele** | Um 550 längst etabliert, unproblematisch. |
 
+**Vorlage für die Kultur: eine Mischung** (Autor, 27.10.2026) - aus dem archäologischen Befund zu den Garamanten und der Überlieferung der Tuareg. Was davon im Einzelnen gilt, wird je Brauch entschieden · ???
+
+> **Befund** (Recherche, keine Setzung): Über die Garamanten weiß man vor allem aus der Archäologie - Foggara, Gräber, Handel -, kaum etwas über Glauben und Bräuche. Die Tuareg sind reich überliefert, aber erst ab dem Mittelalter; spätere Zustände lassen sich nicht ungeprüft zurückprojizieren.
+
 ## Entschieden
+
+### Sommerlager
+
+Das Sommerlager liegt **an einer Oase** (Autor, 27.10.2026). Welche Oase: ???
 
 ### Volksname
 

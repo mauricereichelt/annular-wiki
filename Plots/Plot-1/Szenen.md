@@ -188,6 +188,8 @@ Der Sand liegt für alle sichtbar an der Skir. Die Wala deutet den Sand als Zeic
 - **Hindernis:** Die Wala deutet den Sand als Zeichen der Götter
 - **Ausgang:** Girlin für tot erklärt, die Stelle zum Tabu. Das Verschwinden glaubt man ihm - seine Deutung nicht.
 
+> **Wie die Wala es tut** (Autor, 27.10.2026): Sie geht **allein** an die Stelle und **opfert ein Tier im Moor**.
+
 > **[Randwara](../../Menschen/Nordvolk/Nebenfiguren/Randwara.md) tritt auf** (Autor, 24.09.2026).
 
 

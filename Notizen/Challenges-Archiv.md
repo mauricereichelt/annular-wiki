@@ -5926,10 +5926,10 @@ Folge aus [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegun
 
 **Ergebnis**
 
-- **Entschieden:** Der Auftakt liegt in der **Schurzeit, im Frühsommer**. Damit kommt Girlin im Frühsommer im Fezzan an.
+- **Entschieden:** Der Auftakt liegt in der **Schurzeit, im Frühsommer**. Damit kommt Girlin im Frühsommer im Fezzan an. Die Kel Aman sind in dieser Nacht auf dem Weg in ihr Sommerlager an einer Oase.
 - **Verworfen:** Heuernte im Hochsommer · Spätsommer vor der Schlachtzeit · Lammung im Frühjahr.
-- **Offen geblieben:** wo die Kel Aman zu dieser Zeit lagern, sodass sie das Leuchten sehen - im Sommer reisen sie nicht · ???
-- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#ankunft-und-erste-jahre-jahr-0--3)
+- **Offen geblieben:** an welcher Oase das Sommerlager der Kel Aman liegt · ???
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#ankunft-und-erste-jahre-jahr-0--3), [Kel Aman](../Kulturen/Kel-Aman/README.md#sommerlager)
 
 **Verlauf** - *nicht maßgeblich*
 
@@ -5951,6 +5951,8 @@ In welcher Jahreszeit liegt der Auftakt - Beben, Verlobungsfeier, Gewitter? Im W
 - Jahreszeit und Arbeitsmarke des Auftakts
 
 **Entschieden (Autor, 27.10.2026):** Schurzeit, Frühsommer.
+
+**Nachtrag (Autor, 27.10.2026):** Die Kel Aman sind in der Ankunftsnacht auf dem Weg in ihr Sommerlager; es liegt an einer Oase. Welche, bleibt offen.
 
 ---
 

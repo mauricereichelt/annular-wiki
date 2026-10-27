@@ -26,6 +26,8 @@ Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
 
 Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältnis zu Sesshaften.
 
+**Teilentschieden (Autor, 27.10.2026):** Die Vorlage ist eine **Mischung** aus dem Befund zu den Garamanten und der Tuareg-Überlieferung ([Kel Aman](../Kulturen/Kel-Aman/README.md#verortung)). Das Sommerlager liegt an einer Oase ([Kel Aman](../Kulturen/Kel-Aman/README.md#sommerlager)).
+
 ---
 
 ### C-058: Wasserrad-Unfall und Tibuns Schuld ○
