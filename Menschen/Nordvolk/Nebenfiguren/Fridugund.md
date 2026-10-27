@@ -39,7 +39,7 @@ Mädchen aus [Skirraa](../../../Orte/Skirraa.md), aufgewachsen auf einem der Hö
 
 ## Bedeutung in der Geschichte
 
-Auslöser der Szene zum Bernstein-Effekt: Am Tag, an dem [Tibun](../Tibun.md) ihr seinen Bernsteinanhänger schenken und **seine Liebe gestehen** will - ein Antrag ist es nicht (Autor, 21.09.2026) -, wird ihre Verlobung mit dem auswärtigen [Gunthar](Gunthar.md) verkündet. **Sie nimmt die Kette nicht an** (Autor, 21.09.2026). Die Ehe ist ein **Bündnis zwischen Höfen**, von den Vätern arrangiert (Autor, 29.09.2026) - Fridugund selbst wirkt dabei nicht glücklich (Autor, 29.09.2026).
+Auslöser der Szene zum Bernstein-Effekt: Am Tag, an dem [Tibun](../Tibun.md) ihr seinen Bernsteinanhänger schenken und **seine Liebe gestehen** will - ein Antrag ist es nicht (Autor, 21.09.2026) -, wird ihre Verlobung mit dem auswärtigen [Gunthar](Gunthar.md) verkündet. Tibun kommt gar nicht erst dazu, sie zu fragen - die Verlobung kommt ihm dazwischen (Autor, 27.10.2026). Die Ehe ist ein **Bündnis zwischen Höfen**, von den Vätern arrangiert (Autor, 29.09.2026) - Fridugund selbst wirkt dabei nicht glücklich (Autor, 29.09.2026).
 
 Tibuns Herzschmerz führt ihn in den Wollstall, wo er den Bernstein-Effekt entdeckt (Autor, 29.09.2026).
 

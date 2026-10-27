@@ -9,7 +9,7 @@ Tibuns Heimatdorf. Benannt nach dem Fluss **Skir**, an dem es liegt - *Skir* + *
 - Liegt am **Skir** (Lebensader, treibt später Tibuns Wasserrad) - **ein kleiner Fluss, durchwatbar**, kein Rinnsal: Der Name trägt *-aa*, und das reale Gegenstück Uggerby Å ist der Hauptfluss Vendsyssels. **An der Furt beim Weiler etwa 4-6 Schritt breit und an der tiefsten Stelle knietief** - ein Kind kommt allein hinüber. Für das Wasserrad **verengt Tibun einen kleinen Teil des Flusses direkt beim Ring**, um dort schnellere Strömung zu bekommen, und probiert aus, bis es trägt (Autor, 14.09.2026). Wie stark der Skir über das Jahr schwankt, spielt keine Rolle (Autor, 14.09.2026).
 - **Abseits** des Heerwegs (Ochsenweg) - etwa ein Tagesmarsch bis zur Route
 - Regionales Zentrum [Tingsal](Tingsal.md) **ein Tagesmarsch** entfernt
-- Zur Hafensiedlung [Kaupvik](Kaupvik.md) an der Schlei: **rund 14 Tagesmärsche** auf dem direkten Weg über den Ochsenweg (gut zwei Wochen) - Endpunkt von Tibuns Reise. In Kaupvik hat **niemand** je von Skirraa gehört; Tibun begegnet dort keinem aus seiner Heimat.
+- Zur Hafensiedlung [Kaupvik](Kaupvik.md) an der Schlei: **rund 14 Tagesmärsche** auf dem direkten Weg über den Ochsenweg (gut zwei Wochen) - Endpunkt von Tibuns Reise. In Kaupvik hat **niemand** je von Skirraa gehört; Tibun begegnet dort keinem aus seiner Heimat. Nachrichten aus Kaupvik erreichen Skirraa **über [Tingsal](Tingsal.md)** (Autor, 27.10.2026).
 
 ## Landschaft
 - Karg, Heide und Moor

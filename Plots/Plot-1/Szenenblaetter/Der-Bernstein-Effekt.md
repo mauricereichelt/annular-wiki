@@ -33,7 +33,7 @@ Wie es zur Entladung kommt, klärt der Szenentext.
 <table>
 <tr><th>Figur</th><th>Alter</th><th>Was für die Szene feststeht</th></tr>
 <tr><td><a href="../../../Menschen/Nordvolk/Tibun.md">Tibun</a></td><td>16</td><td>Will Fridugund seine Liebe gestehen - ein Antrag ist es nicht. Kennt Gunthar kaum, keine Freundschaft. Neugierig und wissbegierig</td></tr>
-<tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md">Fridugund</a></td><td>16</td><td>Tibuns Jugendliebe, ungesagt. Nimmt die Kette nicht an. Wirkt bei der Verlobung nicht glücklich</td></tr>
+<tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md">Fridugund</a></td><td>16</td><td>Tibuns Jugendliebe, ungesagt. Tibun kommt gar nicht dazu, sie zu fragen - die Verlobung kommt ihm dazwischen. Wirkt bei der Verlobung nicht glücklich</td></tr>
 <tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Gunthar.md">Gunthar</a></td><td>17-18</td><td>Ortsfremd, Hof in der Gegend um Tingsal. Die bessere Partie - sticht Tibun aus, ohne es zu wollen</td></tr>
 <tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Landarik.md">Landarik</a></td><td>etwa 40</td><td>Gunthars Vater, Hofbesitzer von auswärts. Bittet um Fridugunds Hand - ein Bündnis zwischen Höfen</td></tr>
 <tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Fridmund.md">Fridmund</a></td><td>etwa 45</td><td>Fridugunds leiblicher Vater, Bauer aus Skirraa. Fridugund ist sein einziges Kind</td></tr>
@@ -80,7 +80,7 @@ Nach [Elektrizität](../../../Technik/Elektrizitaet.md#reibungselektrizität-ber
 **Hinweise (Claude):**
 - „Entladung" ist kein Wort, das Tibun hat. In personaler Erzählweise bleibt der Text nah an seiner Wahrnehmung - „Blitz" ist seines.
 - Sichtbar ist die Entladung nur im Dunkeln, die Szene spielt aber am Tag. Wie dunkel es im Wollstall ist, entscheidet, ob Tibun den Blitz sieht oder ihn nur hört und spürt.
-- Die Szene trägt vier Dinge: Geständnis, Verlobung, Blitz und die Angst vor dem Feuer. Bei 1.500 Wörtern wird nicht alles davon im Bild stehen.
+- Die Szene trägt vier Dinge: die Verlobung, den Gang an den Fluss, den Blitz und die Angst vor dem Feuer. Bei 1.500 Wörtern wird nicht alles davon im Bild stehen.
 
 ## Was sich ändert
 

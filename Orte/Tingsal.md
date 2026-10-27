@@ -21,7 +21,7 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 
 ## Offen
 - **In Plot 1 spielt keine Szene in Tingsal** (Autor, 15.09.2026) - der Ort wird nur erwähnt
-- **???** - Ausarbeitung der Halle und des Thinggeschehens (Weltenbau, für Plot 1 nicht nötig)
+- Wie ein Thing abläuft: [Nordvolk](../Kulturen/Nordvolk/README.md#recht-thing-und-gewalt). Ausarbeitung der Halle: **???**
 
 ---
 

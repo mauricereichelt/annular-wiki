@@ -58,6 +58,26 @@ Gerechnet wird in **Vieh**, in **Stoff**, in **Gold und Silber nach Gewicht** un
 
 > **Historische Grundlage** (Recherche, keine Setzung): Münzen sind im Alltag unbekannt; Gold, etwa römische Solidi und Brakteaten, dient als Schatz und Schmuck und zählt nach Gewicht, vor allem im Fernhandel. Vieh ist Wertmaß - das gotische Wort für Vieh, *faihu*, heißt zugleich Besitz. In späteren isländischen Rechten hat eine Kuh einen festen Gegenwert in Ellen Wollstoff.
 
+## Alltag im Winter
+
+Entschieden (Autor, 27.10.2026):
+
+- **Winterkost:** Gerstengrütze und Brot · geräuchertes Fleisch · Käse und Butter · Wild aus der Jagd.
+- **Fleisch** gibt es selten, zu Festen; zur Winterkost gehört es in kleinen Mengen.
+- **Wohnen:** Wohnstallhaus, Herd in der Mitte, Torf als Brennstoff.
+
+> **Historische Grundlage** (Recherche, keine Setzung): Geschlachtet wird im Herbst, Fleisch wird geräuchert oder gedörrt; Getreide ist vor allem Gerste. In der dänischen Eisenzeit sind Wohnstallhäuser typisch - Menschen und Vieh unter einem Dach. Vendsyssel ist Heide- und Moorland mit wenig Wald.
+
+## Recht, Thing und Gewalt
+
+Entschieden (Autor, 27.10.2026):
+
+- **Das Thing** in [Tingsal](../../Orte/Tingsal.md) tritt zu festen Mondzeiten zusammen. Stimme haben die freien Männer, sie kommen bewaffnet; zugestimmt wird durch Waffenklirren. [Hadurik](../../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) spricht Recht.
+- **Totschlag** wird mit einer Buße in Vieh an die Sippe des Toten gesühnt; ohne Buße folgt die Fehde. Wie hoch die Buße ist: **???**
+- **Waffen** tragen die freien Männer, Unfreie keine.
+
+> **Historische Grundlage** (Recherche, keine Setzung): Tacitus (*Germania*, 1. Jh.) beschreibt Versammlungen an festen Tagen nach dem Mond; man kommt bewaffnet, stimmt durch Waffenklirren zu und lehnt durch Murren ab. Totschlag wird mit Vieh gebüßt, die Buße erhält die ganze Sippe.
+
 ## Umgang mit toten Kindern
 
 **Entschieden ist bisher nur ein Einzelfall** (Autor, 08.09.2026): [Girlins](../../Menschen/Nordvolk/Girlin.md) letztes Kind, ein Säugling von wenigen Wochen, liegt in einer **unmarkierten Grube auf dem Hofgelände** - kein Hügel, kein Stein; nur die Familie kennt die Stelle. Ein allgemeiner Brauch des Nordvolks ist daraus **nicht** abgeleitet · **???**

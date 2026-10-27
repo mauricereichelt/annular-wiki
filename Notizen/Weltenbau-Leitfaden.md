@@ -37,7 +37,7 @@ Annular ist an einer Stelle sehr tief und an einer anderen fast leer. Das ist di
 | Nordvolk: Verortung, Religion, Siedlungsstruktur | historisch verankert, belastbar |
 | Plot 1: Stränge, Zeitleiste, Altersgerüst | steht |
 | Plot 1: Szenenliste | 48 Szenen, Gliederung entschieden - der Zuschnitt ist Arbeitsstand |
-| **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **lückenhaft** - Einzelfälle entschieden (Erbfall Girlin, Tibuns Lebensgrundlage unterwegs und in Kaupvik, die Verlobung in Szene 2), dazu Wertmaß und Unfreie im Norden; Alltag, Thing, Preise und Gewalt fehlen |
+| **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **im Norden weitgehend entschieden** - Erbfall Girlin, Tibuns Lebensgrundlage, Verlobung in Szene 2, Alltag im Winter, Thing, Gewalt, Wertmaß und Unfreie. Offen: Preise und die Höhe der Bußen |
 | **Kel Aman / Süden** | verortet (Fezzan/Garamanten); Namen, Bewaffnung, Ehe und Trennung, Ältestenrat, Geburt, Weggang, Zeitrechnung und Sommerlager entschieden, Vorlage als Mischung aus Garamanten und Tuareg; drei Orte angelegt - Religion, Rituale, Werte und Redewendungen fehlen weiter |
 | Namenssystem | Muster für beide Völker entschieden (31.08.2026), beide überarbeitet bzw. erweitert (28.09.2026) |
 | Folgen des Rings für die Menschen vor Ort | durchgespielt (Schicht 6) |
@@ -72,23 +72,23 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Damit ist die zweite Abweichung von der Realität beseitigt.
 - [x] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern**; innerhalb des Jahres nach Arbeitsmarken, Mondwechseln und Mittwinter/Mittsommer (10.09.2026). Die Kel Aman zählen **Sommer**, Girlins Maß kippt allmählich vom einen ins andere (10.09.2026). Offen nur, ob Dattelernte oder Sternaufgänge als feinere Wüstenmarken dienen · ???
-- [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Auftakt eine Rolle (Gewitter, Suchtrupp). Der Auftakt liegt in der Schurzeit, im Frühsommer (Autor, 27.10.2026).
+- [~] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Entschieden (27.10.2026): Der Auftakt liegt in der Schurzeit, im Frühsommer; Tibun kehrt in +9 im Frühjahr zurück. **Offen:** wie der Winter die übrigen Jahre taktet.
 
 ### Schicht 2 - Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip - die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
 - [x] **Namensmuster Nordvolk:** entschieden 31.08.2026, überarbeitet 28.09.2026 (Bindevokal, neue Koseendungen, fünf Figuren umbenannt) - siehe [Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026).
 - [x] **Kel-Aman-Namen:** entschieden 31.08.2026, erweitert 28.09.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
-- [~] **Alltag im Norden:** Entschieden ist bisher das Fest zur Verlobung in Szene 2 - wie sie besiegelt wird und was auf den Tisch kommt (27.10.2026). **Offen:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
+- [x] **Alltag im Norden:** Entschieden (27.10.2026): das Fest zur Verlobung in Szene 2; im Winter Gerstengrütze und Brot, geräuchertes Fleisch, Käse und Butter, Wild; Fleisch selten, zu Festen, sonst in kleinen Mengen; Wohnstallhaus mit Herd in der Mitte, geheizt mit Torf - siehe [Nordvolk](../Kulturen/Nordvolk/README.md#alltag-im-winter).
 - [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte in Jahr -1, ein Säugling, begraben in einer unmarkierten Grube auf dem Hofgelände - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. Bei der Geburt des Wüstenkindes (Jahr +4) helfen **erfahrene Frauen des Clans**. **Offen:** was bei einer Wunde geschieht, und wie das Nordvolk allgemein mit toten Kindern umgeht.
 
 ### Schicht 3 - Die Ordnung ← **größte Lücke**
-- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Der Spruch der **Wala** genügt, sie erklärt Girlin für tot; Semund darf nach **einem Winter** neu heiraten, die Erlaubnis holen er und Mildirun bei der Wala von Tingsal; **Randlaug** erbt das Kleingut, **Mildirun** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Die Frage, was gilt, wenn eine für tot Erklärte **zurückkommt**, hat der Autor gestrichen. Das Thing als **Verfahren** fehlt weiter.
+- [x] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Der Spruch der **Wala** genügt, sie erklärt Girlin für tot; Semund darf nach **einem Winter** neu heiraten, die Erlaubnis holen er und Mildirun bei der Wala von Tingsal; **Randlaug** erbt das Kleingut, **Mildirun** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Die Frage, was gilt, wenn eine für tot Erklärte **zurückkommt**, hat der Autor gestrichen. Das Thing als Verfahren ist entschieden (27.10.2026): feste Mondzeiten, freie Männer bewaffnet, Zustimmung durch Waffenklirren, Hadurik spricht Recht - siehe [Nordvolk](../Kulturen/Nordvolk/README.md#recht-thing-und-gewalt).
 - [~] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch (27.10.2026). **Offen:** Was ist ein Ballen Wolle wert?
 - [x] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Gelöst (10.09.2026): Die Reise dauert Wochen, mit genau einer Station - [Vegamot](../Orte/Vegamot.md) an der Querung des Limfjords. Dort schließt er sich einem **Händlerzug** an und zahlt mit Arbeit, Wolle und Stoff vom Hof und seinen Händen für Reparaturen. In [Kaupvik](../Orte/Kaupvik.md) wohnt er von Anfang an bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md).
-- [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
+- [~] **Gewalt.** Entschieden (27.10.2026): Freie Männer tragen Waffen, Unfreie keine; Totschlag wird mit Vieh an die Sippe des Toten gebüßt, ohne Buße folgt die Fehde. **Offen:** die Höhe der Buße.
 - [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. **Offen:** wie sie konkret leben, und der Süden.
-- [ ] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche?
+- [~] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche? Entschieden (27.10.2026): Nachrichten aus Kaupvik erreichen Skirraa über Tingsal.
 
 ### Schicht 4 - Die Zeit
 - [x] Plot-Zeitleiste, Altersgerüst.

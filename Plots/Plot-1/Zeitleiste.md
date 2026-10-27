@@ -56,7 +56,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Er versteht das Prinzip noch **nicht** - die Einsicht kommt erst Jahre später in Kaupvik
 - **Die Kette ist nicht neu** - Tibun hat sie schon lange (Autor, 04.09.2026)
 - **Die Verlobungsfeier liegt bewusst nur Tage nach dem Beben** (Autor, 14.09.2026) - ein Fest gegen die Angst
-- **Er verschenkt sie nicht: Fridugund nimmt sie nicht an.** Wie es dann zur Entladung kommt, klärt der Szenentext (Autor, 21.09.2026)
+- **Er verschenkt sie nicht:** Er kommt gar nicht erst dazu, Fridugund zu fragen - die Verlobung kommt ihm dazwischen (Autor, 27.10.2026). Wie es dann zur Entladung kommt, klärt der Szenentext (Autor, 21.09.2026)
 - Der Bernstein an der Kette ist ein **Geschenk seiner Mutter**; die Entdeckung liegt **wenige Tage, bevor sie verschwindet**. *(Präzisiert 21.09.2026: Hier stand, der Bernstein stamme von ihr „wenige Tage, bevor sie verschwindet" - missverständlich, denn die Kette hat er schon lange.)*
 
 ### 3. Der Blitz - Girlins Verschwinden
@@ -106,7 +106,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - *(Hier stand ohne Autorenvermerk: „Folge: Weil der Aufbruch nichts kostet, muss der Konflikt der Jahre +9/+10 vollständig vom Dorf kommen." - vom Autor gestrichen 29.09.2026, der Abschied tut allen dreien weh.)*
 
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
-- Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Fluss
+- Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Fluss - **im Frühjahr** (Autor, 27.10.2026)
 - Bau der **großen Wasseranlage** (Bernsteinrad, wasserradgetrieben) unter einer **überdachten Werkstatt über der Tabustelle**
 - **Die Werkstatt fasst Ring und Bernsteinrad** und reicht dafür die Böschung hinunter bis ans Wasser (vorläufig, Autor, 15.09.2026). Sie ist ein **langgestreckter Bau, dessen Dach mit der Böschung abfällt**, gedeckt mit **Reet** (Autor, 18.09.2026). Wände, Fundament und Aussehen: **???**
 - **Das Wasserrad steht direkt beim Ring im Skir** (Autor, 14.09.2026): Tibun verengt einen kleinen Teil des Flusses für schnellere Strömung. Er baut **iterativ** und probiert verschiedene Dinge aus

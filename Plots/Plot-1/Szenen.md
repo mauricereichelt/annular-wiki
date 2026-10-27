@@ -77,11 +77,11 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Verlobungstag, wenige Tage nach dem Beben. Fridugund nimmt die Kette nicht an; kurz darauf springt ein Blitz an der Schafschere über.
+Verlobungstag, wenige Tage nach dem Beben. Die Verlobung kommt Tibun dazwischen, bevor er Fridugund fragen kann; kurz darauf springt ein Blitz an der Schafschere über.
 
 - **Will:** Fridugund seine Liebe gestehen und sie für sich gewinnen - die Kette hat er schon lange. Ein Antrag ist es nicht (Autor, 21.09.2026)
-- **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Gunthar verlobt, der besseren Partie
-- **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Er **erschrickt heftig** und fürchtet ein Feuer - er weiß, wie brennbar Wolle ist - und „löscht" sofort alles, obwohl nichts passiert wäre: die Gefahr aus seiner Angst heraus überzeichnet, nicht auktorial (Autor, 05.10.2026). Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
+- **Hindernis:** Ihre Verlobung mit Gunthar, der besseren Partie, kommt ihm dazwischen - er kommt gar nicht erst dazu, sie zu fragen (Autor, 27.10.2026)
+- **Ausgang:** Er kommt nicht dazu, sie zu fragen. Der Blitz sengt Flusen an; er versteht nichts davon. Er **erschrickt heftig** und fürchtet ein Feuer - er weiß, wie brennbar Wolle ist - und „löscht" sofort alles, obwohl nichts passiert wäre: die Gefahr aus seiner Angst heraus überzeichnet, nicht auktorial (Autor, 05.10.2026). Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
 
 > **Szenenblatt:** [Der Bernstein-Effekt](Szenenblaetter/Der-Bernstein-Effekt.md)
 

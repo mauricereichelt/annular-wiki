@@ -1251,7 +1251,7 @@ Die Szene führt **Fridugund** (Liebe Tibuns), **Gunthar** (Sohn des Bootsbauers
 
 **Ergebnis**
 
-- **Entschieden:** Der **Herzschmerz-Rahmen bleibt**: Fridugund nimmt Tibuns Kette nicht an - den Bernsteinanhänger, ein Geschenk Girlins, den er schon lange trägt. Wenige Tage später verschwindet Girlin durch dasselbe elektrische Prinzip; der kleine Funke wird zur stillen Vorahnung. **Tibun behält den Anhänger**, er ist ihm sehr wichtig. Wie es von der Abweisung zum Funken kommt, **klärt der Autor im Szenentext**; der Rahmen steht: Funke nach [C-039](#c-039-prolog---funke-entzündet-wolle-), Aufladen nur durch Reibung.
+- **Entschieden:** Der **Herzschmerz-Rahmen bleibt**: Tibun kommt gar nicht dazu, Fridugund die Kette anzubieten - die Verlobung kommt ihm dazwischen. Der Bernsteinanhänger ist ein Geschenk Girlins, den er schon lange trägt. Wenige Tage später verschwindet Girlin durch dasselbe elektrische Prinzip; der kleine Funke wird zur stillen Vorahnung. **Tibun behält den Anhänger**, er ist ihm sehr wichtig. Wie es von der Abweisung zum Funken kommt, **klärt der Autor im Szenentext**; der Rahmen steht: Funke nach [C-039](#c-039-prolog---funke-entzündet-wolle-), Aufladen nur durch Reibung.
 - **Verworfen:** Tibun verschenkt die Kette an Fridugund · die Kette ist neu.
 - **Im Wiki:** [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein), [Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt)
 
@@ -1264,6 +1264,9 @@ Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridugunds 
 > **Korrigiert am 04.09.2026 (Autor):** Hier stand *Tibun verschenkt das Muttergeschenk an Fridugund*. Das ist falsch - **Tibun verschenkt die Kette nicht, Fridugund nimmt sie nicht an.** Die Kette hat er zudem **schon lange**, sie ist nicht neu. Der Payoff läuft damit über die **Abweisung**, nicht über eine Übergabe. Wie es von dort zum Funken kommt, ist offen · **???**
 
 **Geschlossen (21.09.2026):** Wie es von der Abweisung zum Funken kommt - was mit der Kette geschieht, woran sich der Stein auflädt, warum Tibun im Stall ist, ob der Fluss vorkommt -, **klärt der Autor im Szenentext** (Autor, 21.09.2026). Keine spätere Szene hängt daran; der Rahmen steht schon: Funke nach [C-039](#c-039-prolog---funke-entzündet-wolle-), Aufladen nur durch Reibung ([Elektrizität](../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)). Hinweis fürs Schreiben in [Szenen.md](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt). Nachgefragt, weil es spätere Szenen betrifft: **Tibun behält den Anhänger**, er ist ihm sehr wichtig (Autor, 21.09.2026) - eingetragen bei [Tibun](../Menschen/Nordvolk/Tibun.md#der-bernstein).
+
+
+**Korrigiert (Autor, 27.10.2026):** Fridugund lehnt die Kette nicht ab - Tibun kommt gar nicht erst dazu, sie zu fragen, weil die Verlobung ihm dazwischenkommt.
 
 ---
 

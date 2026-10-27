@@ -117,6 +117,8 @@ Aus [C-186 ✓](Challenges-Archiv.md#c-186-das-bernsteinrad-unten-am-skir---näs
 - **Reet brennt.** Die Entladungen selbst sind dafür zu schwach ([Tibuns Generator](../Technik/Tibuns-Generator.md)). Was an **offenem Feuer** in die Werkstatt kommt - Lampe, Herd, Werkfeuer im Winter -, ist damit aber eine Entscheidung mit Folgen.
 - **Ein Reetdach vom Waldrand bis ans Wasser ist eine große Fläche.** Es macht die öffentliche Ansage noch lauter und muss in einigen Jahren ausgebessert werden.
 
+**Neu (Autor, 27.10.2026):** Tibun kehrt im Frühjahr +9 zurück ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md#rückkehr--vollendung-jahr-9--10-tibun-25--26)).
+
 **Zu klären · ???**
 - **Machbarkeit:** Schafft Tibun den Bau allein, und in welcher Zeit?
 - **Wände und Fundament:** Womit werden die Wände geschlossen, und worauf steht der Bau am Hang und am Wasser?
