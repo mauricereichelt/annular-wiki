@@ -14,6 +14,7 @@ Offene Punkte zum Buchinhalt. Entschiedene und gestrichene Einträge stehen im [
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-188: Die Werkstatt - Bau, Aussehen und Machbarkeit ○](#c-188-die-werkstatt---bau-aussehen-und-machbarkeit-)
+- [C-196: Das Erwachen von 550 und die überlieferte Geschichte ○](#c-196-das-erwachen-von-550-und-die-überlieferte-geschichte-)
 
 ---
 
@@ -125,3 +126,23 @@ Aus [C-186 ✓](Challenges-Archiv.md#c-186-das-bernsteinrad-unten-am-skir---näs
 - **Aussehen:** Wie sieht die Werkstatt von außen und innen aus?
 
 Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Die Werkstatt an der Tabustelle*).
+
+---
+
+### C-196: Das Erwachen von 550 und die überlieferte Geschichte ○
+
+Aufgefallen beim Anlegen der [Universums-Zeitleiste](../Plots/README.md#universums-zeitleiste) (27.10.2026).
+
+[Plot 1](../Plots/Plot-1/README.md) liegt **am Beginn eines Erwachens** um 550 n.Chr. ([Welt](../Welt/README.md#kosmologie---der-kreislauf-annular)). Auf das Erwachen folgt im Kreislauf der **Aufstieg**: Über Jahrhunderte bis Jahrtausende wächst eine Kultur, die auf dem Ringnetz beruht. Die überlieferte Geschichte nach 550 kennt keine solche Kultur.
+
+Das kollidiert mit dem **Authentizitätsprinzip**: Einzige Abweichung von der Realität sind die Ringe, alles andere folgt dem historisch Möglichen.
+
+**Was schon steht und die Lösung berührt:**
+- Erwachen und Zusammenbruch folgen einer **festen Periode**; die Länge der Phasen ist offen ([Welt](../Welt/README.md#kosmologie---der-kreislauf-annular))
+- Plot 1 zeigt **nur die erste Dämmerung** des neuen Zyklus
+- Dass das System wieder erlischt, weiß eine Kultur **höchstens als Legende**
+
+**Hinweise (Claude):** Denkbar sind etwa: Der Aufstieg kommt dieses Mal nicht in Gang, weil das Wissen um die Ringe nicht weitergegeben wird · die aktive Phase ist kurz · die Ringe bleiben selten und abgelegen, sodass ihr Gebrauch keine Spur in der Überlieferung hinterlässt · die Welt weicht nach 550 bewusst von der Geschichte ab. Das Letzte bräche das Authentizitätsprinzip. Keine dieser Möglichkeiten ist entschieden.
+
+**Zu klären · ???**
+- Was nach dem Erwachen von 550 geschieht, und wie das zur überlieferten Geschichte passt

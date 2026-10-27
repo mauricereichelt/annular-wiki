@@ -56,7 +56,12 @@ Noch nicht ausgearbeitet.
 
 Gerechnet wird in **Vieh**, in **Stoff**, in **Gold und Silber nach Gewicht** und im **Tausch Ware gegen Ware** (Autor, 27.10.2026). Was ein Ballen Wolle wert ist: **???**
 
-> **Historische Grundlage** (Recherche, keine Setzung): Münzen sind im Alltag unbekannt; Gold, etwa römische Solidi und Brakteaten, dient als Schatz und Schmuck und zählt nach Gewicht, vor allem im Fernhandel. Vieh ist Wertmaß - das gotische Wort für Vieh, *faihu*, heißt zugleich Besitz. In späteren isländischen Rechten hat eine Kuh einen festen Gegenwert in Ellen Wollstoff.
+- **Grundmaß sind Schaf und Kuh** (Autor, 27.10.2026). Wo welches Maß gilt und wie viele Schafe eine Kuh wert sind: **???**
+- **120 Ellen Wollstoff** sind eine Kuh wert; **Semunds Stoff gilt mehr** (Autor, 27.10.2026).
+- **Ein Pferd** ist mehrere Kühe wert (Autor, 27.10.2026).
+- In **Skirraa gibt es keine Kühe** (Autor, 27.10.2026).
+
+> **Historische Grundlage** (Recherche, keine Setzung): Münzen sind im Alltag unbekannt; Gold, etwa römische Solidi und Brakteaten, dient als Schatz und Schmuck und zählt nach Gewicht, vor allem im Fernhandel. Vieh ist Wertmaß - das gotische Wort für Vieh, *faihu*, heißt zugleich Besitz. In isländischen Rechtsquellen des 12./13. Jh. ist eine Kuh sechs Mutterschafe oder 120 Ellen Wollstoff wert. Für das 6. Jh. gibt es keine Zahlen.
 
 ## Alltag im Winter
 
@@ -73,20 +78,33 @@ Entschieden (Autor, 27.10.2026):
 Entschieden (Autor, 27.10.2026):
 
 - **Das Thing** in [Tingsal](../../Orte/Tingsal.md) tritt zu festen Mondzeiten zusammen. Stimme haben die freien Männer, sie kommen bewaffnet; zugestimmt wird durch Waffenklirren. [Hadurik](../../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) spricht Recht.
-- **Totschlag** wird mit einer Buße in Vieh an die Sippe des Toten gesühnt; ohne Buße folgt die Fehde. Wie hoch die Buße ist: **???**
+- **Totschlag an einem freien Mann:** Ob Buße in Vieh an die Sippe des Toten oder Tod, **entscheidet das Thing** (Autor, 27.10.2026). Ohne Buße folgt die Fehde. Wie hoch die Buße ist: **???**
+- **Strafen an Leib und Leben** (Autor, 27.10.2026): Tod bei Verrat und Schande · Ächtung · Unfreiheit bei Schuld · **keine Gefängnisse**.
 - **Waffen** tragen die freien Männer, Unfreie keine.
 
-> **Historische Grundlage** (Recherche, keine Setzung): Tacitus (*Germania*, 1. Jh.) beschreibt Versammlungen an festen Tagen nach dem Mond; man kommt bewaffnet, stimmt durch Waffenklirren zu und lehnt durch Murren ab. Totschlag wird mit Vieh gebüßt, die Buße erhält die ganze Sippe.
+> **Historische Grundlage** (Recherche, keine Setzung): Tacitus (*Germania*, 1. Jh.) beschreibt Versammlungen an festen Tagen nach dem Mond; man kommt bewaffnet, stimmt durch Waffenklirren zu und lehnt durch Murren ab. Totschlag wird mit Vieh gebüßt, die Buße erhält die ganze Sippe. Verräter hängt man an Bäumen auf, Feige und „Schändliche“ versenkt man im Moor. Die Ächtung - der Friedlose, den jeder töten darf - kennen spätere nordische Rechte.
 
 ## Umgang mit toten Kindern
 
-**Entschieden ist bisher nur ein Einzelfall** (Autor, 08.09.2026): [Girlins](../../Menschen/Nordvolk/Girlin.md) letztes Kind, ein Säugling von wenigen Wochen, liegt in einer **unmarkierten Grube auf dem Hofgelände** - kein Hügel, kein Stein; nur die Familie kennt die Stelle. Ein allgemeiner Brauch des Nordvolks ist daraus **nicht** abgeleitet · **???**
+**Entschieden ist bisher nur ein Einzelfall** (Autor, 08.09.2026): [Girlins](../../Menschen/Nordvolk/Girlin.md) letztes Kind, ein Säugling von wenigen Wochen, liegt in einer **unmarkierten Grube auf dem Hofgelände** - kein Hügel, kein Stein; nur die Familie kennt die Stelle. Das ist auch der Brauch: **Säuglinge bleiben auf dem Hof** (Autor, 27.10.2026).
 
 > **Historische Grundlage** (Recherche, keine Setzung): In eisenzeitlichen Gräberfeldern Skandinaviens fehlen Säuglinge nahezu vollständig, während sich Kinderbestattungen im Siedlungsbereich finden - unter Hausböden, in Wandgräbchen, Pfostengruben, aufgelassenen Vorratsgruben. Ältere Kinder erscheinen dagegen im regulären Gräberfeld. Der Einzelfall folgt diesem Befund.
 >
 > **Nicht** belegt für 550 ist die spätere altnordische Vorstellung, ein Kind werde erst durch Namensgebung Mitglied der Sippe; die steht nur in Rechtstexten des 12./13. Jahrhunderts. Sie wird hier **nicht** als Begründung verwendet - der Grabort sagt damit nichts über den Wert des Kindes aus.
 
-**Offen · ???** Wie das Nordvolk allgemein mit toten Kindern umgeht, ob ältere Kinder ins Gräberfeld kommen und wie die Familien trauern.
+**Offen · ???** Ob ältere Kinder ins Gräberfeld kommen und wie die Familien trauern.
+
+## Bestattung
+
+Die Toten werden **verbrannt**; Angesehene bekommen einen **Grabhügel**; **Säuglinge bleiben auf dem Hof** (Autor, 27.10.2026). Kinder: siehe [oben](#umgang-mit-toten-kindern).
+
+> **Historische Grundlage** (Recherche, keine Setzung): In der jüngeren Eisenzeit Skandinaviens kommen Brand- und Körpergräber nebeneinander vor, meist in Gräberfeldern, für Angesehene auch Grabhügel; Säuglinge fehlen in Gräberfeldern fast ganz.
+
+## Heilkunde
+
+Wunden versorgen **die Frauen des Hofs**; dazu gehören **Heilsprüche**. Verletzte bringt man auch **nach Tingsal** (Autor, 27.10.2026) - wann und zu wem: **???**
+
+> **Historische Grundlage** (Recherche, keine Setzung): Verheilte Brüche sind an Skeletten der Eisenzeit häufig. Germanische Heilsprüche sind überliefert, etwa in den Merseburger Zaubersprüchen, aufgeschrieben erst im 10. Jh.
 
 ## Zeitrechnung (Autor, 10.09.2026)
 

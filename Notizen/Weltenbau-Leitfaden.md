@@ -80,19 +80,19 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] **Namensmuster Nordvolk:** entschieden 31.08.2026, überarbeitet 28.09.2026 (Bindevokal, neue Koseendungen, fünf Figuren umbenannt) - siehe [Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026).
 - [x] **Kel-Aman-Namen:** entschieden 31.08.2026, erweitert 28.09.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [x] **Alltag im Norden:** Entschieden (27.10.2026): das Fest zur Verlobung in Szene 2; im Winter Gerstengrütze und Brot, geräuchertes Fleisch, Käse und Butter, Wild; Fleisch selten, zu Festen, sonst in kleinen Mengen; Wohnstallhaus mit Herd in der Mitte, geheizt mit Torf - siehe [Nordvolk](../Kulturen/Nordvolk/README.md#alltag-im-winter).
-- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte in Jahr -1, ein Säugling, begraben in einer unmarkierten Grube auf dem Hofgelände - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. Bei der Geburt des Wüstenkindes (Jahr +4) helfen **erfahrene Frauen des Clans**. **Offen:** was bei einer Wunde geschieht, und wie das Nordvolk allgemein mit toten Kindern umgeht.
+- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte in Jahr -1, ein Säugling, begraben in einer unmarkierten Grube auf dem Hofgelände - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. Bei der Geburt des Wüstenkindes (Jahr +4) helfen **erfahrene Frauen des Clans**. Wunden versorgen die Frauen des Hofs mit Heilsprüchen, Verletzte bringt man auch nach Tingsal; die Toten werden verbrannt, Angesehene bekommen einen Hügel, Säuglinge bleiben auf dem Hof (27.10.2026). **Offen:** wann man nach Tingsal geht und zu wem; ob ältere Kinder ins Gräberfeld kommen.
 
 ### Schicht 3 - Die Ordnung ← **größte Lücke**
 - [x] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Der Spruch der **Wala** genügt, sie erklärt Girlin für tot; Semund darf nach **einem Winter** neu heiraten, die Erlaubnis holen er und Mildirun bei der Wala von Tingsal; **Randlaug** erbt das Kleingut, **Mildirun** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Die Frage, was gilt, wenn eine für tot Erklärte **zurückkommt**, hat der Autor gestrichen. Das Thing als Verfahren ist entschieden (27.10.2026): feste Mondzeiten, freie Männer bewaffnet, Zustimmung durch Waffenklirren, Hadurik spricht Recht - siehe [Nordvolk](../Kulturen/Nordvolk/README.md#recht-thing-und-gewalt).
-- [~] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch (27.10.2026). **Offen:** Was ist ein Ballen Wolle wert?
+- [~] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch; Grundmaß sind Schaf und Kuh, 120 Ellen Stoff sind eine Kuh, ein Pferd mehrere Kühe; in Skirraa gibt es keine Kühe (27.10.2026). **Offen:** Was ist ein Ballen Wolle wert?
 - [x] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Gelöst (10.09.2026): Die Reise dauert Wochen, mit genau einer Station - [Vegamot](../Orte/Vegamot.md) an der Querung des Limfjords. Dort schließt er sich einem **Händlerzug** an und zahlt mit Arbeit, Wolle und Stoff vom Hof und seinen Händen für Reparaturen. In [Kaupvik](../Orte/Kaupvik.md) wohnt er von Anfang an bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md).
-- [~] **Gewalt.** Entschieden (27.10.2026): Freie Männer tragen Waffen, Unfreie keine; Totschlag wird mit Vieh an die Sippe des Toten gebüßt, ohne Buße folgt die Fehde. **Offen:** die Höhe der Buße.
+- [~] **Gewalt.** Entschieden (27.10.2026): Freie Männer tragen Waffen, Unfreie keine; Ob ein Totschlag an einem Freien mit Vieh gebüßt wird oder mit dem Tod, entscheidet das Thing; ohne Buße folgt die Fehde. Strafen: Tod bei Verrat und Schande, Ächtung, Unfreiheit bei Schuld, keine Gefängnisse. **Offen:** die Höhe der Buße.
 - [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. **Offen:** wie sie konkret leben, und der Süden.
 - [~] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche? Entschieden (27.10.2026): Nachrichten aus Kaupvik erreichen Skirraa über Tingsal.
 
 ### Schicht 4 - Die Zeit
 - [x] Plot-Zeitleiste, Altersgerüst.
-- [ ] **Universums-Zeitleiste** (in `Plots/README.md` bereits als ??? vermerkt).
+- [~] **Universums-Zeitleiste** - grobes Gerüst in [Plots](../Plots/README.md#universums-zeitleiste) (27.10.2026). **Offen:** die Länge der Phasen, was nach 550 folgt, wo Nutzer-Zivilisation und Gratsiedlung liegen.
 - [x] **Der jüngste Bruch vor Jahr 0.** Die [Hungerjahre](../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) ab 536: Semunds Hof verliert den größten Teil der Herde, Girlins Herkunftsweiler geht an Hunger und Seuche ein und ist um 541/542 leer, Mildiruns erster Mann stirbt, und die Walas verdanken ihr Ansehen der Vorhersage der Jahre ohne Sommer.
 
 ### Schicht 5 - Die Blickpunkte
@@ -142,7 +142,7 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
 Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die ich ihr nicht gestellt habe?**
 
 - [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht.
-- [ ] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle?
+- [~] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle? Die ersten beiden sind beantwortet (27.10.2026), die dritte ist offen.
 - [x] **3 · Folgentest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
 - [~] **4 · Ortstest.** Für die Nordorte bestanden. Die Wüste hat inzwischen drei Orte (Fundort, Schlucht, Basar); der Test für sie steht aus.
 - [x] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
@@ -154,7 +154,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 
 ## Priorisierung - was das Schreiben blockiert
 
-Von 195 Challenges sind 191 entschieden und 4 offen (Stand 27.10.2026). Für jede neue gilt weiter
+Von 196 Challenges sind 191 entschieden und 5 offen (Stand 27.10.2026). Für jede neue gilt weiter
 die Sortierung in drei Töpfe:
 
 **A - blockiert die nächste Szene.** Zuerst und ausschließlich.
@@ -180,7 +180,7 @@ Alle Punkte, die hier am 28.08.2026 vorgeschlagen waren, sind inzwischen entschi
 
 Weltenbau ist die eleganteste Form der Vermeidung, die es gibt: Er fühlt sich nach Arbeit an,
 hat kein Scheitern, kein Publikum und kein Ende. Dieses Wiki ist bereits gut genug, um ein Buch zu tragen.
-Am 27.10.2026 hat es 184 Commits und 195 Challenges - und keine geschriebene Szene (Autor, 27.10.2026);
+Am 27.10.2026 hat es 184 Commits und 196 Challenges - und keine geschriebene Szene (Autor, 27.10.2026);
 der alte Text *Die Entdeckung* gilt nicht als Kanon.
 
 Das Verhältnis darf sich ab jetzt nur noch in eine Richtung verschieben.
@@ -210,7 +210,7 @@ Es sind Entscheidungen, keine Recherchen. Neun Sitzungen à 2,5 Stunden genügen
 
 | Sitzungen | Aufgabe |
 |---|---|
-| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten. Offen sind noch 4 (27.10.2026) |
+| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten. Offen sind noch 5 (27.10.2026) |
 | ~~3-4~~ | ~~**Wo liegt die Wüste?**~~ - erledigt 31.08.2026: Fezzan / Garamanten |
 | ~~1~~ | ~~Der Sand an der Skir~~ - erledigt 31.08.2026 |
 | ~~1~~ | ~~Semunds Wiederheirat~~ - erledigt: Frist ein Winter, Erlaubnis bei der Wala von Tingsal |

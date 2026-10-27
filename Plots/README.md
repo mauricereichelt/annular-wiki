@@ -25,7 +25,18 @@ Weitere Geschichten sind vorgesehen, aber noch nicht angelegt - u. a. eine **Nut
 
 ## Universums-Zeitleiste
 
-Noch nicht angelegt. **???** - sie soll die Epochen des [Kreislaufs](../Welt/README.md) grob ordnen; Plot 1 wird darin ein **einziger Eintrag** sein. Die feingliedrige Chronologie bleibt bei der jeweiligen Geschichte ([Plot 1](Plot-1/Zeitleiste.md)).
+Grobes Gerüst nach dem [Kreislauf](../Welt/README.md#kosmologie---der-kreislauf-annular) (Autor, 27.10.2026). Plot 1 ist darin ein **einziger Eintrag**; die feingliedrige Chronologie bleibt bei der jeweiligen Geschichte ([Plot 1](Plot-1/Zeitleiste.md)). Die Länge der Phasen ist offen: **???**
+
+<table>
+<tr><th>Zeit</th><th>Phase</th><th>Was feststeht</th><th>Geschichte</th></tr>
+<tr><td>vor aller überlieferbaren Zeit</td><td>-</td><td>Die Erbauer schaffen die Ringe - wird nie aufgelöst</td><td>-</td></tr>
+<tr><td>???</td><td>ein früheres aktives Zeitalter</td><td>Der Skir-Ring ist ein Relikt daraus</td><td>-</td></tr>
+<tr><td>bis 550 n.Chr.</td><td>Vergessen</td><td>Der Skir-Ring liegt seit Jahrtausenden vergraben; stumme Ringe können als Monumente bekannt sein</td><td>-</td></tr>
+<tr><td>550 n.Chr.</td><td>Erwachen</td><td>Weltweites Beben, Beginn eines neuen Zyklus</td><td><a href="Plot-1/README.md">Plot 1</a></td></tr>
+<tr><td>nach 550</td><td>???</td><td>Was auf das Erwachen folgt: ???</td><td>-</td></tr>
+</table>
+
+**Noch ohne Platz in der Zeit** (Zyklus: ???): die Nutzer-Zivilisation, Phase *Aufstieg* ([Verteiler-Turm](../Notizen/Verteiler-Turm.md), [Trailer Loop](../Notizen/Trailer-Loop.md)) · die [Gratsiedlung](../Orte/Gratsiedlung.md), Phase *Zusammenbruch*.
 
 ## Feste Regel: das Geheimnis der Erbauer
 
