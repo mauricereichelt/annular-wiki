@@ -36,6 +36,28 @@ Weitere Epitheta können frei erfunden werden, solange sie zur Eigenschaft des G
 ## Kultur, Werte, Tabus
 Noch nicht ausgearbeitet.
 
+## Verlobung und Fest
+
+**Entschieden ist bisher ein Einzelfall** (Autor, 27.10.2026): die Verlobung von [Fridugund](../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md) und [Gunthar](../../Menschen/Nordvolk/Nebenfiguren/Gunthar.md) in [Skirraa](../../Orte/Skirraa.md). Ein allgemeiner Brauch des Nordvolks ist daraus **nicht** abgeleitet · **???**
+
+- **Besiegelt** mit Handschlag vor Zeugen, einer Brautgabe von [Landarik](../../Menschen/Nordvolk/Nebenfiguren/Landarik.md) und gemeinsamem Trinken. Was die Brautgabe ist: **???**
+- **Auf dem Tisch:** Lamm oder Hammel · Milch, Käse, Butter · Gerstenbrot und Grütze · Bier und Met.
+- **Unfreie** tragen auf und schenken aus; andere arbeiten weiter.
+
+> **Historische Grundlage** (Recherche, keine Setzung): Tacitus (*Germania*, 1. Jh.) beschreibt, dass die Seite des Bräutigams Gaben bringt und die Verwandten sie prüfen. Spätere nordische Quellen kennen die Absprache der Familien vor Zeugen, den Handschlag und die Brautgabe; die Hochzeit folgt oft binnen eines Jahres. Im Frühsommer ist Milchzeit, Getreide ist vor der Ernte knapp. Hopfen ist erst später üblich; Gagel als Würze ist in Dänemark schon in bronzezeitlichen Getränkeresten nachgewiesen.
+
+## Aberglauben
+
+- **Bernstein schützt** - so gilt er im Weiler (Autor, 27.10.2026).
+
+> **Historische Grundlage** (Recherche, keine Setzung): Bernsteinperlen sind in Skandinavien häufige Grabbeigaben und werden oft als Schutz gedeutet.
+
+## Wertmaß und Handel
+
+Gerechnet wird in **Vieh**, in **Stoff**, in **Gold und Silber nach Gewicht** und im **Tausch Ware gegen Ware** (Autor, 27.10.2026). Was ein Ballen Wolle wert ist: **???**
+
+> **Historische Grundlage** (Recherche, keine Setzung): Münzen sind im Alltag unbekannt; Gold, etwa römische Solidi und Brakteaten, dient als Schatz und Schmuck und zählt nach Gewicht, vor allem im Fernhandel. Vieh ist Wertmaß - das gotische Wort für Vieh, *faihu*, heißt zugleich Besitz. In späteren isländischen Rechten hat eine Kuh einen festen Gegenwert in Ellen Wollstoff.
+
 ## Umgang mit toten Kindern
 
 **Entschieden ist bisher nur ein Einzelfall** (Autor, 08.09.2026): [Girlins](../../Menschen/Nordvolk/Girlin.md) letztes Kind, ein Säugling von wenigen Wochen, liegt in einer **unmarkierten Grube auf dem Hofgelände** - kein Hügel, kein Stein; nur die Familie kennt die Stelle. Ein allgemeiner Brauch des Nordvolks ist daraus **nicht** abgeleitet · **???**
@@ -110,4 +132,27 @@ Innerhalb des Jahres gilt dreierlei nebeneinander:
 ---
 
 ## Sprache und Redewendungen
-Noch nicht ausgearbeitet.
+
+**Bildquellen** (Autor, 27.10.2026): Schaf, Wolle und Spindel · die Weberin und der Faden · Winter und Vorrat · Moor, Heide und Wetter. Keine modernen Ausdrücke, Götter nur über Beinamen ([Epitheta-Prinzip](#religion---epitheta-prinzip)).
+
+**Redensarten** - den Wortlaut hat der Autor übernommen (27.10.2026); die Bedeutung ist ein Vorschlag von Claude.
+
+<table>
+<tr><th>Bildquelle</th><th>Redensart</th><th>Bedeutung (Claude)</th></tr>
+<tr><td rowspan="4">Schaf, Wolle, Spindel</td><td>Ungeschorene Wolle wärmt keinen.</td><td>Was man nicht anpackt, nützt nichts.</td></tr>
+<tr><td>Das Garn ist ungefärbt.</td><td>Noch ist nichts entschieden.</td></tr>
+<tr><td>Ein Schaf blökt, alle laufen.</td><td>Über Gerede und Mitläufer.</td></tr>
+<tr><td>Wer in der Schur schläft, friert.</td><td>Wer zur rechten Zeit nicht arbeitet, bezahlt später.</td></tr>
+<tr><td rowspan="4">Die Weberin, der Faden</td><td>Die Weberin fragt niemanden.</td><td>Das Schicksal kommt ungefragt.</td></tr>
+<tr><td>Was gewebt ist, bleibt gewebt.</td><td>Geschehenes lässt sich nicht auflösen.</td></tr>
+<tr><td>Dünner Faden reißt zuerst.</td><td>Die Schwächsten trifft es zuerst.</td></tr>
+<tr><td>Ihm ist kurz gesponnen.</td><td>Er stirbt früh.</td></tr>
+<tr><td rowspan="4">Winter und Vorrat</td><td>Erst den Winter zählen.</td><td>Nicht zu früh freuen - gezählt wird, was man übersteht.</td></tr>
+<tr><td>Im Sommer singen, Rinde kauen.</td><td>Wer nicht vorsorgt, hungert.</td></tr>
+<tr><td>Ein voller Speicher spricht leise.</td><td>Wer genug hat, prahlt nicht.</td></tr>
+<tr><td>Jeder Winter will bezahlt sein.</td><td>Alles hat seinen Preis.</td></tr>
+<tr><td rowspan="4">Moor, Heide, Wetter</td><td>Das Moor nimmt, was es will.</td><td>Über Gefahr und Verlust.</td></tr>
+<tr><td>Auf Torf baut man nicht.</td><td>Eine unsichere Sache, ein schlechter Plan.</td></tr>
+<tr><td>Nebel draußen, Zank drinnen.</td><td>Bei langem Nebel sitzen alle im Haus und geraten aneinander.</td></tr>
+<tr><td>Der Donnerer fährt.</td><td>So sagt man, wenn es gewittert.</td></tr>
+</table>

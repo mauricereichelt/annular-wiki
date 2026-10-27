@@ -27,6 +27,10 @@ Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste
 
 **Schreibregel zu Girlins Namen** (Autor, 10.09.2026): Die [Kel Aman](../../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) nennen sie **Gilint** - ab den ersten Wochen und dauerhaft; sie nimmt den Namen an. **Der Erzähler nennt sie trotzdem durchgehend Girlin.** *Gilint* steht ausschließlich in Figurenrede. Eine eigene Szene bekommt die Umbenennung nicht, ein beiläufiger Satz im Dialog stellt sie klar.
 
+## Erzählweise
+
+**Dritte Person, personal, im Präteritum** (Autor, 27.10.2026).
+
 ## Dateien
 
 | Datei | Inhalt |
@@ -34,5 +38,6 @@ Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste
 | [Kapitelstruktur](Kapitelstruktur.md) | Beat-Gerüst beider Stränge, Abgleich mit dem Wiki |
 | [Zeitleiste](Zeitleiste.md) | Chronologie, Jahre relativ zu Girlins Verschwinden = Jahr 0 |
 | [Szenen](Szenen.md) | Szenenzuschnitt: was jede Szene will, was ihr im Weg steht - Quelle für das Schaubild *Szenenliste* |
+| [Szenenblätter](Szenenblaetter/Der-Bernstein-Effekt.md) | Rahmenbedingungen einzelner Szenen vor dem Schreiben - Ort, Zeit, Anwesende, Sinne; eine Datei je Szene, benannt nach dem Titel |
 | [Plot 1 (alte Notiz)](Plot-1.md) | ältere Plotfassung des Autors, Quellsicherung |
-| *(geschriebene Szenen)* | **Am 04.09.2026 ausgelagert** - geschriebene Szenen liegen nicht mehr im Wiki und werden hier nicht geführt |
+| `Manuskript/Plot-1/` | Die Szenentexte - **außerhalb des Wikis**, eine Datei je Szene, benannt wie ihr Szenenblatt (Autor, 27.10.2026). Claude liest dort nur |

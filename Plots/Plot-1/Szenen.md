@@ -83,6 +83,8 @@ Verlobungstag, wenige Tage nach dem Beben. Fridugund nimmt die Kette nicht an; k
 - **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Gunthar verlobt, der besseren Partie
 - **Ausgang:** Abgewiesen. Der Blitz sengt Flusen an; er versteht nichts davon. Er **erschrickt heftig** und fürchtet ein Feuer - er weiß, wie brennbar Wolle ist - und „löscht" sofort alles, obwohl nichts passiert wäre: die Gefahr aus seiner Angst heraus überzeichnet, nicht auktorial (Autor, 05.10.2026). Wie es dazu kommt, klärt der Szenentext (Autor, 21.09.2026) - die alte Szene gilt nicht als Kanon.
 
+> **Szenenblatt:** [Der Bernstein-Effekt](Szenenblaetter/Der-Bernstein-Effekt.md)
+
 > **Hinweis fürs Schreiben (Claude):** Aufladen braucht **Reibung**, am stärksten Bernstein an Wolle - Werfen allein lädt nichts. Die Entladung knistert und ist im Dunkeln als blau-weißer Blitz zu sehen ([Elektrizität](../../Technik/Elektrizitaet.md#reibungselektrizität-bernstein-effekt)).
 
 > **Beim Überarbeiten nachziehen** (Liste 21.09.2026): Der alte Szenentext *Die Entdeckung* ruht bis November und widerspricht dem Wiki an diesen Stellen:
@@ -102,6 +104,8 @@ Verlobungstag, wenige Tage nach dem Beben. Fridugund nimmt die Kette nicht an; k
 > **[Gunthar](../../Menschen/Nordvolk/Nebenfiguren/Gunthar.md) tritt auf** (Autor, 29.09.2026).
 >
 > **[Landarik](../../Menschen/Nordvolk/Nebenfiguren/Landarik.md) tritt auf** (Autor, 29.09.2026).
+>
+> **[Girlin](../../Menschen/Nordvolk/Girlin.md) und [Randlaug](../../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) sind bei der Verlobung dabei, [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) nicht** (Autor, 27.10.2026). Warum Semund fehlt: ???
 
 
 ### 3 · Der Blitz - Girlin

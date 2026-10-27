@@ -1,7 +1,7 @@
 # Weltenbau - Leitfaden und Prüfliste
 
-> Angelegt 28.08.2026, am selben Tag nach Durchsicht des gesamten Wikis (ohne `Szenen/`) auf den
-> tatsächlichen Stand von Annular umgeschrieben. Zweck: sichtbar machen, was für die Welt noch fehlt -
+> Angelegt 28.08.2026 nach Durchsicht des gesamten Wikis, abgeglichen mit dem Wiki am 27.10.2026.
+> Zweck: sichtbar machen, was für die Welt noch fehlt -
 > und was davon das **Schreiben blockiert** und was nicht.
 
 > Ich möchte aber noch einmal klar formulieren, was mein aktuelles Ziel ist, an dem ich hart arbeiten möchte.
@@ -36,12 +36,13 @@ Annular ist an einer Stelle sehr tief und an einer anderen fast leer. Das ist di
 | Kosmologie (Kreislauf, Wissensebenen) | steht |
 | Nordvolk: Verortung, Religion, Siedlungsstruktur | historisch verankert, belastbar |
 | Plot 1: Stränge, Zeitleiste, Altersgerüst | steht |
-| **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **fehlt fast vollständig** |
-| **Kel Aman / Süden** | verortet (Fezzan/Garamanten), Namen und Bewaffnung entschieden - Kultur, Religion und Orte fehlen weiter |
-| Namenssystem | Muster für beide Völker entschieden (31.08.2026), Nordvolk überarbeitet (28.09.2026) |
-| **Folgen des Rings für die Menschen vor Ort** | **nicht durchgespielt** |
+| Plot 1: Szenenliste | 48 Szenen, Gliederung entschieden - der Zuschnitt ist Arbeitsstand |
+| **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **lückenhaft** - Einzelfälle entschieden (Erbfall Girlin, Tibuns Lebensgrundlage unterwegs und in Kaupvik, die Verlobung in Szene 2), dazu Wertmaß und Unfreie im Norden; Alltag, Thing, Preise und Gewalt fehlen |
+| **Kel Aman / Süden** | verortet (Fezzan/Garamanten); Namen, Bewaffnung, Ehe und Trennung, Ältestenrat, Geburt, Weggang und Zeitrechnung entschieden; drei Orte angelegt - Religion, Rituale, Werte und Redewendungen fehlen weiter |
+| Namenssystem | Muster für beide Völker entschieden (31.08.2026), beide überarbeitet bzw. erweitert (28.09.2026) |
+| Folgen des Rings für die Menschen vor Ort | durchgespielt (Schicht 6) |
 
-Du hast Objekte und Personen gebaut, aber noch keine **Gesellschaften**. Das ist der eigentliche
+Du hast Objekte und Personen gebaut, **Gesellschaften** aber erst in Einzelentscheidungen. Das ist der eigentliche
 Arbeitsvorrat - nicht weitere Ringdetails.
 
 ---
@@ -70,34 +71,34 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] Kosmologie, Zyklus, Wissensebenen.
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Damit ist die zweite Abweichung von der Realität beseitigt.
-- [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern**. Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
-- [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Prolog eine Rolle.
+- [x] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern**; innerhalb des Jahres nach Arbeitsmarken, Mondwechseln und Mittwinter/Mittsommer (10.09.2026). Die Kel Aman zählen **Sommer**, Girlins Maß kippt allmählich vom einen ins andere (10.09.2026). Offen nur, ob Dattelernte oder Sternaufgänge als feinere Wüstenmarken dienen · ???
+- [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Auftakt eine Rolle (Gewitter, Suchtrupp). Der Auftakt liegt in der Schurzeit, im Frühsommer (Autor, 27.10.2026).
 
 ### Schicht 2 - Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip - die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
 - [x] **Namensmuster Nordvolk:** entschieden 31.08.2026, überarbeitet 28.09.2026 (Bindevokal, neue Koseendungen, fünf Figuren umbenannt) - siehe [Namensmuster](../Kulturen/Nordvolk/README.md#namensmuster-autor-31082026-überarbeitet-28092026).
-- [x] **Kel-Aman-Namen:** entschieden 31.08.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
-- [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
-- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
+- [x] **Kel-Aman-Namen:** entschieden 31.08.2026, erweitert 28.09.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
+- [~] **Alltag im Norden:** Entschieden ist bisher das Fest zur Verlobung in Szene 2 - wie sie besiegelt wird und was auf den Tisch kommt (27.10.2026). **Offen:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
+- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte in Jahr -1, ein Säugling, begraben in einer unmarkierten Grube auf dem Hofgelände - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. Bei der Geburt des Wüstenkindes (Jahr +4) helfen **erfahrene Frauen des Clans**. **Offen:** was bei einer Wunde geschieht, und wie das Nordvolk allgemein mit toten Kindern umgeht.
 
 ### Schicht 3 - Die Ordnung ← **größte Lücke**
-- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Randlaug** erbt das Kleingut, **Mildirun** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** - gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
-- [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
-- [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
+- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Der Spruch der **Wala** genügt, sie erklärt Girlin für tot; Semund darf nach **einem Winter** neu heiraten, die Erlaubnis holen er und Mildirun bei der Wala von Tingsal; **Randlaug** erbt das Kleingut, **Mildirun** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Die Frage, was gilt, wenn eine für tot Erklärte **zurückkommt**, hat der Autor gestrichen. Das Thing als **Verfahren** fehlt weiter.
+- [~] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch (27.10.2026). **Offen:** Was ist ein Ballen Wolle wert?
+- [x] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Gelöst (10.09.2026): Die Reise dauert Wochen, mit genau einer Station - [Vegamot](../Orte/Vegamot.md) an der Querung des Limfjords. Dort schließt er sich einem **Händlerzug** an und zahlt mit Arbeit, Wolle und Stoff vom Hof und seinen Händen für Reparaturen. In [Kaupvik](../Orte/Kaupvik.md) wohnt er von Anfang an bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md).
 - [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
-- [ ] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Wie funktioniert sie konkret auf beiden Seiten?
+- [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. **Offen:** wie sie konkret leben, und der Süden.
 - [ ] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche?
 
 ### Schicht 4 - Die Zeit
 - [x] Plot-Zeitleiste, Altersgerüst.
 - [ ] **Universums-Zeitleiste** (in `Plots/README.md` bereits als ??? vermerkt).
-- [ ] **Der jüngste Bruch vor Jahr 0.** Was hat sich in Skirraa in der Generation vor der Geschichte verändert? Eine Welt ohne jüngere Vergangenheit wirkt wie eine Bühne.
+- [x] **Der jüngste Bruch vor Jahr 0.** Die [Hungerjahre](../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) ab 536: Semunds Hof verliert den größten Teil der Herde, Girlins Herkunftsweiler geht an Hunger und Seuche ein und ist um 541/542 leer, Mildiruns erster Mann stirbt, und die Walas verdanken ihr Ansehen der Vorhersage der Jahre ohne Sommer.
 
 ### Schicht 5 - Die Blickpunkte
-- [x] Vier ausgearbeitete Orte plus Bildmaterial.
-- [ ] **Die Wüstenseite hat keinen einzigen konkreten Ort.** Basar, Stadt, Schlucht, Bellbrims Werkstatt existieren als Wörter. Girlin verbringt dort zehn Jahre - die Hälfte des Buches spielt an Orten, die es noch nicht gibt.
-- [ ] **Sprichwörter, Aberglauben, Redensarten** - in `Kulturen/Nordvolk` ausdrücklich als "noch nicht ausgearbeitet" markiert. Genau das trägt später jeden Dialog.
+- [x] Nordorte ausgearbeitet: Skirraa, Tingsal, Kaupvik, Vegamot, plus Bildmaterial.
+- [~] **Die Wüstenseite hat drei Orte:** [Fundort](../Orte/Fundort.md) (Erg Uan Kasa), [Bellbrims Schlucht](../Orte/Bellbrims-Werkstatt.md) (Tadrart Acacus) und [Basar](../Orte/Basar.md). **Offen:** die Namen von Basar und Fundort, die Lage der Schlucht im Massiv. Die Jahre beim Clan (Jahr 0 bis +5) haben keinen eigenen Ort.
+- [~] **Sprichwörter, Aberglauben, Redensarten.** Nordvolk (27.10.2026): 16 Redensarten aus vier Bildquellen, dazu Bernstein als Schutzstein. Für die Kel Aman fehlt beides. Genau das trägt später jeden Dialog.
 
 ### Schicht 6 - Die Folgen des Wunders *(im ursprünglichen Leitfaden nicht enthalten)*
 
@@ -120,15 +121,15 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Stand 31.08.2026: Der Kernvorwurf ist erledigt.** Ort, Sprachfamilie und Namen und Bewaffnung sind entschieden. Offen bleiben Religion, Bräuche und Orte - die Punkte unten gelten weiter.
+**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt und Weggang aus der Sippe; drei Wüstenorte sind angelegt. Offen bleiben Religion, Rituale und Werte.
 
-- [ ] **Wo liegt die Wüste? ???** Ohne diese Entscheidung ist keine Kulturarbeit im Süden möglich. Ernsthafte Kandidaten für 550 n.Chr.:
+- [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Geprüft wurden diese Kandidaten für 550 n.Chr.:
   - **Sahara / Fezzan** - die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
   - **Arabische Halbinsel** - dicht belegt, Kamelnomaden, Karawanenhandel, eine Generation vor dem Islam.
   - **Syrische Wüste** - Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
   - **Zentralasien / Sogdien** - die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
 - [x] **Krummsäbel gestrichen** (31.08.2026): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch - zu dieser Zeit längst etabliert.)
-- [~] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** - keine Verweigerung, sie arbeitet an ihrer Lage. **Mit Bellbrim kann sie vom ersten Treffen an kommunizieren** - nicht vollständig, aber ohne Konflikt; die Sprachen sind ähnlich (Autor, 14.09.2026). Dort endet ihre Sprachlosigkeit. *(Überholt: Hier stand, Bellbrims Vandalisch sei mit Girlins Sprache nur verwandt und die Barriere bleibe erhalten.)* **Offen:** wie lange es bis zu Bellbrim dauert und was das mit ihr macht - vom Autor vertagt, bis der Plot steht.
+- [~] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** - keine Verweigerung, sie arbeitet an ihrer Lage. **Mit Bellbrim kann sie vom ersten Treffen an kommunizieren** - nicht vollständig, aber ohne Konflikt; die Sprachen sind ähnlich (Autor, 14.09.2026). Dort endet ihre Sprachlosigkeit. *(Überholt: Hier stand, Bellbrims Vandalisch sei mit Girlins Sprache nur verwandt und die Barriere bleibe erhalten.)* Das Kennenlernen liegt in **Jahr +1** (Autor, 25.09.2026). **Offen:** was die Zeit bis dahin mit ihr macht · ???
 - [x] **Girlin.** Steht seit 31.08.2026: zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** - sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
 - [x] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann - Wasser, Schutz seiner Leute, Angst vor dem Ring.
   > **Beantwortet (Autor, 22.09.2026):** Er bekommt eine zweite Seite - **sein Ansehen hängt daran**: Ein Anführer, den eine Fremde und ein Clan abweisen, verliert vor seinen Leuten das Gesicht und am Ende die Leute ([Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)). Wasser und Angst vor dem Ring sind überholt: Der Ring ist nie sein Motiv. *Herkunft: „Deine eigene Regel" hat Claude am 28.08.2026 geschrieben; eine solche Regel des Autors ist nicht belegt.*
@@ -143,7 +144,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 - [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht.
 - [ ] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle?
 - [x] **3 · Folgentest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
-- [~] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht - dort gibt es keine Orte.
+- [~] **4 · Ortstest.** Für die Nordorte bestanden. Die Wüste hat inzwischen drei Orte (Fundort, Schlucht, Basar); der Test für sie steht aus.
 - [x] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
   > **Beantwortet (Autor, 22.09.2026): Der Test gilt, aber ohne feste Zahl.** Zwei verständliche Seiten haben: [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) gegen [Tibun](../Menschen/Nordvolk/Tibun.md) · Tibun gegen [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) und Weiler · [Randlaug](../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) gegen Tibun · [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und der Clan. [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) bekommt eine zweite Seite: Sein Ansehen hängt daran. *Herkunft: Der Test stammt von Claude (28.08.2026), nicht vom Autor.*
 - [x] **6 · Namenstest.** **Bestanden** - für den Süden und für den Norden (Autor, 28.09.2026).
@@ -153,12 +154,12 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 
 ## Priorisierung - was das Schreiben blockiert
 
-Es stehen über achtzig Challenges offen, und die Liste wächst schneller, als sie schrumpft.
-Sie ist ein gutes Werkzeug und gleichzeitig ein Schuldenberg. Sortiere sie in drei Töpfe:
+Von 195 Challenges sind 191 entschieden und 4 offen (Stand 27.10.2026). Für jede neue gilt weiter
+die Sortierung in drei Töpfe:
 
 **A - blockiert die nächste Szene.** Zuerst und ausschließlich.
 Beispiele: Girlins Charakter, Wo liegt die Wüste, Semunds Wiederheirat nach welcher Regel,
-was die Dorfbewohner nach dem Verschwinden tatsächlich sehen.
+was die Dorfbewohner nach dem Verschwinden tatsächlich sehen - alle vier am 31.08.2026 entschieden.
 
 **B - blockiert das Buch, nicht die Szene.** Kann warten, bis die Szene steht.
 Beispiele: Titel, Universums-Zeitleiste, weitere Ringgrößen.
@@ -171,18 +172,7 @@ Beispiele: Kantenquerschnitt, Haptik der Oberfläche, Abklingdauer des Leuchtens
 
 ### Vorschläge für neue Challenges
 
-Nicht eingetragen - Nummernvergabe liegt beim Autor. Folgende Punkte haben in `Challenges.md`
-noch keine Entsprechung gefunden:
-
-- Wo liegt die Wüste? (historischer Anker für die Kel Aman)
-- Namensbildung Nordvolk und Kel Aman - System oder bewusste Ausnahme?
-- Rechtsfrage: Wann gilt eine Verschwundene als tot, wann darf Semund neu heiraten?
-- Wie überlebt Tibun acht Jahre allein auf der Wanderschaft?
-- Zeitmessung im Erzähltext über zehn Jahre hinweg
-- Der sichtbare Wüstensand an der Skir - widerlegt er Tibuns Unglaubwürdigkeit?
-- Das jütische Erdreich in der Wüste als Fundhinweis für die Kel Aman
-- ~~Wassertausch durch den Ring - Folgen für den Süden und für die Motivation des Antagonisten~~ (überholt, siehe oben: der Ring liegt auf trockenem Grund)
-- Wer außer Tibun beansprucht den Ring? (Häuptling, Wala, Nachbarweiler)
+Alle Punkte, die hier am 28.08.2026 vorgeschlagen waren, sind inzwischen entschieden oder überholt.
 
 ---
 
@@ -190,7 +180,8 @@ noch keine Entsprechung gefunden:
 
 Weltenbau ist die eleganteste Form der Vermeidung, die es gibt: Er fühlt sich nach Arbeit an,
 hat kein Scheitern, kein Publikum und kein Ende. Dieses Wiki ist bereits gut genug, um ein Buch zu tragen.
-Es hat 62 Commits, über achtzig Challenges - und eine geschriebene Szene.
+Am 27.10.2026 hat es 184 Commits und 195 Challenges - und keine geschriebene Szene (Autor, 27.10.2026);
+der alte Text *Die Entdeckung* gilt nicht als Kanon.
 
 Das Verhältnis darf sich ab jetzt nur noch in eine Richtung verschieben.
 
@@ -200,27 +191,29 @@ Das Verhältnis darf sich ab jetzt nur noch in eine Richtung verschieben.
 
 ### Der Fahrplan bis Februar 2027
 
-Von Ende August 2026 bis Ende Februar 2027 sind es **26 Wochen**, also rund **65 Stunden** Budget.
+Vom 31.08.2026 bis 28.02.2027 sind es 182 Tage, also **26 Wochen** - bei 2,5 Stunden pro Woche (Annahme) rund **65 Stunden** Budget.
 
 | Zeitraum | Wochen | Was |
 |---|---|---|
-| **bis 31.10.2026** | 9 | die vier Entscheidungen unten - **harte Grenze für den Weltenbau** |
-| 01.11.-15.12.2026 | 6 | Rohfassung Szene 1 |
-| 16.12.2026-31.01.2027 | 6 | zwei Überarbeitungen, dazwischen mindestens zwei Wochen liegen lassen |
+| **bis 31.10.2026** | 9 | die vier Entscheidungen unten (getroffen 31.08.2026) - **harte Grenze für den Weltenbau** |
+| 01.11.-15.12.2026 | 6 | Rohfassung der ersten Szene nach dem Prolog |
+| 16.12.2026-31.01.2027 | 7 | zwei Überarbeitungen, dazwischen mindestens zwei Wochen liegen lassen |
 | Februar 2027 | 4 | Puffer - oder die Szene einem fremden Menschen zeigen |
+
+Wochen gerundet aus 62, 45, 47 und 28 Tagen (8,9 · 6,4 · 6,7 · 4,0 = 26,0).
 
 **Ab dem 1. November wird am Wiki nur noch bearbeitet, was die Szene erzwingt.** Nichts anderes.
 
 #### Bis 31.10. - die vier Entscheidungen (~23 Stunden)
 
-Es sind Entscheidungen, keine Recherchen. Neun Sitzungen genügen:
+Es sind Entscheidungen, keine Recherchen. Neun Sitzungen à 2,5 Stunden genügen:
 
 | Sitzungen | Aufgabe |
 |---|---|
-| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten |
-| 3-4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
+| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten. Offen sind noch 4 (27.10.2026) |
+| ~~3-4~~ | ~~**Wo liegt die Wüste?**~~ - erledigt 31.08.2026: Fezzan / Garamanten |
 | ~~1~~ | ~~Der Sand an der Skir~~ - erledigt 31.08.2026 |
-| ~~1~~ | ~~Semunds Wiederheirat~~ - Grundlage steht, nur noch Frist und Beurkundung offen |
+| ~~1~~ | ~~Semunds Wiederheirat~~ - erledigt: Frist ein Winter, Erlaubnis bei der Wala von Tingsal |
 | ~~2~~ | ~~Girlin: Herkunft und Charakter~~ - erledigt 31.08.2026 |
 
 Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.**
@@ -229,7 +222,7 @@ Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.
 > geschrieben - mit `???` an der offenen Stelle, wie überall sonst im Wiki. Der Kalender ist die
 > härtere Instanz als die Vollständigkeit.
 
-#### Ab 01.11. - Szene 1: 1.200-1.800 Wörter, Ziel 1.500
+#### Ab 01.11. - die erste Szene nach dem Prolog: 1.200-1.800 Wörter, Ziel 1.500
 
 Etwa vier bis sechs Buchseiten. Begründung der Größe:
 
@@ -242,8 +235,8 @@ Zwei Regeln dazu:
 1. **Die Länge steht vorher fest.** Nicht schreiben, bis es fertig ist.
 2. **In der Szene ändert sich eine Sache.** Ist am Ende alles wie am Anfang, ist es eine Beschreibung.
 
-Vorschlag für den Stoff: **der Morgen nach Girlins Verschwinden, aus Tibuns Sicht.** Diese Szene
-stellt genau die vier Fragen von oben - die Geschichte arbeitet dann für dich, statt umgekehrt.
+**Die erste Szene ist *Der Bernstein-Effekt*** (Autor, 27.10.2026). Ihre Rahmenbedingungen stehen im
+[Szenenblatt](../Plots/Plot-1/Szenenblaetter/Der-Bernstein-Effekt.md); der alte Text *Die Entdeckung* gilt nicht als Kanon.
 
 Bei 500 Wörtern pro Woche sind 1.500 Wörter drei Wochen reines Schreiben. Die sechs Wochen im
 Plan sind Absicht: Du wirst mindestens einmal neu anfangen, und das ist normal. Das Liegenlassen
@@ -252,15 +245,18 @@ man erst wieder, wenn man sie ein paar Wochen nicht gelesen hat.
 
 ### Der Weg zum Buch
 
-Die nüchterne Rechnung: 2,5 Stunden pro Woche sind als Ungeübter etwa 500 Wörter, also rund
-22.000 Wörter im Jahr. Ein Roman von 100.000 Wörtern wäre damit **fünf Jahre Rohfassung**,
-Überarbeitung noch nicht eingerechnet. Daraus folgt:
+Die nüchterne Rechnung - Annahme: 2,5 Stunden pro Woche sind als Ungeübter etwa 500 Wörter.
+Das sind 500 × 52 = 26.000 Wörter im Jahr. Ein Roman von 100.000 Wörtern wäre damit **knapp vier
+Jahre Rohfassung** (100.000 / 26.000 = 3,8), Überarbeitung noch nicht eingerechnet. Plot 1 schätzt die
+[Szenenliste](Schaubilder/Szenenliste.html) auf 57.600-96.000 Wörter (48 Szenen × 1.200-2.000 Wörter,
+Annahme des Generators), also 2,2 bis 3,7 Jahre. Daraus folgt:
 
 > **Das erste Buch sollte nicht der Roman sein.**
 
 Deine eigene `CLAUDE.md` lässt es ausdrücklich zu: *"Jede einzelne Geschichte soll als Buch oder
 Szenensammlung enden."* Nimm die Sammlung. 30.000-40.000 Wörter, acht bis zwölf Szenen aus dem
-Annular-Universum. Das ergibt drei Dinge auf einmal:
+Annular-Universum - also 2.500-5.000 Wörter je Szene, deutlich länger als die erste Übungsszene.
+Das ergibt drei Dinge auf einmal:
 
 - ein **fertiges Werk** statt eines ewigen Entwurfs
 - eine **ISBN und damit den Eintrag in der Deutschen Nationalbibliografie** - das eigentliche Ziel, erreicht um 2029 statt um 2035
@@ -268,7 +264,7 @@ Annular-Universum. Das ergibt drei Dinge auf einmal:
 
 | bis | Meilenstein |
 |---|---|
-| Feb 2027 | vier A-Entscheidungen getroffen, erste Szene geschrieben |
+| Feb 2027 | vier A-Entscheidungen getroffen (erledigt 31.08.2026), erste Szene nach dem Prolog geschrieben |
 | Ende 2027 | sechs bis acht Szenen, erste Rückmeldung von außen |
 | 2029 | Szenensammlung fertig, ISBN, Pflichtexemplar → dauerhaft im DNB-Katalog |
 | 2030-2035 | Plot 1 als Roman |
@@ -291,7 +287,6 @@ in diesem Plan, an der Zurückgezogenheit echten Fortschritt kostet.
 ### Was du nicht tun solltest
 
 - Keine weitere Ringdetailfrage beantworten, bevor eine Szene sie stellt.
-- Den Süden nicht ausbauen, bevor entschieden ist, wo die Wüste liegt.
 - Nicht warten, bis die Welt fertig ist. Sie wird es nie - das ist keine Eigenschaft dieses Projekts, sondern von Weltenbau überhaupt.
 
 ---

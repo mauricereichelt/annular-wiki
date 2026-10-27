@@ -195,6 +195,8 @@ Entschiedene (`✓`) und gestrichene (`✗`) Challenges, aufsteigend nach Nummer
 - [C-191: Die Namen des Nordvolks klingen wie deutsche Spitznamen ✓](#c-191-die-namen-des-nordvolks-klingen-wie-deutsche-spitznamen-)
 - [C-192: Unterschiedlicher Luftdruck an den beiden Ringorten ✓](#c-192-unterschiedlicher-luftdruck-an-den-beiden-ringorten-)
 - [C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ✓](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-)
+- [C-194: Jahreszeit des Auftakts ✓](#c-194-jahreszeit-des-auftakts-)
+- [C-195: Erzählperspektive und Zeitform ✓](#c-195-erzählperspektive-und-zeitform-)
 
 ---
 
@@ -5917,3 +5919,65 @@ Folge aus [C-181](#c-181-tausch-schicht-für-schicht---was-geschieht-mit-bewegun
 - **Zündung 1:** *„Nur das Ergebnis, aber Azzim liegt nicht."* Was Azzims Leute sehen, folgt aus AC-10.
 - **Zündung 2:** Claudes Folgerung aus der Starre bestätigt (*„Ja, so"*).
 - Die Angabe *„eine Halbkugel Boden ist fort, sonst nichts"* (10.09.2026) in Szene 46 ist ersetzt; nach heutiger Geometrie wäre es eine Kappe von 5,3 m³, und getauscht statt fort.
+
+---
+
+### C-194: Jahreszeit des Auftakts ✓
+
+**Ergebnis**
+
+- **Entschieden:** Der Auftakt liegt in der **Schurzeit, im Frühsommer**. Damit kommt Girlin im Frühsommer im Fezzan an.
+- **Verworfen:** Heuernte im Hochsommer · Spätsommer vor der Schlachtzeit · Lammung im Frühjahr.
+- **Offen geblieben:** wo die Kel Aman zu dieser Zeit lagern, sodass sie das Leuchten sehen - im Sommer reisen sie nicht · ???
+- **Im Wiki:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#ankunft-und-erste-jahre-jahr-0--3)
+
+**Verlauf** - *nicht maßgeblich*
+
+Aus der Prüfung des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.md) (27.10.2026).
+
+In welcher Jahreszeit liegt der Auftakt - Beben, Verlobungsfeier, Gewitter? Im Wiki steht dazu nichts. Der Auftakt umfasst ein bis zwei Wochen ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0---der-auftakt-tibun-16-girlin-34)), die Jahreszeit gilt also für alle Szenen bis zu Girlins Ankunft in der Wüste. Szene 2, die erste nach dem Prolog, braucht Wetter, Licht und die **Arbeitsmarke** auf dem Hof ([Zeitrechnung Nordvolk](../Kulturen/Nordvolk/README.md#zeitrechnung-autor-10092026)).
+
+**Was schon steht und die Wahl berührt:**
+- **Starkes Gewitter** beim Verschwinden; Girlin ist wegen der Schafe draußen ([Szenen](../Plots/Plot-1/Szenen.md#3--der-blitz---girlin))
+- Der Blitz springt an der **Schafschere im Wollstall** über ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md#2-der-bernstein-effekt))
+- Der Suchtrupp gibt **wetterbedingt** auf ([Szenen](../Plots/Plot-1/Szenen.md#5--der-suchtrupp))
+- Bei den Kel Aman gilt: **Man reist nicht im Sommer; Handel und Weidezug liegen im kühlen Halbjahr** ([Kel Aman](../Kulturen/Kel-Aman/README.md#zeitrechnung-autor-10092026)). Girlin kommt zur selben Zeit im Fezzan an, zu der sie in Skirraa verschwindet
+
+**Hinweise (Claude):**
+- Gewitter sind in Jütland vor allem eine Erscheinung des Sommerhalbjahrs. Ein starkes Gewitter im Winter ist möglich, aber selten.
+- Liegt der Auftakt im Sommer, kommt Girlin in der heißesten Zeit am [Fundort](../Orte/Fundort.md) an - in der Zeit, in der die Kel Aman nicht reisen. Wo sie dann lagern und warum sie das Leuchten sehen, muss dazu passen.
+
+**Zu klären · ???**
+- Jahreszeit und Arbeitsmarke des Auftakts
+
+**Entschieden (Autor, 27.10.2026):** Schurzeit, Frühsommer.
+
+---
+
+### C-195: Erzählperspektive und Zeitform ✓
+
+**Ergebnis**
+
+- **Entschieden:** Erzählt wird in der **dritten Person, personal**, im **Präteritum**.
+- **Verworfen:** Ich-Erzählung · je Strang verschiedene Perspektive · Präsens.
+- **Im Wiki:** [Plot 1](../Plots/Plot-1/README.md#erzählweise)
+
+**Verlauf** - *nicht maßgeblich*
+
+Aus der Vorbereitung der ersten Szene (27.10.2026). Aus welcher Perspektive und in welcher Zeitform erzählt wird, ist nicht entschieden. Das betrifft jeden Satz jeder Szene - eine spätere Umstellung heißt, alles Geschriebene neu zu fassen.
+
+**Was schon steht und die Wahl berührt:**
+- Jede Szene hat eine POV-Figur, Tibun oder Girlin; die Stränge wechseln sich ab ([Szenen](../Plots/Plot-1/Szenen.md#gliederung))
+- **Der Erzähler nennt sie durchgehend Girlin**, *Gilint* steht nur in Figurenrede ([Plot 1](../Plots/Plot-1/README.md#figuren))
+- Beim Bernstein-Effekt wird die Gefahr **aus Tibuns Angst heraus** überzeichnet, **nicht auktorial** ([Szenen](../Plots/Plot-1/Szenen.md#2--der-bernstein-effekt))
+- **Beim Ring wissen Leser und Figuren gleich viel**; die Zweisträngigkeit gibt dem Leser einen Vorsprung ([Plot 1](../Plots/Plot-1/README.md#ton))
+
+**Hinweise (Claude):**
+- Die beiden mittleren Punkte sprechen für eine Erzählung in der dritten Person, nah an der jeweiligen POV-Figur: Ein Ich-Erzähler würde Girlin nicht beim Namen nennen, ein auktorialer Erzähler wüsste mehr als die Figur. Entschieden ist das damit nicht.
+- Präteritum ist im deutschen Roman der Normalfall. Präsens rückt näher heran, ist über ein langes Buch aber schwerer durchzuhalten.
+
+**Zu klären · ???**
+- Erzählperspektive - für beide Stränge gleich?
+- Zeitform
+
+**Entschieden (Autor, 27.10.2026):** dritte Person, personal; Präteritum. Gefragt war für das ganze Buch; *je Strang verschieden* stand zur Wahl und wurde nicht genommen.

@@ -33,6 +33,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 **Entschieden am 04.09.2026:** Drei Ereignisse in dieser Reihenfolge, **jeweils nur wenige Tage auseinander** - der gesamte Auftakt umfasst damit ein bis zwei Wochen, kein Jahr.
 
+**Jahreszeit: Schurzeit, Frühsommer** (Autor, 27.10.2026).
+
 | # | Ereignis | Abstand |
 |---|---|---|
 | 1 | **Das Beben** - Erwachen des Ringsystems | - |
@@ -135,6 +137,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### Ankunft und erste Jahre (Jahr 0 → +3)
 - Sie wacht in einer Wüste auf (Jahr 0), am [Fundort](../../Orte/Fundort.md) im Erg Uan Kasa; die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sammeln sie auf
+  - **Sie kommt im Frühsommer an** - zur selben Zeit, zu der sie in Skirraa verschwindet ([Auftakt](#jahr-0---der-auftakt-tibun-16-girlin-34)). Im Sommer reisen die Kel Aman nicht ([Kel Aman](../../Kulturen/Kel-Aman/README.md#zeitrechnung-autor-10092026)); wo sie zu dieser Zeit lagern, sodass sie das Leuchten sehen: **???**
 - **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde **im Ring** *(präzisiert 22.09.2026: stand „in der Mulde"; der Ring hat keine)*. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*

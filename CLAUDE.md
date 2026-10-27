@@ -15,6 +15,14 @@
 - **Ordnernamen sind dauerhaft generisch** (`Plot-1`, `Plot-2`, …) und tragen **nie** den Werktitel. Der Titel steht ausschließlich in der `README.md` des Plots und in `SUMMARY.md` - so müssen Links nie nachgezogen werden.
 - Die Challenges bleiben **eine durchgehende C-Nummernfolge über alle Plots hinweg** - offene in `Notizen/Challenges.md`, entschiedene und gestrichene in `Notizen/Challenges-Archiv.md`. Nummern werden nie neu vergeben.
 
+## Manuskript (harte Regel)
+Die Szenentexte liegen in `Manuskript/`, eine Datei je Szene: `Manuskript/Plot-1/<Titel>.md`, benannt wie ihr Szenenblatt (Autor, 27.10.2026). Der Ordner gehört **nicht zum Wiki** und steht nicht in `SUMMARY.md`.
+- **Claude ändert dort nichts** - keine Datei anlegen, bearbeiten, verschieben oder löschen, auch nicht per Shell. Lesen ja, Rückmeldung nur im Chat.
+- **Umbenennungen und Prüfungen über das ganze Repo lassen `Manuskript/` aus.** Fundstellen dort werden gemeldet, nicht ersetzt. Bei jeder Umbenennung den alten Namen in `ALTNAMEN` in `tools/pruefe_text.py` ergänzen.
+- **Rückmeldung auf einen Text:** erst die harten Punkte (Kanonbruch, Anachronismus, Regelverstoß), dann Handwerk (Show-don't-tell, Dialog, Länge) - als Anmerkung mit Zeilenangabe. Sätze umschreiben nur auf ausdrückliche Bitte.
+- Technische Sperre: `.claude/settings.json` - sie greift für Claudes Datei-Werkzeuge, nicht für Shell-Befehle.
+- Prüfen: `python3 tools/pruefe_text.py` (liest nur).
+
 ## Authentizitätsprinzip
 **Einzige Abweichung von der Realität: die Portalringe.**
 Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in `Notizen/Challenges.md` dokumentieren.
@@ -49,7 +57,7 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 
 ## Schreibstil
 **Wiki:** Sachlich, präzise, HTML-Tabellen für Strukturdaten.
-**Szenen:** Bildhaft, Show-don't-tell, rauer Dialog, keine modernen Ausdrücke. Perspektive noch offen.
+**Szenen:** Bildhaft, Show-don't-tell, rauer Dialog, keine modernen Ausdrücke. Plot 1: dritte Person, personal, Präteritum ([Plot 1](Plots/Plot-1/README.md#erzählweise)).
 
 ## Welt
 - Epoche: **550 n.Chr. (Vendelzeit)** - internes Referenzjahr, erscheint nicht im Erzähltext
