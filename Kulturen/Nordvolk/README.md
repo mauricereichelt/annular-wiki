@@ -54,10 +54,9 @@ Noch nicht ausgearbeitet.
 
 ## Wertmaß und Handel
 
-Gerechnet wird in **Vieh**, in **Stoff**, in **Gold und Silber nach Gewicht** und im **Tausch Ware gegen Ware** (Autor, 27.10.2026). Was ein Ballen Wolle wert ist: **???**
-
-- **Grundmaß sind Schaf und Kuh** (Autor, 27.10.2026). Wo welches Maß gilt und wie viele Schafe eine Kuh wert sind: **???**
-- **120 Ellen Wollstoff** sind eine Kuh wert; **Semunds Stoff gilt mehr** (Autor, 27.10.2026).
+Gerechnet wird in **Vieh**, in **Stoff**, in **Gold und Silber nach Gewicht** und im **Tausch Ware gegen Ware** (Autor, 27.10.2026). - **Grundmaß sind Schaf und Kuh** (Autor, 27.10.2026): **im Weiler das Schaf, im Handel die Kuh**. **Eine Kuh ist fünf Schafe wert** (Autor, 28.10.2026).
+- **120 Ellen Wollstoff** sind eine Kuh wert; **Semunds Stoff gilt mehr** (Autor, 27.10.2026). Damit ist ein Schaf 24 Ellen wert (120 Ellen : 5 Schafe).
+- **Semunds Hof handelt Stoff in Ellen und fertige Kleidung** (Autor, 28.10.2026). Was Kleidung wert ist: **???**
 - **Ein Pferd** ist mehrere Kühe wert (Autor, 27.10.2026).
 - In **Skirraa gibt es keine Kühe** (Autor, 27.10.2026).
 

@@ -25,6 +25,18 @@ Prägend und für Szenen nutzbar - Recherche, vom Autor übernommen (22.09.2026)
 
 Das Sommerlager liegt **an einer Oase** (Autor, 27.10.2026). Welche Oase: ???
 
+### Glaube
+
+Man **schwört bei den Ahnen**; Gräber gibt es nicht (Autor, 28.10.2026). In der Weite wohnen Geister, die **Kel Adu** - „die des Windes“ (Autor, 28.10.2026); der Name folgt einem Vorschlag von Claude (*adu* „Wind“ in heutigen Berbersprachen). **Das Wasser ist heilig** (Autor, 28.10.2026).
+
+### Bestattung
+
+Die Toten werden **verbrannt und in der Wüste verstreut** - sie werden eins mit der Wüste (Autor, 28.10.2026). Verbrannt werden **nur Angesehene**; gebrannt wird mit **Akazie, Tamariske und getrocknetem Kameldung** (Autor, 28.10.2026). Wie die übrigen Toten dem Sand übergeben werden: ???
+
+> **Befund** (Recherche, keine Setzung): Herodot berichtet von libyschen Völkern, die bei den Gräbern ihrer Ahnen schworen. Von den sesshaften Garamanten sind Zehntausende Gräber bekannt, darunter Pyramidengräber; die Berber der Region haben, soweit bekannt, beerdigt. Holz ist im Fezzan äußerst knapp.
+>
+> **Hinweis (Claude):** Ohne Gräber heben sich die Kel Aman deutlich von den sesshaften Garamanten ab. Und weil Brennholz so knapp ist, kostet jede Verbrennung, was sonst zum Kochen gebraucht wird.
+
 ### Volksname
 
 - **Eigenname: Kel Aman** - „die Leute des Wassers" (berberisch `kel` „die von…" + `aman` „Wasser"). Warum sie so heißen: **???**
@@ -145,7 +157,7 @@ Ob daneben die **Dattelernte** (archäologisch belegter Fixpunkt der Fezzan-Wirt
 
 ## Noch nicht ausgearbeitet
 
-- Kultur, Werte, Tabus · Religion und Rituale · soziale Struktur · Redewendungen · Verhältnis zu Sesshaften · **???**
+- Kultur, Werte, Tabus · Religion über Ahnen, Kel Adu und Wasser hinaus · Rituale · soziale Struktur · Redewendungen · Verhältnis zu Sesshaften · **???**
 
 ---
 

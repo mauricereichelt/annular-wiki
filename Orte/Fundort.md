@@ -11,7 +11,7 @@ Wo der Wüstenring liegt, bis der Clan ihn in Jahr +8 in [Bellbrims Schlucht](Be
 - **Das Gelände ist eher flach** (Autor, 07.10.2026). Girlin soll als ersten Eindruck **weit schauen** können: *„Endloser Sand."*
 - **Die Kel Aman sollen das Leuchten sehen können** (Autor, 07.10.2026).
 - **Bis zur Schlucht:** rund 140 km Weg, etwa sechs Wochen mit dem Ring ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md#der-transport-jahr-7--8)).
-- **Name in der Geschichte:** ???
+- **Name in der Geschichte:** keiner - er bleibt namenlos (Autor, 28.10.2026).
 
 **Höhe über dem Meer:** um 600 m (Claude, nicht gemessen: Die Ostseite des Acacus fällt auf etwa 600 m zum Erg ab). Folgen des Höhenunterschieds für Reisende: [Portalringe](../Technik/Portalringe.md#luftdruck-und-höhe).
 

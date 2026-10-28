@@ -142,6 +142,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
   - **Woher sie es weiß** (Autor, 11.09.2026): Beim Sturz sieht sie den Ring noch - das letzte Bild vor der Ohnmacht. In der Wüste liegt sie wieder in einem Ring gleicher Form, um sie Erde, Steine und die Birke aus Vilund. Die Kel Aman haben in der Nacht das Leuchten gesehen; das erfährt sie erst, wenn man sich verständigen kann · **???**
+- **Das erste Jahr bis Bellbrim** (Autor, 28.10.2026): Sie lernt erste Worte, der Ring ist ihr Halt, und das Klima macht sie krank
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist. **[Abarkan](../../Menschen/Kel-Aman/Nebenfiguren/Abarkan.md) führt die Karawane zu ihr** - nur er kennt ihren Höhlenabschnitt (Autor, 10./28.09.2026)
 - **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings [Ishmalen](../../Menschen/Kel-Aman/Nebenfiguren/Ishmalen.md)**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 

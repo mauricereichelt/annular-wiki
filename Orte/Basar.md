@@ -2,7 +2,7 @@
 
 Handelsplatz in der Wüste, **einen Tagesmarsch** von [Bellbrims Schlucht](Bellbrims-Werkstatt.md) entfernt (Autor, 09.09.2026). Der einzige Ort, an dem die Schluchtgemeinschaft regelmäßig unter Menschen geht - und damit der einzige Weg, auf dem [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) sie finden kann.
 
-**Ein Name ist nicht festgelegt** · **???**
+**Name: Tin-Adrar** (Autor, 28.10.2026) - „die am Berg“, gebildet aus *tin-* „die von“ und *adrar* „Berg“ (Vorschlag Claude; Wurzeln aus heutigen Berbersprachen, für 550 nicht belegt).
 
 ---
 

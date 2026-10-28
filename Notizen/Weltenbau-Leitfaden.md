@@ -38,7 +38,7 @@ Annular ist an einer Stelle sehr tief und an einer anderen fast leer. Das ist di
 | Plot 1: Stränge, Zeitleiste, Altersgerüst | steht |
 | Plot 1: Szenenliste | 48 Szenen, Gliederung entschieden - der Zuschnitt ist Arbeitsstand |
 | **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **im Norden weitgehend entschieden** - Erbfall Girlin, Tibuns Lebensgrundlage, Verlobung in Szene 2, Alltag im Winter, Thing, Gewalt, Wertmaß und Unfreie. Offen: Preise und die Höhe der Bußen |
-| **Kel Aman / Süden** | verortet (Fezzan/Garamanten); Namen, Bewaffnung, Ehe und Trennung, Ältestenrat, Geburt, Weggang, Zeitrechnung und Sommerlager entschieden, Vorlage als Mischung aus Garamanten und Tuareg; drei Orte angelegt - Religion, Rituale, Werte und Redewendungen fehlen weiter |
+| **Kel Aman / Süden** | verortet (Fezzan/Garamanten); Namen, Bewaffnung, Ehe und Trennung, Ältestenrat, Geburt, Weggang, Zeitrechnung und Sommerlager entschieden, Vorlage als Mischung aus Garamanten und Tuareg, Glaube und Bestattung begonnen; drei Orte angelegt - Religion, Rituale, Werte und Redewendungen fehlen weiter |
 | Namenssystem | Muster für beide Völker entschieden (31.08.2026), beide überarbeitet bzw. erweitert (28.09.2026) |
 | Folgen des Rings für die Menschen vor Ort | durchgespielt (Schicht 6) |
 
@@ -84,10 +84,10 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 
 ### Schicht 3 - Die Ordnung ← **größte Lücke**
 - [x] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Der Spruch der **Wala** genügt, sie erklärt Girlin für tot; Semund darf nach **einem Winter** neu heiraten, die Erlaubnis holen er und Mildirun bei der Wala von Tingsal; **Randlaug** erbt das Kleingut, **Mildirun** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Die Frage, was gilt, wenn eine für tot Erklärte **zurückkommt**, hat der Autor gestrichen. Das Thing als Verfahren ist entschieden (27.10.2026): feste Mondzeiten, freie Männer bewaffnet, Zustimmung durch Waffenklirren, Hadurik spricht Recht - siehe [Nordvolk](../Kulturen/Nordvolk/README.md#recht-thing-und-gewalt).
-- [~] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch; Grundmaß sind Schaf und Kuh, 120 Ellen Stoff sind eine Kuh, ein Pferd mehrere Kühe; in Skirraa gibt es keine Kühe (27.10.2026). **Offen:** Was ist ein Ballen Wolle wert?
+- [x] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch; Grundmaß sind Schaf und Kuh, 120 Ellen Stoff sind eine Kuh, ein Pferd mehrere Kühe; in Skirraa gibt es keine Kühe (27.10.2026). Eine Kuh ist fünf Schafe wert, im Weiler rechnet man in Schafen, im Handel in Kühen; Semunds Hof handelt Stoff in Ellen und fertige Kleidung (28.10.2026). Was Kleidung wert ist: ???
 - [x] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Gelöst (10.09.2026): Die Reise dauert Wochen, mit genau einer Station - [Vegamot](../Orte/Vegamot.md) an der Querung des Limfjords. Dort schließt er sich einem **Händlerzug** an und zahlt mit Arbeit, Wolle und Stoff vom Hof und seinen Händen für Reparaturen. In [Kaupvik](../Orte/Kaupvik.md) wohnt er von Anfang an bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md).
 - [~] **Gewalt.** Entschieden (27.10.2026): Freie Männer tragen Waffen, Unfreie keine; Ob ein Totschlag an einem Freien mit Vieh gebüßt wird oder mit dem Tod, entscheidet das Thing; ohne Buße folgt die Fehde. Strafen: Tod bei Verrat und Schande, Ächtung, Unfreiheit bei Schuld, keine Gefängnisse. **Offen:** die Höhe der Buße.
-- [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. **Offen:** wie sie konkret leben, und der Süden.
+- [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. Sie schlafen beim Vieh, tun die schwerste Arbeit, Freilassung ist möglich (28.10.2026). **Offen:** der Süden.
 - [~] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche? Entschieden (27.10.2026): Nachrichten aus Kaupvik erreichen Skirraa über Tingsal.
 
 ### Schicht 4 - Die Zeit
@@ -97,8 +97,8 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 
 ### Schicht 5 - Die Blickpunkte
 - [x] Nordorte ausgearbeitet: Skirraa, Tingsal, Kaupvik, Vegamot, plus Bildmaterial.
-- [~] **Die Wüstenseite hat drei Orte:** [Fundort](../Orte/Fundort.md) (Erg Uan Kasa), [Bellbrims Schlucht](../Orte/Bellbrims-Werkstatt.md) (Tadrart Acacus) und [Basar](../Orte/Basar.md). **Offen:** die Namen von Basar und Fundort, die Lage der Schlucht im Massiv. Die Jahre beim Clan (Jahr 0 bis +5) haben keinen eigenen Ort.
-- [~] **Sprichwörter, Aberglauben, Redensarten.** Nordvolk (27.10.2026): 16 Redensarten aus vier Bildquellen, dazu Bernstein als Schutzstein. Für die Kel Aman fehlt beides. Genau das trägt später jeden Dialog.
+- [~] **Die Wüstenseite hat drei Orte:** [Fundort](../Orte/Fundort.md) (Erg Uan Kasa), [Bellbrims Schlucht](../Orte/Bellbrims-Werkstatt.md) (Tadrart Acacus) und [Basar](../Orte/Basar.md). Der Basar heißt Tin-Adrar, der Fundort bleibt namenlos, die Schlucht liegt im Inneren des Massivs (28.10.2026). **Offen:** ihre Höhe über dem Meer. Die Jahre beim Clan (Jahr 0 bis +5) haben keinen eigenen Ort.
+- [~] **Sprichwörter, Aberglauben, Redensarten.** Nordvolk (27.10.2026): 16 Redensarten aus vier Bildquellen, dazu Bernstein als Schutzstein. Kel Aman (28.10.2026): Schwur bei den Ahnen, die Kel Adu, das heilige Wasser; Redensarten fehlen. Genau das trägt später jeden Dialog.
 
 ### Schicht 6 - Die Folgen des Wunders *(im ursprünglichen Leitfaden nicht enthalten)*
 
@@ -121,7 +121,7 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt, Weggang aus der Sippe und das Sommerlager an einer Oase; die Vorlage für die Kultur ist eine Mischung aus Garamanten und Tuareg (27.10.2026); drei Wüstenorte sind angelegt. Offen bleiben Religion, Rituale und Werte.
+**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt, Weggang aus der Sippe und das Sommerlager an einer Oase; die Vorlage für die Kultur ist eine Mischung aus Garamanten und Tuareg (27.10.2026); drei Wüstenorte sind angelegt. Zum Glauben und zur Bestattung steht ein Anfang (28.10.2026). Offen bleiben Rituale, Werte und Redensarten.
 
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Geprüft wurden diese Kandidaten für 550 n.Chr.:
   - **Sahara / Fezzan** - die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
@@ -129,7 +129,7 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
   - **Syrische Wüste** - Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
   - **Zentralasien / Sogdien** - die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
 - [x] **Krummsäbel gestrichen** (31.08.2026): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch - zu dieser Zeit längst etabliert.)
-- [~] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** - keine Verweigerung, sie arbeitet an ihrer Lage. **Mit Bellbrim kann sie vom ersten Treffen an kommunizieren** - nicht vollständig, aber ohne Konflikt; die Sprachen sind ähnlich (Autor, 14.09.2026). Dort endet ihre Sprachlosigkeit. *(Überholt: Hier stand, Bellbrims Vandalisch sei mit Girlins Sprache nur verwandt und die Barriere bleibe erhalten.)* Das Kennenlernen liegt in **Jahr +1** (Autor, 25.09.2026). **Offen:** was die Zeit bis dahin mit ihr macht · ???
+- [x] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** - keine Verweigerung, sie arbeitet an ihrer Lage. **Mit Bellbrim kann sie vom ersten Treffen an kommunizieren** - nicht vollständig, aber ohne Konflikt; die Sprachen sind ähnlich (Autor, 14.09.2026). Dort endet ihre Sprachlosigkeit. *(Überholt: Hier stand, Bellbrims Vandalisch sei mit Girlins Sprache nur verwandt und die Barriere bleibe erhalten.)* Das Kennenlernen liegt in **Jahr +1** (Autor, 25.09.2026). Bis dahin lernt sie erste Worte, der Ring ist ihr Halt, und das Klima macht sie krank (28.10.2026).
 - [x] **Girlin.** Steht seit 31.08.2026: zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** - sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
 - [x] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann - Wasser, Schutz seiner Leute, Angst vor dem Ring.
   > **Beantwortet (Autor, 22.09.2026):** Er bekommt eine zweite Seite - **sein Ansehen hängt daran**: Ein Anführer, den eine Fremde und ein Clan abweisen, verliert vor seinen Leuten das Gesicht und am Ende die Leute ([Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md)). Wasser und Angst vor dem Ring sind überholt: Der Ring ist nie sein Motiv. *Herkunft: „Deine eigene Regel" hat Claude am 28.08.2026 geschrieben; eine solche Regel des Autors ist nicht belegt.*
@@ -142,7 +142,7 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
 Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die ich ihr nicht gestellt habe?**
 
 - [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht.
-- [~] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle? Die ersten beiden sind beantwortet (27.10.2026), die dritte ist offen.
+- [x] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle? Beantwortet (27./28.10.2026); statt Ballen wird Stoff in Ellen gehandelt, 120 Ellen sind eine Kuh.
 - [x] **3 · Folgentest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
 - [~] **4 · Ortstest.** Für die Nordorte bestanden. Die Wüste hat inzwischen drei Orte (Fundort, Schlucht, Basar); der Test für sie steht aus.
 - [x] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.

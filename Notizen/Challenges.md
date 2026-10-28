@@ -29,6 +29,8 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 
 **Teilentschieden (Autor, 27.10.2026):** Die Vorlage ist eine **Mischung** aus dem Befund zu den Garamanten und der Tuareg-Überlieferung ([Kel Aman](../Kulturen/Kel-Aman/README.md#verortung)). Das Sommerlager liegt an einer Oase ([Kel Aman](../Kulturen/Kel-Aman/README.md#sommerlager)).
 
+**Teilentschieden (Autor, 28.10.2026):** Glaube - Schwur bei den Ahnen, keine Gräber, die Geister der Weite (*Kel Adu*), das Wasser ist heilig ([Kel Aman](../Kulturen/Kel-Aman/README.md#glaube)). Bestattung - nur Angesehene werden verbrannt und verstreut ([Kel Aman](../Kulturen/Kel-Aman/README.md#bestattung)).
+
 ---
 
 ### C-058: Wasserrad-Unfall und Tibuns Schuld ○
