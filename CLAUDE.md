@@ -25,6 +25,7 @@ Die Szenentexte liegen in `Manuskript/`, eine Datei je Szene: `Manuskript/Plot-1
 
 ## Authentizitätsprinzip
 **Einzige Abweichung von der Realität: die Portalringe.**
+Bis 550 folgt die Welt der Wirklichkeit; danach folgt ein normaler Zyklus mit Hochkultur und aktiver Ringnutzung, und die Welt weicht von der überlieferten Geschichte ab - einzige Ursache bleiben die Ringe (Autor, 28.10.2026). Plot 1 liegt ganz in der Wirklichkeit.
 Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in `Notizen/Challenges.md` dokumentieren.
 
 **Erbauer-Regel:** Wer die Portalringe gebaut hat, wird **niemals** aufgelöst - in keiner Geschichte. Alle Plots erzählen ausschließlich von **Nutzern** der Ringe; auch eine Hochkultur, die sie im Alltag beherrscht, weiß nicht, woher sie stammen.

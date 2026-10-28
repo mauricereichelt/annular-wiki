@@ -23,6 +23,8 @@ Das [Ringsystem](../Technik/Portalringe.md) ist nicht statisch, sondern folgt ei
 
 **Tibuns Zeit** liegt am **Beginn eines Erwachens**. Seine Geschichte zeigt nur die erste Dämmerung des neuen Zyklus - mehr vom System wird hier nicht sichtbar. Weiteres folgt ggf. in anderen Geschichten.
 
+**Nach dem Erwachen von 550** (Autor, 28.10.2026): ein **normaler Zyklus** - wieder eine Hochkultur mit aktiver Ringnutzung. Bis 550 folgt die Welt der Wirklichkeit, danach weicht sie ab; einzige Ursache bleiben die Ringe.
+
 ---
 
 ## Drei Wissensebenen

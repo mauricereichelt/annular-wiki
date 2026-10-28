@@ -197,6 +197,7 @@ Entschiedene (`✓`) und gestrichene (`✗`) Challenges, aufsteigend nach Nummer
 - [C-193: Beobachtete Flips in Plot 1 - was man jetzt sieht ✓](#c-193-beobachtete-flips-in-plot-1---was-man-jetzt-sieht-)
 - [C-194: Jahreszeit des Auftakts ✓](#c-194-jahreszeit-des-auftakts-)
 - [C-195: Erzählperspektive und Zeitform ✓](#c-195-erzählperspektive-und-zeitform-)
+- [C-196: Das Erwachen von 550 und die überlieferte Geschichte ✓](#c-196-das-erwachen-von-550-und-die-überlieferte-geschichte-)
 
 ---
 
@@ -5986,3 +5987,33 @@ Aus der Vorbereitung der ersten Szene (27.10.2026). Aus welcher Perspektive und 
 - Zeitform
 
 **Entschieden (Autor, 27.10.2026):** dritte Person, personal; Präteritum. Gefragt war für das ganze Buch; *je Strang verschieden* stand zur Wahl und wurde nicht genommen.
+
+---
+
+### C-196: Das Erwachen von 550 und die überlieferte Geschichte ✓
+
+**Ergebnis**
+
+- **Entschieden:** Nach dem Erwachen von 550 folgt ein **normaler Zyklus** - wieder eine Hochkultur mit aktiver Ringnutzung. **Bis 550 folgt die Welt der Wirklichkeit**; danach weicht sie ab, einzige Ursache bleiben die Ringe. Plot 1 liegt ganz in der Wirklichkeit.
+- **Verworfen:** kein Aufstieg in diesem Zyklus · eine kurze aktive Phase · seltene, abgelegene Ringe ohne Spur in der Überlieferung · eine Abweichung, die jede Geschichte für sich festlegt.
+- **Im Wiki:** [Welt](../Welt/README.md#kosmologie---der-kreislauf-annular), [Plots](../Plots/README.md#universums-zeitleiste), [Regeln](Regeln.md#authentizität)
+
+**Verlauf** - *nicht maßgeblich*
+
+Aufgefallen beim Anlegen der [Universums-Zeitleiste](../Plots/README.md#universums-zeitleiste) (27.10.2026).
+
+[Plot 1](../Plots/Plot-1/README.md) liegt **am Beginn eines Erwachens** um 550 n.Chr. ([Welt](../Welt/README.md#kosmologie---der-kreislauf-annular)). Auf das Erwachen folgt im Kreislauf der **Aufstieg**: Über Jahrhunderte bis Jahrtausende wächst eine Kultur, die auf dem Ringnetz beruht. Die überlieferte Geschichte nach 550 kennt keine solche Kultur.
+
+Das kollidiert mit dem **Authentizitätsprinzip**: Einzige Abweichung von der Realität sind die Ringe, alles andere folgt dem historisch Möglichen.
+
+**Was schon steht und die Lösung berührt:**
+- Erwachen und Zusammenbruch folgen einer **festen Periode**; die Länge der Phasen ist offen ([Welt](../Welt/README.md#kosmologie---der-kreislauf-annular))
+- Plot 1 zeigt **nur die erste Dämmerung** des neuen Zyklus
+- Dass das System wieder erlischt, weiß eine Kultur **höchstens als Legende**
+
+**Hinweise (Claude):** Denkbar sind etwa: Der Aufstieg kommt dieses Mal nicht in Gang, weil das Wissen um die Ringe nicht weitergegeben wird · die aktive Phase ist kurz · die Ringe bleiben selten und abgelegen, sodass ihr Gebrauch keine Spur in der Überlieferung hinterlässt · die Welt weicht nach 550 bewusst von der Geschichte ab. Das Letzte bräche das Authentizitätsprinzip. Keine dieser Möglichkeiten ist entschieden.
+
+**Zu klären · ???**
+- Was nach dem Erwachen von 550 geschieht, und wie das zur überlieferten Geschichte passt
+
+**Entschieden (Autor, 28.10.2026):** normaler Zyklus mit Hochkultur und aktiver Ringnutzung; bis 550 Wirklichkeit.

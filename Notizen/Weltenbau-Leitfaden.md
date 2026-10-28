@@ -87,18 +87,18 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] **Wirtschaft und Preise.** Wovon Tibun lebt, ist geklärt: Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre - Hafenarbeit, Bernsteinhandel, Kost gegen Arbeit bei den Zieheltern; die Werkstatt bezahlt er aus den Ersparnissen. Gerechnet wird in Vieh, Stoff, Gold und Silber nach Gewicht und im Tausch; Grundmaß sind Schaf und Kuh, 120 Ellen Stoff sind eine Kuh, ein Pferd mehrere Kühe; in Skirraa gibt es keine Kühe (27.10.2026). Eine Kuh ist fünf Schafe wert, im Weiler rechnet man in Schafen, im Handel in Kühen; Semunds Hof handelt Stoff in Ellen und fertige Kleidung (28.10.2026). Was Kleidung wert ist: ???
 - [x] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Gelöst (10.09.2026): Die Reise dauert Wochen, mit genau einer Station - [Vegamot](../Orte/Vegamot.md) an der Querung des Limfjords. Dort schließt er sich einem **Händlerzug** an und zahlt mit Arbeit, Wolle und Stoff vom Hof und seinen Händen für Reparaturen. In [Kaupvik](../Orte/Kaupvik.md) wohnt er von Anfang an bei [Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [Harahild](../Menschen/Nordvolk/Nebenfiguren/Harahild.md).
 - [~] **Gewalt.** Entschieden (27.10.2026): Freie Männer tragen Waffen, Unfreie keine; Ob ein Totschlag an einem Freien mit Vieh gebüßt wird oder mit dem Tod, entscheidet das Thing; ohne Buße folgt die Fehde. Strafen: Tod bei Verrat und Schande, Ächtung, Unfreiheit bei Schuld, keine Gefängnisse. **Offen:** die Höhe der Buße.
-- [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. Sie schlafen beim Vieh, tun die schwerste Arbeit, Freilassung ist möglich (28.10.2026). **Offen:** der Süden.
+- [~] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Im Norden entschieden (27.10.2026): Unfreie leben beim Großbauern und auf weiteren Höfen; unfrei wird man durch Geburt, Gefangennahme oder Raub, durch Schuld und in den Hungerjahren. Sie schlafen beim Vieh, tun die schwerste Arbeit, Freilassung ist möglich (28.10.2026). Im Süden hält Ishmalens Clan keine Unfreien, andere Clans schon (28.10.2026). **Offen:** wie Unfreie im Süden leben.
 - [~] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche? Entschieden (27.10.2026): Nachrichten aus Kaupvik erreichen Skirraa über Tingsal.
 
 ### Schicht 4 - Die Zeit
 - [x] Plot-Zeitleiste, Altersgerüst.
-- [~] **Universums-Zeitleiste** - grobes Gerüst in [Plots](../Plots/README.md#universums-zeitleiste) (27.10.2026). **Offen:** die Länge der Phasen, was nach 550 folgt, wo Nutzer-Zivilisation und Gratsiedlung liegen.
+- [~] **Universums-Zeitleiste** - grobes Gerüst in [Plots](../Plots/README.md#universums-zeitleiste) (27.10.2026). **Offen:** die Länge der Phasen, wo Nutzer-Zivilisation und Gratsiedlung liegen. Nach 550 folgt ein normaler Zyklus; bis 550 Wirklichkeit (28.10.2026).
 - [x] **Der jüngste Bruch vor Jahr 0.** Die [Hungerjahre](../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) ab 536: Semunds Hof verliert den größten Teil der Herde, Girlins Herkunftsweiler geht an Hunger und Seuche ein und ist um 541/542 leer, Mildiruns erster Mann stirbt, und die Walas verdanken ihr Ansehen der Vorhersage der Jahre ohne Sommer.
 
 ### Schicht 5 - Die Blickpunkte
 - [x] Nordorte ausgearbeitet: Skirraa, Tingsal, Kaupvik, Vegamot, plus Bildmaterial.
 - [~] **Die Wüstenseite hat drei Orte:** [Fundort](../Orte/Fundort.md) (Erg Uan Kasa), [Bellbrims Schlucht](../Orte/Bellbrims-Werkstatt.md) (Tadrart Acacus) und [Basar](../Orte/Basar.md). Der Basar heißt Tin-Adrar, der Fundort bleibt namenlos, die Schlucht liegt im Inneren des Massivs (28.10.2026). **Offen:** ihre Höhe über dem Meer. Die Jahre beim Clan (Jahr 0 bis +5) haben keinen eigenen Ort.
-- [~] **Sprichwörter, Aberglauben, Redensarten.** Nordvolk (27.10.2026): 16 Redensarten aus vier Bildquellen, dazu Bernstein als Schutzstein. Kel Aman (28.10.2026): Schwur bei den Ahnen, die Kel Adu, das heilige Wasser; Redensarten fehlen. Genau das trägt später jeden Dialog.
+- [x] **Sprichwörter, Aberglauben, Redensarten.** Nordvolk (27.10.2026): 16 Redensarten aus vier Bildquellen, dazu Bernstein als Schutzstein. Kel Aman (28.10.2026): Schwur bei den Ahnen, die Kel Adu, das heilige Wasser; 16 Redensarten aus vier Bildquellen. Genau das trägt später jeden Dialog.
 
 ### Schicht 6 - Die Folgen des Wunders *(im ursprünglichen Leitfaden nicht enthalten)*
 
@@ -121,7 +121,7 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt, Weggang aus der Sippe und das Sommerlager an einer Oase; die Vorlage für die Kultur ist eine Mischung aus Garamanten und Tuareg (27.10.2026); drei Wüstenorte sind angelegt. Zum Glauben und zur Bestattung steht ein Anfang (28.10.2026). Offen bleiben Rituale, Werte und Redensarten.
+**Der Kernvorwurf ist erledigt (31.08.2026).** Ort, Sprachfamilie, Namen und Bewaffnung sind entschieden, dazu Ehe und Trennung, Ältestenrat, Geburt, Weggang aus der Sippe und das Sommerlager an einer Oase; die Vorlage für die Kultur ist eine Mischung aus Garamanten und Tuareg (27.10.2026); drei Wüstenorte sind angelegt. Zum Glauben und zur Bestattung steht ein Anfang (28.10.2026). Werte, Unfreie und Redensarten sind entschieden (28.10.2026). Offen bleiben Rituale.
 
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Geprüft wurden diese Kandidaten für 550 n.Chr.:
   - **Sahara / Fezzan** - die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
@@ -154,7 +154,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 
 ## Priorisierung - was das Schreiben blockiert
 
-Von 196 Challenges sind 191 entschieden und 5 offen (Stand 27.10.2026). Für jede neue gilt weiter
+Von 196 Challenges sind 192 entschieden und 4 offen (Stand 28.10.2026). Für jede neue gilt weiter
 die Sortierung in drei Töpfe:
 
 **A - blockiert die nächste Szene.** Zuerst und ausschließlich.
@@ -210,7 +210,7 @@ Es sind Entscheidungen, keine Recherchen. Neun Sitzungen à 2,5 Stunden genügen
 
 | Sitzungen | Aufgabe |
 |---|---|
-| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten. Offen sind noch 5 (27.10.2026) |
+| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten. Offen sind noch 4 (28.10.2026) |
 | ~~3-4~~ | ~~**Wo liegt die Wüste?**~~ - erledigt 31.08.2026: Fezzan / Garamanten |
 | ~~1~~ | ~~Der Sand an der Skir~~ - erledigt 31.08.2026 |
 | ~~1~~ | ~~Semunds Wiederheirat~~ - erledigt: Frist ein Winter, Erlaubnis bei der Wala von Tingsal |

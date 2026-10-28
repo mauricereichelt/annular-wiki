@@ -37,6 +37,40 @@ Die Toten werden **verbrannt und in der Wüste verstreut** - sie werden eins mit
 >
 > **Hinweis (Claude):** Ohne Gräber heben sich die Kel Aman deutlich von den sesshaften Garamanten ab. Und weil Brennholz so knapp ist, kostet jede Verbrennung, was sonst zum Kochen gebraucht wird.
 
+### Unfreie
+
+Ishmalens Clan hält **keine Unfreien**; **andere Clans** der Kel Aman schon (Autor, 28.10.2026).
+
+### Werte
+
+**Wasser teilen ist Pflicht** · **Gastrecht** · **Das Zelt gehört der Frau** (Autor, 28.10.2026).
+
+> **Befund** (Recherche, keine Setzung): Das Zelt als Besitz der Frau und die starke Pflicht zur Gastfreundschaft sind von den Tuareg überliefert, belegt erst ab dem Mittelalter.
+
+### Redensarten
+
+**Bildquellen** (Autor, 28.10.2026): Wasser und Brunnen · Kamel und Herde · Sand, Wind, Sterne · Hitze und Schatten. Den Wortlaut hat der Autor übernommen; die Bedeutung ist ein Vorschlag von Claude.
+
+<table>
+<tr><th>Bildquelle</th><th>Redensart</th><th>Bedeutung (Claude)</th></tr>
+<tr><td rowspan="4">Wasser und Brunnen</td><td>Wasser fragt nicht, wer trinkt.</td><td>Wasser teilen ist Pflicht, auch mit dem Feind.</td></tr>
+<tr><td>Wer den Brunnen verschüttet, verdurstet.</td><td>Wer der Gemeinschaft schadet, schadet sich selbst.</td></tr>
+<tr><td>Tief gegraben, lange getrunken.</td><td>Mühe zahlt sich aus.</td></tr>
+<tr><td>Der Schlauch lügt nicht.</td><td>Am Vorrat zeigt sich die Wahrheit, nicht an Worten.</td></tr>
+<tr><td rowspan="4">Kamel und Herde</td><td>Das Kamel kennt den Weg.</td><td>Erfahrung zählt mehr als Befehle.</td></tr>
+<tr><td>Ein lahmes Kamel hält alle.</td><td>Der Schwächste bestimmt das Tempo.</td></tr>
+<tr><td>Ein Kamel vergisst keinen Schlag.</td><td>Unrecht wird nicht vergessen.</td></tr>
+<tr><td>Die Herde folgt dem Leittier.</td><td>Über Führung und Gefolgschaft.</td></tr>
+<tr><td rowspan="4">Sand, Wind, Sterne</td><td>Der Wind deckt jede Spur.</td><td>Alles vergeht, auch was man verbergen will.</td></tr>
+<tr><td>Die Kel Adu hören mit.</td><td>Vorsicht mit Worten, besonders nachts.</td></tr>
+<tr><td>Der Sand hat Geduld.</td><td>Die Zeit gewinnt am Ende.</td></tr>
+<tr><td>Nachts zeigt der Himmel den Weg.</td><td>Wer warten kann, findet sich zurecht.</td></tr>
+<tr><td rowspan="4">Hitze und Schatten</td><td>Schatten teilt man.</td><td>Wer Schatten hat, gibt davon ab.</td></tr>
+<tr><td>Wer mittags geht, geht allein.</td><td>Unvernunft folgt niemand.</td></tr>
+<tr><td>Der Sommer zählt die Toten.</td><td>Gezählt wird, was man übersteht.</td></tr>
+<tr><td>In der Sonne stirbt der Ungeduldige.</td><td>Wer nicht warten kann, überlebt nicht.</td></tr>
+</table>
+
 ### Volksname
 
 - **Eigenname: Kel Aman** - „die Leute des Wassers" (berberisch `kel` „die von…" + `aman` „Wasser"). Warum sie so heißen: **???**
@@ -157,7 +191,7 @@ Ob daneben die **Dattelernte** (archäologisch belegter Fixpunkt der Fezzan-Wirt
 
 ## Noch nicht ausgearbeitet
 
-- Kultur, Werte, Tabus · Religion über Ahnen, Kel Adu und Wasser hinaus · Rituale · soziale Struktur · Redewendungen · Verhältnis zu Sesshaften · **???**
+- Kultur und Tabus · Religion über Ahnen, Kel Adu und Wasser hinaus · Rituale · soziale Struktur · Verhältnis zu Sesshaften · **???**
 
 ---
 

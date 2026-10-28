@@ -33,7 +33,7 @@ Grobes Gerüst nach dem [Kreislauf](../Welt/README.md#kosmologie---der-kreislauf
 <tr><td>???</td><td>ein früheres aktives Zeitalter</td><td>Der Skir-Ring ist ein Relikt daraus</td><td>-</td></tr>
 <tr><td>bis 550 n.Chr.</td><td>Vergessen</td><td>Der Skir-Ring liegt seit Jahrtausenden vergraben; stumme Ringe können als Monumente bekannt sein</td><td>-</td></tr>
 <tr><td>550 n.Chr.</td><td>Erwachen</td><td>Weltweites Beben, Beginn eines neuen Zyklus</td><td><a href="Plot-1/README.md">Plot 1</a></td></tr>
-<tr><td>nach 550</td><td>???</td><td>Was auf das Erwachen folgt: ???</td><td>-</td></tr>
+<tr><td>nach 550</td><td>Aufstieg</td><td>Ein normaler Zyklus: wieder eine Hochkultur mit aktiver Ringnutzung (Autor, 28.10.2026). Ab hier weicht die Welt von der überlieferten Geschichte ab</td><td>-</td></tr>
 </table>
 
 **Noch ohne Platz in der Zeit** (Zyklus: ???): die Nutzer-Zivilisation, Phase *Aufstieg* ([Verteiler-Turm](../Notizen/Verteiler-Turm.md), [Trailer Loop](../Notizen/Trailer-Loop.md)) · die [Gratsiedlung](../Orte/Gratsiedlung.md), Phase *Zusammenbruch*.

@@ -8,6 +8,7 @@ Neue Regeln laufend ergänzen - keine Begründungen, nur die Regel selbst.
 ## Authentizität
 
 - Die einzige Abweichung von der historischen Realität sind die Portalringe - alles andere muss historisch möglich sein
+- Bis 550 folgt die Welt der Wirklichkeit; danach folgt ein normaler Zyklus mit Hochkultur und aktiver Ringnutzung, und die Welt weicht von der überlieferten Geschichte ab - einzige Ursache bleiben die Ringe (Autor, 28.10.2026)
 - Epoche: **550 n.Chr. (Vendelzeit)** - internes Referenzjahr, erscheint nicht im Erzähltext
 - Anachronismen sofort in `challenges.md` dokumentieren
 - Keine Technologie, die für 550 n.Chr. nicht belegt oder plausibel herleitbar ist
