@@ -72,7 +72,7 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Damit ist die zweite Abweichung von der Realität beseitigt.
 - [x] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern**; innerhalb des Jahres nach Arbeitsmarken, Mondwechseln und Mittwinter/Mittsommer (10.09.2026). Die Kel Aman zählen **Sommer**, Girlins Maß kippt allmählich vom einen ins andere (10.09.2026). Offen nur, ob Dattelernte oder Sternaufgänge als feinere Wüstenmarken dienen · ???
-- [~] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Entschieden (27.10.2026): Der Auftakt liegt in der Schurzeit, im Frühsommer; Tibun kehrt in +9 im Frühjahr zurück. **Offen:** wie der Winter die übrigen Jahre taktet.
+- [~] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Entschieden (27.10.2026): Der Auftakt liegt in der Schurzeit, im Frühsommer; Tibun kehrt in +9 im Frühjahr zurück. Winterarbeit und die vier Jahresfeste sind entschieden (31.10.2026). **Offen:** wie der Winter die übrigen Jahre der Geschichte taktet.
 
 ### Schicht 2 - Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip - die stärkste Einzelentscheidung im Wiki).
@@ -141,7 +141,7 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
 
 Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die ich ihr nicht gestellt habe?**
 
-- [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht.
+- [x] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht. Durchgeführt 31.10.2026 für einen Wintertag eines Unfreien: Wohnen, Kost, Stand, Rede und Glaube tragen; die Lücken - Mahlzeiten, Kleidung, Wasser, Licht, Winterarbeit und Feste - sind am selben Tag entschieden ([Nordvolk](../Kulturen/Nordvolk/README.md#alltag-im-winter)).
 - [x] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle? Beantwortet (27./28.10.2026); statt Ballen wird Stoff in Ellen gehandelt, 120 Ellen sind eine Kuh.
 - [x] **3 · Folgentest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
 - [~] **4 · Ortstest.** Für die Nordorte bestanden. Die Wüste hat inzwischen drei Orte (Fundort, Schlucht, Basar); der Test für sie steht aus.

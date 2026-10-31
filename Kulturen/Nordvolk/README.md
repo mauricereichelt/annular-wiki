@@ -69,6 +69,22 @@ Entschieden (Autor, 27.10.2026):
 - **Winterkost:** Gerstengrütze und Brot · geräuchertes Fleisch · Käse und Butter · Wild aus der Jagd.
 - **Fleisch** gibt es selten, zu Festen; zur Winterkost gehört es in kleinen Mengen.
 - **Wohnen:** Wohnstallhaus, Herd in der Mitte, Torf als Brennstoff.
+- **Mahlzeiten:** zwei am Tag (Autor, 31.10.2026).
+- **Licht:** das Herdfeuer und Talglicht, beides üblich; im Winter geht man mit der Dunkelheit schlafen (Autor, 31.10.2026).
+- **Winterarbeit:** Spinnen und Weben · das Vieh im Stall versorgen · Ausbessern · Jagd (Autor, 31.10.2026).
+- **Wasser** holt der Weiler aus dem Skir, oberhalb der Ringstelle (Autor, 31.10.2026) ([Skirraa](../../Orte/Skirraa.md#in-der-nähe)).
+
+## Kleidung
+
+Entschieden (Autor, 31.10.2026): **Männer** tragen Kittel und Hose, **Frauen** ein langes Wollkleid; dazu für alle der **Umhang mit Fibel**. **Unfreie** tragen grobe Wolle.
+
+> **Historische Grundlage** (Recherche, keine Setzung): Aus Mooren der dänischen Eisenzeit sind Wollkittel, Hosen, Umhänge mit Fibeln und lange Frauenkleider erhalten; Schuhe sind aus Leder.
+
+## Feste
+
+Entschieden (Autor, 31.10.2026): **Julfest zu Mittwinter** · **Mittsommer** · **Winteranfang** · **Sommeranfang**.
+
+> **Historische Grundlage** (Recherche, keine Setzung): Das Julfest zu Mittwinter ist schon im 4. Jh. bezeugt; spätere Quellen kennen Opferfeste zu Winter- und Sommeranfang.
 
 > **Historische Grundlage** (Recherche, keine Setzung): Geschlachtet wird im Herbst, Fleisch wird geräuchert oder gedörrt; Getreide ist vor allem Gerste. In der dänischen Eisenzeit sind Wohnstallhäuser typisch - Menschen und Vieh unter einem Dach. Vendsyssel ist Heide- und Moorland mit wenig Wald.
 

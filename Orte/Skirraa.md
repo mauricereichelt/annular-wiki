@@ -25,6 +25,7 @@ Tibuns Heimatdorf. Benannt nach dem Fluss **Skir**, an dem es liegt - *Skir* + *
 - **Keine** eigene Seherin im Weiler - die *Wala* lebt regional und wird aufgesucht
 
 ## In der Nähe
+- **Wasser** holt der Weiler aus dem Skir, **oberhalb der Ringstelle** (Autor, 31.10.2026)
 - Der einzige bekannte [Portalring](../Technik/Portalringe.md) liegt **im Wald [Vilund](sonstiges.md)** am Skir, unweit des Dorfes - am **Waldrand**, nur einen **Steinwurf** von der Zeremonienstelle entfernt. Siehe [Der Ring im Wald Vilund](#der-ring-im-wald-vilund)
 - **Die Sandstelle.** Nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden liegen dort rund 5,3 m³ heller Wüstensand im schwarzen Torf - nährstofffrei, jahrelang kahl, vom Fluss angeschnitten und flussabwärts hell gesäumt. Die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) erklärt die Stelle zum Zeichen der Götter und belegt sie mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe. Niemand aus Skirraa nähert sich der Stelle - **außer [Tibun](../Menschen/Nordvolk/Tibun.md)**.
   - **Das Tabu gilt der Stelle, nicht dem Wald** (Autor, 09.09.2026). [Vilund](sonstiges.md) bleibt begehbar; gemieden wird der Ringort. Wie die Tabuzone markiert oder abgegrenzt wird - und ob man sie deshalb von der Zeremonienstelle aus **sehen** kann: **???**
