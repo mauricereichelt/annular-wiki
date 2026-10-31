@@ -2,7 +2,7 @@
 
 Die Zoomstufe zwischen [Szenenliste](../Szenen.md#2--der-bernstein-effekt) und Szenentext: die Rahmenbedingungen der Szene. **Was die Szene will, was ihr im Weg steht und wie sie ausgeht, steht nur in der Szenenliste** und wird hier nicht wiederholt. `???` markiert, was der Autor noch festlegt - vor dem Schreiben oder im Szenentext.
 
-Der Szenentext selbst liegt außerhalb des Wikis: `Manuskript/Plot-1/Der-Bernstein-Effekt.md`.
+Der Szenentext selbst liegt außerhalb des Wikis: `Manuskript/Plot-1/Der-Bernstein-Effekt.md`. Gedanken und Pläne: [Notizen](Der-Bernstein-Effekt-Notizen.md).
 
 ---
 
@@ -22,7 +22,7 @@ Der Szenentext selbst liegt außerhalb des Wikis: `Manuskript/Plot-1/Der-Bernste
 
 - **Beim Großbauern** von Skirraa: Dort wird die Verlobung im kleinen Rahmen verkündet - kein Dorf- oder Marktplatz, kein Rednerpodest, keine Versammlung ([Szenenliste](../Szenen.md#2--der-bernstein-effekt)). Ob [Fridmund](../../../Menschen/Nordvolk/Nebenfiguren/Fridmund.md) der Großbauer ist, spielt keine Rolle.
 - **Am Fluss** ([Zeitleiste](../Zeitleiste.md#2-der-bernstein-effekt)): Tibun geht allein dorthin (Autor, 27.10.2026).
-- **Im Wollstall:** Tibuns Herzschmerz führt ihn dorthin ([Fridugund](../../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md#bedeutung-in-der-geschichte)); dort springt der Blitz an die eiserne Schafschere über. Es ist **Semunds** Wollstall (Autor, 27.10.2026).
+- **Im Wollstall:** Tibuns Herzschmerz führt ihn dorthin ([Fridugund](../../../Menschen/Nordvolk/Nebenfiguren/Fridugund.md#bedeutung-in-der-geschichte)); dort springt der Blitz an die eiserne Schafschere über. Es ist **Semunds** Wollstall (Autor, 27.10.2026) - ein Schuppen, in dem geschoren und die Wolle gelagert wird; Tiere leben dort nicht (Autor, 31.10.2026).
 
 Wie es zur Entladung kommt, klärt der Szenentext.
 
@@ -42,7 +42,7 @@ Wie es zur Entladung kommt, klärt der Szenentext.
 <tr><td><a href="../../../Menschen/Nordvolk/Nebenfiguren/Randlaug.md">Randlaug</a></td><td>9</td><td>Tibuns Schwester</td></tr>
 </table>
 
-Aussehen: jeweils im Abschnitt *Inspiration* der Figurendatei. **Semund ist nicht dabei** - er arbeitet (Autor, 27.10.2026). Wer sonst dabei ist, etwa der Großbauer und seine Leute: ???
+Aussehen: jeweils im Abschnitt *Inspiration* der Figurendatei. **Semund ist nicht dabei** - er arbeitet (Autor, 27.10.2026): Er ist als Hirte mit den Schafen unterwegs (Autor, 31.10.2026). Wer sonst dabei ist, etwa der Großbauer und seine Leute: ???
 
 ## Die Verlobung
 

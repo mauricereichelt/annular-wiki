@@ -11,6 +11,7 @@
   * [Zeitleiste](Plots/Plot-1/Zeitleiste.md)
   * [Szenen](Plots/Plot-1/Szenen.md)
     * [Szenenblatt: Der Bernstein-Effekt](Plots/Plot-1/Szenenblaetter/Der-Bernstein-Effekt.md)
+      * [Notizen](Plots/Plot-1/Szenenblaetter/Der-Bernstein-Effekt-Notizen.md)
   * [Plot 1 (alte Notiz)](Plots/Plot-1/Plot-1.md)
 
 ## Charaktere

@@ -19,7 +19,7 @@ Tibuns Heimatdorf. Benannt nach dem Fluss **Skir**, an dem es liegt - *Skir* + *
 ## Größe und Struktur
 - Kleiner Weiler: **~6 Höfe, 40-60 Menschen**
 - Mehrere **freie Bauernfamilien** - [Tibuns Familie](../Menschen/Nordvolk/Tibun.md) eine davon
-- **Tibuns Hof = Schaf- und Wollhof**, spezialisiert auf die Herstellung von Stoffen; liegt **abseits der übrigen Häuser** (Platz für die Herde, Lärm beim Scheren, Geruch der Tiere). Die Familie ist dennoch geachtet - ihre Wolle gilt als gute Ware
+- **Tibuns Hof = Schaf- und Wollhof**, spezialisiert auf die Herstellung von Stoffen; liegt **abseits der übrigen Häuser** (Platz für die Herde, Lärm beim Scheren, Geruch der Tiere). Die Familie ist dennoch geachtet - ihre Wolle gilt als gute Ware. Zum Hof gehört ein **Wollstall**: ein Schuppen, in dem geschoren und die Wolle gelagert wird, bis jemand sie zum Spinnen nimmt; Tiere leben dort nicht (Autor, 31.10.2026)
 - Ein **führender Hof** (Großbauer / lokaler Anführer) - Autoritätsfigur
 - **Knechte / Unfreie** (Sklaverei ist Realität der Epoche). Sie leben **beim Großbauern und auf weiteren Höfen** (Autor, 27.10.2026), auf Semunds Hof nicht (Autor, 27.10.2026). Unfrei wird man **durch Geburt**, **gefangen oder geraubt**, **durch Schuld** und **in den [Hungerjahren](#die-hungerjahre-536-bis-etwa-541-autorenebene)** (Autor, 27.10.2026). Sie **schlafen beim Vieh**, tun **die schwerste Arbeit**, und **Freilassung ist möglich** (Autor, 28.10.2026).
 - **Keine** eigene Seherin im Weiler - die *Wala* lebt regional und wird aufgesucht

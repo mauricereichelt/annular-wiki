@@ -105,7 +105,7 @@ Verlobungstag, wenige Tage nach dem Beben. Die Verlobung kommt Tibun dazwischen,
 >
 > **[Landarik](../../Menschen/Nordvolk/Nebenfiguren/Landarik.md) tritt auf** (Autor, 29.09.2026).
 >
-> **[Girlin](../../Menschen/Nordvolk/Girlin.md) und [Randlaug](../../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) sind bei der Verlobung dabei, [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) nicht** (Autor, 27.10.2026). Er arbeitet (Autor, 27.10.2026).
+> **[Girlin](../../Menschen/Nordvolk/Girlin.md) und [Randlaug](../../Menschen/Nordvolk/Nebenfiguren/Randlaug.md) sind bei der Verlobung dabei, [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) nicht** (Autor, 27.10.2026). Er arbeitet (Autor, 27.10.2026): als Hirte mit den Schafen unterwegs (Autor, 31.10.2026).
 
 
 ### 3 · Der Blitz - Girlin
